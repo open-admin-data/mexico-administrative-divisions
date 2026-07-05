@@ -1,0 +1,45 @@
+{
+  "id": "MX31039",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixil",
+    "en": "Ixil",
+    "slug": "ixil-mx31039"
+  },
+  "code": {
+    "id": "MX31039",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.229",
+    "lon": "-89.477"
+  },
+  "metadata": {},
+  "source": {}
+}

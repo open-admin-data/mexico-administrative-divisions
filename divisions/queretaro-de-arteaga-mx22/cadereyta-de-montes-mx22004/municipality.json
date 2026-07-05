@@ -1,0 +1,45 @@
+{
+  "id": "MX22004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cadereyta de Montes",
+    "en": "Cadereyta de Montes",
+    "slug": "cadereyta-de-montes-mx22004"
+  },
+  "code": {
+    "id": "MX22004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX22",
+    "level": 1,
+    "name": {
+      "local": "Querétaro de Arteaga",
+      "en": "Queretaro de Arteaga",
+      "slug": "queretaro-de-arteaga-mx22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.791",
+    "lon": "-99.666"
+  },
+  "metadata": {},
+  "source": {}
+}

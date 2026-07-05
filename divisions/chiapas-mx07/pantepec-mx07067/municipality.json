@@ -1,0 +1,45 @@
+{
+  "id": "MX07067",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pantepec",
+    "en": "Pantepec",
+    "slug": "pantepec-mx07067"
+  },
+  "code": {
+    "id": "MX07067",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.194",
+    "lon": "-93.052"
+  },
+  "metadata": {},
+  "source": {}
+}

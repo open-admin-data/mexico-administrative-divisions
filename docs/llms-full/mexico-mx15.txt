@@ -1,0 +1,634 @@
+# Mexico — Mexico Administrative Divisions
+
+> 125 municipalitys
+> Code: MX15
+> Coordinates: 19.326, -99.822
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acambay de Ruíz Castañeda
+
+Code: MX15001, Coordinates: 19.959, -99.848
+
+
+### Acolman
+
+Code: MX15002, Coordinates: 19.637, -98.909
+
+
+### Aculco
+
+Code: MX15003, Coordinates: 20.136, -99.827
+
+
+### Almoloya de Alquisiras
+
+Code: MX15004, Coordinates: 18.851, -99.869
+
+
+### Almoloya de Juárez (Almoloya de Juarez)
+
+Code: MX15005, Coordinates: 19.397, -99.822
+
+
+### Almoloya del Río (Almoloya del Rio)
+
+Code: MX15006, Coordinates: 19.16, -99.497
+
+
+### Amanalco
+
+Code: MX15007, Coordinates: 19.256, -99.987
+
+
+### Amatepec
+
+Code: MX15008, Coordinates: 18.699, -100.281
+
+
+### Amecameca
+
+Code: MX15009, Coordinates: 19.12, -98.707
+
+
+### Apaxco
+
+Code: MX15010, Coordinates: 19.981, -99.152
+
+
+### Atenco
+
+Code: MX15011, Coordinates: 19.543, -98.957
+
+
+### Atizapán (Atizapan)
+
+Code: MX15012, Coordinates: 19.175, -99.498
+
+
+### Atizapán de Zaragoza (Atizapan de Zaragoza)
+
+Code: MX15013, Coordinates: 19.564, -99.28
+
+
+### Atlacomulco
+
+Code: MX15014, Coordinates: 19.816, -99.868
+
+
+### Atlautla
+
+Code: MX15015, Coordinates: 19.016, -98.706
+
+
+### Axapusco
+
+Code: MX15016, Coordinates: 19.766, -98.798
+
+
+### Ayapango
+
+Code: MX15017, Coordinates: 19.121, -98.818
+
+
+### Calimaya
+
+Code: MX15018, Coordinates: 19.169, -99.644
+
+
+### Capulhuac
+
+Code: MX15019, Coordinates: 19.211, -99.455
+
+
+### Chalco
+
+Code: MX15025, Coordinates: 19.238, -98.819
+
+
+### Chapa de Mota
+
+Code: MX15026, Coordinates: 19.819, -99.535
+
+
+### Chapultepec
+
+Code: MX15027, Coordinates: 19.204, -99.558
+
+
+### Chiautla
+
+Code: MX15028, Coordinates: 19.572, -98.886
+
+
+### Chicoloapan
+
+Code: MX15029, Coordinates: 19.395, -98.872
+
+
+### Chiconcuac
+
+Code: MX15030, Coordinates: 19.553, -98.902
+
+
+### Chimalhuacán (Chimalhuacan)
+
+Code: MX15031, Coordinates: 19.418, -98.956
+
+
+### Coacalco de Berriozábal (Coacalco de Berriozabal)
+
+Code: MX15020, Coordinates: 19.626, -99.103
+
+
+### Coatepec Harinas
+
+Code: MX15021, Coordinates: 18.94, -99.804
+
+
+### Cocotitlán (Cocotitlan)
+
+Code: MX15022, Coordinates: 19.228, -98.86
+
+
+### Coyotepec
+
+Code: MX15023, Coordinates: 19.786, -99.202
+
+
+### Cuautitlán (Cuautitlan)
+
+Code: MX15024, Coordinates: 19.706, -99.167
+
+
+### Cuautitlán Izcalli (Cuautitlan Izcalli)
+
+Code: MX15121, Coordinates: 19.658, -99.232
+
+
+### Donato Guerra
+
+Code: MX15032, Coordinates: 19.319, -100.123
+
+
+### Ecatepec de Morelos
+
+Code: MX15033, Coordinates: 19.572, -99.045
+
+
+### Ecatzingo
+
+Code: MX15034, Coordinates: 18.968, -98.74
+
+
+### El Oro
+
+Code: MX15064, Coordinates: 19.796, -100.066
+
+
+### Huehuetoca
+
+Code: MX15035, Coordinates: 19.822, -99.271
+
+
+### Hueypoxtla
+
+Code: MX15036, Coordinates: 19.951, -99.065
+
+
+### Huixquilucan
+
+Code: MX15037, Coordinates: 19.371, -99.357
+
+
+### Isidro Fabela
+
+Code: MX15038, Coordinates: 19.552, -99.461
+
+
+### Ixtapaluca
+
+Code: MX15039, Coordinates: 19.329, -98.808
+
+
+### Ixtapan de la Sal
+
+Code: MX15040, Coordinates: 18.841, -99.693
+
+
+### Ixtapan del Oro
+
+Code: MX15041, Coordinates: 19.262, -100.271
+
+
+### Ixtlahuaca
+
+Code: MX15042, Coordinates: 19.601, -99.813
+
+
+### Jaltenco
+
+Code: MX15044, Coordinates: 19.754, -99.093
+
+
+### Jilotepec
+
+Code: MX15045, Coordinates: 20.017, -99.628
+
+
+### Jilotzingo
+
+Code: MX15046, Coordinates: 19.498, -99.396
+
+
+### Jiquipilco
+
+Code: MX15047, Coordinates: 19.592, -99.631
+
+
+### Jocotitlán (Jocotitlan)
+
+Code: MX15048, Coordinates: 19.716, -99.762
+
+
+### Joquicingo
+
+Code: MX15049, Coordinates: 19.069, -99.512
+
+
+### Juchitepec
+
+Code: MX15050, Coordinates: 19.099, -98.903
+
+
+### La Paz
+
+Code: MX15070, Coordinates: 19.364, -98.949
+
+
+### Lerma
+
+Code: MX15051, Coordinates: 19.326, -99.46
+
+
+### Luvianos
+
+Code: MX15123, Coordinates: 18.947, -100.393
+
+
+### Malinalco
+
+Code: MX15052, Coordinates: 18.894, -99.494
+
+
+### Melchor Ocampo
+
+Code: MX15053, Coordinates: 19.708, -99.132
+
+
+### Metepec
+
+Code: MX15054, Coordinates: 19.251, -99.594
+
+
+### Mexicaltzingo
+
+Code: MX15055, Coordinates: 19.21, -99.581
+
+
+### Morelos
+
+Code: MX15056, Coordinates: 19.757, -99.662
+
+
+### Naucalpan de Juárez (Naucalpan de Juarez)
+
+Code: MX15057, Coordinates: 19.474, -99.291
+
+
+### Nextlalpan
+
+Code: MX15059, Coordinates: 19.726, -99.079
+
+
+### Nezahualcóyotl (Nezahualcoyotl)
+
+Code: MX15058, Coordinates: 19.433, -99.035
+
+
+### Nicolás Romero (Nicolas Romero)
+
+Code: MX15060, Coordinates: 19.634, -99.369
+
+
+### Nopaltepec
+
+Code: MX15061, Coordinates: 19.801, -98.726
+
+
+### Ocoyoacac
+
+Code: MX15062, Coordinates: 19.259, -99.418
+
+
+### Ocuilan
+
+Code: MX15063, Coordinates: 19.001, -99.395
+
+
+### Otumba
+
+Code: MX15065, Coordinates: 19.657, -98.74
+
+
+### Otzoloapan
+
+Code: MX15066, Coordinates: 19.099, -100.337
+
+
+### Otzolotepec
+
+Code: MX15067, Coordinates: 19.444, -99.523
+
+
+### Ozumba
+
+Code: MX15068, Coordinates: 19.016, -98.795
+
+
+### Papalotla
+
+Code: MX15069, Coordinates: 19.559, -98.857
+
+
+### Polotitlán (Polotitlan)
+
+Code: MX15071, Coordinates: 20.212, -99.813
+
+
+### Rayón (Rayon)
+
+Code: MX15072, Coordinates: 19.139, -99.568
+
+
+### San Antonio la Isla
+
+Code: MX15073, Coordinates: 19.169, -99.557
+
+
+### San Felipe del Progreso
+
+Code: MX15074, Coordinates: 19.649, -99.97
+
+
+### San José del Rincón (San Jose del Rincon)
+
+Code: MX15124, Coordinates: 19.636, -100.16
+
+
+### San Martín de las Pirámides (San Martin de las Piramides)
+
+Code: MX15075, Coordinates: 19.716, -98.824
+
+
+### San Mateo Atenco
+
+Code: MX15076, Coordinates: 19.262, -99.537
+
+
+### San Simón de Guerrero (San Simon de Guerrero)
+
+Code: MX15077, Coordinates: 18.972, -100.032
+
+
+### Santo Tomás (Santo Tomas)
+
+Code: MX15078, Coordinates: 19.184, -100.313
+
+
+### Soyaniquilpan de Juárez (Soyaniquilpan de Juarez)
+
+Code: MX15079, Coordinates: 20.052, -99.516
+
+
+### Sultepec
+
+Code: MX15080, Coordinates: 18.721, -99.993
+
+
+### Tecámac (Tecamac)
+
+Code: MX15081, Coordinates: 19.712, -98.978
+
+
+### Tejupilco
+
+Code: MX15082, Coordinates: 18.891, -100.128
+
+
+### Temamatla
+
+Code: MX15083, Coordinates: 19.192, -98.872
+
+
+### Temascalapa
+
+Code: MX15084, Coordinates: 19.816, -98.876
+
+
+### Temascalcingo
+
+Code: MX15085, Coordinates: 19.931, -100.049
+
+
+### Temascaltepec
+
+Code: MX15086, Coordinates: 19.108, -99.949
+
+
+### Temoaya
+
+Code: MX15087, Coordinates: 19.489, -99.595
+
+
+### Tenancingo
+
+Code: MX15088, Coordinates: 18.965, -99.569
+
+
+### Tenango del Aire
+
+Code: MX15089, Coordinates: 19.149, -98.878
+
+
+### Tenango del Valle
+
+Code: MX15090, Coordinates: 19.076, -99.648
+
+
+### Teoloyucan
+
+Code: MX15091, Coordinates: 19.758, -99.173
+
+
+### Teotihuacán (Teotihuacan)
+
+Code: MX15092, Coordinates: 19.693, -98.883
+
+
+### Tepetlaoxtoc
+
+Code: MX15093, Coordinates: 19.549, -98.752
+
+
+### Tepetlixpa
+
+Code: MX15094, Coordinates: 19.014, -98.842
+
+
+### Tepotzotlán (Tepotzotlan)
+
+Code: MX15095, Coordinates: 19.719, -99.307
+
+
+### Tequixquiac
+
+Code: MX15096, Coordinates: 19.894, -99.167
+
+
+### Texcaltitlán (Texcaltitlan)
+
+Code: MX15097, Coordinates: 18.941, -99.94
+
+
+### Texcalyacac
+
+Code: MX15098, Coordinates: 19.123, -99.511
+
+
+### Texcoco
+
+Code: MX15099, Coordinates: 19.476, -98.855
+
+
+### Tezoyuca
+
+Code: MX15100, Coordinates: 19.594, -98.926
+
+
+### Tianguistenco
+
+Code: MX15101, Coordinates: 19.162, -99.462
+
+
+### Timilpan
+
+Code: MX15102, Coordinates: 19.922, -99.688
+
+
+### Tlalmanalco
+
+Code: MX15103, Coordinates: 19.207, -98.732
+
+
+### Tlalnepantla de Baz
+
+Code: MX15104, Coordinates: 19.546, -99.19
+
+
+### Tlatlaya
+
+Code: MX15105, Coordinates: 18.522, -100.24
+
+
+### Toluca
+
+Code: MX15106, Coordinates: 19.284, -99.653
+
+
+### Tonanitla
+
+Code: MX15125, Coordinates: 19.68, -99.056
+
+
+### Tonatico
+
+Code: MX15107, Coordinates: 18.777, -99.628
+
+
+### Tultepec
+
+Code: MX15108, Coordinates: 19.678, -99.128
+
+
+### Tultitlán (Tultitlan)
+
+Code: MX15109, Coordinates: 19.617, -99.159
+
+
+### Valle de Bravo
+
+Code: MX15110, Coordinates: 19.185, -100.151
+
+
+### Valle de Chalco Solidaridad
+
+Code: MX15122, Coordinates: 19.283, -98.942
+
+
+### Villa de Allende
+
+Code: MX15111, Coordinates: 19.395, -100.143
+
+
+### Villa del Carbón (Villa del Carbon)
+
+Code: MX15112, Coordinates: 19.744, -99.452
+
+
+### Villa Guerrero
+
+Code: MX15113, Coordinates: 18.941, -99.683
+
+
+### Villa Victoria
+
+Code: MX15114, Coordinates: 19.432, -99.96
+
+
+### Xalatlaco
+
+Code: MX15043, Coordinates: 19.166, -99.372
+
+
+### Xonacatlán (Xonacatlan)
+
+Code: MX15115, Coordinates: 19.442, -99.448
+
+
+### Zacazonapan
+
+Code: MX15116, Coordinates: 19.063, -100.262
+
+
+### Zacualpan
+
+Code: MX15117, Coordinates: 18.714, -99.793
+
+
+### Zinacantepec
+
+Code: MX15118, Coordinates: 19.204, -99.815
+
+
+### Zumpahuacán (Zumpahuacan)
+
+Code: MX15119, Coordinates: 18.809, -99.564
+
+
+### Zumpango
+
+Code: MX15120, Coordinates: 19.813, -99.082
+
+

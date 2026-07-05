@@ -1,0 +1,45 @@
+{
+  "id": "MX29031",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tetla de la Solidaridad",
+    "en": "Tetla de la Solidaridad",
+    "slug": "tetla-de-la-solidaridad-mx29031"
+  },
+  "code": {
+    "id": "MX29031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.495",
+    "lon": "-98.089"
+  },
+  "metadata": {},
+  "source": {}
+}

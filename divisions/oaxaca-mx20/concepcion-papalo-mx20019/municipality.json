@@ -1,0 +1,45 @@
+{
+  "id": "MX20019",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Concepción Pápalo",
+    "en": "Concepcion Papalo",
+    "slug": "concepcion-papalo-mx20019"
+  },
+  "code": {
+    "id": "MX20019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.874",
+    "lon": "-96.865"
+  },
+  "metadata": {},
+  "source": {}
+}

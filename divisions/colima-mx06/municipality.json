@@ -1,0 +1,452 @@
+[
+  {
+    "id": "MX06001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Armería",
+      "en": "Armeria",
+      "slug": "armeria-mx06001"
+    },
+    "code": {
+      "id": "MX06001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.009",
+      "lon": "-103.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colima",
+      "en": "Colima",
+      "slug": "colima-mx06002"
+    },
+    "code": {
+      "id": "MX06002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.099",
+      "lon": "-103.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comala",
+      "en": "Comala",
+      "slug": "comala-mx06003"
+    },
+    "code": {
+      "id": "MX06003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.395",
+      "lon": "-103.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coquimatlán",
+      "en": "Coquimatlan",
+      "slug": "coquimatlan-mx06004"
+    },
+    "code": {
+      "id": "MX06004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.176",
+      "lon": "-103.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuauhtémoc",
+      "en": "Cuauhtemoc",
+      "slug": "cuauhtemoc-mx06005"
+    },
+    "code": {
+      "id": "MX06005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.339",
+      "lon": "-103.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtlahuacán",
+      "en": "Ixtlahuacan",
+      "slug": "ixtlahuacan-mx06006"
+    },
+    "code": {
+      "id": "MX06006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.958",
+      "lon": "-103.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manzanillo",
+      "en": "Manzanillo",
+      "slug": "manzanillo-mx06007"
+    },
+    "code": {
+      "id": "MX06007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.128",
+      "lon": "-104.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Minatitlán",
+      "en": "Minatitlan",
+      "slug": "minatitlan-mx06008"
+    },
+    "code": {
+      "id": "MX06008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.373",
+      "lon": "-104.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecomán",
+      "en": "Tecoman",
+      "slug": "tecoman-mx06009"
+    },
+    "code": {
+      "id": "MX06009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.903",
+      "lon": "-103.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX06010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Álvarez",
+      "en": "Villa de Alvarez",
+      "slug": "villa-de-alvarez-mx06010"
+    },
+    "code": {
+      "id": "MX06010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX06",
+        "level": 1,
+        "name": {
+          "local": "Colima",
+          "en": "Colima",
+          "slug": "colima-mx06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.327",
+      "lon": "-103.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "MX30184",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlaquilpa",
+    "en": "Tlaquilpa",
+    "slug": "tlaquilpa-mx30184"
+  },
+  "code": {
+    "id": "MX30184",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX30",
+    "level": 1,
+    "name": {
+      "local": "Veracruz de Ignacio de la Llave",
+      "en": "Veracruz de Ignacio de la Llave",
+      "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX30",
+      "level": 1,
+      "name": {
+        "local": "Veracruz de Ignacio de la Llave",
+        "en": "Veracruz de Ignacio de la Llave",
+        "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.613",
+    "lon": "-97.104"
+  },
+  "metadata": {},
+  "source": {}
+}

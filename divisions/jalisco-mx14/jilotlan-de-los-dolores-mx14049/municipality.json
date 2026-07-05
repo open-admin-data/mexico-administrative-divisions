@@ -1,0 +1,45 @@
+{
+  "id": "MX14049",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jilotlán de los Dolores",
+    "en": "Jilotlan de los Dolores",
+    "slug": "jilotlan-de-los-dolores-mx14049"
+  },
+  "code": {
+    "id": "MX14049",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.317",
+    "lon": "-102.89"
+  },
+  "metadata": {},
+  "source": {}
+}

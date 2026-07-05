@@ -1,0 +1,45 @@
+{
+  "id": "MX24025",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salinas",
+    "en": "Salinas",
+    "slug": "salinas-mx24025"
+  },
+  "code": {
+    "id": "MX24025",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX24",
+    "level": 1,
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.823",
+    "lon": "-101.725"
+  },
+  "metadata": {},
+  "source": {}
+}

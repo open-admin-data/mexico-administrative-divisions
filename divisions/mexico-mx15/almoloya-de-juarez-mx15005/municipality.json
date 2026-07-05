@@ -1,0 +1,45 @@
+{
+  "id": "MX15005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Almoloya de Juárez",
+    "en": "Almoloya de Juarez",
+    "slug": "almoloya-de-juarez-mx15005"
+  },
+  "code": {
+    "id": "MX15005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.397",
+    "lon": "-99.822"
+  },
+  "metadata": {},
+  "source": {}
+}

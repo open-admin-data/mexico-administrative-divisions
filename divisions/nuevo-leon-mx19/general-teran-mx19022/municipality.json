@@ -1,0 +1,45 @@
+{
+  "id": "MX19022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "General Terán",
+    "en": "General Teran",
+    "slug": "general-teran-mx19022"
+  },
+  "code": {
+    "id": "MX19022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.271",
+    "lon": "-99.409"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX16034",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Hidalgo",
+    "en": "Hidalgo",
+    "slug": "hidalgo-mx16034"
+  },
+  "code": {
+    "id": "MX16034",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX16",
+    "level": 1,
+    "name": {
+      "local": "Michoacán de Ocampo",
+      "en": "Michoacan de Ocampo",
+      "slug": "michoacan-de-ocampo-mx16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.626",
+    "lon": "-100.637"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "MX14",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Jalisco",
+    "en": "Jalisco",
+    "slug": "jalisco-mx14"
+  },
+  "code": {
+    "id": "MX14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 125
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.838",
+    "lon": "-103.217"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/jalisco-mx14/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX26067",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa Hidalgo",
+    "en": "Villa Hidalgo",
+    "slug": "villa-hidalgo-mx26067"
+  },
+  "code": {
+    "id": "MX26067",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.258",
+    "lon": "-109.353"
+  },
+  "metadata": {},
+  "source": {}
+}

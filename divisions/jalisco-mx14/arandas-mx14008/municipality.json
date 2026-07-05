@@ -1,0 +1,45 @@
+{
+  "id": "MX14008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arandas",
+    "en": "Arandas",
+    "slug": "arandas-mx14008"
+  },
+  "code": {
+    "id": "MX14008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.749",
+    "lon": "-102.314"
+  },
+  "metadata": {},
+  "source": {}
+}

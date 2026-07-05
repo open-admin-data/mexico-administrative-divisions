@@ -1,0 +1,767 @@
+[
+  {
+    "id": "MX27001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Balancán",
+      "en": "Balancan",
+      "slug": "balancan-mx27001"
+    },
+    "code": {
+      "id": "MX27001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.798",
+      "lon": "-91.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cárdenas",
+      "en": "Cardenas",
+      "slug": "cardenas-mx27002"
+    },
+    "code": {
+      "id": "MX27002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.164",
+      "lon": "-93.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Centla",
+      "en": "Centla",
+      "slug": "centla-mx27003"
+    },
+    "code": {
+      "id": "MX27003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.453",
+      "lon": "-92.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Centro",
+      "en": "Centro",
+      "slug": "centro-mx27004"
+    },
+    "code": {
+      "id": "MX27004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.009",
+      "lon": "-92.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comalcalco",
+      "en": "Comalcalco",
+      "slug": "comalcalco-mx27005"
+    },
+    "code": {
+      "id": "MX27005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.29",
+      "lon": "-93.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cunduacán",
+      "en": "Cunduacan",
+      "slug": "cunduacan-mx27006"
+    },
+    "code": {
+      "id": "MX27006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.104",
+      "lon": "-93.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Emiliano Zapata",
+      "en": "Emiliano Zapata",
+      "slug": "emiliano-zapata-mx27007"
+    },
+    "code": {
+      "id": "MX27007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.694",
+      "lon": "-91.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huimanguillo",
+      "en": "Huimanguillo",
+      "slug": "huimanguillo-mx27008"
+    },
+    "code": {
+      "id": "MX27008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.762",
+      "lon": "-93.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jalapa",
+      "en": "Jalapa",
+      "slug": "jalapa-mx27009"
+    },
+    "code": {
+      "id": "MX27009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.771",
+      "lon": "-92.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jalpa de Méndez",
+      "en": "Jalpa de Mendez",
+      "slug": "jalpa-de-mendez-mx27010"
+    },
+    "code": {
+      "id": "MX27010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.238",
+      "lon": "-93.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jonuta",
+      "en": "Jonuta",
+      "slug": "jonuta-mx27011"
+    },
+    "code": {
+      "id": "MX27011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.028",
+      "lon": "-92.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Macuspana",
+      "en": "Macuspana",
+      "slug": "macuspana-mx27012"
+    },
+    "code": {
+      "id": "MX27012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.856",
+      "lon": "-92.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nacajuca",
+      "en": "Nacajuca",
+      "slug": "nacajuca-mx27013"
+    },
+    "code": {
+      "id": "MX27013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.161",
+      "lon": "-92.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraíso",
+      "en": "Paraiso",
+      "slug": "paraiso-mx27014"
+    },
+    "code": {
+      "id": "MX27014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.362",
+      "lon": "-93.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacotalpa",
+      "en": "Tacotalpa",
+      "slug": "tacotalpa-mx27015"
+    },
+    "code": {
+      "id": "MX27015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.516",
+      "lon": "-92.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teapa",
+      "en": "Teapa",
+      "slug": "teapa-mx27016"
+    },
+    "code": {
+      "id": "MX27016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.62",
+      "lon": "-92.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX27017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenosique",
+      "en": "Tenosique",
+      "slug": "tenosique-mx27017"
+    },
+    "code": {
+      "id": "MX27017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX27",
+        "level": 1,
+        "name": {
+          "local": "Tabasco",
+          "en": "Tabasco",
+          "slug": "tabasco-mx27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.459",
+      "lon": "-91.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

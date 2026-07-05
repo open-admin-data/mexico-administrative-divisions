@@ -1,0 +1,45 @@
+{
+  "id": "MX20292",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pablo Cuatro Venados",
+    "en": "San Pablo Cuatro Venados",
+    "slug": "san-pablo-cuatro-venados-mx20292"
+  },
+  "code": {
+    "id": "MX20292",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.892",
+    "lon": "-97.02"
+  },
+  "metadata": {},
+  "source": {}
+}

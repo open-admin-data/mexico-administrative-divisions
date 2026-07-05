@@ -1,0 +1,45 @@
+{
+  "id": "MX20530",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Tomás Jalieza",
+    "en": "Santo Tomas Jalieza",
+    "slug": "santo-tomas-jalieza-mx20530"
+  },
+  "code": {
+    "id": "MX20530",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.875",
+    "lon": "-96.637"
+  },
+  "metadata": {},
+  "source": {}
+}

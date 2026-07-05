@@ -1,0 +1,45 @@
+{
+  "id": "MX22012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pedro Escobedo",
+    "en": "Pedro Escobedo",
+    "slug": "pedro-escobedo-mx22012"
+  },
+  "code": {
+    "id": "MX22012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX22",
+    "level": 1,
+    "name": {
+      "local": "Querétaro de Arteaga",
+      "en": "Queretaro de Arteaga",
+      "slug": "queretaro-de-arteaga-mx22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.469",
+    "lon": "-100.172"
+  },
+  "metadata": {},
+  "source": {}
+}

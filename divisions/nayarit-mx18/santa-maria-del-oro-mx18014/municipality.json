@@ -1,0 +1,45 @@
+{
+  "id": "MX18014",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María del Oro",
+    "en": "Santa Maria del Oro",
+    "slug": "santa-maria-del-oro-mx18014"
+  },
+  "code": {
+    "id": "MX18014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX18",
+    "level": 1,
+    "name": {
+      "local": "Nayarit",
+      "en": "Nayarit",
+      "slug": "nayarit-mx18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.347",
+    "lon": "-104.599"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX10003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coneto de Comonfort",
+    "en": "Coneto de Comonfort",
+    "slug": "coneto-de-comonfort-mx10003"
+  },
+  "code": {
+    "id": "MX10003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.008",
+    "lon": "-104.743"
+  },
+  "metadata": {},
+  "source": {}
+}

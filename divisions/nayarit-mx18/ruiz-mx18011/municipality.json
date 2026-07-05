@@ -1,0 +1,45 @@
+{
+  "id": "MX18011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ruíz",
+    "en": "Ruiz",
+    "slug": "ruiz-mx18011"
+  },
+  "code": {
+    "id": "MX18011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX18",
+    "level": 1,
+    "name": {
+      "local": "Nayarit",
+      "en": "Nayarit",
+      "slug": "nayarit-mx18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.016",
+    "lon": "-104.877"
+  },
+  "metadata": {},
+  "source": {}
+}

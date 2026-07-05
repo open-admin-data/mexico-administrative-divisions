@@ -1,0 +1,45 @@
+{
+  "id": "MX10039",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nuevo Ideal",
+    "en": "Nuevo Ideal",
+    "slug": "nuevo-ideal-mx10039"
+  },
+  "code": {
+    "id": "MX10039",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.839",
+    "lon": "-105.003"
+  },
+  "metadata": {},
+  "source": {}
+}

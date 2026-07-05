@@ -1,0 +1,45 @@
+{
+  "id": "MX09005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gustavo A. Madero",
+    "en": "Gustavo A. Madero",
+    "slug": "gustavo-a-madero-mx09005"
+  },
+  "code": {
+    "id": "MX09005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX09",
+    "level": 1,
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.518",
+    "lon": "-99.144"
+  },
+  "metadata": {},
+  "source": {}
+}

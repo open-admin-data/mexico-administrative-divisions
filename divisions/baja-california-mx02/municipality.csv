@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MX02001,Ensenada,Ensenada,ensenada-mx02001,MX02001,30.193,-115.231
+MX02002,Mexicali,Mexicali,mexicali-mx02002,MX02002,31.792,-115.264
+MX02005,Playas de Rosarito,Playas de Rosarito,playas-de-rosarito-mx02005,MX02005,32.258,-116.873
+MX02003,Tecate,Tecate,tecate-mx02003,MX02003,32.435,-116.274
+MX02004,Tijuana,Tijuana,tijuana-mx02004,MX02004,32.378,-116.796

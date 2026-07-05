@@ -1,0 +1,45 @@
+{
+  "id": "MX31028",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dzilam de Bravo",
+    "en": "Dzilam de Bravo",
+    "slug": "dzilam-de-bravo-mx31028"
+  },
+  "code": {
+    "id": "MX31028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.441",
+    "lon": "-88.618"
+  },
+  "metadata": {},
+  "source": {}
+}

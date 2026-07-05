@@ -1,0 +1,45 @@
+{
+  "id": "MX10025",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Bernardo",
+    "en": "San Bernardo",
+    "slug": "san-bernardo-mx10025"
+  },
+  "code": {
+    "id": "MX10025",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.184",
+    "lon": "-105.678"
+  },
+  "metadata": {},
+  "source": {}
+}

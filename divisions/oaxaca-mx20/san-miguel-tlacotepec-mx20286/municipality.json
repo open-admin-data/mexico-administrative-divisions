@@ -1,0 +1,45 @@
+{
+  "id": "MX20286",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Tlacotepec",
+    "en": "San Miguel Tlacotepec",
+    "slug": "san-miguel-tlacotepec-mx20286"
+  },
+  "code": {
+    "id": "MX20286",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.447",
+    "lon": "-98.012"
+  },
+  "metadata": {},
+  "source": {}
+}

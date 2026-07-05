@@ -1,0 +1,45 @@
+{
+  "id": "MX10005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Durango",
+    "en": "Durango",
+    "slug": "durango-mx10005"
+  },
+  "code": {
+    "id": "MX10005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.911",
+    "lon": "-104.92"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX31029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dzilam González",
+    "en": "Dzilam Gonzalez",
+    "slug": "dzilam-gonzalez-mx31029"
+  },
+  "code": {
+    "id": "MX31029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.324",
+    "lon": "-88.799"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX26049",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quiriego",
+    "en": "Quiriego",
+    "slug": "quiriego-mx26049"
+  },
+  "code": {
+    "id": "MX26049",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.592",
+    "lon": "-109.374"
+  },
+  "metadata": {},
+  "source": {}
+}

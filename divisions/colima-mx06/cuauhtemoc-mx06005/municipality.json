@@ -1,0 +1,45 @@
+{
+  "id": "MX06005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuauhtémoc",
+    "en": "Cuauhtemoc",
+    "slug": "cuauhtemoc-mx06005"
+  },
+  "code": {
+    "id": "MX06005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX06",
+    "level": 1,
+    "name": {
+      "local": "Colima",
+      "en": "Colima",
+      "slug": "colima-mx06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.339",
+    "lon": "-103.582"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX21141",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Yeloixtlahuaca",
+    "en": "San Pedro Yeloixtlahuaca",
+    "slug": "san-pedro-yeloixtlahuaca-mx21141"
+  },
+  "code": {
+    "id": "MX21141",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.052",
+    "lon": "-98.046"
+  },
+  "metadata": {},
+  "source": {}
+}

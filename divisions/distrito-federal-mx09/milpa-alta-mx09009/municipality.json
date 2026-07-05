@@ -1,0 +1,45 @@
+{
+  "id": "MX09009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Milpa Alta",
+    "en": "Milpa Alta",
+    "slug": "milpa-alta-mx09009"
+  },
+  "code": {
+    "id": "MX09009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX09",
+    "level": 1,
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.138",
+    "lon": "-99.059"
+  },
+  "metadata": {},
+  "source": {}
+}

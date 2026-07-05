@@ -1,0 +1,45 @@
+{
+  "id": "MX20544",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Teococuilco de Marcos Pérez",
+    "en": "Teococuilco de Marcos Perez",
+    "slug": "teococuilco-de-marcos-perez-mx20544"
+  },
+  "code": {
+    "id": "MX20544",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.319",
+    "lon": "-96.672"
+  },
+  "metadata": {},
+  "source": {}
+}

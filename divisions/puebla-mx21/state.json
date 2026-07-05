@@ -1,0 +1,33 @@
+{
+  "id": "MX21",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Puebla",
+    "en": "Puebla",
+    "slug": "puebla-mx21"
+  },
+  "code": {
+    "id": "MX21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 217
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.35",
+    "lon": "-97.42"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/puebla-mx21/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

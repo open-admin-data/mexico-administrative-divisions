@@ -1,0 +1,45 @@
+{
+  "id": "MX13053",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Bartolo Tutotepec",
+    "en": "San Bartolo Tutotepec",
+    "slug": "san-bartolo-tutotepec-mx13053"
+  },
+  "code": {
+    "id": "MX13053",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.469",
+    "lon": "-98.196"
+  },
+  "metadata": {},
+  "source": {}
+}

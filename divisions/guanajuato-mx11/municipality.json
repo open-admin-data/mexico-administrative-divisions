@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "MX11001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abasolo",
+      "en": "Abasolo",
+      "slug": "abasolo-mx11001"
+    },
+    "code": {
+      "id": "MX11001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.537",
+      "lon": "-101.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acámbaro",
+      "en": "Acambaro",
+      "slug": "acambaro-mx11002"
+    },
+    "code": {
+      "id": "MX11002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.071",
+      "lon": "-100.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apaseo el Alto",
+      "en": "Apaseo el Alto",
+      "slug": "apaseo-el-alto-mx11004"
+    },
+    "code": {
+      "id": "MX11004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.433",
+      "lon": "-100.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apaseo el Grande",
+      "en": "Apaseo el Grande",
+      "slug": "apaseo-el-grande-mx11005"
+    },
+    "code": {
+      "id": "MX11005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.592",
+      "lon": "-100.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atarjea",
+      "en": "Atarjea",
+      "slug": "atarjea-mx11006"
+    },
+    "code": {
+      "id": "MX11006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.277",
+      "lon": "-99.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Celaya",
+      "en": "Celaya",
+      "slug": "celaya-mx11007"
+    },
+    "code": {
+      "id": "MX11007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.523",
+      "lon": "-100.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comonfort",
+      "en": "Comonfort",
+      "slug": "comonfort-mx11009"
+    },
+    "code": {
+      "id": "MX11009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.737",
+      "lon": "-100.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coroneo",
+      "en": "Coroneo",
+      "slug": "coroneo-mx11010"
+    },
+    "code": {
+      "id": "MX11010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.217",
+      "lon": "-100.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cortazar",
+      "en": "Cortazar",
+      "slug": "cortazar-mx11011"
+    },
+    "code": {
+      "id": "MX11011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.422",
+      "lon": "-100.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuerámaro",
+      "en": "Cueramaro",
+      "slug": "cueramaro-mx11012"
+    },
+    "code": {
+      "id": "MX11012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.615",
+      "lon": "-101.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Doctor Mora",
+      "en": "Doctor Mora",
+      "slug": "doctor-mora-mx11013"
+    },
+    "code": {
+      "id": "MX11013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.147",
+      "lon": "-100.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dolores Hidalgo Cuna de la Independencia Nacional",
+      "en": "Dolores Hidalgo Cuna de la Independencia Nacional",
+      "slug": "dolores-hidalgo-cuna-de-la-independencia-nacional-mx11014"
+    },
+    "code": {
+      "id": "MX11014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.105",
+      "lon": "-100.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11015"
+    },
+    "code": {
+      "id": "MX11015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.024",
+      "lon": "-101.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huanímaro",
+      "en": "Huanimaro",
+      "slug": "huanimaro-mx11016"
+    },
+    "code": {
+      "id": "MX11016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.365",
+      "lon": "-101.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Irapuato",
+      "en": "Irapuato",
+      "slug": "irapuato-mx11017"
+    },
+    "code": {
+      "id": "MX11017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.675",
+      "lon": "-101.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaral del Progreso",
+      "en": "Jaral del Progreso",
+      "slug": "jaral-del-progreso-mx11018"
+    },
+    "code": {
+      "id": "MX11018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.364",
+      "lon": "-101.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jerécuaro",
+      "en": "Jerecuaro",
+      "slug": "jerecuaro-mx11019"
+    },
+    "code": {
+      "id": "MX11019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.185",
+      "lon": "-100.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "León",
+      "en": "Leon",
+      "slug": "leon-mx11020"
+    },
+    "code": {
+      "id": "MX11020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.097",
+      "lon": "-101.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manuel Doblado",
+      "en": "Manuel Doblado",
+      "slug": "manuel-doblado-mx11008"
+    },
+    "code": {
+      "id": "MX11008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.693",
+      "lon": "-101.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moroleón",
+      "en": "Moroleon",
+      "slug": "moroleon-mx11021"
+    },
+    "code": {
+      "id": "MX11021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.084",
+      "lon": "-101.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocampo",
+      "en": "Ocampo",
+      "slug": "ocampo-mx11022"
+    },
+    "code": {
+      "id": "MX11022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.604",
+      "lon": "-101.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pénjamo",
+      "en": "Penjamo",
+      "slug": "penjamo-mx11023"
+    },
+    "code": {
+      "id": "MX11023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.405",
+      "lon": "-101.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pueblo Nuevo",
+      "en": "Pueblo Nuevo",
+      "slug": "pueblo-nuevo-mx11024"
+    },
+    "code": {
+      "id": "MX11024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.548",
+      "lon": "-101.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Purísima del Rincón",
+      "en": "Purisima del Rincon",
+      "slug": "purisima-del-rincon-mx11025"
+    },
+    "code": {
+      "id": "MX11025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.941",
+      "lon": "-101.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Romita",
+      "en": "Romita",
+      "slug": "romita-mx11026"
+    },
+    "code": {
+      "id": "MX11026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.815",
+      "lon": "-101.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salamanca",
+      "en": "Salamanca",
+      "slug": "salamanca-mx11027"
+    },
+    "code": {
+      "id": "MX11027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.652",
+      "lon": "-101.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salvatierra",
+      "en": "Salvatierra",
+      "slug": "salvatierra-mx11028"
+    },
+    "code": {
+      "id": "MX11028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.193",
+      "lon": "-100.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Diego de la Unión",
+      "en": "San Diego de la Union",
+      "slug": "san-diego-de-la-union-mx11029"
+    },
+    "code": {
+      "id": "MX11029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.455",
+      "lon": "-100.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Felipe",
+      "en": "San Felipe",
+      "slug": "san-felipe-mx11030"
+    },
+    "code": {
+      "id": "MX11030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.485",
+      "lon": "-101.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco del Rincón",
+      "en": "San Francisco del Rincon",
+      "slug": "san-francisco-del-rincon-mx11031"
+    },
+    "code": {
+      "id": "MX11031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.925",
+      "lon": "-101.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Iturbide",
+      "en": "San Jose Iturbide",
+      "slug": "san-jose-iturbide-mx11032"
+    },
+    "code": {
+      "id": "MX11032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.001",
+      "lon": "-100.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis de la Paz",
+      "en": "San Luis de la Paz",
+      "slug": "san-luis-de-la-paz-mx11033"
+    },
+    "code": {
+      "id": "MX11033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.381",
+      "lon": "-100.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel de Allende",
+      "en": "San Miguel de Allende",
+      "slug": "san-miguel-de-allende-mx11003"
+    },
+    "code": {
+      "id": "MX11003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.913",
+      "lon": "-100.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-mx11034"
+    },
+    "code": {
+      "id": "MX11034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.141",
+      "lon": "-100.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz de Juventino Rosas",
+      "en": "Santa Cruz de Juventino Rosas",
+      "slug": "santa-cruz-de-juventino-rosas-mx11035"
+    },
+    "code": {
+      "id": "MX11035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.683",
+      "lon": "-100.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago Maravatío",
+      "en": "Santiago Maravatio",
+      "slug": "santiago-maravatio-mx11036"
+    },
+    "code": {
+      "id": "MX11036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.157",
+      "lon": "-100.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Silao de la Victoria",
+      "en": "Silao de la Victoria",
+      "slug": "silao-de-la-victoria-mx11037"
+    },
+    "code": {
+      "id": "MX11037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.976",
+      "lon": "-101.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarandacuao",
+      "en": "Tarandacuao",
+      "slug": "tarandacuao-mx11038"
+    },
+    "code": {
+      "id": "MX11038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.999",
+      "lon": "-100.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarimoro",
+      "en": "Tarimoro",
+      "slug": "tarimoro-mx11039"
+    },
+    "code": {
+      "id": "MX11039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.293",
+      "lon": "-100.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tierra Blanca",
+      "en": "Tierra Blanca",
+      "slug": "tierra-blanca-mx11040"
+    },
+    "code": {
+      "id": "MX11040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.039",
+      "lon": "-100.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uriangato",
+      "en": "Uriangato",
+      "slug": "uriangato-mx11041"
+    },
+    "code": {
+      "id": "MX11041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.118",
+      "lon": "-101.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valle de Santiago",
+      "en": "Valle de Santiago",
+      "slug": "valle-de-santiago-mx11042"
+    },
+    "code": {
+      "id": "MX11042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.397",
+      "lon": "-101.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-mx11043"
+    },
+    "code": {
+      "id": "MX11043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.386",
+      "lon": "-100.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villagrán",
+      "en": "Villagran",
+      "slug": "villagran-mx11044"
+    },
+    "code": {
+      "id": "MX11044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.546",
+      "lon": "-100.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xichú",
+      "en": "Xichu",
+      "slug": "xichu-mx11045"
+    },
+    "code": {
+      "id": "MX11045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.36",
+      "lon": "-99.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX11046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yuriria",
+      "en": "Yuriria",
+      "slug": "yuriria-mx11046"
+    },
+    "code": {
+      "id": "MX11046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX11",
+        "level": 1,
+        "name": {
+          "local": "Guanajuato",
+          "en": "Guanajuato",
+          "slug": "guanajuato-mx11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.166",
+      "lon": "-101.317"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

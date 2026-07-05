@@ -1,0 +1,45 @@
+{
+  "id": "MX26047",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pitiquito",
+    "en": "Pitiquito",
+    "slug": "pitiquito-mx26047"
+  },
+  "code": {
+    "id": "MX26047",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.096",
+    "lon": "-112.219"
+  },
+  "metadata": {},
+  "source": {}
+}

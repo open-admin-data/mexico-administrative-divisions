@@ -1,0 +1,45 @@
+{
+  "id": "MX26036",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Magdalena",
+    "en": "Magdalena",
+    "slug": "magdalena-mx26036"
+  },
+  "code": {
+    "id": "MX26036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.772",
+    "lon": "-111.139"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20105",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Antonino Monte Verde",
+    "en": "San Antonino Monte Verde",
+    "slug": "san-antonino-monte-verde-mx20105"
+  },
+  "code": {
+    "id": "MX20105",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.524",
+    "lon": "-97.751"
+  },
+  "metadata": {},
+  "source": {}
+}

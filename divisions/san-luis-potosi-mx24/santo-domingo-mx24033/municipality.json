@@ -1,0 +1,45 @@
+{
+  "id": "MX24033",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo",
+    "en": "Santo Domingo",
+    "slug": "santo-domingo-mx24033"
+  },
+  "code": {
+    "id": "MX24033",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX24",
+    "level": 1,
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.412",
+    "lon": "-101.558"
+  },
+  "metadata": {},
+  "source": {}
+}

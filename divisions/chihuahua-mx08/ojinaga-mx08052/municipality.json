@@ -1,0 +1,45 @@
+{
+  "id": "MX08052",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ojinaga",
+    "en": "Ojinaga",
+    "slug": "ojinaga-mx08052"
+  },
+  "code": {
+    "id": "MX08052",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.545",
+    "lon": "-104.588"
+  },
+  "metadata": {},
+  "source": {}
+}

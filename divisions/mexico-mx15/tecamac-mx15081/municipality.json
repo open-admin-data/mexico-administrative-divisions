@@ -1,0 +1,45 @@
+{
+  "id": "MX15081",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tecámac",
+    "en": "Tecamac",
+    "slug": "tecamac-mx15081"
+  },
+  "code": {
+    "id": "MX15081",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.712",
+    "lon": "-98.978"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX14064",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ojuelos de Jalisco",
+    "en": "Ojuelos de Jalisco",
+    "slug": "ojuelos-de-jalisco-mx14064"
+  },
+  "code": {
+    "id": "MX14064",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.786",
+    "lon": "-101.679"
+  },
+  "metadata": {},
+  "source": {}
+}

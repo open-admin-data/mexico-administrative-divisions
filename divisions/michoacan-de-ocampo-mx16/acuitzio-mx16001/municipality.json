@@ -1,0 +1,45 @@
+{
+  "id": "MX16001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acuitzio",
+    "en": "Acuitzio",
+    "slug": "acuitzio-mx16001"
+  },
+  "code": {
+    "id": "MX16001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX16",
+    "level": 1,
+    "name": {
+      "local": "Michoacán de Ocampo",
+      "en": "Michoacan de Ocampo",
+      "slug": "michoacan-de-ocampo-mx16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.472",
+    "lon": "-101.326"
+  },
+  "metadata": {},
+  "source": {}
+}

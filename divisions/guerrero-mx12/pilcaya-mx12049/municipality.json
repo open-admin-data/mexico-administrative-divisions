@@ -1,0 +1,45 @@
+{
+  "id": "MX12049",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pilcaya",
+    "en": "Pilcaya",
+    "slug": "pilcaya-mx12049"
+  },
+  "code": {
+    "id": "MX12049",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.716",
+    "lon": "-99.624"
+  },
+  "metadata": {},
+  "source": {}
+}

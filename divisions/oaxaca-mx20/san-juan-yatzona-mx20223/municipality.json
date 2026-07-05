@@ -1,0 +1,45 @@
+{
+  "id": "MX20223",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Yatzona",
+    "en": "San Juan Yatzona",
+    "slug": "san-juan-yatzona-mx20223"
+  },
+  "code": {
+    "id": "MX20223",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.411",
+    "lon": "-96.183"
+  },
+  "metadata": {},
+  "source": {}
+}

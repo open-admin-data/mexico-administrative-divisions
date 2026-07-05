@@ -1,0 +1,45 @@
+{
+  "id": "MX19045",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salinas Victoria",
+    "en": "Salinas Victoria",
+    "slug": "salinas-victoria-mx19045"
+  },
+  "code": {
+    "id": "MX19045",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.122",
+    "lon": "-100.327"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,299 @@
+# Zacatecas — Mexico Administrative Divisions
+
+> 58 municipalitys
+> Code: MX32
+> Coordinates: 23.082, -103.209
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Apozol
+
+Code: MX32001, Coordinates: 21.463, -103.077
+
+
+### Apulco
+
+Code: MX32002, Coordinates: 21.456, -102.676
+
+
+### Atolinga
+
+Code: MX32003, Coordinates: 21.766, -103.466
+
+
+### Benito Juárez (Benito Juarez)
+
+Code: MX32004, Coordinates: 21.491, -103.59
+
+
+### Calera
+
+Code: MX32005, Coordinates: 22.978, -102.856
+
+
+### Cañitas de Felipe Pescador (Canitas de Felipe Pescador)
+
+Code: MX32006, Coordinates: 23.576, -102.717
+
+
+### Chalchihuites
+
+Code: MX32009, Coordinates: 23.442, -103.943
+
+
+### Concepción del Oro (Concepcion del Oro)
+
+Code: MX32007, Coordinates: 24.449, -101.187
+
+
+### Cuauhtémoc (Cuauhtemoc)
+
+Code: MX32008, Coordinates: 22.461, -102.353
+
+
+### El Plateado de Joaquín Amaro (El Plateado de Joaquin Amaro)
+
+Code: MX32015, Coordinates: 22.004, -103.065
+
+
+### El Salvador
+
+Code: MX32041, Coordinates: 24.441, -100.876
+
+
+### Fresnillo
+
+Code: MX32010, Coordinates: 23.225, -103.016
+
+
+### Genaro Codina
+
+Code: MX32012, Coordinates: 22.457, -102.584
+
+
+### General Enrique Estrada
+
+Code: MX32013, Coordinates: 23.015, -102.793
+
+
+### General Francisco R. Murguía (General Francisco R. Murguia)
+
+Code: MX32014, Coordinates: 24.128, -102.761
+
+
+### General Pánfilo Natera (General Panfilo Natera)
+
+Code: MX32016, Coordinates: 22.703, -102.097
+
+
+### Guadalupe
+
+Code: MX32017, Coordinates: 22.782, -102.451
+
+
+### Huanusco
+
+Code: MX32018, Coordinates: 21.768, -102.931
+
+
+### Jalpa
+
+Code: MX32019, Coordinates: 21.631, -103.008
+
+
+### Jerez
+
+Code: MX32020, Coordinates: 22.711, -103.001
+
+
+### Jiménez del Teul (Jimenez del Teul)
+
+Code: MX32021, Coordinates: 23.148, -103.965
+
+
+### Juan Aldama
+
+Code: MX32022, Coordinates: 24.256, -103.307
+
+
+### Juchipila
+
+Code: MX32023, Coordinates: 21.378, -103.126
+
+
+### Loreto
+
+Code: MX32024, Coordinates: 22.274, -101.913
+
+
+### Luis Moya
+
+Code: MX32025, Coordinates: 22.435, -102.254
+
+
+### Mazapil
+
+Code: MX32026, Coordinates: 24.381, -101.979
+
+
+### Melchor Ocampo
+
+Code: MX32027, Coordinates: 24.9, -101.977
+
+
+### Mezquital del Oro
+
+Code: MX32028, Coordinates: 21.194, -103.36
+
+
+### Miguel Auza
+
+Code: MX32029, Coordinates: 24.162, -103.463
+
+
+### Momax
+
+Code: MX32030, Coordinates: 21.945, -103.237
+
+
+### Monte Escobedo
+
+Code: MX32031, Coordinates: 22.38, -103.472
+
+
+### Morelos
+
+Code: MX32032, Coordinates: 22.856, -102.683
+
+
+### Moyahua de Estrada
+
+Code: MX32033, Coordinates: 21.196, -103.183
+
+
+### Nochistlán de Mejía (Nochistlan de Mejia)
+
+Code: MX32034, Coordinates: 21.436, -102.827
+
+
+### Noria de Ángeles (Noria de Angeles)
+
+Code: MX32035, Coordinates: 22.399, -101.956
+
+
+### Ojocaliente
+
+Code: MX32036, Coordinates: 22.566, -102.232
+
+
+### Pánuco (Panuco)
+
+Code: MX32037, Coordinates: 22.979, -102.475
+
+
+### Pinos
+
+Code: MX32038, Coordinates: 22.273, -101.604
+
+
+### Río Grande (Rio Grande)
+
+Code: MX32039, Coordinates: 23.813, -103.051
+
+
+### Sain Alto
+
+Code: MX32040, Coordinates: 23.579, -103.219
+
+
+### Santa María de la Paz (Santa Maria de la Paz)
+
+Code: MX32058, Coordinates: 21.511, -103.371
+
+
+### Sombrerete
+
+Code: MX32042, Coordinates: 23.575, -103.647
+
+
+### Susticacán (Susticacan)
+
+Code: MX32043, Coordinates: 22.63, -103.192
+
+
+### Tabasco
+
+Code: MX32044, Coordinates: 21.94, -102.925
+
+
+### Tepechitlán (Tepechitlan)
+
+Code: MX32045, Coordinates: 21.615, -103.365
+
+
+### Tepetongo
+
+Code: MX32046, Coordinates: 22.423, -103.158
+
+
+### Teúl de González Ortega (Teul de Gonzalez Ortega)
+
+Code: MX32047, Coordinates: 21.35, -103.405
+
+
+### Tlaltenango de Sánchez Román (Tlaltenango de Sanchez Roman)
+
+Code: MX32048, Coordinates: 21.775, -103.245
+
+
+### Trancoso
+
+Code: MX32057, Coordinates: 22.757, -102.322
+
+
+### Trinidad García de la Cadena (Trinidad Garcia de la Cadena)
+
+Code: MX32011, Coordinates: 21.223, -103.494
+
+
+### Valparaíso (Valparaiso)
+
+Code: MX32049, Coordinates: 22.665, -103.526
+
+
+### Vetagrande
+
+Code: MX32050, Coordinates: 22.871, -102.444
+
+
+### Villa de Cos
+
+Code: MX32051, Coordinates: 23.529, -102.117
+
+
+### Villa García (Villa Garcia)
+
+Code: MX32052, Coordinates: 22.125, -101.902
+
+
+### Villa González Ortega (Villa Gonzalez Ortega)
+
+Code: MX32053, Coordinates: 22.544, -101.939
+
+
+### Villa Hidalgo
+
+Code: MX32054, Coordinates: 22.407, -101.722
+
+
+### Villanueva
+
+Code: MX32055, Coordinates: 22.335, -102.843
+
+
+### Zacatecas
+
+Code: MX32056, Coordinates: 22.729, -102.669
+
+

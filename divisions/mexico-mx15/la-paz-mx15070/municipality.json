@@ -1,0 +1,45 @@
+{
+  "id": "MX15070",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Paz",
+    "en": "La Paz",
+    "slug": "la-paz-mx15070"
+  },
+  "code": {
+    "id": "MX15070",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.364",
+    "lon": "-98.949"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX31032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Espita",
+    "en": "Espita",
+    "slug": "espita-mx31032"
+  },
+  "code": {
+    "id": "MX31032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.01",
+    "lon": "-88.362"
+  },
+  "metadata": {},
+  "source": {}
+}

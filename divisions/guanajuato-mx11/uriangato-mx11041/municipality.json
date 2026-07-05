@@ -1,0 +1,45 @@
+{
+  "id": "MX11041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Uriangato",
+    "en": "Uriangato",
+    "slug": "uriangato-mx11041"
+  },
+  "code": {
+    "id": "MX11041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.118",
+    "lon": "-101.138"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20345",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián Ixcapa",
+    "en": "San Sebastian Ixcapa",
+    "slug": "san-sebastian-ixcapa-mx20345"
+  },
+  "code": {
+    "id": "MX20345",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.529",
+    "lon": "-98.148"
+  },
+  "metadata": {},
+  "source": {}
+}

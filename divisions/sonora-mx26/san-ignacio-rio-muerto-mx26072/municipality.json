@@ -1,0 +1,45 @@
+{
+  "id": "MX26072",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Ignacio Río Muerto",
+    "en": "San Ignacio Rio Muerto",
+    "slug": "san-ignacio-rio-muerto-mx26072"
+  },
+  "code": {
+    "id": "MX26072",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.326",
+    "lon": "-110.332"
+  },
+  "metadata": {},
+  "source": {}
+}

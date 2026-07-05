@@ -1,0 +1,45 @@
+{
+  "id": "MX21082",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixcaquixtla",
+    "en": "Ixcaquixtla",
+    "slug": "ixcaquixtla-mx21082"
+  },
+  "code": {
+    "id": "MX21082",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.478",
+    "lon": "-97.827"
+  },
+  "metadata": {},
+  "source": {}
+}

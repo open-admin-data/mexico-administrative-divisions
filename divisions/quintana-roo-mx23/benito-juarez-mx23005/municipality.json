@@ -1,0 +1,45 @@
+{
+  "id": "MX23005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Benito Juárez",
+    "en": "Benito Juarez",
+    "slug": "benito-juarez-mx23005"
+  },
+  "code": {
+    "id": "MX23005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX23",
+    "level": 1,
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.98",
+    "lon": "-87.075"
+  },
+  "metadata": {},
+  "source": {}
+}

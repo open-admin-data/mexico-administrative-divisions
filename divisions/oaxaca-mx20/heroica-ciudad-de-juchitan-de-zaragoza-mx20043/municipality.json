@@ -1,0 +1,45 @@
+{
+  "id": "MX20043",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Heroica Ciudad de Juchitán de Zaragoza",
+    "en": "Heroica Ciudad de Juchitan de Zaragoza",
+    "slug": "heroica-ciudad-de-juchitan-de-zaragoza-mx20043"
+  },
+  "code": {
+    "id": "MX20043",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.222",
+    "lon": "-94.851"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX30076",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ilamatlán",
+    "en": "Ilamatlan",
+    "slug": "ilamatlan-mx30076"
+  },
+  "code": {
+    "id": "MX30076",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX30",
+    "level": 1,
+    "name": {
+      "local": "Veracruz de Ignacio de la Llave",
+      "en": "Veracruz de Ignacio de la Llave",
+      "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX30",
+      "level": 1,
+      "name": {
+        "local": "Veracruz de Ignacio de la Llave",
+        "en": "Veracruz de Ignacio de la Llave",
+        "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.764",
+    "lon": "-98.427"
+  },
+  "metadata": {},
+  "source": {}
+}

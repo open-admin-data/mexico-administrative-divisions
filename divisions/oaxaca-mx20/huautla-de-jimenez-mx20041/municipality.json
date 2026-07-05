@@ -1,0 +1,45 @@
+{
+  "id": "MX20041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huautla de Jiménez",
+    "en": "Huautla de Jimenez",
+    "slug": "huautla-de-jimenez-mx20041"
+  },
+  "code": {
+    "id": "MX20041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.148",
+    "lon": "-96.801"
+  },
+  "metadata": {},
+  "source": {}
+}

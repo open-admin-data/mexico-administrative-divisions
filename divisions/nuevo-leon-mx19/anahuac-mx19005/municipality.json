@@ -1,0 +1,45 @@
+{
+  "id": "MX19005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Anáhuac",
+    "en": "Anahuac",
+    "slug": "anahuac-mx19005"
+  },
+  "code": {
+    "id": "MX19005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.323",
+    "lon": "-100.066"
+  },
+  "metadata": {},
+  "source": {}
+}

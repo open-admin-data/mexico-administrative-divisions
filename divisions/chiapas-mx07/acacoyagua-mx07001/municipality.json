@@ -1,0 +1,45 @@
+{
+  "id": "MX07001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acacoyagua",
+    "en": "Acacoyagua",
+    "slug": "acacoyagua-mx07001"
+  },
+  "code": {
+    "id": "MX07001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.406",
+    "lon": "-92.697"
+  },
+  "metadata": {},
+  "source": {}
+}

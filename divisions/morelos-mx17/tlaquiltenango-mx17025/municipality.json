@@ -1,0 +1,45 @@
+{
+  "id": "MX17025",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlaquiltenango",
+    "en": "Tlaquiltenango",
+    "slug": "tlaquiltenango-mx17025"
+  },
+  "code": {
+    "id": "MX17025",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.499",
+    "lon": "-99.102"
+  },
+  "metadata": {},
+  "source": {}
+}

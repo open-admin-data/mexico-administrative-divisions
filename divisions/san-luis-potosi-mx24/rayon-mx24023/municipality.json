@@ -1,0 +1,45 @@
+{
+  "id": "MX24023",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rayón",
+    "en": "Rayon",
+    "slug": "rayon-mx24023"
+  },
+  "code": {
+    "id": "MX24023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX24",
+    "level": 1,
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.795",
+    "lon": "-99.649"
+  },
+  "metadata": {},
+  "source": {}
+}

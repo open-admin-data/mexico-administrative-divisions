@@ -1,0 +1,45 @@
+{
+  "id": "MX32039",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Río Grande",
+    "en": "Rio Grande",
+    "slug": "rio-grande-mx32039"
+  },
+  "code": {
+    "id": "MX32039",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.813",
+    "lon": "-103.051"
+  },
+  "metadata": {},
+  "source": {}
+}

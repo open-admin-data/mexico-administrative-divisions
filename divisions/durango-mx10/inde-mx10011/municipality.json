@@ -1,0 +1,45 @@
+{
+  "id": "MX10011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Indé",
+    "en": "Inde",
+    "slug": "inde-mx10011"
+  },
+  "code": {
+    "id": "MX10011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.735",
+    "lon": "-104.993"
+  },
+  "metadata": {},
+  "source": {}
+}

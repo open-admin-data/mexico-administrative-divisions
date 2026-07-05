@@ -1,0 +1,45 @@
+{
+  "id": "MX23001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cozumel",
+    "en": "Cozumel",
+    "slug": "cozumel-mx23001"
+  },
+  "code": {
+    "id": "MX23001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX23",
+    "level": 1,
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.432",
+    "lon": "-86.92"
+  },
+  "metadata": {},
+  "source": {}
+}

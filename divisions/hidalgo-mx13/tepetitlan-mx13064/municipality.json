@@ -1,0 +1,45 @@
+{
+  "id": "MX13064",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tepetitlán",
+    "en": "Tepetitlan",
+    "slug": "tepetitlan-mx13064"
+  },
+  "code": {
+    "id": "MX13064",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.189",
+    "lon": "-99.401"
+  },
+  "metadata": {},
+  "source": {}
+}

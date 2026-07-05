@@ -1,0 +1,45 @@
+{
+  "id": "MX20442",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Yalina",
+    "en": "Santa Maria Yalina",
+    "slug": "santa-maria-yalina-mx20442"
+  },
+  "code": {
+    "id": "MX20442",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.264",
+    "lon": "-96.287"
+  },
+  "metadata": {},
+  "source": {}
+}

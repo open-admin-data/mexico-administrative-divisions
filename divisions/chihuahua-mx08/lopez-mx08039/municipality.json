@@ -1,0 +1,45 @@
+{
+  "id": "MX08039",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "López",
+    "en": "Lopez",
+    "slug": "lopez-mx08039"
+  },
+  "code": {
+    "id": "MX08039",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.935",
+    "lon": "-105.054"
+  },
+  "metadata": {},
+  "source": {}
+}

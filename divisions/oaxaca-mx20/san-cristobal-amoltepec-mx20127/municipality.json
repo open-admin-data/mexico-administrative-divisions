@@ -1,0 +1,45 @@
+{
+  "id": "MX20127",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Cristóbal Amoltepec",
+    "en": "San Cristobal Amoltepec",
+    "slug": "san-cristobal-amoltepec-mx20127"
+  },
+  "code": {
+    "id": "MX20127",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.286",
+    "lon": "-97.576"
+  },
+  "metadata": {},
+  "source": {}
+}

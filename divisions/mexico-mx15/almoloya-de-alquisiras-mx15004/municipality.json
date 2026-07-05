@@ -1,0 +1,45 @@
+{
+  "id": "MX15004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Almoloya de Alquisiras",
+    "en": "Almoloya de Alquisiras",
+    "slug": "almoloya-de-alquisiras-mx15004"
+  },
+  "code": {
+    "id": "MX15004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.851",
+    "lon": "-99.869"
+  },
+  "metadata": {},
+  "source": {}
+}

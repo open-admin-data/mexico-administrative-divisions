@@ -1,0 +1,64 @@
+# Aguascalientes — Mexico Administrative Divisions
+
+> 11 municipalitys
+> Code: MX01
+> Coordinates: 22.041, -102.313
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Aguascalientes
+
+Code: MX01001, Coordinates: 21.848, -102.305
+
+
+### Asientos
+
+Code: MX01002, Coordinates: 22.132, -102.095
+
+
+### Calvillo
+
+Code: MX01003, Coordinates: 21.911, -102.714
+
+
+### Cosío (Cosio)
+
+Code: MX01004, Coordinates: 22.371, -102.312
+
+
+### El Llano
+
+Code: MX01010, Coordinates: 21.929, -102.001
+
+
+### Jesús María (Jesus Maria)
+
+Code: MX01005, Coordinates: 21.935, -102.468
+
+
+### Pabellón de Arteaga (Pabellon de Arteaga)
+
+Code: MX01006, Coordinates: 22.105, -102.302
+
+
+### Rincón de Romos (Rincon de Romos)
+
+Code: MX01007, Coordinates: 22.248, -102.349
+
+
+### San Francisco de los Romo
+
+Code: MX01011, Coordinates: 22.022, -102.252
+
+
+### San José de Gracia (San Jose de Gracia)
+
+Code: MX01008, Coordinates: 22.143, -102.53
+
+
+### Tepezalá (Tepezala)
+
+Code: MX01009, Coordinates: 22.244, -102.193
+
+

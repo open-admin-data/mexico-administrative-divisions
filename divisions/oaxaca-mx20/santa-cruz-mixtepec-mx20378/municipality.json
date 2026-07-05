@@ -1,0 +1,45 @@
+{
+  "id": "MX20378",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Mixtepec",
+    "en": "Santa Cruz Mixtepec",
+    "slug": "santa-cruz-mixtepec-mx20378"
+  },
+  "code": {
+    "id": "MX20378",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.781",
+    "lon": "-96.856"
+  },
+  "metadata": {},
+  "source": {}
+}

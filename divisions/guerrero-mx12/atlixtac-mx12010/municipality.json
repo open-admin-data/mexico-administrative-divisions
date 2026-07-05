@@ -1,0 +1,45 @@
+{
+  "id": "MX12010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atlixtac",
+    "en": "Atlixtac",
+    "slug": "atlixtac-mx12010"
+  },
+  "code": {
+    "id": "MX12010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.475",
+    "lon": "-98.841"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX07004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Altamirano",
+    "en": "Altamirano",
+    "slug": "altamirano-mx07004"
+  },
+  "code": {
+    "id": "MX07004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.668",
+    "lon": "-91.877"
+  },
+  "metadata": {},
+  "source": {}
+}

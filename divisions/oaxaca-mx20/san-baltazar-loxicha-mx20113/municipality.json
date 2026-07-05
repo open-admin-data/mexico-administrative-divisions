@@ -1,0 +1,45 @@
+{
+  "id": "MX20113",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Baltazar Loxicha",
+    "en": "San Baltazar Loxicha",
+    "slug": "san-baltazar-loxicha-mx20113"
+  },
+  "code": {
+    "id": "MX20113",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.044",
+    "lon": "-96.798"
+  },
+  "metadata": {},
+  "source": {}
+}

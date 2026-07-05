@@ -1,0 +1,45 @@
+{
+  "id": "MX14100",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tomatlán",
+    "en": "Tomatlan",
+    "slug": "tomatlan-mx14100"
+  },
+  "code": {
+    "id": "MX14100",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.938",
+    "lon": "-105.151"
+  },
+  "metadata": {},
+  "source": {}
+}

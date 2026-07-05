@@ -1,0 +1,45 @@
+{
+  "id": "MX12014",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Benito Juárez",
+    "en": "Benito Juarez",
+    "slug": "benito-juarez-mx12014"
+  },
+  "code": {
+    "id": "MX12014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.086",
+    "lon": "-100.427"
+  },
+  "metadata": {},
+  "source": {}
+}

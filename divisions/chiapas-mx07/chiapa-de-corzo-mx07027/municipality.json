@@ -1,0 +1,45 @@
+{
+  "id": "MX07027",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chiapa de Corzo",
+    "en": "Chiapa de Corzo",
+    "slug": "chiapa-de-corzo-mx07027"
+  },
+  "code": {
+    "id": "MX07027",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.601",
+    "lon": "-92.997"
+  },
+  "metadata": {},
+  "source": {}
+}

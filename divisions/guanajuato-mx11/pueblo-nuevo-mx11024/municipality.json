@@ -1,0 +1,45 @@
+{
+  "id": "MX11024",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pueblo Nuevo",
+    "en": "Pueblo Nuevo",
+    "slug": "pueblo-nuevo-mx11024"
+  },
+  "code": {
+    "id": "MX11024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.548",
+    "lon": "-101.366"
+  },
+  "metadata": {},
+  "source": {}
+}

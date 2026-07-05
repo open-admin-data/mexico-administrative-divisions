@@ -1,0 +1,45 @@
+{
+  "id": "MX28033",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Río Bravo",
+    "en": "Rio Bravo",
+    "slug": "rio-bravo-mx28033"
+  },
+  "code": {
+    "id": "MX28033",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.727",
+    "lon": "-98.054"
+  },
+  "metadata": {},
+  "source": {}
+}

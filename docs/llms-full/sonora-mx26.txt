@@ -1,0 +1,369 @@
+# Sonora — Mexico Administrative Divisions
+
+> 72 municipalitys
+> Code: MX26
+> Coordinates: 29.397, -110.554
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Aconchi
+
+Code: MX26001, Coordinates: 29.784, -110.247
+
+
+### Agua Prieta
+
+Code: MX26002, Coordinates: 31.021, -109.042
+
+
+### Alamos
+
+Code: MX26003, Coordinates: 27.083, -108.924
+
+
+### Altar
+
+Code: MX26004, Coordinates: 31.094, -111.89
+
+
+### Arivechi
+
+Code: MX26005, Coordinates: 28.855, -109.059
+
+
+### Arizpe
+
+Code: MX26006, Coordinates: 30.438, -110.079
+
+
+### Atil
+
+Code: MX26007, Coordinates: 30.834, -111.547
+
+
+### Bacadéhuachi (Bacadehuachi)
+
+Code: MX26008, Coordinates: 29.783, -109.126
+
+
+### Bacanora
+
+Code: MX26009, Coordinates: 28.862, -109.399
+
+
+### Bacerac
+
+Code: MX26010, Coordinates: 30.253, -108.731
+
+
+### Bacoachi
+
+Code: MX26011, Coordinates: 30.678, -110.012
+
+
+### Bácum (Bacum)
+
+Code: MX26012, Coordinates: 27.664, -110.105
+
+
+### Banámichi (Banamichi)
+
+Code: MX26013, Coordinates: 30.063, -110.298
+
+
+### Baviácora (Baviacora)
+
+Code: MX26014, Coordinates: 29.615, -110.129
+
+
+### Bavispe
+
+Code: MX26015, Coordinates: 30.65, -109.07
+
+
+### Benito Juárez (Benito Juarez)
+
+Code: MX26071, Coordinates: 27.099, -109.852
+
+
+### Benjamín Hill (Benjamin Hill)
+
+Code: MX26016, Coordinates: 30.152, -111.192
+
+
+### Caborca
+
+Code: MX26017, Coordinates: 30.897, -112.608
+
+
+### Cajeme
+
+Code: MX26018, Coordinates: 27.744, -109.938
+
+
+### Cananea
+
+Code: MX26019, Coordinates: 30.983, -110.21
+
+
+### Carbó (Carbo)
+
+Code: MX26020, Coordinates: 29.739, -111.043
+
+
+### Cucurpe
+
+Code: MX26022, Coordinates: 30.43, -110.632
+
+
+### Cumpas
+
+Code: MX26023, Coordinates: 30.069, -109.845
+
+
+### Divisaderos
+
+Code: MX26024, Coordinates: 29.625, -109.37
+
+
+### Empalme
+
+Code: MX26025, Coordinates: 28.003, -110.662
+
+
+### Etchojoa
+
+Code: MX26026, Coordinates: 27.046, -109.678
+
+
+### Fronteras
+
+Code: MX26027, Coordinates: 30.83, -109.618
+
+
+### General Plutarco Elías Calles (General Plutarco Elias Calles)
+
+Code: MX26070, Coordinates: 31.695, -112.712
+
+
+### Granados
+
+Code: MX26028, Coordinates: 29.752, -109.342
+
+
+### Guaymas
+
+Code: MX26029, Coordinates: 28.074, -111.019
+
+
+### Hermosillo
+
+Code: MX26030, Coordinates: 28.969, -111.447
+
+
+### Huachinera
+
+Code: MX26031, Coordinates: 30.147, -108.921
+
+
+### Huásabas (Huasabas)
+
+Code: MX26032, Coordinates: 29.972, -109.355
+
+
+### Huatabampo
+
+Code: MX26033, Coordinates: 26.609, -109.233
+
+
+### Huépac (Huepac)
+
+Code: MX26034, Coordinates: 29.931, -110.255
+
+
+### Imuris
+
+Code: MX26035, Coordinates: 30.838, -110.787
+
+
+### La Colorada
+
+Code: MX26021, Coordinates: 28.726, -110.344
+
+
+### Magdalena
+
+Code: MX26036, Coordinates: 30.772, -111.139
+
+
+### Mazatán (Mazatan)
+
+Code: MX26037, Coordinates: 28.931, -110.356
+
+
+### Moctezuma
+
+Code: MX26038, Coordinates: 29.749, -109.708
+
+
+### Naco
+
+Code: MX26039, Coordinates: 31.178, -109.884
+
+
+### Nácori Chico (Nacori Chico)
+
+Code: MX26040, Coordinates: 29.621, -108.912
+
+
+### Nacozari de García (Nacozari de Garcia)
+
+Code: MX26041, Coordinates: 30.485, -109.472
+
+
+### Navojoa
+
+Code: MX26042, Coordinates: 27.027, -109.402
+
+
+### Nogales
+
+Code: MX26043, Coordinates: 31.196, -111.019
+
+
+### Onavas
+
+Code: MX26044, Coordinates: 28.457, -109.495
+
+
+### Opodepe
+
+Code: MX26045, Coordinates: 30.035, -110.874
+
+
+### Oquitoa
+
+Code: MX26046, Coordinates: 30.793, -111.714
+
+
+### Pitiquito
+
+Code: MX26047, Coordinates: 30.096, -112.219
+
+
+### Puerto Peñasco (Puerto Penasco)
+
+Code: MX26048, Coordinates: 31.53, -113.39
+
+
+### Quiriego
+
+Code: MX26049, Coordinates: 27.592, -109.374
+
+
+### Rayón (Rayon)
+
+Code: MX26050, Coordinates: 29.75, -110.517
+
+
+### Rosario
+
+Code: MX26051, Coordinates: 28.041, -109.351
+
+
+### Sahuaripa
+
+Code: MX26052, Coordinates: 29.013, -109.009
+
+
+### San Felipe de Jesús (San Felipe de Jesus)
+
+Code: MX26053, Coordinates: 29.87, -110.32
+
+
+### San Ignacio Río Muerto (San Ignacio Rio Muerto)
+
+Code: MX26072, Coordinates: 27.326, -110.332
+
+
+### San Javier
+
+Code: MX26054, Coordinates: 28.616, -109.752
+
+
+### San Luis Río Colorado (San Luis Rio Colorado)
+
+Code: MX26055, Coordinates: 31.994, -114.291
+
+
+### San Miguel de Horcasitas
+
+Code: MX26056, Coordinates: 29.479, -110.789
+
+
+### San Pedro de la Cueva
+
+Code: MX26057, Coordinates: 29.278, -109.686
+
+
+### Santa Ana
+
+Code: MX26058, Coordinates: 30.458, -111.04
+
+
+### Santa Cruz
+
+Code: MX26059, Coordinates: 31.149, -110.593
+
+
+### Sáric (Saric)
+
+Code: MX26060, Coordinates: 31.244, -111.445
+
+
+### Soyopa
+
+Code: MX26061, Coordinates: 28.812, -109.63
+
+
+### Suaqui Grande
+
+Code: MX26062, Coordinates: 28.379, -109.918
+
+
+### Tepache
+
+Code: MX26063, Coordinates: 29.486, -109.528
+
+
+### Trincheras
+
+Code: MX26064, Coordinates: 30.287, -111.653
+
+
+### Tubutama
+
+Code: MX26065, Coordinates: 30.939, -111.354
+
+
+### Ures
+
+Code: MX26066, Coordinates: 29.358, -110.323
+
+
+### Villa Hidalgo
+
+Code: MX26067, Coordinates: 30.258, -109.353
+
+
+### Villa Pesqueira
+
+Code: MX26068, Coordinates: 29.137, -109.991
+
+
+### Yécora (Yecora)
+
+Code: MX26069, Coordinates: 28.416, -108.925
+
+

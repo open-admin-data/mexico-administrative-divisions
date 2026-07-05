@@ -1,0 +1,227 @@
+[
+  {
+    "id": "MX03001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comondú",
+      "en": "Comondu",
+      "slug": "comondu-mx03001"
+    },
+    "code": {
+      "id": "MX03001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX03",
+        "level": 1,
+        "name": {
+          "local": "Baja California Sur",
+          "en": "Baja California Sur",
+          "slug": "baja-california-sur-mx03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.549",
+      "lon": "-111.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX03003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-mx03003"
+    },
+    "code": {
+      "id": "MX03003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX03",
+        "level": 1,
+        "name": {
+          "local": "Baja California Sur",
+          "en": "Baja California Sur",
+          "slug": "baja-california-sur-mx03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.108",
+      "lon": "-110.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX03009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Loreto",
+      "en": "Loreto",
+      "slug": "loreto-mx03009"
+    },
+    "code": {
+      "id": "MX03009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX03",
+        "level": 1,
+        "name": {
+          "local": "Baja California Sur",
+          "en": "Baja California Sur",
+          "slug": "baja-california-sur-mx03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.884",
+      "lon": "-111.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX03008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Cabos",
+      "en": "Los Cabos",
+      "slug": "los-cabos-mx03008"
+    },
+    "code": {
+      "id": "MX03008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX03",
+        "level": 1,
+        "name": {
+          "local": "Baja California Sur",
+          "en": "Baja California Sur",
+          "slug": "baja-california-sur-mx03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.272",
+      "lon": "-109.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX03002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mulegé",
+      "en": "Mulege",
+      "slug": "mulege-mx03002"
+    },
+    "code": {
+      "id": "MX03002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX03",
+        "level": 1,
+        "name": {
+          "local": "Baja California Sur",
+          "en": "Baja California Sur",
+          "slug": "baja-california-sur-mx03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.205",
+      "lon": "-113.323"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "MX24055",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zaragoza",
+    "en": "Zaragoza",
+    "slug": "zaragoza-mx24055"
+  },
+  "code": {
+    "id": "MX24055",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX24",
+    "level": 1,
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.038",
+    "lon": "-100.672"
+  },
+  "metadata": {},
+  "source": {}
+}

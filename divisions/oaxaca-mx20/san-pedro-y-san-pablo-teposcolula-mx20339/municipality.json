@@ -1,0 +1,45 @@
+{
+  "id": "MX20339",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro y San Pablo Teposcolula",
+    "en": "San Pedro y San Pablo Teposcolula",
+    "slug": "san-pedro-y-san-pablo-teposcolula-mx20339"
+  },
+  "code": {
+    "id": "MX20339",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.494",
+    "lon": "-97.471"
+  },
+  "metadata": {},
+  "source": {}
+}

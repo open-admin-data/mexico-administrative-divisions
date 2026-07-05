@@ -1,0 +1,45 @@
+{
+  "id": "MX20513",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Petapa",
+    "en": "Santo Domingo Petapa",
+    "slug": "santo-domingo-petapa-mx20513"
+  },
+  "code": {
+    "id": "MX20513",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.851",
+    "lon": "-95.212"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX10008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guadalupe Victoria",
+    "en": "Guadalupe Victoria",
+    "slug": "guadalupe-victoria-mx10008"
+  },
+  "code": {
+    "id": "MX10008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.401",
+    "lon": "-104.105"
+  },
+  "metadata": {},
+  "source": {}
+}

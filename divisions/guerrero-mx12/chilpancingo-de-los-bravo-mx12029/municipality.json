@@ -1,0 +1,45 @@
+{
+  "id": "MX12029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chilpancingo de los Bravo",
+    "en": "Chilpancingo de los Bravo",
+    "slug": "chilpancingo-de-los-bravo-mx12029"
+  },
+  "code": {
+    "id": "MX12029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.392",
+    "lon": "-99.743"
+  },
+  "metadata": {},
+  "source": {}
+}

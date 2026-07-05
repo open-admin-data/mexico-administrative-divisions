@@ -1,0 +1,45 @@
+{
+  "id": "MX29020",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sanctórum de Lázaro Cárdenas",
+    "en": "Sanctorum de Lazaro Cardenas",
+    "slug": "sanctorum-de-lazaro-cardenas-mx29020"
+  },
+  "code": {
+    "id": "MX29020",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.551",
+    "lon": "-98.416"
+  },
+  "metadata": {},
+  "source": {}
+}

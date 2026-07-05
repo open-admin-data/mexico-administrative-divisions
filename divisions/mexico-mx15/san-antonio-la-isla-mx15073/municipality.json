@@ -1,0 +1,45 @@
+{
+  "id": "MX15073",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Antonio la Isla",
+    "en": "San Antonio la Isla",
+    "slug": "san-antonio-la-isla-mx15073"
+  },
+  "code": {
+    "id": "MX15073",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.169",
+    "lon": "-99.557"
+  },
+  "metadata": {},
+  "source": {}
+}

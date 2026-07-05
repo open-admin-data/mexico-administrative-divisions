@@ -1,0 +1,45 @@
+{
+  "id": "MX20333",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Totolápam",
+    "en": "San Pedro Totolapam",
+    "slug": "san-pedro-totolapam-mx20333"
+  },
+  "code": {
+    "id": "MX20333",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.657",
+    "lon": "-96.234"
+  },
+  "metadata": {},
+  "source": {}
+}

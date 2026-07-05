@@ -1,0 +1,45 @@
+{
+  "id": "MX20179",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Bautista Jayacatlán",
+    "en": "San Juan Bautista Jayacatlan",
+    "slug": "san-juan-bautista-jayacatlan-mx20179"
+  },
+  "code": {
+    "id": "MX20179",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.432",
+    "lon": "-96.81"
+  },
+  "metadata": {},
+  "source": {}
+}

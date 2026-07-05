@@ -1,0 +1,429 @@
+# Hidalgo — Mexico Administrative Divisions
+
+> 84 municipalitys
+> Code: MX13
+> Coordinates: 20.498, -99.213
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acatlán (Acatlan)
+
+Code: MX13001, Coordinates: 20.205, -98.419
+
+
+### Acaxochitlán (Acaxochitlan)
+
+Code: MX13002, Coordinates: 20.165, -98.202
+
+
+### Actopan
+
+Code: MX13003, Coordinates: 20.309, -98.875
+
+
+### Agua Blanca de Iturbide
+
+Code: MX13004, Coordinates: 20.365, -98.373
+
+
+### Ajacuba
+
+Code: MX13005, Coordinates: 20.107, -99.071
+
+
+### Alfajayucan
+
+Code: MX13006, Coordinates: 20.41, -99.403
+
+
+### Almoloya
+
+Code: MX13007, Coordinates: 19.738, -98.316
+
+
+### Apan
+
+Code: MX13008, Coordinates: 19.732, -98.482
+
+
+### Atitalaquia
+
+Code: MX13010, Coordinates: 20.06, -99.213
+
+
+### Atlapexco
+
+Code: MX13011, Coordinates: 21.021, -98.378
+
+
+### Atotonilco de Tula
+
+Code: MX13013, Coordinates: 19.96, -99.237
+
+
+### Atotonilco el Grande
+
+Code: MX13012, Coordinates: 20.341, -98.671
+
+
+### Calnali
+
+Code: MX13014, Coordinates: 20.904, -98.534
+
+
+### Cardonal
+
+Code: MX13015, Coordinates: 20.596, -99.05
+
+
+### Chapantongo
+
+Code: MX13017, Coordinates: 20.245, -99.52
+
+
+### Chapulhuacán (Chapulhuacan)
+
+Code: MX13018, Coordinates: 21.126, -98.952
+
+
+### Chilcuautla
+
+Code: MX13019, Coordinates: 20.328, -99.262
+
+
+### Cuautepec de Hinojosa
+
+Code: MX13016, Coordinates: 19.97, -98.268
+
+
+### El Arenal
+
+Code: MX13009, Coordinates: 20.225, -98.88
+
+
+### Eloxochitlán (Eloxochitlan)
+
+Code: MX13020, Coordinates: 20.743, -98.867
+
+
+### Emiliano Zapata
+
+Code: MX13021, Coordinates: 19.664, -98.578
+
+
+### Epazoyucan
+
+Code: MX13022, Coordinates: 20.038, -98.644
+
+
+### Francisco I. Madero
+
+Code: MX13023, Coordinates: 20.241, -99.068
+
+
+### Huasca de Ocampo
+
+Code: MX13024, Coordinates: 20.223, -98.555
+
+
+### Huautla
+
+Code: MX13025, Coordinates: 21.039, -98.237
+
+
+### Huazalingo
+
+Code: MX13026, Coordinates: 20.994, -98.487
+
+
+### Huehuetla
+
+Code: MX13027, Coordinates: 20.532, -98.033
+
+
+### Huejutla de Reyes
+
+Code: MX13028, Coordinates: 21.143, -98.388
+
+
+### Huichapan
+
+Code: MX13029, Coordinates: 20.391, -99.682
+
+
+### Ixmiquilpan
+
+Code: MX13030, Coordinates: 20.539, -99.201
+
+
+### Jacala de Ledezma
+
+Code: MX13031, Coordinates: 20.965, -99.152
+
+
+### Jaltocán (Jaltocan)
+
+Code: MX13032, Coordinates: 21.154, -98.526
+
+
+### Juárez Hidalgo (Juarez Hidalgo)
+
+Code: MX13033, Coordinates: 20.836, -98.835
+
+
+### La Misión (La Mision)
+
+Code: MX13040, Coordinates: 21.066, -99.069
+
+
+### Lolotla
+
+Code: MX13034, Coordinates: 21.009, -98.731
+
+
+### Metepec
+
+Code: MX13035, Coordinates: 20.259, -98.345
+
+
+### Metztitlán (Metztitlan)
+
+Code: MX13037, Coordinates: 20.565, -98.829
+
+
+### Mineral de la Reforma
+
+Code: MX13051, Coordinates: 20.061, -98.731
+
+
+### Mineral del Chico
+
+Code: MX13038, Coordinates: 20.221, -98.745
+
+
+### Mineral del Monte
+
+Code: MX13039, Coordinates: 20.148, -98.674
+
+
+### Mixquiahuala de Juárez (Mixquiahuala de Juarez)
+
+Code: MX13041, Coordinates: 20.234, -99.156
+
+
+### Molango de Escamilla
+
+Code: MX13042, Coordinates: 20.849, -98.763
+
+
+### Nicolás Flores (Nicolas Flores)
+
+Code: MX13043, Coordinates: 20.795, -99.169
+
+
+### Nopala de Villagrán (Nopala de Villagran)
+
+Code: MX13044, Coordinates: 20.233, -99.675
+
+
+### Omitlán de Juárez (Omitlan de Juarez)
+
+Code: MX13045, Coordinates: 20.184, -98.638
+
+
+### Pachuca de Soto
+
+Code: MX13048, Coordinates: 20.104, -98.789
+
+
+### Pacula
+
+Code: MX13047, Coordinates: 21.003, -99.313
+
+
+### Pisaflores
+
+Code: MX13049, Coordinates: 21.231, -98.992
+
+
+### Progreso de Obregón (Progreso de Obregon)
+
+Code: MX13050, Coordinates: 20.304, -99.181
+
+
+### San Agustín Metzquititlán (San Agustin Metzquititlan)
+
+Code: MX13036, Coordinates: 20.521, -98.618
+
+
+### San Agustín Tlaxiaca (San Agustin Tlaxiaca)
+
+Code: MX13052, Coordinates: 20.076, -98.933
+
+
+### San Bartolo Tutotepec
+
+Code: MX13053, Coordinates: 20.469, -98.196
+
+
+### San Felipe Orizatlán (San Felipe Orizatlan)
+
+Code: MX13046, Coordinates: 21.246, -98.559
+
+
+### San Salvador
+
+Code: MX13054, Coordinates: 20.296, -99.035
+
+
+### Santiago de Anaya
+
+Code: MX13055, Coordinates: 20.428, -98.976
+
+
+### Santiago Tulantepec de Lugo Guerrero
+
+Code: MX13056, Coordinates: 20.035, -98.385
+
+
+### Singuilucan
+
+Code: MX13057, Coordinates: 19.998, -98.491
+
+
+### Tasquillo
+
+Code: MX13058, Coordinates: 20.531, -99.368
+
+
+### Tecozautla
+
+Code: MX13059, Coordinates: 20.54, -99.653
+
+
+### Tenango de Doria
+
+Code: MX13060, Coordinates: 20.337, -98.21
+
+
+### Tepeapulco
+
+Code: MX13061, Coordinates: 19.806, -98.506
+
+
+### Tepehuacán de Guerrero (Tepehuacan de Guerrero)
+
+Code: MX13062, Coordinates: 21.069, -98.86
+
+
+### Tepeji del Río de Ocampo (Tepeji del Rio de Ocampo)
+
+Code: MX13063, Coordinates: 19.894, -99.349
+
+
+### Tepetitlán (Tepetitlan)
+
+Code: MX13064, Coordinates: 20.189, -99.401
+
+
+### Tetepango
+
+Code: MX13065, Coordinates: 20.109, -99.158
+
+
+### Tezontepec de Aldama
+
+Code: MX13067, Coordinates: 20.174, -99.289
+
+
+### Tianguistengo
+
+Code: MX13068, Coordinates: 20.781, -98.52
+
+
+### Tizayuca
+
+Code: MX13069, Coordinates: 19.853, -98.959
+
+
+### Tlahuelilpan
+
+Code: MX13070, Coordinates: 20.134, -99.208
+
+
+### Tlahuiltepa
+
+Code: MX13071, Coordinates: 20.833, -98.963
+
+
+### Tlanalapa
+
+Code: MX13072, Coordinates: 19.829, -98.613
+
+
+### Tlanchinol
+
+Code: MX13073, Coordinates: 21.045, -98.635
+
+
+### Tlaxcoapan
+
+Code: MX13074, Coordinates: 20.096, -99.233
+
+
+### Tolcayuca
+
+Code: MX13075, Coordinates: 19.964, -98.94
+
+
+### Tula de Allende
+
+Code: MX13076, Coordinates: 20.049, -99.373
+
+
+### Tulancingo de Bravo
+
+Code: MX13077, Coordinates: 20.132, -98.317
+
+
+### Villa de Tezontepec
+
+Code: MX13066, Coordinates: 19.914, -98.8
+
+
+### Xochiatipan
+
+Code: MX13078, Coordinates: 20.863, -98.303
+
+
+### Xochicoatlán (Xochicoatlan)
+
+Code: MX13079, Coordinates: 20.789, -98.639
+
+
+### Yahualica
+
+Code: MX13080, Coordinates: 20.92, -98.367
+
+
+### Zacualtipán de Ángeles (Zacualtipan de Angeles)
+
+Code: MX13081, Coordinates: 20.652, -98.595
+
+
+### Zapotlán de Juárez (Zapotlan de Juarez)
+
+Code: MX13082, Coordinates: 19.988, -98.848
+
+
+### Zempoala
+
+Code: MX13083, Coordinates: 19.926, -98.643
+
+
+### Zimapán (Zimapan)
+
+Code: MX13084, Coordinates: 20.762, -99.383
+
+

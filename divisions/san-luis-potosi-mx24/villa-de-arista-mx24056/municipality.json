@@ -1,0 +1,45 @@
+{
+  "id": "MX24056",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa de Arista",
+    "en": "Villa de Arista",
+    "slug": "villa-de-arista-mx24056"
+  },
+  "code": {
+    "id": "MX24056",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX24",
+    "level": 1,
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.668",
+    "lon": "-100.798"
+  },
+  "metadata": {},
+  "source": {}
+}

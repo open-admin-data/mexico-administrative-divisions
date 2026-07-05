@@ -1,0 +1,45 @@
+{
+  "id": "MX20404",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Chachoápam",
+    "en": "Santa Maria Chachoapam",
+    "slug": "santa-maria-chachoapam-mx20404"
+  },
+  "code": {
+    "id": "MX20404",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.574",
+    "lon": "-97.239"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20406",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Chilchotla",
+    "en": "Santa Maria Chilchotla",
+    "slug": "santa-maria-chilchotla-mx20406"
+  },
+  "code": {
+    "id": "MX20406",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.289",
+    "lon": "-96.739"
+  },
+  "metadata": {},
+  "source": {}
+}

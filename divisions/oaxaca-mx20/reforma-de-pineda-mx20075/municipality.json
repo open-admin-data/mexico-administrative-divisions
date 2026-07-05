@@ -1,0 +1,45 @@
+{
+  "id": "MX20075",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Reforma de Pineda",
+    "en": "Reforma de Pineda",
+    "slug": "reforma-de-pineda-mx20075"
+  },
+  "code": {
+    "id": "MX20075",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.394",
+    "lon": "-94.455"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX09008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Magdalena Contreras",
+    "en": "La Magdalena Contreras",
+    "slug": "la-magdalena-contreras-mx09008"
+  },
+  "code": {
+    "id": "MX09008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX09",
+    "level": 1,
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.275",
+    "lon": "-99.263"
+  },
+  "metadata": {},
+  "source": {}
+}

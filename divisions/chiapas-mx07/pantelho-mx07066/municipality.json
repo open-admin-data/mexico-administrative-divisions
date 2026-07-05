@@ -1,0 +1,45 @@
+{
+  "id": "MX07066",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pantelhó",
+    "en": "Pantelho",
+    "slug": "pantelho-mx07066"
+  },
+  "code": {
+    "id": "MX07066",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.051",
+    "lon": "-92.455"
+  },
+  "metadata": {},
+  "source": {}
+}

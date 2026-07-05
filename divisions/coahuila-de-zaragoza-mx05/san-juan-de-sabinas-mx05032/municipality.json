@@ -1,0 +1,45 @@
+{
+  "id": "MX05032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan de Sabinas",
+    "en": "San Juan de Sabinas",
+    "slug": "san-juan-de-sabinas-mx05032"
+  },
+  "code": {
+    "id": "MX05032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX05",
+    "level": 1,
+    "name": {
+      "local": "Coahuila de Zaragoza",
+      "en": "Coahuila de Zaragoza",
+      "slug": "coahuila-de-zaragoza-mx05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.065",
+    "lon": "-101.39"
+  },
+  "metadata": {},
+  "source": {}
+}

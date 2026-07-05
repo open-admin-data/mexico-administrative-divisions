@@ -1,0 +1,45 @@
+{
+  "id": "MX32047",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Teúl de González Ortega",
+    "en": "Teul de Gonzalez Ortega",
+    "slug": "teul-de-gonzalez-ortega-mx32047"
+  },
+  "code": {
+    "id": "MX32047",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.35",
+    "lon": "-103.405"
+  },
+  "metadata": {},
+  "source": {}
+}

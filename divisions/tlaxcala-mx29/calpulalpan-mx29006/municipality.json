@@ -1,0 +1,45 @@
+{
+  "id": "MX29006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Calpulalpan",
+    "en": "Calpulalpan",
+    "slug": "calpulalpan-mx29006"
+  },
+  "code": {
+    "id": "MX29006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.552",
+    "lon": "-98.611"
+  },
+  "metadata": {},
+  "source": {}
+}

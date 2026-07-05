@@ -1,0 +1,45 @@
+{
+  "id": "MX29025",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pablo del Monte",
+    "en": "San Pablo del Monte",
+    "slug": "san-pablo-del-monte-mx29025"
+  },
+  "code": {
+    "id": "MX29025",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.161",
+    "lon": "-98.129"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX07022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chalchihuitán",
+    "en": "Chalchihuitan",
+    "slug": "chalchihuitan-mx07022"
+  },
+  "code": {
+    "id": "MX07022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.033",
+    "lon": "-92.614"
+  },
+  "metadata": {},
+  "source": {}
+}

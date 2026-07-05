@@ -1,0 +1,45 @@
+{
+  "id": "MX20235",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Luis Amatlán",
+    "en": "San Luis Amatlan",
+    "slug": "san-luis-amatlan-mx20235"
+  },
+  "code": {
+    "id": "MX20235",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.471",
+    "lon": "-96.489"
+  },
+  "metadata": {},
+  "source": {}
+}

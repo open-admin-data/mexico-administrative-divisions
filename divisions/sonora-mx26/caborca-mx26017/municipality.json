@@ -1,0 +1,45 @@
+{
+  "id": "MX26017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caborca",
+    "en": "Caborca",
+    "slug": "caborca-mx26017"
+  },
+  "code": {
+    "id": "MX26017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.897",
+    "lon": "-112.608"
+  },
+  "metadata": {},
+  "source": {}
+}

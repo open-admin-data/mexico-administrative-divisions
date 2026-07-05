@@ -1,0 +1,45 @@
+{
+  "id": "MX19016",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Doctor González",
+    "en": "Doctor Gonzalez",
+    "slug": "doctor-gonzalez-mx19016"
+  },
+  "code": {
+    "id": "MX19016",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.845",
+    "lon": "-99.819"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX01005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jesús María",
+    "en": "Jesus Maria",
+    "slug": "jesus-maria-mx01005"
+  },
+  "code": {
+    "id": "MX01005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.935",
+    "lon": "-102.468"
+  },
+  "metadata": {},
+  "source": {}
+}

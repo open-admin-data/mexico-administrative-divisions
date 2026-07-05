@@ -1,0 +1,45 @@
+{
+  "id": "MX17012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jojutla",
+    "en": "Jojutla",
+    "slug": "jojutla-mx17012"
+  },
+  "code": {
+    "id": "MX17012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.6",
+    "lon": "-99.23"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20208",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Mixtepec -Dto. 08 -",
+    "en": "San Juan Mixtepec -Dto. 08 -",
+    "slug": "san-juan-mixtepec-dto-08-mx20208"
+  },
+  "code": {
+    "id": "MX20208",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.376",
+    "lon": "-97.866"
+  },
+  "metadata": {},
+  "source": {}
+}

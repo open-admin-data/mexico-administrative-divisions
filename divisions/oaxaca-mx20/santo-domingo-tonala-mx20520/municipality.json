@@ -1,0 +1,45 @@
+{
+  "id": "MX20520",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Tonalá",
+    "en": "Santo Domingo Tonala",
+    "slug": "santo-domingo-tonala-mx20520"
+  },
+  "code": {
+    "id": "MX20520",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.68",
+    "lon": "-97.976"
+  },
+  "metadata": {},
+  "source": {}
+}

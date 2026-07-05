@@ -1,0 +1,45 @@
+{
+  "id": "MX16077",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lucas",
+    "en": "San Lucas",
+    "slug": "san-lucas-mx16077"
+  },
+  "code": {
+    "id": "MX16077",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX16",
+    "level": 1,
+    "name": {
+      "local": "Michoacán de Ocampo",
+      "en": "Michoacan de Ocampo",
+      "slug": "michoacan-de-ocampo-mx16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.588",
+    "lon": "-100.798"
+  },
+  "metadata": {},
+  "source": {}
+}

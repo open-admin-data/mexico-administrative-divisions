@@ -1,0 +1,45 @@
+{
+  "id": "MX15082",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tejupilco",
+    "en": "Tejupilco",
+    "slug": "tejupilco-mx15082"
+  },
+  "code": {
+    "id": "MX15082",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.891",
+    "lon": "-100.128"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX11042",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Valle de Santiago",
+    "en": "Valle de Santiago",
+    "slug": "valle-de-santiago-mx11042"
+  },
+  "code": {
+    "id": "MX11042",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.397",
+    "lon": "-101.259"
+  },
+  "metadata": {},
+  "source": {}
+}

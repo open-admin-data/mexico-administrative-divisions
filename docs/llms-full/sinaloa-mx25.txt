@@ -1,0 +1,99 @@
+# Sinaloa — Mexico Administrative Divisions
+
+> 18 municipalitys
+> Code: MX25
+> Coordinates: 24.757, -107.386
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ahome
+
+Code: MX25001, Coordinates: 25.927, -109.194
+
+
+### Angostura
+
+Code: MX25002, Coordinates: 25.2, -108.117
+
+
+### Badiraguato
+
+Code: MX25003, Coordinates: 25.605, -107.3
+
+
+### Choix
+
+Code: MX25007, Coordinates: 26.663, -108.353
+
+
+### Concordia
+
+Code: MX25004, Coordinates: 23.421, -105.956
+
+
+### Cosalá (Cosala)
+
+Code: MX25005, Coordinates: 24.516, -106.797
+
+
+### Culiacán (Culiacan)
+
+Code: MX25006, Coordinates: 24.662, -107.265
+
+
+### El Fuerte
+
+Code: MX25010, Coordinates: 26.237, -108.661
+
+
+### Elota
+
+Code: MX25008, Coordinates: 24.031, -106.885
+
+
+### Escuinapa
+
+Code: MX25009, Coordinates: 22.718, -105.601
+
+
+### Guasave
+
+Code: MX25011, Coordinates: 25.508, -108.482
+
+
+### Mazatlán (Mazatlan)
+
+Code: MX25012, Coordinates: 23.48, -106.412
+
+
+### Mocorito
+
+Code: MX25013, Coordinates: 25.364, -107.819
+
+
+### Navolato
+
+Code: MX25018, Coordinates: 24.749, -107.723
+
+
+### Rosario
+
+Code: MX25014, Coordinates: 23.09, -105.679
+
+
+### Salvador Alvarado
+
+Code: MX25015, Coordinates: 25.381, -107.992
+
+
+### San Ignacio
+
+Code: MX25016, Coordinates: 23.925, -106.275
+
+
+### Sinaloa
+
+Code: MX25017, Coordinates: 26.02, -108.07
+
+

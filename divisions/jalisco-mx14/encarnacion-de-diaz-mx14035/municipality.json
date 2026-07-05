@@ -1,0 +1,45 @@
+{
+  "id": "MX14035",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Encarnación de Díaz",
+    "en": "Encarnacion de Diaz",
+    "slug": "encarnacion-de-diaz-mx14035"
+  },
+  "code": {
+    "id": "MX14035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.568",
+    "lon": "-102.183"
+  },
+  "metadata": {},
+  "source": {}
+}

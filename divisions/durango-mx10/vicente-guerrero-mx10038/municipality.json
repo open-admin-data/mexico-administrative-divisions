@@ -1,0 +1,45 @@
+{
+  "id": "MX10038",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vicente Guerrero",
+    "en": "Vicente Guerrero",
+    "slug": "vicente-guerrero-mx10038"
+  },
+  "code": {
+    "id": "MX10038",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.727",
+    "lon": "-103.946"
+  },
+  "metadata": {},
+  "source": {}
+}

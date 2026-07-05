@@ -1,0 +1,45 @@
+{
+  "id": "MX16004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Angamacutiro",
+    "en": "Angamacutiro",
+    "slug": "angamacutiro-mx16004"
+  },
+  "code": {
+    "id": "MX16004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX16",
+    "level": 1,
+    "name": {
+      "local": "Michoacán de Ocampo",
+      "en": "Michoacan de Ocampo",
+      "slug": "michoacan-de-ocampo-mx16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.14",
+    "lon": "-101.732"
+  },
+  "metadata": {},
+  "source": {}
+}

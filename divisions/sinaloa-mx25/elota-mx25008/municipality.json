@@ -1,0 +1,45 @@
+{
+  "id": "MX25008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Elota",
+    "en": "Elota",
+    "slug": "elota-mx25008"
+  },
+  "code": {
+    "id": "MX25008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX25",
+    "level": 1,
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.031",
+    "lon": "-106.885"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX29060",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Isabel Xiloxoxtla",
+    "en": "Santa Isabel Xiloxoxtla",
+    "slug": "santa-isabel-xiloxoxtla-mx29060"
+  },
+  "code": {
+    "id": "MX29060",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.264",
+    "lon": "-98.207"
+  },
+  "metadata": {},
+  "source": {}
+}

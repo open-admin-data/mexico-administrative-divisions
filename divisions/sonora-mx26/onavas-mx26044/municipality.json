@@ -1,0 +1,45 @@
+{
+  "id": "MX26044",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Onavas",
+    "en": "Onavas",
+    "slug": "onavas-mx26044"
+  },
+  "code": {
+    "id": "MX26044",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.457",
+    "lon": "-109.495"
+  },
+  "metadata": {},
+  "source": {}
+}

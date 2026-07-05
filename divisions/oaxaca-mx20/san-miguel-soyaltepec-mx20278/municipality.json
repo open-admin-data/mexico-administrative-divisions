@@ -1,0 +1,45 @@
+{
+  "id": "MX20278",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Soyaltepec",
+    "en": "San Miguel Soyaltepec",
+    "slug": "san-miguel-soyaltepec-mx20278"
+  },
+  "code": {
+    "id": "MX20278",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.251",
+    "lon": "-96.483"
+  },
+  "metadata": {},
+  "source": {}
+}

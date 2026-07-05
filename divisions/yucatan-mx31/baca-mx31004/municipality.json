@@ -1,0 +1,45 @@
+{
+  "id": "MX31004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baca",
+    "en": "Baca",
+    "slug": "baca-mx31004"
+  },
+  "code": {
+    "id": "MX31004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.134",
+    "lon": "-89.402"
+  },
+  "metadata": {},
+  "source": {}
+}

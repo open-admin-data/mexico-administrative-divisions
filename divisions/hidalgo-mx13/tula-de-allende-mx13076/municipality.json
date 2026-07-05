@@ -1,0 +1,45 @@
+{
+  "id": "MX13076",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tula de Allende",
+    "en": "Tula de Allende",
+    "slug": "tula-de-allende-mx13076"
+  },
+  "code": {
+    "id": "MX13076",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.049",
+    "lon": "-99.373"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX19044",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sabinas Hidalgo",
+    "en": "Sabinas Hidalgo",
+    "slug": "sabinas-hidalgo-mx19044"
+  },
+  "code": {
+    "id": "MX19044",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.575",
+    "lon": "-100.155"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX12024",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cualác",
+    "en": "Cualac",
+    "slug": "cualac-mx12024"
+  },
+  "code": {
+    "id": "MX12024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.735",
+    "lon": "-98.662"
+  },
+  "metadata": {},
+  "source": {}
+}

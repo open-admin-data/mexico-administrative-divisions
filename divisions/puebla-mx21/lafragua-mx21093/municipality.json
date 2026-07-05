@@ -1,0 +1,45 @@
+{
+  "id": "MX21093",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lafragua",
+    "en": "Lafragua",
+    "slug": "lafragua-mx21093"
+  },
+  "code": {
+    "id": "MX21093",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.284",
+    "lon": "-97.281"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX14021",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Casimiro Castillo",
+    "en": "Casimiro Castillo",
+    "slug": "casimiro-castillo-mx14021"
+  },
+  "code": {
+    "id": "MX14021",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.614",
+    "lon": "-104.475"
+  },
+  "metadata": {},
+  "source": {}
+}

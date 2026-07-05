@@ -1,0 +1,45 @@
+{
+  "id": "MX20379",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Nundaco",
+    "en": "Santa Cruz Nundaco",
+    "slug": "santa-cruz-nundaco-mx20379"
+  },
+  "code": {
+    "id": "MX20379",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.155",
+    "lon": "-97.723"
+  },
+  "metadata": {},
+  "source": {}
+}

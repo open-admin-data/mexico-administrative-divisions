@@ -1,0 +1,45 @@
+{
+  "id": "MX07056",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mitontic",
+    "en": "Mitontic",
+    "slug": "mitontic-mx07056"
+  },
+  "code": {
+    "id": "MX07056",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.876",
+    "lon": "-92.559"
+  },
+  "metadata": {},
+  "source": {}
+}

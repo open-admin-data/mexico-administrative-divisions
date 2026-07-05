@@ -1,0 +1,45 @@
+{
+  "id": "MX20217",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Tamazola",
+    "en": "San Juan Tamazola",
+    "slug": "san-juan-tamazola-mx20217"
+  },
+  "code": {
+    "id": "MX20217",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.117",
+    "lon": "-97.159"
+  },
+  "metadata": {},
+  "source": {}
+}

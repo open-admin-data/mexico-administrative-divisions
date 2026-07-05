@@ -1,0 +1,45 @@
+{
+  "id": "MX11038",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tarandacuao",
+    "en": "Tarandacuao",
+    "slug": "tarandacuao-mx11038"
+  },
+  "code": {
+    "id": "MX11038",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.999",
+    "lon": "-100.526"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX12073",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zirándaro",
+    "en": "Zirandaro",
+    "slug": "zirandaro-mx12073"
+  },
+  "code": {
+    "id": "MX12073",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.328",
+    "lon": "-101.204"
+  },
+  "metadata": {},
+  "source": {}
+}

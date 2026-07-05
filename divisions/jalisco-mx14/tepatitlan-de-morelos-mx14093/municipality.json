@@ -1,0 +1,45 @@
+{
+  "id": "MX14093",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tepatitlán de Morelos",
+    "en": "Tepatitlan de Morelos",
+    "slug": "tepatitlan-de-morelos-mx14093"
+  },
+  "code": {
+    "id": "MX14093",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.817",
+    "lon": "-102.677"
+  },
+  "metadata": {},
+  "source": {}
+}

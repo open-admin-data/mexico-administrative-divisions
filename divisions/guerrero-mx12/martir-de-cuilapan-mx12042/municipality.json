@@ -1,0 +1,45 @@
+{
+  "id": "MX12042",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mártir de Cuilapan",
+    "en": "Martir de Cuilapan",
+    "slug": "martir-de-cuilapan-mx12042"
+  },
+  "code": {
+    "id": "MX12042",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.808",
+    "lon": "-99.317"
+  },
+  "metadata": {},
+  "source": {}
+}

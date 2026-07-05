@@ -1,0 +1,45 @@
+{
+  "id": "MX07032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Escuintla",
+    "en": "Escuintla",
+    "slug": "escuintla-mx07032"
+  },
+  "code": {
+    "id": "MX07032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.351",
+    "lon": "-92.556"
+  },
+  "metadata": {},
+  "source": {}
+}

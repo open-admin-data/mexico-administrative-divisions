@@ -1,0 +1,45 @@
+{
+  "id": "MX20039",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Heroica Ciudad de Huajuapan de León",
+    "en": "Heroica Ciudad de Huajuapan de Leon",
+    "slug": "heroica-ciudad-de-huajuapan-de-leon-mx20039"
+  },
+  "code": {
+    "id": "MX20039",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.847",
+    "lon": "-97.878"
+  },
+  "metadata": {},
+  "source": {}
+}

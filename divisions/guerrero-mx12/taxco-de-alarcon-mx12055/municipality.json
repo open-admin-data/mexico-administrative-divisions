@@ -1,0 +1,45 @@
+{
+  "id": "MX12055",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Taxco de Alarcón",
+    "en": "Taxco de Alarcon",
+    "slug": "taxco-de-alarcon-mx12055"
+  },
+  "code": {
+    "id": "MX12055",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.522",
+    "lon": "-99.607"
+  },
+  "metadata": {},
+  "source": {}
+}

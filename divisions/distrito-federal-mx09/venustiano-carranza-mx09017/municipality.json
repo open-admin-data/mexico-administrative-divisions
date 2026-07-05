@@ -1,0 +1,45 @@
+{
+  "id": "MX09017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Venustiano Carranza",
+    "en": "Venustiano Carranza",
+    "slug": "venustiano-carranza-mx09017"
+  },
+  "code": {
+    "id": "MX09017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX09",
+    "level": 1,
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.432",
+    "lon": "-99.088"
+  },
+  "metadata": {},
+  "source": {}
+}

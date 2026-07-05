@@ -1,0 +1,45 @@
+{
+  "id": "MX20034",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guadalupe de Ramírez",
+    "en": "Guadalupe de Ramirez",
+    "slug": "guadalupe-de-ramirez-mx20034"
+  },
+  "code": {
+    "id": "MX20034",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.755",
+    "lon": "-98.147"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX11009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Comonfort",
+    "en": "Comonfort",
+    "slug": "comonfort-mx11009"
+  },
+  "code": {
+    "id": "MX11009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.737",
+    "lon": "-100.797"
+  },
+  "metadata": {},
+  "source": {}
+}

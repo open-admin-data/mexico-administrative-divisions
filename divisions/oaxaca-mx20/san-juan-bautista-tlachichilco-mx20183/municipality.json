@@ -1,0 +1,45 @@
+{
+  "id": "MX20183",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Bautista Tlachichilco",
+    "en": "San Juan Bautista Tlachichilco",
+    "slug": "san-juan-bautista-tlachichilco-mx20183"
+  },
+  "code": {
+    "id": "MX20183",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.586",
+    "lon": "-98.351"
+  },
+  "metadata": {},
+  "source": {}
+}

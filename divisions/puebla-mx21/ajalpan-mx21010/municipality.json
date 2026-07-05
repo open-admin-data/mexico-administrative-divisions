@@ -1,0 +1,45 @@
+{
+  "id": "MX21010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ajalpan",
+    "en": "Ajalpan",
+    "slug": "ajalpan-mx21010"
+  },
+  "code": {
+    "id": "MX21010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.435",
+    "lon": "-97.025"
+  },
+  "metadata": {},
+  "source": {}
+}

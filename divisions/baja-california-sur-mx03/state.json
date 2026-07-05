@@ -1,0 +1,33 @@
+{
+  "id": "MX03",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Baja California Sur",
+    "en": "Baja California Sur",
+    "slug": "baja-california-sur-mx03"
+  },
+  "code": {
+    "id": "MX03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.436",
+    "lon": "-111.543"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/baja-california-sur-mx03/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

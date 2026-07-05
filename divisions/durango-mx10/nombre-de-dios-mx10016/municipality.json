@@ -1,0 +1,45 @@
+{
+  "id": "MX10016",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nombre de Dios",
+    "en": "Nombre de Dios",
+    "slug": "nombre-de-dios-mx10016"
+  },
+  "code": {
+    "id": "MX10016",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.841",
+    "lon": "-104.22"
+  },
+  "metadata": {},
+  "source": {}
+}

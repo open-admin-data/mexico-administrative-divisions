@@ -1,0 +1,45 @@
+{
+  "id": "MX20330",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Teutila",
+    "en": "San Pedro Teutila",
+    "slug": "san-pedro-teutila-mx20330"
+  },
+  "code": {
+    "id": "MX20330",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.978",
+    "lon": "-96.642"
+  },
+  "metadata": {},
+  "source": {}
+}

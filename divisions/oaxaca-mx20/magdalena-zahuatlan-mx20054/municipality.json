@@ -1,0 +1,45 @@
+{
+  "id": "MX20054",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Magdalena Zahuatlán",
+    "en": "Magdalena Zahuatlan",
+    "slug": "magdalena-zahuatlan-mx20054"
+  },
+  "code": {
+    "id": "MX20054",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.391",
+    "lon": "-97.226"
+  },
+  "metadata": {},
+  "source": {}
+}

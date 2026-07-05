@@ -1,0 +1,45 @@
+{
+  "id": "MX06007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Manzanillo",
+    "en": "Manzanillo",
+    "slug": "manzanillo-mx06007"
+  },
+  "code": {
+    "id": "MX06007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX06",
+    "level": 1,
+    "name": {
+      "local": "Colima",
+      "en": "Colima",
+      "slug": "colima-mx06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX06",
+      "level": 1,
+      "name": {
+        "local": "Colima",
+        "en": "Colima",
+        "slug": "colima-mx06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.128",
+    "lon": "-104.285"
+  },
+  "metadata": {},
+  "source": {}
+}

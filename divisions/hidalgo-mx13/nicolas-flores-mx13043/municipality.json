@@ -1,0 +1,45 @@
+{
+  "id": "MX13043",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nicolás Flores",
+    "en": "Nicolas Flores",
+    "slug": "nicolas-flores-mx13043"
+  },
+  "code": {
+    "id": "MX13043",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.795",
+    "lon": "-99.169"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20285",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Tlacamama",
+    "en": "San Miguel Tlacamama",
+    "slug": "san-miguel-tlacamama-mx20285"
+  },
+  "code": {
+    "id": "MX20285",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.445",
+    "lon": "-98.113"
+  },
+  "metadata": {},
+  "source": {}
+}

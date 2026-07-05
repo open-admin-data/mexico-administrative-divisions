@@ -1,0 +1,45 @@
+{
+  "id": "MX15023",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coyotepec",
+    "en": "Coyotepec",
+    "slug": "coyotepec-mx15023"
+  },
+  "code": {
+    "id": "MX15023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.786",
+    "lon": "-99.202"
+  },
+  "metadata": {},
+  "source": {}
+}

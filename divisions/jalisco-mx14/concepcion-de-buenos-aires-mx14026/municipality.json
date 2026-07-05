@@ -1,0 +1,45 @@
+{
+  "id": "MX14026",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Concepción de Buenos Aires",
+    "en": "Concepcion de Buenos Aires",
+    "slug": "concepcion-de-buenos-aires-mx14026"
+  },
+  "code": {
+    "id": "MX14026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.979",
+    "lon": "-103.232"
+  },
+  "metadata": {},
+  "source": {}
+}

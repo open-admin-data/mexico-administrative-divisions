@@ -1,0 +1,45 @@
+{
+  "id": "MX32033",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Moyahua de Estrada",
+    "en": "Moyahua de Estrada",
+    "slug": "moyahua-de-estrada-mx32033"
+  },
+  "code": {
+    "id": "MX32033",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.196",
+    "lon": "-103.183"
+  },
+  "metadata": {},
+  "source": {}
+}

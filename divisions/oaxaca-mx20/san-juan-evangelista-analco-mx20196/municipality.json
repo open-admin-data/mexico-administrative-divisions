@@ -1,0 +1,45 @@
+{
+  "id": "MX20196",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Evangelista Analco",
+    "en": "San Juan Evangelista Analco",
+    "slug": "san-juan-evangelista-analco-mx20196"
+  },
+  "code": {
+    "id": "MX20196",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.399",
+    "lon": "-96.54"
+  },
+  "metadata": {},
+  "source": {}
+}

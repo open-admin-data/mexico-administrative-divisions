@@ -1,0 +1,45 @@
+{
+  "id": "MX15123",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Luvianos",
+    "en": "Luvianos",
+    "slug": "luvianos-mx15123"
+  },
+  "code": {
+    "id": "MX15123",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.947",
+    "lon": "-100.393"
+  },
+  "metadata": {},
+  "source": {}
+}

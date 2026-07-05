@@ -1,0 +1,45 @@
+{
+  "id": "MX18005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huajicori",
+    "en": "Huajicori",
+    "slug": "huajicori-mx18005"
+  },
+  "code": {
+    "id": "MX18005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX18",
+    "level": 1,
+    "name": {
+      "local": "Nayarit",
+      "en": "Nayarit",
+      "slug": "nayarit-mx18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.811",
+    "lon": "-105.203"
+  },
+  "metadata": {},
+  "source": {}
+}

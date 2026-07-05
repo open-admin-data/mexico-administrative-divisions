@@ -1,0 +1,45 @@
+{
+  "id": "MX30097",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lerdo de Tejada",
+    "en": "Lerdo de Tejada",
+    "slug": "lerdo-de-tejada-mx30097"
+  },
+  "code": {
+    "id": "MX30097",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX30",
+    "level": 1,
+    "name": {
+      "local": "Veracruz de Ignacio de la Llave",
+      "en": "Veracruz de Ignacio de la Llave",
+      "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX30",
+      "level": 1,
+      "name": {
+        "local": "Veracruz de Ignacio de la Llave",
+        "en": "Veracruz de Ignacio de la Llave",
+        "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.659",
+    "lon": "-95.49"
+  },
+  "metadata": {},
+  "source": {}
+}

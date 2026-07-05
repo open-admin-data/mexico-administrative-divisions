@@ -1,0 +1,45 @@
+{
+  "id": "MX12064",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlalchapa",
+    "en": "Tlalchapa",
+    "slug": "tlalchapa-mx12064"
+  },
+  "code": {
+    "id": "MX12064",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.461",
+    "lon": "-100.442"
+  },
+  "metadata": {},
+  "source": {}
+}

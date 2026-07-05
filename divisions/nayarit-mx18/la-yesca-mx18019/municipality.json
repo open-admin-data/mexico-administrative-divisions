@@ -1,0 +1,45 @@
+{
+  "id": "MX18019",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Yesca",
+    "en": "La Yesca",
+    "slug": "la-yesca-mx18019"
+  },
+  "code": {
+    "id": "MX18019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX18",
+    "level": 1,
+    "name": {
+      "local": "Nayarit",
+      "en": "Nayarit",
+      "slug": "nayarit-mx18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.589",
+    "lon": "-104.195"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX03001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Comondú",
+    "en": "Comondu",
+    "slug": "comondu-mx03001"
+  },
+  "code": {
+    "id": "MX03001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX03",
+    "level": 1,
+    "name": {
+      "local": "Baja California Sur",
+      "en": "Baja California Sur",
+      "slug": "baja-california-sur-mx03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.549",
+    "lon": "-111.76"
+  },
+  "metadata": {},
+  "source": {}
+}

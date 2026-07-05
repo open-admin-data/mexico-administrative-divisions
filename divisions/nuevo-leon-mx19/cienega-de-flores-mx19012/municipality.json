@@ -1,0 +1,45 @@
+{
+  "id": "MX19012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ciénega de Flores",
+    "en": "Cienega de Flores",
+    "slug": "cienega-de-flores-mx19012"
+  },
+  "code": {
+    "id": "MX19012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.971",
+    "lon": "-100.179"
+  },
+  "metadata": {},
+  "source": {}
+}

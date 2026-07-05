@@ -1,0 +1,45 @@
+{
+  "id": "MX30196",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Yanga",
+    "en": "Yanga",
+    "slug": "yanga-mx30196"
+  },
+  "code": {
+    "id": "MX30196",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX30",
+    "level": 1,
+    "name": {
+      "local": "Veracruz de Ignacio de la Llave",
+      "en": "Veracruz de Ignacio de la Llave",
+      "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX30",
+      "level": 1,
+      "name": {
+        "local": "Veracruz de Ignacio de la Llave",
+        "en": "Veracruz de Ignacio de la Llave",
+        "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.823",
+    "lon": "-96.79"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX13047",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pacula",
+    "en": "Pacula",
+    "slug": "pacula-mx13047"
+  },
+  "code": {
+    "id": "MX13047",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.003",
+    "lon": "-99.313"
+  },
+  "metadata": {},
+  "source": {}
+}

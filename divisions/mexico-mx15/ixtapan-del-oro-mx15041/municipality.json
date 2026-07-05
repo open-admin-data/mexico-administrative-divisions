@@ -1,0 +1,45 @@
+{
+  "id": "MX15041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixtapan del Oro",
+    "en": "Ixtapan del Oro",
+    "slug": "ixtapan-del-oro-mx15041"
+  },
+  "code": {
+    "id": "MX15041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.262",
+    "lon": "-100.271"
+  },
+  "metadata": {},
+  "source": {}
+}

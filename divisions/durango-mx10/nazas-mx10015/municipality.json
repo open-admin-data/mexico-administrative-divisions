@@ -1,0 +1,45 @@
+{
+  "id": "MX10015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nazas",
+    "en": "Nazas",
+    "slug": "nazas-mx10015"
+  },
+  "code": {
+    "id": "MX10015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.271",
+    "lon": "-104.073"
+  },
+  "metadata": {},
+  "source": {}
+}

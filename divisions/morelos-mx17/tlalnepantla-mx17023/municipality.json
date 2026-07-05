@@ -1,0 +1,45 @@
+{
+  "id": "MX17023",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlalnepantla",
+    "en": "Tlalnepantla",
+    "slug": "tlalnepantla-mx17023"
+  },
+  "code": {
+    "id": "MX17023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.03",
+    "lon": "-98.986"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX15105",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlatlaya",
+    "en": "Tlatlaya",
+    "slug": "tlatlaya-mx15105"
+  },
+  "code": {
+    "id": "MX15105",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.522",
+    "lon": "-100.24"
+  },
+  "metadata": {},
+  "source": {}
+}

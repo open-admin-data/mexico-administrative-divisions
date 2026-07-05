@@ -1,0 +1,45 @@
+{
+  "id": "MX14068",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa Purificación",
+    "en": "Villa Purificacion",
+    "slug": "villa-purificacion-mx14068"
+  },
+  "code": {
+    "id": "MX14068",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.823",
+    "lon": "-104.733"
+  },
+  "metadata": {},
+  "source": {}
+}

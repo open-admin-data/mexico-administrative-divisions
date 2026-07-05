@@ -1,0 +1,45 @@
+{
+  "id": "MX09012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlalpan",
+    "en": "Tlalpan",
+    "slug": "tlalpan-mx09012"
+  },
+  "code": {
+    "id": "MX09012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX09",
+    "level": 1,
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.201",
+    "lon": "-99.217"
+  },
+  "metadata": {},
+  "source": {}
+}

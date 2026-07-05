@@ -1,0 +1,45 @@
+{
+  "id": "MX16091",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tingüindín",
+    "en": "Tinguindin",
+    "slug": "tinguindin-mx16091"
+  },
+  "code": {
+    "id": "MX16091",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX16",
+    "level": 1,
+    "name": {
+      "local": "Michoacán de Ocampo",
+      "en": "Michoacan de Ocampo",
+      "slug": "michoacan-de-ocampo-mx16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.806",
+    "lon": "-102.535"
+  },
+  "metadata": {},
+  "source": {}
+}

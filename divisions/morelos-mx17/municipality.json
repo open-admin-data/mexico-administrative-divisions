@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "MX17001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amacuzac",
+      "en": "Amacuzac",
+      "slug": "amacuzac-mx17001"
+    },
+    "code": {
+      "id": "MX17001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.588",
+      "lon": "-99.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atlatlahucan",
+      "en": "Atlatlahucan",
+      "slug": "atlatlahucan-mx17002"
+    },
+    "code": {
+      "id": "MX17002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.941",
+      "lon": "-98.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Axochiapan",
+      "en": "Axochiapan",
+      "slug": "axochiapan-mx17003"
+    },
+    "code": {
+      "id": "MX17003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.525",
+      "lon": "-98.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayala",
+      "en": "Ayala",
+      "slug": "ayala-mx17004"
+    },
+    "code": {
+      "id": "MX17004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.697",
+      "lon": "-98.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coatlán del Río",
+      "en": "Coatlan del Rio",
+      "slug": "coatlan-del-rio-mx17005"
+    },
+    "code": {
+      "id": "MX17005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.734",
+      "lon": "-99.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuautla",
+      "en": "Cuautla",
+      "slug": "cuautla-mx17006"
+    },
+    "code": {
+      "id": "MX17006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.823",
+      "lon": "-98.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuernavaca",
+      "en": "Cuernavaca",
+      "slug": "cuernavaca-mx17007"
+    },
+    "code": {
+      "id": "MX17007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.933",
+      "lon": "-99.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Emiliano Zapata",
+      "en": "Emiliano Zapata",
+      "slug": "emiliano-zapata-mx17008"
+    },
+    "code": {
+      "id": "MX17008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.809",
+      "lon": "-99.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huitzilac",
+      "en": "Huitzilac",
+      "slug": "huitzilac-mx17009"
+    },
+    "code": {
+      "id": "MX17009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.057",
+      "lon": "-99.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jantetelco",
+      "en": "Jantetelco",
+      "slug": "jantetelco-mx17010"
+    },
+    "code": {
+      "id": "MX17010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.67",
+      "lon": "-98.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiutepec",
+      "en": "Jiutepec",
+      "slug": "jiutepec-mx17011"
+    },
+    "code": {
+      "id": "MX17011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.886",
+      "lon": "-99.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jojutla",
+      "en": "Jojutla",
+      "slug": "jojutla-mx17012"
+    },
+    "code": {
+      "id": "MX17012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.6",
+      "lon": "-99.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jonacatepec",
+      "en": "Jonacatepec",
+      "slug": "jonacatepec-mx17013"
+    },
+    "code": {
+      "id": "MX17013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.657",
+      "lon": "-98.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazatepec",
+      "en": "Mazatepec",
+      "slug": "mazatepec-mx17014"
+    },
+    "code": {
+      "id": "MX17014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.688",
+      "lon": "-99.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miacatlán",
+      "en": "Miacatlan",
+      "slug": "miacatlan-mx17015"
+    },
+    "code": {
+      "id": "MX17015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.804",
+      "lon": "-99.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocuituco",
+      "en": "Ocuituco",
+      "slug": "ocuituco-mx17016"
+    },
+    "code": {
+      "id": "MX17016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.879",
+      "lon": "-98.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puente de Ixtla",
+      "en": "Puente de Ixtla",
+      "slug": "puente-de-ixtla-mx17017"
+    },
+    "code": {
+      "id": "MX17017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.588",
+      "lon": "-99.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temixco",
+      "en": "Temixco",
+      "slug": "temixco-mx17018"
+    },
+    "code": {
+      "id": "MX17018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.848",
+      "lon": "-99.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temoac",
+      "en": "Temoac",
+      "slug": "temoac-mx17033"
+    },
+    "code": {
+      "id": "MX17033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.76",
+      "lon": "-98.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepalcingo",
+      "en": "Tepalcingo",
+      "slug": "tepalcingo-mx17019"
+    },
+    "code": {
+      "id": "MX17019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.569",
+      "lon": "-98.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepoztlán",
+      "en": "Tepoztlan",
+      "slug": "tepoztlan-mx17020"
+    },
+    "code": {
+      "id": "MX17020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.992",
+      "lon": "-99.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tetecala",
+      "en": "Tetecala",
+      "slug": "tetecala-mx17021"
+    },
+    "code": {
+      "id": "MX17021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.688",
+      "lon": "-99.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tetela del Volcán",
+      "en": "Tetela del Volcan",
+      "slug": "tetela-del-volcan-mx17022"
+    },
+    "code": {
+      "id": "MX17022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.918",
+      "lon": "-98.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlalnepantla",
+      "en": "Tlalnepantla",
+      "slug": "tlalnepantla-mx17023"
+    },
+    "code": {
+      "id": "MX17023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.03",
+      "lon": "-98.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlaltizapán de Zapata",
+      "en": "Tlaltizapan de Zapata",
+      "slug": "tlaltizapan-de-zapata-mx17024"
+    },
+    "code": {
+      "id": "MX17024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.705",
+      "lon": "-99.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlaquiltenango",
+      "en": "Tlaquiltenango",
+      "slug": "tlaquiltenango-mx17025"
+    },
+    "code": {
+      "id": "MX17025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.499",
+      "lon": "-99.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlayacapan",
+      "en": "Tlayacapan",
+      "slug": "tlayacapan-mx17026"
+    },
+    "code": {
+      "id": "MX17026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.944",
+      "lon": "-98.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Totolapan",
+      "en": "Totolapan",
+      "slug": "totolapan-mx17027"
+    },
+    "code": {
+      "id": "MX17027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.996",
+      "lon": "-98.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xochitepec",
+      "en": "Xochitepec",
+      "slug": "xochitepec-mx17028"
+    },
+    "code": {
+      "id": "MX17028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.765",
+      "lon": "-99.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yautepec",
+      "en": "Yautepec",
+      "slug": "yautepec-mx17029"
+    },
+    "code": {
+      "id": "MX17029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.865",
+      "lon": "-99.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yecapixtla",
+      "en": "Yecapixtla",
+      "slug": "yecapixtla-mx17030"
+    },
+    "code": {
+      "id": "MX17030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.859",
+      "lon": "-98.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacatepec",
+      "en": "Zacatepec",
+      "slug": "zacatepec-mx17031"
+    },
+    "code": {
+      "id": "MX17031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.651",
+      "lon": "-99.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX17032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacualpan",
+      "en": "Zacualpan",
+      "slug": "zacualpan-mx17032"
+    },
+    "code": {
+      "id": "MX17032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX17",
+        "level": 1,
+        "name": {
+          "local": "Morelos",
+          "en": "Morelos",
+          "slug": "morelos-mx17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.81",
+      "lon": "-98.763"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

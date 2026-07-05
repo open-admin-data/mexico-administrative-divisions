@@ -1,0 +1,634 @@
+# Jalisco — Mexico Administrative Divisions
+
+> 125 municipalitys
+> Code: MX14
+> Coordinates: 20.838, -103.217
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acatic
+
+Code: MX14001, Coordinates: 20.769, -102.92
+
+
+### Acatlán de Juárez (Acatlan de Juarez)
+
+Code: MX14002, Coordinates: 20.424, -103.601
+
+
+### Ahualulco de Mercado
+
+Code: MX14003, Coordinates: 20.71, -103.975
+
+
+### Amacueca
+
+Code: MX14004, Coordinates: 19.988, -103.63
+
+
+### Amatitán (Amatitan)
+
+Code: MX14005, Coordinates: 20.844, -103.711
+
+
+### Ameca
+
+Code: MX14006, Coordinates: 20.535, -104.065
+
+
+### Arandas
+
+Code: MX14008, Coordinates: 20.749, -102.314
+
+
+### Atemajac de Brizuela
+
+Code: MX14010, Coordinates: 20.18, -103.741
+
+
+### Atengo
+
+Code: MX14011, Coordinates: 20.32, -104.281
+
+
+### Atenguillo
+
+Code: MX14012, Coordinates: 20.339, -104.53
+
+
+### Atotonilco el Alto
+
+Code: MX14013, Coordinates: 20.541, -102.518
+
+
+### Atoyac
+
+Code: MX14014, Coordinates: 20.007, -103.447
+
+
+### Autlán de Navarro (Autlan de Navarro)
+
+Code: MX14015, Coordinates: 19.757, -104.318
+
+
+### Ayotlán (Ayotlan)
+
+Code: MX14016, Coordinates: 20.472, -102.364
+
+
+### Ayutla
+
+Code: MX14017, Coordinates: 20.041, -104.474
+
+
+### Bolaños (Bolanos)
+
+Code: MX14019, Coordinates: 21.899, -103.893
+
+
+### Cabo Corrientes
+
+Code: MX14020, Coordinates: 20.333, -105.424
+
+
+### Cañadas de Obregón (Canadas de Obregon)
+
+Code: MX14117, Coordinates: 21.168, -102.707
+
+
+### Casimiro Castillo
+
+Code: MX14021, Coordinates: 19.614, -104.475
+
+
+### Chapala
+
+Code: MX14030, Coordinates: 20.28, -103.22
+
+
+### Chimaltitán (Chimaltitan)
+
+Code: MX14031, Coordinates: 21.741, -103.679
+
+
+### Chiquilistlán (Chiquilistlan)
+
+Code: MX14032, Coordinates: 20.08, -103.882
+
+
+### Cihuatlán (Cihuatlan)
+
+Code: MX14022, Coordinates: 19.263, -104.605
+
+
+### Cocula
+
+Code: MX14024, Coordinates: 20.404, -103.817
+
+
+### Colotlán (Colotlan)
+
+Code: MX14025, Coordinates: 22.098, -103.274
+
+
+### Concepción de Buenos Aires (Concepcion de Buenos Aires)
+
+Code: MX14026, Coordinates: 19.979, -103.232
+
+
+### Cuautitlán de García Barragán (Cuautitlan de Garcia Barragan)
+
+Code: MX14027, Coordinates: 19.461, -104.264
+
+
+### Cuautla
+
+Code: MX14028, Coordinates: 20.204, -104.486
+
+
+### Cuquío (Cuquio)
+
+Code: MX14029, Coordinates: 20.949, -103.032
+
+
+### Degollado
+
+Code: MX14033, Coordinates: 20.456, -102.175
+
+
+### Ejutla
+
+Code: MX14034, Coordinates: 19.901, -104.14
+
+
+### El Arenal
+
+Code: MX14009, Coordinates: 20.759, -103.705
+
+
+### El Grullo
+
+Code: MX14037, Coordinates: 19.796, -104.178
+
+
+### El Limón (El Limon)
+
+Code: MX14054, Coordinates: 19.851, -104.119
+
+
+### El Salto
+
+Code: MX14070, Coordinates: 20.538, -103.245
+
+
+### Encarnación de Díaz (Encarnacion de Diaz)
+
+Code: MX14035, Coordinates: 21.568, -102.183
+
+
+### Etzatlán (Etzatlan)
+
+Code: MX14036, Coordinates: 20.761, -104.131
+
+
+### Gómez Farías (Gomez Farias)
+
+Code: MX14079, Coordinates: 19.86, -103.41
+
+
+### Guachinango
+
+Code: MX14038, Coordinates: 20.697, -104.415
+
+
+### Guadalajara
+
+Code: MX14039, Coordinates: 20.678, -103.336
+
+
+### Hostotipaquillo
+
+Code: MX14040, Coordinates: 21.071, -104.039
+
+
+### Huejúcar (Huejucar)
+
+Code: MX14041, Coordinates: 22.31, -103.283
+
+
+### Huejuquilla el Alto
+
+Code: MX14042, Coordinates: 22.528, -103.93
+
+
+### Ixtlahuacán de los Membrillos (Ixtlahuacan de los Membrillos)
+
+Code: MX14044, Coordinates: 20.403, -103.205
+
+
+### Ixtlahuacán del Río (Ixtlahuacan del Rio)
+
+Code: MX14045, Coordinates: 20.904, -103.25
+
+
+### Jalostotitlán (Jalostotitlan)
+
+Code: MX14046, Coordinates: 21.201, -102.511
+
+
+### Jamay
+
+Code: MX14047, Coordinates: 20.293, -102.687
+
+
+### Jesús María (Jesus Maria)
+
+Code: MX14048, Coordinates: 20.648, -102.108
+
+
+### Jilotlán de los Dolores (Jilotlan de los Dolores)
+
+Code: MX14049, Coordinates: 19.317, -102.89
+
+
+### Jocotepec
+
+Code: MX14050, Coordinates: 20.289, -103.437
+
+
+### Juanacatlán (Juanacatlan)
+
+Code: MX14051, Coordinates: 20.486, -103.151
+
+
+### Juchitlán (Juchitlan)
+
+Code: MX14052, Coordinates: 20.063, -104.048
+
+
+### La Barca
+
+Code: MX14018, Coordinates: 20.357, -102.503
+
+
+### La Huerta
+
+Code: MX14043, Coordinates: 19.497, -104.807
+
+
+### La Manzanilla de la Paz
+
+Code: MX14057, Coordinates: 20.026, -103.097
+
+
+### Lagos de Moreno
+
+Code: MX14053, Coordinates: 21.533, -101.82
+
+
+### Magdalena
+
+Code: MX14055, Coordinates: 20.911, -104.116
+
+
+### Mascota
+
+Code: MX14058, Coordinates: 20.553, -104.763
+
+
+### Mazamitla
+
+Code: MX14059, Coordinates: 19.891, -103.081
+
+
+### Mexticacán (Mexticacan)
+
+Code: MX14060, Coordinates: 21.278, -102.752
+
+
+### Mezquitic
+
+Code: MX14061, Coordinates: 22.231, -104.11
+
+
+### Mixtlán (Mixtlan)
+
+Code: MX14062, Coordinates: 20.522, -104.534
+
+
+### Ocotlán (Ocotlan)
+
+Code: MX14063, Coordinates: 20.387, -102.734
+
+
+### Ojuelos de Jalisco
+
+Code: MX14064, Coordinates: 21.786, -101.679
+
+
+### Pihuamo
+
+Code: MX14065, Coordinates: 19.169, -103.388
+
+
+### Poncitlán (Poncitlan)
+
+Code: MX14066, Coordinates: 20.264, -102.883
+
+
+### Puerto Vallarta
+
+Code: MX14067, Coordinates: 20.698, -105.181
+
+
+### Quitupan
+
+Code: MX14069, Coordinates: 19.794, -102.887
+
+
+### San Cristóbal de la Barranca (San Cristobal de la Barranca)
+
+Code: MX14071, Coordinates: 21.046, -103.512
+
+
+### San Diego de Alejandría (San Diego de Alejandria)
+
+Code: MX14072, Coordinates: 20.956, -102.026
+
+
+### San Gabriel
+
+Code: MX14113, Coordinates: 19.704, -103.748
+
+
+### San Ignacio Cerro Gordo
+
+Code: MX14125, Coordinates: 20.769, -102.515
+
+
+### San Juan de los Lagos
+
+Code: MX14073, Coordinates: 21.254, -102.281
+
+
+### San Juanito de Escobedo
+
+Code: MX14007, Coordinates: 20.814, -103.992
+
+
+### San Julián (San Julian)
+
+Code: MX14074, Coordinates: 20.994, -102.158
+
+
+### San Marcos
+
+Code: MX14075, Coordinates: 20.823, -104.246
+
+
+### San Martín de Bolaños (San Martin de Bolanos)
+
+Code: MX14076, Coordinates: 21.572, -103.792
+
+
+### San Martín Hidalgo (San Martin Hidalgo)
+
+Code: MX14077, Coordinates: 20.459, -103.912
+
+
+### San Miguel el Alto
+
+Code: MX14078, Coordinates: 20.993, -102.394
+
+
+### San Pedro Tlaquepaque
+
+Code: MX14098, Coordinates: 20.593, -103.339
+
+
+### San Sebastián del Oeste (San Sebastian del Oeste)
+
+Code: MX14080, Coordinates: 20.855, -104.817
+
+
+### Santa María de los Ángeles (Santa Maria de los Angeles)
+
+Code: MX14081, Coordinates: 22.191, -103.189
+
+
+### Santa María del Oro (Santa Maria del Oro)
+
+Code: MX14056, Coordinates: 19.525, -102.868
+
+
+### Sayula
+
+Code: MX14082, Coordinates: 19.857, -103.609
+
+
+### Tala
+
+Code: MX14083, Coordinates: 20.61, -103.708
+
+
+### Talpa de Allende
+
+Code: MX14084, Coordinates: 20.299, -104.952
+
+
+### Tamazula de Gordiano
+
+Code: MX14085, Coordinates: 19.685, -103.17
+
+
+### Tapalpa
+
+Code: MX14086, Coordinates: 19.947, -103.776
+
+
+### Tecalitlán (Tecalitlan)
+
+Code: MX14087, Coordinates: 19.239, -103.177
+
+
+### Techaluta de Montenegro
+
+Code: MX14089, Coordinates: 20.094, -103.58
+
+
+### Tecolotlán (Tecolotlan)
+
+Code: MX14088, Coordinates: 20.276, -103.982
+
+
+### Tenamaxtlán (Tenamaxtlan)
+
+Code: MX14090, Coordinates: 20.135, -104.143
+
+
+### Teocaltiche
+
+Code: MX14091, Coordinates: 21.481, -102.52
+
+
+### Teocuitatlán de Corona (Teocuitatlan de Corona)
+
+Code: MX14092, Coordinates: 20.111, -103.356
+
+
+### Tepatitlán de Morelos (Tepatitlan de Morelos)
+
+Code: MX14093, Coordinates: 20.817, -102.677
+
+
+### Tequila
+
+Code: MX14094, Coordinates: 21.116, -103.81
+
+
+### Teuchitlán (Teuchitlan)
+
+Code: MX14095, Coordinates: 20.681, -103.833
+
+
+### Tizapán el Alto (Tizapan el Alto)
+
+Code: MX14096, Coordinates: 20.107, -103.098
+
+
+### Tlajomulco de Zúñiga (Tlajomulco de Zuniga)
+
+Code: MX14097, Coordinates: 20.488, -103.399
+
+
+### Tolimán (Toliman)
+
+Code: MX14099, Coordinates: 19.545, -103.973
+
+
+### Tomatlán (Tomatlan)
+
+Code: MX14100, Coordinates: 19.938, -105.151
+
+
+### Tonalá (Tonala)
+
+Code: MX14101, Coordinates: 20.62, -103.223
+
+
+### Tonaya
+
+Code: MX14102, Coordinates: 19.867, -103.918
+
+
+### Tonila
+
+Code: MX14103, Coordinates: 19.429, -103.53
+
+
+### Totatiche
+
+Code: MX14104, Coordinates: 21.965, -103.443
+
+
+### Tototlán (Tototlan)
+
+Code: MX14105, Coordinates: 20.537, -102.749
+
+
+### Tuxcacuesco
+
+Code: MX14106, Coordinates: 19.687, -104.013
+
+
+### Tuxcueca
+
+Code: MX14107, Coordinates: 20.139, -103.189
+
+
+### Tuxpan
+
+Code: MX14108, Coordinates: 19.437, -103.411
+
+
+### Unión de San Antonio (Union de San Antonio)
+
+Code: MX14109, Coordinates: 21.158, -102.001
+
+
+### Unión de Tula (Union de Tula)
+
+Code: MX14110, Coordinates: 20.005, -104.228
+
+
+### Valle de Guadalupe
+
+Code: MX14111, Coordinates: 21.043, -102.68
+
+
+### Valle de Juárez (Valle de Juarez)
+
+Code: MX14112, Coordinates: 19.815, -102.984
+
+
+### Villa Corona
+
+Code: MX14114, Coordinates: 20.389, -103.686
+
+
+### Villa Guerrero
+
+Code: MX14115, Coordinates: 22.019, -103.679
+
+
+### Villa Hidalgo
+
+Code: MX14116, Coordinates: 21.663, -102.583
+
+
+### Villa Purificación (Villa Purificacion)
+
+Code: MX14068, Coordinates: 19.823, -104.733
+
+
+### Yahualica de González Gallo (Yahualica de Gonzalez Gallo)
+
+Code: MX14118, Coordinates: 21.123, -102.951
+
+
+### Zacoalco de Torres
+
+Code: MX14119, Coordinates: 20.244, -103.593
+
+
+### Zapopan
+
+Code: MX14120, Coordinates: 20.791, -103.491
+
+
+### Zapotiltic
+
+Code: MX14121, Coordinates: 19.618, -103.365
+
+
+### Zapotitlán de Vadillo (Zapotitlan de Vadillo)
+
+Code: MX14122, Coordinates: 19.503, -103.749
+
+
+### Zapotlán del Rey (Zapotlan del Rey)
+
+Code: MX14123, Coordinates: 20.467, -102.923
+
+
+### Zapotlán el Grande (Zapotlan el Grande)
+
+Code: MX14023, Coordinates: 19.697, -103.511
+
+
+### Zapotlanejo
+
+Code: MX14124, Coordinates: 20.64, -103.051
+
+

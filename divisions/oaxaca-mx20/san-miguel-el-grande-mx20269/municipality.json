@@ -1,0 +1,45 @@
+{
+  "id": "MX20269",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel el Grande",
+    "en": "San Miguel el Grande",
+    "slug": "san-miguel-el-grande-mx20269"
+  },
+  "code": {
+    "id": "MX20269",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.074",
+    "lon": "-97.603"
+  },
+  "metadata": {},
+  "source": {}
+}

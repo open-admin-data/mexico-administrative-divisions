@@ -1,0 +1,45 @@
+{
+  "id": "MX20013",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ciénega de Zimatlán",
+    "en": "Cienega de Zimatlán",
+    "slug": "cienega-de-zimatln-mx20013"
+  },
+  "code": {
+    "id": "MX20013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.893",
+    "lon": "-96.766"
+  },
+  "metadata": {},
+  "source": {}
+}

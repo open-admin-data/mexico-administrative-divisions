@@ -1,0 +1,45 @@
+{
+  "id": "MX03003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Paz",
+    "en": "La Paz",
+    "slug": "la-paz-mx03003"
+  },
+  "code": {
+    "id": "MX03003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX03",
+    "level": 1,
+    "name": {
+      "local": "Baja California Sur",
+      "en": "Baja California Sur",
+      "slug": "baja-california-sur-mx03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.108",
+    "lon": "-110.729"
+  },
+  "metadata": {},
+  "source": {}
+}

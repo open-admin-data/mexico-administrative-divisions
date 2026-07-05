@@ -1,0 +1,45 @@
+{
+  "id": "MX26002",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Agua Prieta",
+    "en": "Agua Prieta",
+    "slug": "agua-prieta-mx26002"
+  },
+  "code": {
+    "id": "MX26002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.021",
+    "lon": "-109.042"
+  },
+  "metadata": {},
+  "source": {}
+}

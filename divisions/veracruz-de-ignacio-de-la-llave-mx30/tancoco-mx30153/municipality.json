@@ -1,0 +1,45 @@
+{
+  "id": "MX30153",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tancoco",
+    "en": "Tancoco",
+    "slug": "tancoco-mx30153"
+  },
+  "code": {
+    "id": "MX30153",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX30",
+    "level": 1,
+    "name": {
+      "local": "Veracruz de Ignacio de la Llave",
+      "en": "Veracruz de Ignacio de la Llave",
+      "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX30",
+      "level": 1,
+      "name": {
+        "local": "Veracruz de Ignacio de la Llave",
+        "en": "Veracruz de Ignacio de la Llave",
+        "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.267",
+    "lon": "-97.802"
+  },
+  "metadata": {},
+  "source": {}
+}

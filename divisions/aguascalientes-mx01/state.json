@@ -1,0 +1,33 @@
+{
+  "id": "MX01",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Aguascalientes",
+    "en": "Aguascalientes",
+    "slug": "aguascalientes-mx01"
+  },
+  "code": {
+    "id": "MX01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.041",
+    "lon": "-102.313"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/aguascalientes-mx01/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

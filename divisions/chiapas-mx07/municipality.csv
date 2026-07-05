@@ -1,0 +1,119 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MX07001,Acacoyagua,Acacoyagua,acacoyagua-mx07001,MX07001,15.406,-92.697
+MX07002,Acala,Acala,acala-mx07002,MX07002,16.528,-92.846
+MX07003,Acapetahua,Acapetahua,acapetahua-mx07003,MX07003,15.222,-92.767
+MX07113,Aldama,Aldama,aldama-mx07113,MX07113,16.932,-92.7
+MX07004,Altamirano,Altamirano,altamirano-mx07004,MX07004,16.668,-91.877
+MX07005,Amatán,Amatan,amatan-mx07005,MX07005,17.389,-92.85
+MX07006,Amatenango de la Frontera,Amatenango de la Frontera,amatenango-de-la-frontera-mx07006,MX07006,15.523,-92.086
+MX07007,Amatenango del Valle,Amatenango del Valle,amatenango-del-valle-mx07007,MX07007,16.516,-92.401
+MX07008,Angel Albino Corzo,Angel Albino Corzo,angel-albino-corzo-mx07008,MX07008,15.759,-92.69
+MX07009,Arriaga,Arriaga,arriaga-mx07009,MX07009,16.255,-93.895
+MX07010,Bejucal de Ocampo,Bejucal de Ocampo,bejucal-de-ocampo-mx07010,MX07010,15.486,-92.161
+MX07011,Bella Vista,Bella Vista,bella-vista-mx07011,MX07011,15.623,-92.232
+MX07114,Benemérito de las Américas,Benemerito de las Americas,benemerito-de-las-americas-mx07114,MX07114,16.339,-90.503
+MX07012,Berriozábal,Berriozabal,berriozabal-mx07012,MX07012,16.873,-93.337
+MX07013,Bochil,Bochil,bochil-mx07013,MX07013,17.023,-92.961
+MX07015,Cacahoatán,Cacahoatan,cacahoatan-mx07015,MX07015,15.088,-92.165
+MX07016,Catazajá,Catazaja,catazaja-mx07016,MX07016,17.768,-92.038
+MX07022,Chalchihuitán,Chalchihuitan,chalchihuitan-mx07022,MX07022,17.033,-92.614
+MX07023,Chamula,Chamula,chamula-mx07023,MX07023,16.817,-92.678
+MX07024,Chanal,Chanal,chanal-mx07024,MX07024,16.603,-92.257
+MX07025,Chapultenango,Chapultenango,chapultenango-mx07025,MX07025,17.336,-93.132
+MX07026,Chenalhó,Chenalho,chenalho-mx07026,MX07026,16.972,-92.519
+MX07027,Chiapa de Corzo,Chiapa de Corzo,chiapa-de-corzo-mx07027,MX07027,16.601,-92.997
+MX07028,Chiapilla,Chiapilla,chiapilla-mx07028,MX07028,16.558,-92.723
+MX07029,Chicoasén,Chicoasen,chicoasen-mx07029,MX07029,16.995,-93.12
+MX07030,Chicomuselo,Chicomuselo,chicomuselo-mx07030,MX07030,15.794,-92.419
+MX07031,Chilón,Chilon,chilon-mx07031,MX07031,17.107,-92.064
+MX07017,Cintalapa,Cintalapa,cintalapa-mx07017,MX07017,16.752,-93.833
+MX07018,Coapilla,Coapilla,coapilla-mx07018,MX07018,17.118,-93.11
+MX07019,Comitán de Domínguez,Comitan de Dominguez,comitan-de-dominguez-mx07019,MX07019,16.291,-92.175
+MX07021,Copainalá,Copainala,copainala-mx07021,MX07021,17.116,-93.242
+MX07014,El Bosque,El Bosque,el-bosque-mx07014,MX07014,17.025,-92.747
+MX07070,El Porvenir,El Porvenir,el-porvenir-mx07070,MX07070,15.429,-92.274
+MX07032,Escuintla,Escuintla,escuintla-mx07032,MX07032,15.351,-92.556
+MX07033,Francisco León,Francisco Leon,francisco-leon-mx07033,MX07033,17.291,-93.29
+MX07034,Frontera Comalapa,Frontera Comalapa,frontera-comalapa-mx07034,MX07034,15.782,-92.079
+MX07035,Frontera Hidalgo,Frontera Hidalgo,frontera-hidalgo-mx07035,MX07035,14.753,-92.217
+MX07037,Huehuetán,Huehuetan,huehuetan-mx07037,MX07037,15.022,-92.429
+MX07039,Huitiupán,Huitiupan,huitiupan-mx07039,MX07039,17.241,-92.703
+MX07038,Huixtán,Huixtan,huixtan-mx07038,MX07038,16.683,-92.394
+MX07040,Huixtla,Huixtla,huixtla-mx07040,MX07040,15.122,-92.504
+MX07042,Ixhuatán,Ixhuatan,ixhuatan-mx07042,MX07042,17.305,-93.02
+MX07043,Ixtacomitán,Ixtacomitan,ixtacomitan-mx07043,MX07043,17.427,-93.1
+MX07044,Ixtapa,Ixtapa,ixtapa-mx07044,MX07044,16.808,-92.899
+MX07045,Ixtapangajoya,Ixtapangajoya,ixtapangajoya-mx07045,MX07045,17.461,-92.979
+MX07046,Jiquipilas,Jiquipilas,jiquipilas-mx07046,MX07046,16.575,-93.606
+MX07047,Jitotol,Jitotol,jitotol-mx07047,MX07047,17.089,-92.846
+MX07048,Juárez,Juarez,juarez-mx07048,MX07048,17.701,-93.198
+MX07020,La Concordia,La Concordia,la-concordia-mx07020,MX07020,15.96,-92.67
+MX07036,La Grandeza,La Grandeza,la-grandeza-mx07036,MX07036,15.51,-92.215
+MX07041,La Independencia,La Independencia,la-independencia-mx07041,MX07041,16.214,-91.905
+MX07050,La Libertad,La Libertad,la-libertad-mx07050,MX07050,17.601,-91.756
+MX07099,La Trinitaria,La Trinitaria,la-trinitaria-mx07099,MX07099,15.98,-91.992
+MX07049,Larráinzar,Larrainzar,larrainzar-mx07049,MX07049,16.928,-92.787
+MX07052,Las Margaritas,Las Margaritas,las-margaritas-mx07052,MX07052,16.374,-91.709
+MX07075,Las Rosas,Las Rosas,las-rosas-mx07075,MX07075,16.369,-92.378
+MX07051,Mapastepec,Mapastepec,mapastepec-mx07051,MX07051,15.447,-92.915
+MX07115,Maravilla Tenejapa,Maravilla Tenejapa,maravilla-tenejapa-mx07115,MX07115,16.212,-91.269
+MX07116,Marqués de Comillas,Marques de Comillas,marques-de-comillas-mx07116,MX07116,16.273,-90.717
+MX07053,Mazapa de Madero,Mazapa de Madero,mazapa-de-madero-mx07053,MX07053,15.358,-92.184
+MX07054,Mazatán,Mazatan,mazatan-mx07054,MX07054,14.877,-92.486
+MX07055,Metapa,Metapa,metapa-mx07055,MX07055,14.822,-92.201
+MX07056,Mitontic,Mitontic,mitontic-mx07056,MX07056,16.876,-92.559
+MX07117,Montecristo de Guerrero,Montecristo de Guerrero,montecristo-de-guerrero-mx07117,MX07117,15.678,-92.662
+MX07057,Motozintla,Motozintla,motozintla-mx07057,MX07057,15.305,-92.349
+MX07058,Nicolás Ruíz,Nicolas Ruiz,nicolas-ruiz-mx07058,MX07058,16.437,-92.595
+MX07059,Ocosingo,Ocosingo,ocosingo-mx07059,MX07059,16.657,-91.192
+MX07060,Ocotepec,Ocotepec,ocotepec-mx07060,MX07060,17.226,-93.173
+MX07061,Ocozocoautla de Espinosa,Ocozocoautla de Espinosa,ocozocoautla-de-espinosa-mx07061,MX07061,16.795,-93.458
+MX07062,Ostuacán,Ostuacan,ostuacan-mx07062,MX07062,17.444,-93.349
+MX07063,Osumacinta,Osumacinta,osumacinta-mx07063,MX07063,16.896,-93.092
+MX07064,Oxchuc,Oxchuc,oxchuc-mx07064,MX07064,16.796,-92.307
+MX07065,Palenque,Palenque,palenque-mx07065,MX07065,17.453,-91.812
+MX07066,Pantelhó,Pantelho,pantelho-mx07066,MX07066,17.051,-92.455
+MX07067,Pantepec,Pantepec,pantepec-mx07067,MX07067,17.194,-93.052
+MX07068,Pichucalco,Pichucalco,pichucalco-mx07068,MX07068,17.509,-93.129
+MX07069,Pijijiapan,Pijijiapan,pijijiapan-mx07069,MX07069,15.653,-93.134
+MX07072,Pueblo Nuevo Solistahuacán,Pueblo Nuevo Solistahuacan,pueblo-nuevo-solistahuacan-mx07072,MX07072,17.225,-92.867
+MX07073,Rayón,Rayon,rayon-mx07073,MX07073,17.185,-92.999
+MX07074,Reforma,Reforma,reforma-mx07074,MX07074,17.869,-93.237
+MX07076,Sabanilla,Sabanilla,sabanilla-mx07076,MX07076,17.325,-92.634
+MX07077,Salto de Agua,Salto de Agua,salto-de-agua-mx07077,MX07077,17.435,-92.225
+MX07118,San Andrés Duraznal,San Andres Duraznal,san-andres-duraznal-mx07118,MX07118,17.162,-92.81
+MX07078,San Cristóbal de las Casas,San Cristobal de las Casas,san-cristobal-de-las-casas-mx07078,MX07078,16.684,-92.616
+MX07079,San Fernando,San Fernando,san-fernando-mx07079,MX07079,16.913,-93.22
+MX07112,San Juan Cancuc,San Juan Cancuc,san-juan-cancuc-mx07112,MX07112,16.931,-92.39
+MX07110,San Lucas,San Lucas,san-lucas-mx07110,MX07110,16.628,-92.742
+MX07119,Santiago el Pinar,Santiago el Pinar,santiago-el-pinar-mx07119,MX07119,16.948,-92.723
+MX07080,Siltepec,Siltepec,siltepec-mx07080,MX07080,15.558,-92.49
+MX07081,Simojovel,Simojovel,simojovel-mx07081,MX07081,17.147,-92.539
+MX07082,Sitalá,Sitala,sitala-mx07082,MX07082,17.037,-92.346
+MX07083,Socoltenango,Socoltenango,socoltenango-mx07083,MX07083,16.101,-92.434
+MX07084,Solosuchiapa,Solosuchiapa,solosuchiapa-mx07084,MX07084,17.395,-93.003
+MX07085,Soyaló,Soyalo,soyalo-mx07085,MX07085,16.926,-92.996
+MX07086,Suchiapa,Suchiapa,suchiapa-mx07086,MX07086,16.595,-93.127
+MX07087,Suchiate,Suchiate,suchiate-mx07087,MX07087,14.634,-92.241
+MX07088,Sunuapa,Sunuapa,sunuapa-mx07088,MX07088,17.483,-93.242
+MX07089,Tapachula,Tapachula,tapachula-mx07089,MX07089,14.927,-92.322
+MX07090,Tapalapa,Tapalapa,tapalapa-mx07090,MX07090,17.216,-93.103
+MX07091,Tapilula,Tapilula,tapilula-mx07091,MX07091,17.25,-93.006
+MX07092,Tecpatán,Tecpatan,tecpatan-mx07092,MX07092,17.199,-93.437
+MX07093,Tenejapa,Tenejapa,tenejapa-mx07093,MX07093,16.848,-92.497
+MX07094,Teopisca,Teopisca,teopisca-mx07094,MX07094,16.553,-92.523
+MX07096,Tila,Tila,tila-mx07096,MX07096,17.37,-92.496
+MX07097,Tonalá,Tonala,tonala-mx07097,MX07097,15.984,-93.699
+MX07098,Totolapa,Totolapa,totolapa-mx07098,MX07098,16.512,-92.666
+MX07100,Tumbalá,Tumbala,tumbala-mx07100,MX07100,17.31,-92.282
+MX07102,Tuxtla Chico,Tuxtla Chico,tuxtla-chico-mx07102,MX07102,14.877,-92.197
+MX07101,Tuxtla Gutiérrez,Tuxtla Gutierrez,tuxtla-gutierrez-mx07101,MX07101,16.745,-93.142
+MX07103,Tuzantán,Tuzantan,tuzantan-mx07103,MX07103,15.141,-92.406
+MX07104,Tzimol,Tzimol,tzimol-mx07104,MX07104,16.109,-92.244
+MX07105,Unión Juárez,Union Juarez,union-juarez-mx07105,MX07105,15.071,-92.098
+MX07106,Venustiano Carranza,Venustiano Carranza,venustiano-carranza-mx07106,MX07106,16.309,-92.638
+MX07071,Villa Comaltitlán,Villa Comaltitlan,villa-comaltitlan-mx07071,MX07071,15.171,-92.613
+MX07107,Villa Corzo,Villa Corzo,villa-corzo-mx07107,MX07107,16.137,-93.261
+MX07108,Villaflores,Villaflores,villaflores-mx07108,MX07108,16.376,-93.359
+MX07109,Yajalón,Yajalon,yajalon-mx07109,MX07109,17.177,-92.352
+MX07111,Zinacantán,Zinacantan,zinacantan-mx07111,MX07111,16.712,-92.786

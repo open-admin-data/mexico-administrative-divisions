@@ -1,0 +1,45 @@
+{
+  "id": "MX17031",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zacatepec",
+    "en": "Zacatepec",
+    "slug": "zacatepec-mx17031"
+  },
+  "code": {
+    "id": "MX17031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.651",
+    "lon": "-99.203"
+  },
+  "metadata": {},
+  "source": {}
+}

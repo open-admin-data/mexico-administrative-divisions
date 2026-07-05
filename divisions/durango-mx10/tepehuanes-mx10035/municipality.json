@@ -1,0 +1,45 @@
+{
+  "id": "MX10035",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tepehuanes",
+    "en": "Tepehuanes",
+    "slug": "tepehuanes-mx10035"
+  },
+  "code": {
+    "id": "MX10035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.424",
+    "lon": "-106.111"
+  },
+  "metadata": {},
+  "source": {}
+}

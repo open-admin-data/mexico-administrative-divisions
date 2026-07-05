@@ -1,0 +1,45 @@
+{
+  "id": "MX13004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Agua Blanca de Iturbide",
+    "en": "Agua Blanca de Iturbide",
+    "slug": "agua-blanca-de-iturbide-mx13004"
+  },
+  "code": {
+    "id": "MX13004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.365",
+    "lon": "-98.373"
+  },
+  "metadata": {},
+  "source": {}
+}

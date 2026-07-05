@@ -1,0 +1,45 @@
+{
+  "id": "MX29019",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tepetitla de Lardizábal",
+    "en": "Tepetitla de Lardizabal",
+    "slug": "tepetitla-de-lardizabal-mx29019"
+  },
+  "code": {
+    "id": "MX29019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.283",
+    "lon": "-98.376"
+  },
+  "metadata": {},
+  "source": {}
+}

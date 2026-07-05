@@ -1,0 +1,45 @@
+{
+  "id": "MX21110",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Palmar de Bravo",
+    "en": "Palmar de Bravo",
+    "slug": "palmar-de-bravo-mx21110"
+  },
+  "code": {
+    "id": "MX21110",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.838",
+    "lon": "-97.52"
+  },
+  "metadata": {},
+  "source": {}
+}

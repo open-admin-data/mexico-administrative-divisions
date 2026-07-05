@@ -1,0 +1,45 @@
+{
+  "id": "MX08059",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco del Oro",
+    "en": "San Francisco del Oro",
+    "slug": "san-francisco-del-oro-mx08059"
+  },
+  "code": {
+    "id": "MX08059",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.889",
+    "lon": "-105.897"
+  },
+  "metadata": {},
+  "source": {}
+}

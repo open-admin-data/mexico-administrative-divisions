@@ -1,0 +1,45 @@
+{
+  "id": "MX20416",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Ixcatlán",
+    "en": "Santa Maria Ixcatlan",
+    "slug": "santa-maria-ixcatlan-mx20416"
+  },
+  "code": {
+    "id": "MX20416",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.85",
+    "lon": "-97.161"
+  },
+  "metadata": {},
+  "source": {}
+}

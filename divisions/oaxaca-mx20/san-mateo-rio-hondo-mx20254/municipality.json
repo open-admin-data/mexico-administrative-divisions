@@ -1,0 +1,45 @@
+{
+  "id": "MX20254",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Mateo Río Hondo",
+    "en": "San Mateo Rio Hondo",
+    "slug": "san-mateo-rio-hondo-mx20254"
+  },
+  "code": {
+    "id": "MX20254",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.099",
+    "lon": "-96.57"
+  },
+  "metadata": {},
+  "source": {}
+}

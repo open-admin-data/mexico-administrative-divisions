@@ -1,0 +1,45 @@
+{
+  "id": "MX27005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Comalcalco",
+    "en": "Comalcalco",
+    "slug": "comalcalco-mx27005"
+  },
+  "code": {
+    "id": "MX27005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX27",
+    "level": 1,
+    "name": {
+      "local": "Tabasco",
+      "en": "Tabasco",
+      "slug": "tabasco-mx27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.29",
+    "lon": "-93.321"
+  },
+  "metadata": {},
+  "source": {}
+}

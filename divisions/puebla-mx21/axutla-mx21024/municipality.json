@@ -1,0 +1,45 @@
+{
+  "id": "MX21024",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Axutla",
+    "en": "Axutla",
+    "slug": "axutla-mx21024"
+  },
+  "code": {
+    "id": "MX21024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.185",
+    "lon": "-98.395"
+  },
+  "metadata": {},
+  "source": {}
+}

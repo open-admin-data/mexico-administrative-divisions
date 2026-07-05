@@ -1,0 +1,3647 @@
+[
+  {
+    "id": "MX12001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acapulco de Juárez",
+      "en": "Acapulco de Juarez",
+      "slug": "acapulco-de-juarez-mx12001"
+    },
+    "code": {
+      "id": "MX12001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.959",
+      "lon": "-99.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12076",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acatepec",
+      "en": "Acatepec",
+      "slug": "acatepec-mx12076"
+    },
+    "code": {
+      "id": "MX12076",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.177",
+      "lon": "-99.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ahuacuotzingo",
+      "en": "Ahuacuotzingo",
+      "slug": "ahuacuotzingo-mx12002"
+    },
+    "code": {
+      "id": "MX12002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.77",
+      "lon": "-98.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ajuchitlán del Progreso",
+      "en": "Ajuchitlan del Progreso",
+      "slug": "ajuchitlan-del-progreso-mx12003"
+    },
+    "code": {
+      "id": "MX12003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.931",
+      "lon": "-100.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alcozauca de Guerrero",
+      "en": "Alcozauca de Guerrero",
+      "slug": "alcozauca-de-guerrero-mx12004"
+    },
+    "code": {
+      "id": "MX12004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.368",
+      "lon": "-98.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alpoyeca",
+      "en": "Alpoyeca",
+      "slug": "alpoyeca-mx12005"
+    },
+    "code": {
+      "id": "MX12005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.634",
+      "lon": "-98.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apaxtla",
+      "en": "Apaxtla",
+      "slug": "apaxtla-mx12006"
+    },
+    "code": {
+      "id": "MX12006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.094",
+      "lon": "-99.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arcelia",
+      "en": "Arcelia",
+      "slug": "arcelia-mx12007"
+    },
+    "code": {
+      "id": "MX12007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.254",
+      "lon": "-100.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atenango del Río",
+      "en": "Atenango del Rio",
+      "slug": "atenango-del-rio-mx12008"
+    },
+    "code": {
+      "id": "MX12008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.135",
+      "lon": "-99.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atlamajalcingo del Monte",
+      "en": "Atlamajalcingo del Monte",
+      "slug": "atlamajalcingo-del-monte-mx12009"
+    },
+    "code": {
+      "id": "MX12009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.261",
+      "lon": "-98.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atlixtac",
+      "en": "Atlixtac",
+      "slug": "atlixtac-mx12010"
+    },
+    "code": {
+      "id": "MX12010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.475",
+      "lon": "-98.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atoyac de Álvarez",
+      "en": "Atoyac de Alvarez",
+      "slug": "atoyac-de-alvarez-mx12011"
+    },
+    "code": {
+      "id": "MX12011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.311",
+      "lon": "-100.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayutla de los Libres",
+      "en": "Ayutla de los Libres",
+      "slug": "ayutla-de-los-libres-mx12012"
+    },
+    "code": {
+      "id": "MX12012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.972",
+      "lon": "-99.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Azoyú",
+      "en": "Azoyu",
+      "slug": "azoyu-mx12013"
+    },
+    "code": {
+      "id": "MX12013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.677",
+      "lon": "-98.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benito Juárez",
+      "en": "Benito Juarez",
+      "slug": "benito-juarez-mx12014"
+    },
+    "code": {
+      "id": "MX12014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.086",
+      "lon": "-100.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buenavista de Cuéllar",
+      "en": "Buenavista de Cuellar",
+      "slug": "buenavista-de-cuellar-mx12015"
+    },
+    "code": {
+      "id": "MX12015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.469",
+      "lon": "-99.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chilapa de Álvarez",
+      "en": "Chilapa de Alvarez",
+      "slug": "chilapa-de-alvarez-mx12028"
+    },
+    "code": {
+      "id": "MX12028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.491",
+      "lon": "-99.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chilpancingo de los Bravo",
+      "en": "Chilpancingo de los Bravo",
+      "slug": "chilpancingo-de-los-bravo-mx12029"
+    },
+    "code": {
+      "id": "MX12029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.392",
+      "lon": "-99.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coahuayutla de José María Izazaga",
+      "en": "Coahuayutla de Jose Maria Izazaga",
+      "slug": "coahuayutla-de-jose-maria-izazaga-mx12016"
+    },
+    "code": {
+      "id": "MX12016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.294",
+      "lon": "-101.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12078",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cochoapa el Grande",
+      "en": "Cochoapa el Grande",
+      "slug": "cochoapa-el-grande-mx12078"
+    },
+    "code": {
+      "id": "MX12078",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.123",
+      "lon": "-98.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cocula",
+      "en": "Cocula",
+      "slug": "cocula-mx12017"
+    },
+    "code": {
+      "id": "MX12017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.14",
+      "lon": "-99.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Copala",
+      "en": "Copala",
+      "slug": "copala-mx12018"
+    },
+    "code": {
+      "id": "MX12018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.624",
+      "lon": "-98.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Copalillo",
+      "en": "Copalillo",
+      "slug": "copalillo-mx12019"
+    },
+    "code": {
+      "id": "MX12019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.981",
+      "lon": "-99.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Copanatoyac",
+      "en": "Copanatoyac",
+      "slug": "copanatoyac-mx12020"
+    },
+    "code": {
+      "id": "MX12020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.438",
+      "lon": "-98.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coyuca de Benítez",
+      "en": "Coyuca de Benitez",
+      "slug": "coyuca-de-benitez-mx12021"
+    },
+    "code": {
+      "id": "MX12021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.178",
+      "lon": "-100.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coyuca de Catalán",
+      "en": "Coyuca de Catalan",
+      "slug": "coyuca-de-catalan-mx12022"
+    },
+    "code": {
+      "id": "MX12022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.091",
+      "lon": "-101.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuajinicuilapa",
+      "en": "Cuajinicuilapa",
+      "slug": "cuajinicuilapa-mx12023"
+    },
+    "code": {
+      "id": "MX12023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.455",
+      "lon": "-98.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cualác",
+      "en": "Cualac",
+      "slug": "cualac-mx12024"
+    },
+    "code": {
+      "id": "MX12024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.735",
+      "lon": "-98.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuautepec",
+      "en": "Cuautepec",
+      "slug": "cuautepec-mx12025"
+    },
+    "code": {
+      "id": "MX12025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.72",
+      "lon": "-98.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuetzala del Progreso",
+      "en": "Cuetzala del Progreso",
+      "slug": "cuetzala-del-progreso-mx12026"
+    },
+    "code": {
+      "id": "MX12026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.107",
+      "lon": "-99.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cutzamala de Pinzón",
+      "en": "Cutzamala de Pinzon",
+      "slug": "cutzamala-de-pinzon-mx12027"
+    },
+    "code": {
+      "id": "MX12027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.642",
+      "lon": "-100.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12075",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Eduardo Neri",
+      "en": "Eduardo Neri",
+      "slug": "eduardo-neri-mx12075"
+    },
+    "code": {
+      "id": "MX12075",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.814",
+      "lon": "-99.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Florencio Villarreal",
+      "en": "Florencio Villarreal",
+      "slug": "florencio-villarreal-mx12030"
+    },
+    "code": {
+      "id": "MX12030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.699",
+      "lon": "-99.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Canuto A. Neri",
+      "en": "General Canuto A. Neri",
+      "slug": "general-canuto-a-neri-mx12031"
+    },
+    "code": {
+      "id": "MX12031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.444",
+      "lon": "-100.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Heliodoro Castillo",
+      "en": "General Heliodoro Castillo",
+      "slug": "general-heliodoro-castillo-mx12032"
+    },
+    "code": {
+      "id": "MX12032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.72",
+      "lon": "-100.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huamuxtitlán",
+      "en": "Huamuxtitlan",
+      "slug": "huamuxtitlan-mx12033"
+    },
+    "code": {
+      "id": "MX12033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.83",
+      "lon": "-98.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huitzuco de los Figueroa",
+      "en": "Huitzuco de los Figueroa",
+      "slug": "huitzuco-de-los-figueroa-mx12034"
+    },
+    "code": {
+      "id": "MX12034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.191",
+      "lon": "-99.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iguala de la Independencia",
+      "en": "Iguala de la Independencia",
+      "slug": "iguala-de-la-independencia-mx12035"
+    },
+    "code": {
+      "id": "MX12035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.192",
+      "lon": "-99.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Igualapa",
+      "en": "Igualapa",
+      "slug": "igualapa-mx12036"
+    },
+    "code": {
+      "id": "MX12036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.781",
+      "lon": "-98.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12081",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iliatenco",
+      "en": "Iliatenco",
+      "slug": "iliatenco-mx12081"
+    },
+    "code": {
+      "id": "MX12081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.052",
+      "lon": "-98.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixcateopan de Cuauhtémoc",
+      "en": "Ixcateopan de Cuauhtemoc",
+      "slug": "ixcateopan-de-cuauhtemoc-mx12037"
+    },
+    "code": {
+      "id": "MX12037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.463",
+      "lon": "-99.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12079",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "José Joaquín de Herrera",
+      "en": "Jose Joaquin de Herrera",
+      "slug": "jose-joaquin-de-herrera-mx12079"
+    },
+    "code": {
+      "id": "MX12079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.441",
+      "lon": "-98.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juan R. Escudero",
+      "en": "Juan R. Escudero",
+      "slug": "juan-r-escudero-mx12039"
+    },
+    "code": {
+      "id": "MX12039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.137",
+      "lon": "-99.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12080",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juchitán",
+      "en": "Juchitan",
+      "slug": "juchitan-mx12080"
+    },
+    "code": {
+      "id": "MX12080",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.594",
+      "lon": "-98.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12068",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Unión de Isidoro Montes de Oca",
+      "en": "La Union de Isidoro Montes de Oca",
+      "slug": "la-union-de-isidoro-montes-de-oca-mx12068"
+    },
+    "code": {
+      "id": "MX12068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.009",
+      "lon": "-101.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Leonardo Bravo",
+      "en": "Leonardo Bravo",
+      "slug": "leonardo-bravo-mx12040"
+    },
+    "code": {
+      "id": "MX12040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.63",
+      "lon": "-99.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malinaltepec",
+      "en": "Malinaltepec",
+      "slug": "malinaltepec-mx12041"
+    },
+    "code": {
+      "id": "MX12041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.129",
+      "lon": "-98.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12077",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marquelia",
+      "en": "Marquelia",
+      "slug": "marquelia-mx12077"
+    },
+    "code": {
+      "id": "MX12077",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.628",
+      "lon": "-98.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mártir de Cuilapan",
+      "en": "Martir de Cuilapan",
+      "slug": "martir-de-cuilapan-mx12042"
+    },
+    "code": {
+      "id": "MX12042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.808",
+      "lon": "-99.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Metlatónoc",
+      "en": "Metlatonoc",
+      "slug": "metlatonoc-mx12043"
+    },
+    "code": {
+      "id": "MX12043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.124",
+      "lon": "-98.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mochitlán",
+      "en": "Mochitlan",
+      "slug": "mochitlan-mx12044"
+    },
+    "code": {
+      "id": "MX12044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.343",
+      "lon": "-99.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olinalá",
+      "en": "Olinala",
+      "slug": "olinala-mx12045"
+    },
+    "code": {
+      "id": "MX12045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.883",
+      "lon": "-98.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ometepec",
+      "en": "Ometepec",
+      "slug": "ometepec-mx12046"
+    },
+    "code": {
+      "id": "MX12046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.673",
+      "lon": "-98.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Ascencio Alquisiras",
+      "en": "Pedro Ascencio Alquisiras",
+      "slug": "pedro-ascencio-alquisiras-mx12047"
+    },
+    "code": {
+      "id": "MX12047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.526",
+      "lon": "-99.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Petatlán",
+      "en": "Petatlan",
+      "slug": "petatlan-mx12048"
+    },
+    "code": {
+      "id": "MX12048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.633",
+      "lon": "-101.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pilcaya",
+      "en": "Pilcaya",
+      "slug": "pilcaya-mx12049"
+    },
+    "code": {
+      "id": "MX12049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.716",
+      "lon": "-99.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pungarabato",
+      "en": "Pungarabato",
+      "slug": "pungarabato-mx12050"
+    },
+    "code": {
+      "id": "MX12050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.344",
+      "lon": "-100.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quechultenango",
+      "en": "Quechultenango",
+      "slug": "quechultenango-mx12051"
+    },
+    "code": {
+      "id": "MX12051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.32",
+      "lon": "-99.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis Acatlán",
+      "en": "San Luis Acatlan",
+      "slug": "san-luis-acatlan-mx12052"
+    },
+    "code": {
+      "id": "MX12052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.87",
+      "lon": "-98.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-mx12053"
+    },
+    "code": {
+      "id": "MX12053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.846",
+      "lon": "-99.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel Totolapan",
+      "en": "San Miguel Totolapan",
+      "slug": "san-miguel-totolapan-mx12054"
+    },
+    "code": {
+      "id": "MX12054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.847",
+      "lon": "-100.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taxco de Alarcón",
+      "en": "Taxco de Alarcon",
+      "slug": "taxco-de-alarcon-mx12055"
+    },
+    "code": {
+      "id": "MX12055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.522",
+      "lon": "-99.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecoanapa",
+      "en": "Tecoanapa",
+      "slug": "tecoanapa-mx12056"
+    },
+    "code": {
+      "id": "MX12056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.971",
+      "lon": "-99.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Técpan de Galeana",
+      "en": "Tecpan de Galeana",
+      "slug": "tecpan-de-galeana-mx12057"
+    },
+    "code": {
+      "id": "MX12057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.401",
+      "lon": "-100.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teloloapan",
+      "en": "Teloloapan",
+      "slug": "teloloapan-mx12058"
+    },
+    "code": {
+      "id": "MX12058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.387",
+      "lon": "-99.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepecoacuilco de Trujano",
+      "en": "Tepecoacuilco de Trujano",
+      "slug": "tepecoacuilco-de-trujano-mx12059"
+    },
+    "code": {
+      "id": "MX12059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.124",
+      "lon": "-99.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tetipac",
+      "en": "Tetipac",
+      "slug": "tetipac-mx12060"
+    },
+    "code": {
+      "id": "MX12060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.659",
+      "lon": "-99.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tixtla de Guerrero",
+      "en": "Tixtla de Guerrero",
+      "slug": "tixtla-de-guerrero-mx12061"
+    },
+    "code": {
+      "id": "MX12061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.609",
+      "lon": "-99.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlacoachistlahuaca",
+      "en": "Tlacoachistlahuaca",
+      "slug": "tlacoachistlahuaca-mx12062"
+    },
+    "code": {
+      "id": "MX12062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.975",
+      "lon": "-98.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlacoapa",
+      "en": "Tlacoapa",
+      "slug": "tlacoapa-mx12063"
+    },
+    "code": {
+      "id": "MX12063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.209",
+      "lon": "-98.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlalchapa",
+      "en": "Tlalchapa",
+      "slug": "tlalchapa-mx12064"
+    },
+    "code": {
+      "id": "MX12064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "-100.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlalixtaquilla de Maldonado",
+      "en": "Tlalixtaquilla de Maldonado",
+      "slug": "tlalixtaquilla-de-maldonado-mx12065"
+    },
+    "code": {
+      "id": "MX12065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.568",
+      "lon": "-98.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlapa de Comonfort",
+      "en": "Tlapa de Comonfort",
+      "slug": "tlapa-de-comonfort-mx12066"
+    },
+    "code": {
+      "id": "MX12066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.527",
+      "lon": "-98.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlapehuala",
+      "en": "Tlapehuala",
+      "slug": "tlapehuala-mx12067"
+    },
+    "code": {
+      "id": "MX12067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.277",
+      "lon": "-100.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12069",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xalpatláhuac",
+      "en": "Xalpatlahuac",
+      "slug": "xalpatlahuac-mx12069"
+    },
+    "code": {
+      "id": "MX12069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.429",
+      "lon": "-98.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12070",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xochihuehuetlán",
+      "en": "Xochihuehuetlan",
+      "slug": "xochihuehuetlan-mx12070"
+    },
+    "code": {
+      "id": "MX12070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.893",
+      "lon": "-98.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12071",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xochistlahuaca",
+      "en": "Xochistlahuaca",
+      "slug": "xochistlahuaca-mx12071"
+    },
+    "code": {
+      "id": "MX12071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.882",
+      "lon": "-98.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12072",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapotitlán Tablas",
+      "en": "Zapotitlan Tablas",
+      "slug": "zapotitlan-tablas-mx12072"
+    },
+    "code": {
+      "id": "MX12072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.322",
+      "lon": "-98.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zihuatanejo de Azueta",
+      "en": "Zihuatanejo de Azueta",
+      "slug": "zihuatanejo-de-azueta-mx12038"
+    },
+    "code": {
+      "id": "MX12038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.808",
+      "lon": "-101.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12073",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zirándaro",
+      "en": "Zirandaro",
+      "slug": "zirandaro-mx12073"
+    },
+    "code": {
+      "id": "MX12073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.328",
+      "lon": "-101.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX12074",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zitlala",
+      "en": "Zitlala",
+      "slug": "zitlala-mx12074"
+    },
+    "code": {
+      "id": "MX12074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX12",
+        "level": 1,
+        "name": {
+          "local": "Guerrero",
+          "en": "Guerrero",
+          "slug": "guerrero-mx12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.748",
+      "lon": "-99.187"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

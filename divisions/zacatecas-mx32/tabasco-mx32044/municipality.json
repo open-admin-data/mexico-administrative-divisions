@@ -1,0 +1,45 @@
+{
+  "id": "MX32044",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tabasco",
+    "en": "Tabasco",
+    "slug": "tabasco-mx32044"
+  },
+  "code": {
+    "id": "MX32044",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.94",
+    "lon": "-102.925"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX19021",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "General Escobedo",
+    "en": "General Escobedo",
+    "slug": "general-escobedo-mx19021"
+  },
+  "code": {
+    "id": "MX19021",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.83",
+    "lon": "-100.352"
+  },
+  "metadata": {},
+  "source": {}
+}

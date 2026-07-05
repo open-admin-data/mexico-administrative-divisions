@@ -1,0 +1,45 @@
+{
+  "id": "MX26038",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Moctezuma",
+    "en": "Moctezuma",
+    "slug": "moctezuma-mx26038"
+  },
+  "code": {
+    "id": "MX26038",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.749",
+    "lon": "-109.708"
+  },
+  "metadata": {},
+  "source": {}
+}

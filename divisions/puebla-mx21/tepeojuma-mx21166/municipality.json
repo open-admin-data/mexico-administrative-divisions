@@ -1,0 +1,45 @@
+{
+  "id": "MX21166",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tepeojuma",
+    "en": "Tepeojuma",
+    "slug": "tepeojuma-mx21166"
+  },
+  "code": {
+    "id": "MX21166",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.729",
+    "lon": "-98.439"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "MX12",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Guerrero",
+    "en": "Guerrero",
+    "slug": "guerrero-mx12"
+  },
+  "code": {
+    "id": "MX12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.602",
+    "lon": "-99.946"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/guerrero-mx12/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

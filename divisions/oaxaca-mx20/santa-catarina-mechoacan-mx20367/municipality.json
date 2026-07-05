@@ -1,0 +1,45 @@
+{
+  "id": "MX20367",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Catarina Mechoacán",
+    "en": "Santa Catarina Mechoacan",
+    "slug": "santa-catarina-mechoacan-mx20367"
+  },
+  "code": {
+    "id": "MX20367",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.344",
+    "lon": "-97.831"
+  },
+  "metadata": {},
+  "source": {}
+}

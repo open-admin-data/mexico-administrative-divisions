@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "MX01",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    },
+    "code": {
+      "id": "MX01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.041",
+      "lon": "-102.313"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/aguascalientes-mx01/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX02",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Baja California",
+      "en": "Baja California",
+      "slug": "baja-california-mx02"
+    },
+    "code": {
+      "id": "MX02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.359",
+      "lon": "-115.244"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/baja-california-mx02/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX03",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Baja California Sur",
+      "en": "Baja California Sur",
+      "slug": "baja-california-sur-mx03"
+    },
+    "code": {
+      "id": "MX03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.436",
+      "lon": "-111.543"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/baja-california-sur-mx03/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX04",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Campeche",
+      "en": "Campeche",
+      "slug": "campeche-mx04"
+    },
+    "code": {
+      "id": "MX04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.331",
+      "lon": "-89.943"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/campeche-mx04/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX07",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    },
+    "code": {
+      "id": "MX07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 118
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.26",
+      "lon": "-92.245"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/chiapas-mx07/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX08",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    },
+    "code": {
+      "id": "MX08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.693",
+      "lon": "-106.041"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/chihuahua-mx08/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX05",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Coahuila de Zaragoza",
+      "en": "Coahuila de Zaragoza",
+      "slug": "coahuila-de-zaragoza-mx05"
+    },
+    "code": {
+      "id": "MX05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.207",
+      "lon": "-102.31"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/coahuila-de-zaragoza-mx05/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX06",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Colima",
+      "en": "Colima",
+      "slug": "colima-mx06"
+    },
+    "code": {
+      "id": "MX06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.099",
+      "lon": "-103.922"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/colima-mx06/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX09",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    },
+    "code": {
+      "id": "MX09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.321",
+      "lon": "-99.152"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/distrito-federal-mx09/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX10",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    },
+    "code": {
+      "id": "MX10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.594",
+      "lon": "-104.587"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/durango-mx10/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX11",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    },
+    "code": {
+      "id": "MX11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.877",
+      "lon": "-101.257"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/guanajuato-mx11/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX12",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    },
+    "code": {
+      "id": "MX12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 81
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.602",
+      "lon": "-99.946"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/guerrero-mx12/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX13",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    },
+    "code": {
+      "id": "MX13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 84
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.498",
+      "lon": "-99.213"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/hidalgo-mx13/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX14",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    },
+    "code": {
+      "id": "MX14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 125
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.838",
+      "lon": "-103.217"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/jalisco-mx14/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX15",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    },
+    "code": {
+      "id": "MX15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 125
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.326",
+      "lon": "-99.822"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/mexico-mx15/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX16",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Michoacán de Ocampo",
+      "en": "Michoacan de Ocampo",
+      "slug": "michoacan-de-ocampo-mx16"
+    },
+    "code": {
+      "id": "MX16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 113
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.156",
+      "lon": "-101.668"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/michoacan-de-ocampo-mx16/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX17",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    },
+    "code": {
+      "id": "MX17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.732",
+      "lon": "-99.102"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/morelos-mx17/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX18",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Nayarit",
+      "en": "Nayarit",
+      "slug": "nayarit-mx18"
+    },
+    "code": {
+      "id": "MX18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.844",
+      "lon": "-104.828"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/nayarit-mx18/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX19",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    },
+    "code": {
+      "id": "MX19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.479",
+      "lon": "-99.503"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/nuevo-leon-mx19/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX20",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    },
+    "code": {
+      "id": "MX20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 570
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.164",
+      "lon": "-96.283"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/oaxaca-mx20/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX21",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    },
+    "code": {
+      "id": "MX21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 217
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.35",
+      "lon": "-97.42"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/puebla-mx21/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX22",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Querétaro de Arteaga",
+      "en": "Queretaro de Arteaga",
+      "slug": "queretaro-de-arteaga-mx22"
+    },
+    "code": {
+      "id": "MX22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.843",
+      "lon": "-100.002"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/queretaro-de-arteaga-mx22/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX23",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx23"
+    },
+    "code": {
+      "id": "MX23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.742",
+      "lon": "-88.323"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/quintana-roo-mx23/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX24",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24"
+    },
+    "code": {
+      "id": "MX24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.827",
+      "lon": "-101.096"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/san-luis-potosi-mx24/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX25",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25"
+    },
+    "code": {
+      "id": "MX25",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.757",
+      "lon": "-107.386"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/sinaloa-mx25/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX26",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    },
+    "code": {
+      "id": "MX26",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.397",
+      "lon": "-110.554"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/sonora-mx26/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX27",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Tabasco",
+      "en": "Tabasco",
+      "slug": "tabasco-mx27"
+    },
+    "code": {
+      "id": "MX27",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.923",
+      "lon": "-92.464"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/tabasco-mx27/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX28",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    },
+    "code": {
+      "id": "MX28",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.944",
+      "lon": "-98.402"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/tamaulipas-mx28/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX29",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    },
+    "code": {
+      "id": "MX29",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.417",
+      "lon": "-98.11"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/tlaxcala-mx29/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX30",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Veracruz de Ignacio de la Llave",
+      "en": "Veracruz de Ignacio de la Llave",
+      "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+    },
+    "code": {
+      "id": "MX30",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 212
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.964",
+      "lon": "-95.179"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/veracruz-de-ignacio-de-la-llave-mx30/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX31",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    },
+    "code": {
+      "id": "MX31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 106
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.61",
+      "lon": "-89.088"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/yucatan-mx31/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  },
+  {
+    "id": "MX32",
+    "level": 1,
+    "level_name": {
+      "local": "Estado",
+      "en": "State"
+    },
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    },
+    "code": {
+      "id": "MX32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.082",
+      "lon": "-103.209"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mx/states/zacatecas-mx32/",
+      "api": "https://openadmindata.org/api/mx/"
+    }
+  }
+]

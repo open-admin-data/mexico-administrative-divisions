@@ -1,0 +1,45 @@
+{
+  "id": "MX26018",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cajeme",
+    "en": "Cajeme",
+    "slug": "cajeme-mx26018"
+  },
+  "code": {
+    "id": "MX26018",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.744",
+    "lon": "-109.938"
+  },
+  "metadata": {},
+  "source": {}
+}

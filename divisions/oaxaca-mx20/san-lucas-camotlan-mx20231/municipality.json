@@ -1,0 +1,45 @@
+{
+  "id": "MX20231",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lucas Camotlán",
+    "en": "San Lucas Camotlan",
+    "slug": "san-lucas-camotlan-mx20231"
+  },
+  "code": {
+    "id": "MX20231",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.936",
+    "lon": "-95.692"
+  },
+  "metadata": {},
+  "source": {}
+}

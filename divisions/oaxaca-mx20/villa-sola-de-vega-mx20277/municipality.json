@@ -1,0 +1,45 @@
+{
+  "id": "MX20277",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa Sola de Vega",
+    "en": "Villa Sola de Vega",
+    "slug": "villa-sola-de-vega-mx20277"
+  },
+  "code": {
+    "id": "MX20277",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.572",
+    "lon": "-97.104"
+  },
+  "metadata": {},
+  "source": {}
+}

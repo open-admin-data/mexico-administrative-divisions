@@ -1,0 +1,45 @@
+{
+  "id": "MX20540",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa de Tamazulápam del Progreso",
+    "en": "Villa de Tamazulapam del Progreso",
+    "slug": "villa-de-tamazulapam-del-progreso-mx20540"
+  },
+  "code": {
+    "id": "MX20540",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.695",
+    "lon": "-97.578"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX26020",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carbó",
+    "en": "Carbo",
+    "slug": "carbo-mx26020"
+  },
+  "code": {
+    "id": "MX26020",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.739",
+    "lon": "-111.043"
+  },
+  "metadata": {},
+  "source": {}
+}

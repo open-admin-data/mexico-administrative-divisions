@@ -1,0 +1,45 @@
+{
+  "id": "MX07041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Independencia",
+    "en": "La Independencia",
+    "slug": "la-independencia-mx07041"
+  },
+  "code": {
+    "id": "MX07041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.214",
+    "lon": "-91.905"
+  },
+  "metadata": {},
+  "source": {}
+}

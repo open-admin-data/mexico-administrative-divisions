@@ -1,0 +1,45 @@
+{
+  "id": "MX12008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atenango del Río",
+    "en": "Atenango del Rio",
+    "slug": "atenango-del-rio-mx12008"
+  },
+  "code": {
+    "id": "MX12008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.135",
+    "lon": "-99.034"
+  },
+  "metadata": {},
+  "source": {}
+}

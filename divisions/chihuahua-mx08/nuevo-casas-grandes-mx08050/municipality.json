@@ -1,0 +1,45 @@
+{
+  "id": "MX08050",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nuevo Casas Grandes",
+    "en": "Nuevo Casas Grandes",
+    "slug": "nuevo-casas-grandes-mx08050"
+  },
+  "code": {
+    "id": "MX08050",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.506",
+    "lon": "-107.665"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX17014",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mazatepec",
+    "en": "Mazatepec",
+    "slug": "mazatepec-mx17014"
+  },
+  "code": {
+    "id": "MX17014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.688",
+    "lon": "-99.358"
+  },
+  "metadata": {},
+  "source": {}
+}

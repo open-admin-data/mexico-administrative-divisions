@@ -1,0 +1,45 @@
+{
+  "id": "MX20317",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Mártir Yucuxaco",
+    "en": "San Pedro Martir Yucuxaco",
+    "slug": "san-pedro-martir-yucuxaco-mx20317"
+  },
+  "code": {
+    "id": "MX20317",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.452",
+    "lon": "-97.649"
+  },
+  "metadata": {},
+  "source": {}
+}

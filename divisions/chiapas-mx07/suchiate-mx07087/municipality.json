@@ -1,0 +1,45 @@
+{
+  "id": "MX07087",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Suchiate",
+    "en": "Suchiate",
+    "slug": "suchiate-mx07087"
+  },
+  "code": {
+    "id": "MX07087",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.634",
+    "lon": "-92.241"
+  },
+  "metadata": {},
+  "source": {}
+}

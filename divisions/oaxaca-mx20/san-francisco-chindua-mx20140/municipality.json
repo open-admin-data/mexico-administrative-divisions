@@ -1,0 +1,45 @@
+{
+  "id": "MX20140",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco Chindúa",
+    "en": "San Francisco Chindua",
+    "slug": "san-francisco-chindua-mx20140"
+  },
+  "code": {
+    "id": "MX20140",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.415",
+    "lon": "-97.318"
+  },
+  "metadata": {},
+  "source": {}
+}

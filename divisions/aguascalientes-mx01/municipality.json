@@ -1,0 +1,497 @@
+[
+  {
+    "id": "MX01001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01001"
+    },
+    "code": {
+      "id": "MX01001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.848",
+      "lon": "-102.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Asientos",
+      "en": "Asientos",
+      "slug": "asientos-mx01002"
+    },
+    "code": {
+      "id": "MX01002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.132",
+      "lon": "-102.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calvillo",
+      "en": "Calvillo",
+      "slug": "calvillo-mx01003"
+    },
+    "code": {
+      "id": "MX01003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.911",
+      "lon": "-102.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cosío",
+      "en": "Cosio",
+      "slug": "cosio-mx01004"
+    },
+    "code": {
+      "id": "MX01004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.371",
+      "lon": "-102.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Llano",
+      "en": "El Llano",
+      "slug": "el-llano-mx01010"
+    },
+    "code": {
+      "id": "MX01010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.929",
+      "lon": "-102.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jesús María",
+      "en": "Jesus Maria",
+      "slug": "jesus-maria-mx01005"
+    },
+    "code": {
+      "id": "MX01005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.935",
+      "lon": "-102.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pabellón de Arteaga",
+      "en": "Pabellon de Arteaga",
+      "slug": "pabellon-de-arteaga-mx01006"
+    },
+    "code": {
+      "id": "MX01006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.105",
+      "lon": "-102.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rincón de Romos",
+      "en": "Rincon de Romos",
+      "slug": "rincon-de-romos-mx01007"
+    },
+    "code": {
+      "id": "MX01007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.248",
+      "lon": "-102.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco de los Romo",
+      "en": "San Francisco de los Romo",
+      "slug": "san-francisco-de-los-romo-mx01011"
+    },
+    "code": {
+      "id": "MX01011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.022",
+      "lon": "-102.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José de Gracia",
+      "en": "San Jose de Gracia",
+      "slug": "san-jose-de-gracia-mx01008"
+    },
+    "code": {
+      "id": "MX01008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.143",
+      "lon": "-102.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX01009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepezalá",
+      "en": "Tepezala",
+      "slug": "tepezala-mx01009"
+    },
+    "code": {
+      "id": "MX01009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX01",
+        "level": 1,
+        "name": {
+          "local": "Aguascalientes",
+          "en": "Aguascalientes",
+          "slug": "aguascalientes-mx01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.244",
+      "lon": "-102.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

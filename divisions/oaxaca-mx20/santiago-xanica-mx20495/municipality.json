@@ -1,0 +1,45 @@
+{
+  "id": "MX20495",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Xanica",
+    "en": "Santiago Xanica",
+    "slug": "santiago-xanica-mx20495"
+  },
+  "code": {
+    "id": "MX20495",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.017",
+    "lon": "-96.253"
+  },
+  "metadata": {},
+  "source": {}
+}

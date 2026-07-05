@@ -1,0 +1,45 @@
+{
+  "id": "MX15040",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixtapan de la Sal",
+    "en": "Ixtapan de la Sal",
+    "slug": "ixtapan-de-la-sal-mx15040"
+  },
+  "code": {
+    "id": "MX15040",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.841",
+    "lon": "-99.693"
+  },
+  "metadata": {},
+  "source": {}
+}

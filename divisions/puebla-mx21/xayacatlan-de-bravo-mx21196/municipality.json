@@ -1,0 +1,45 @@
+{
+  "id": "MX21196",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xayacatlán de Bravo",
+    "en": "Xayacatlan de Bravo",
+    "slug": "xayacatlan-de-bravo-mx21196"
+  },
+  "code": {
+    "id": "MX21196",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.276",
+    "lon": "-97.957"
+  },
+  "metadata": {},
+  "source": {}
+}

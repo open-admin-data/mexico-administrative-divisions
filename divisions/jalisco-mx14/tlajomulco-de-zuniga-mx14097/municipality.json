@@ -1,0 +1,45 @@
+{
+  "id": "MX14097",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlajomulco de Zúñiga",
+    "en": "Tlajomulco de Zuniga",
+    "slug": "tlajomulco-de-zuniga-mx14097"
+  },
+  "code": {
+    "id": "MX14097",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.488",
+    "lon": "-103.399"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX15111",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa de Allende",
+    "en": "Villa de Allende",
+    "slug": "villa-de-allende-mx15111"
+  },
+  "code": {
+    "id": "MX15111",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.395",
+    "lon": "-100.143"
+  },
+  "metadata": {},
+  "source": {}
+}

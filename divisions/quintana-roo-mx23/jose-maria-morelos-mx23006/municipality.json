@@ -1,0 +1,45 @@
+{
+  "id": "MX23006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "José María Morelos",
+    "en": "Jose Maria Morelos",
+    "slug": "jose-maria-morelos-mx23006"
+  },
+  "code": {
+    "id": "MX23006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX23",
+    "level": 1,
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.707",
+    "lon": "-88.778"
+  },
+  "metadata": {},
+  "source": {}
+}

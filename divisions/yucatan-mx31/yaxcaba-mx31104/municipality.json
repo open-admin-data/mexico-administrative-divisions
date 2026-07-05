@@ -1,0 +1,45 @@
+{
+  "id": "MX31104",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Yaxcabá",
+    "en": "Yaxcaba",
+    "slug": "yaxcaba-mx31104"
+  },
+  "code": {
+    "id": "MX31104",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.485",
+    "lon": "-88.787"
+  },
+  "metadata": {},
+  "source": {}
+}

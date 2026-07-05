@@ -1,0 +1,34 @@
+# Baja California Sur — Mexico Administrative Divisions
+
+> 5 municipalitys
+> Code: MX03
+> Coordinates: 25.436, -111.543
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Comondú (Comondu)
+
+Code: MX03001, Coordinates: 25.549, -111.76
+
+
+### La Paz
+
+Code: MX03003, Coordinates: 24.108, -110.729
+
+
+### Loreto
+
+Code: MX03009, Coordinates: 25.884, -111.502
+
+
+### Los Cabos
+
+Code: MX03008, Coordinates: 23.272, -109.69
+
+
+### Mulegé (Mulege)
+
+Code: MX03002, Coordinates: 27.205, -113.323
+
+

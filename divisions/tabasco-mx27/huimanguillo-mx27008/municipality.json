@@ -1,0 +1,45 @@
+{
+  "id": "MX27008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huimanguillo",
+    "en": "Huimanguillo",
+    "slug": "huimanguillo-mx27008"
+  },
+  "code": {
+    "id": "MX27008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX27",
+    "level": 1,
+    "name": {
+      "local": "Tabasco",
+      "en": "Tabasco",
+      "slug": "tabasco-mx27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.762",
+    "lon": "-93.676"
+  },
+  "metadata": {},
+  "source": {}
+}

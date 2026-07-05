@@ -1,0 +1,45 @@
+{
+  "id": "MX20238",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Martín de los Cansecos",
+    "en": "San Martin de los Cansecos",
+    "slug": "san-martin-de-los-cansecos-mx20238"
+  },
+  "code": {
+    "id": "MX20238",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.659",
+    "lon": "-96.726"
+  },
+  "metadata": {},
+  "source": {}
+}

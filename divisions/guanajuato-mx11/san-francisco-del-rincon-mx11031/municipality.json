@@ -1,0 +1,45 @@
+{
+  "id": "MX11031",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco del Rincón",
+    "en": "San Francisco del Rincon",
+    "slug": "san-francisco-del-rincon-mx11031"
+  },
+  "code": {
+    "id": "MX11031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.925",
+    "lon": "-101.798"
+  },
+  "metadata": {},
+  "source": {}
+}

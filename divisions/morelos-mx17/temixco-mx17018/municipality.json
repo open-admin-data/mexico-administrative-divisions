@@ -1,0 +1,45 @@
+{
+  "id": "MX17018",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Temixco",
+    "en": "Temixco",
+    "slug": "temixco-mx17018"
+  },
+  "code": {
+    "id": "MX17018",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.848",
+    "lon": "-99.246"
+  },
+  "metadata": {},
+  "source": {}
+}

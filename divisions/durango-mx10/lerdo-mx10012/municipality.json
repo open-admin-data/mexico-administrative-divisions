@@ -1,0 +1,45 @@
+{
+  "id": "MX10012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lerdo",
+    "en": "Lerdo",
+    "slug": "lerdo-mx10012"
+  },
+  "code": {
+    "id": "MX10012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.471",
+    "lon": "-103.664"
+  },
+  "metadata": {},
+  "source": {}
+}

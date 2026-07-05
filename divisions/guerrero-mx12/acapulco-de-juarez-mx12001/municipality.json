@@ -1,0 +1,45 @@
+{
+  "id": "MX12001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acapulco de Juárez",
+    "en": "Acapulco de Juarez",
+    "slug": "acapulco-de-juarez-mx12001"
+  },
+  "code": {
+    "id": "MX12001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.959",
+    "lon": "-99.771"
+  },
+  "metadata": {},
+  "source": {}
+}

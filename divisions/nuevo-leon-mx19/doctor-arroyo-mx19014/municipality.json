@@ -1,0 +1,45 @@
+{
+  "id": "MX19014",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Doctor Arroyo",
+    "en": "Doctor Arroyo",
+    "slug": "doctor-arroyo-mx19014"
+  },
+  "code": {
+    "id": "MX19014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.804",
+    "lon": "-100.226"
+  },
+  "metadata": {},
+  "source": {}
+}

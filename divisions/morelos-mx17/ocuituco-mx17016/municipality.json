@@ -1,0 +1,45 @@
+{
+  "id": "MX17016",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ocuituco",
+    "en": "Ocuituco",
+    "slug": "ocuituco-mx17016"
+  },
+  "code": {
+    "id": "MX17016",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.879",
+    "lon": "-98.777"
+  },
+  "metadata": {},
+  "source": {}
+}

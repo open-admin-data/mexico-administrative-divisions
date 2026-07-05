@@ -1,0 +1,45 @@
+{
+  "id": "MX14041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huejúcar",
+    "en": "Huejucar",
+    "slug": "huejucar-mx14041"
+  },
+  "code": {
+    "id": "MX14041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.31",
+    "lon": "-103.283"
+  },
+  "metadata": {},
+  "source": {}
+}

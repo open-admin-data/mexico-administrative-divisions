@@ -1,0 +1,45 @@
+{
+  "id": "MX08036",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jiménez",
+    "en": "Jimenez",
+    "slug": "jimenez-mx08036"
+  },
+  "code": {
+    "id": "MX08036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.966",
+    "lon": "-104.367"
+  },
+  "metadata": {},
+  "source": {}
+}

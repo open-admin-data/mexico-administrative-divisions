@@ -1,0 +1,45 @@
+{
+  "id": "MX31061",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Río Lagartos",
+    "en": "Rio Lagartos",
+    "slug": "rio-lagartos-mx31061"
+  },
+  "code": {
+    "id": "MX31061",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.516",
+    "lon": "-88.133"
+  },
+  "metadata": {},
+  "source": {}
+}

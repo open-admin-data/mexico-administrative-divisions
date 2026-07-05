@@ -1,0 +1,45 @@
+{
+  "id": "MX25013",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mocorito",
+    "en": "Mocorito",
+    "slug": "mocorito-mx25013"
+  },
+  "code": {
+    "id": "MX25013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX25",
+    "level": 1,
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.364",
+    "lon": "-107.819"
+  },
+  "metadata": {},
+  "source": {}
+}

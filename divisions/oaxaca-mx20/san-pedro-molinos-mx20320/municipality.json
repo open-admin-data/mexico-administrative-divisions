@@ -1,0 +1,45 @@
+{
+  "id": "MX20320",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Molinos",
+    "en": "San Pedro Molinos",
+    "slug": "san-pedro-molinos-mx20320"
+  },
+  "code": {
+    "id": "MX20320",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.102",
+    "lon": "-97.551"
+  },
+  "metadata": {},
+  "source": {}
+}

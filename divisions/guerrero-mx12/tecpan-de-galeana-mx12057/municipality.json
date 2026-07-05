@@ -1,0 +1,45 @@
+{
+  "id": "MX12057",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Técpan de Galeana",
+    "en": "Tecpan de Galeana",
+    "slug": "tecpan-de-galeana-mx12057"
+  },
+  "code": {
+    "id": "MX12057",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.401",
+    "lon": "-100.751"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX29058",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Catarina Ayometla",
+    "en": "Santa Catarina Ayometla",
+    "slug": "santa-catarina-ayometla-mx29058"
+  },
+  "code": {
+    "id": "MX29058",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.193",
+    "lon": "-98.216"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX13070",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlahuelilpan",
+    "en": "Tlahuelilpan",
+    "slug": "tlahuelilpan-mx13070"
+  },
+  "code": {
+    "id": "MX13070",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.134",
+    "lon": "-99.208"
+  },
+  "metadata": {},
+  "source": {}
+}

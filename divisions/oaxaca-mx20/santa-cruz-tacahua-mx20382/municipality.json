@@ -1,0 +1,45 @@
+{
+  "id": "MX20382",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Tacahua",
+    "en": "Santa Cruz Tacahua",
+    "slug": "santa-cruz-tacahua-mx20382"
+  },
+  "code": {
+    "id": "MX20382",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.92",
+    "lon": "-97.463"
+  },
+  "metadata": {},
+  "source": {}
+}

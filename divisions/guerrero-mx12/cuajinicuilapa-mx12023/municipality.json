@@ -1,0 +1,45 @@
+{
+  "id": "MX12023",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuajinicuilapa",
+    "en": "Cuajinicuilapa",
+    "slug": "cuajinicuilapa-mx12023"
+  },
+  "code": {
+    "id": "MX12023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.455",
+    "lon": "-98.521"
+  },
+  "metadata": {},
+  "source": {}
+}

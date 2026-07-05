@@ -1,0 +1,45 @@
+{
+  "id": "MX15011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atenco",
+    "en": "Atenco",
+    "slug": "atenco-mx15011"
+  },
+  "code": {
+    "id": "MX15011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.543",
+    "lon": "-98.957"
+  },
+  "metadata": {},
+  "source": {}
+}

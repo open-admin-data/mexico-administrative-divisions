@@ -1,0 +1,45 @@
+{
+  "id": "MX07117",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Montecristo de Guerrero",
+    "en": "Montecristo de Guerrero",
+    "slug": "montecristo-de-guerrero-mx07117"
+  },
+  "code": {
+    "id": "MX07117",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.678",
+    "lon": "-92.662"
+  },
+  "metadata": {},
+  "source": {}
+}

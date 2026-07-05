@@ -1,0 +1,45 @@
+{
+  "id": "MX20026",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chalcatongo de Hidalgo",
+    "en": "Chalcatongo de Hidalgo",
+    "slug": "chalcatongo-de-hidalgo-mx20026"
+  },
+  "code": {
+    "id": "MX20026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.998",
+    "lon": "-97.57"
+  },
+  "metadata": {},
+  "source": {}
+}

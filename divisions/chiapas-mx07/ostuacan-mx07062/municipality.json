@@ -1,0 +1,45 @@
+{
+  "id": "MX07062",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ostuacán",
+    "en": "Ostuacan",
+    "slug": "ostuacan-mx07062"
+  },
+  "code": {
+    "id": "MX07062",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.444",
+    "lon": "-93.349"
+  },
+  "metadata": {},
+  "source": {}
+}

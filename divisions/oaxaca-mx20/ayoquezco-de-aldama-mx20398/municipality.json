@@ -1,0 +1,45 @@
+{
+  "id": "MX20398",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ayoquezco de Aldama",
+    "en": "Ayoquezco de Aldama",
+    "slug": "ayoquezco-de-aldama-mx20398"
+  },
+  "code": {
+    "id": "MX20398",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.668",
+    "lon": "-96.89"
+  },
+  "metadata": {},
+  "source": {}
+}

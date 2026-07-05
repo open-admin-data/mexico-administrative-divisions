@@ -1,0 +1,45 @@
+{
+  "id": "MX20499",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Yolomécatl",
+    "en": "Santiago Yolomecatl",
+    "slug": "santiago-yolomecatl-mx20499"
+  },
+  "code": {
+    "id": "MX20499",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.466",
+    "lon": "-97.571"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX12015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buenavista de Cuéllar",
+    "en": "Buenavista de Cuellar",
+    "slug": "buenavista-de-cuellar-mx12015"
+  },
+  "code": {
+    "id": "MX12015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.469",
+    "lon": "-99.425"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX10024",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rodeo",
+    "en": "Rodeo",
+    "slug": "rodeo-mx10024"
+  },
+  "code": {
+    "id": "MX10024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.195",
+    "lon": "-104.578"
+  },
+  "metadata": {},
+  "source": {}
+}

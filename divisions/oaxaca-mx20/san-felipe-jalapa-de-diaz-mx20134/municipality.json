@@ -1,0 +1,45 @@
+{
+  "id": "MX20134",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Felipe Jalapa de Díaz",
+    "en": "San Felipe Jalapa de Diaz",
+    "slug": "san-felipe-jalapa-de-diaz-mx20134"
+  },
+  "code": {
+    "id": "MX20134",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.066",
+    "lon": "-96.545"
+  },
+  "metadata": {},
+  "source": {}
+}

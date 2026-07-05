@@ -1,0 +1,45 @@
+{
+  "id": "MX26027",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fronteras",
+    "en": "Fronteras",
+    "slug": "fronteras-mx26027"
+  },
+  "code": {
+    "id": "MX26027",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.83",
+    "lon": "-109.618"
+  },
+  "metadata": {},
+  "source": {}
+}

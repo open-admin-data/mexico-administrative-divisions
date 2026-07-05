@@ -1,0 +1,45 @@
+{
+  "id": "MX21104",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nopalucan",
+    "en": "Nopalucan",
+    "slug": "nopalucan-mx21104"
+  },
+  "code": {
+    "id": "MX21104",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.193",
+    "lon": "-97.826"
+  },
+  "metadata": {},
+  "source": {}
+}

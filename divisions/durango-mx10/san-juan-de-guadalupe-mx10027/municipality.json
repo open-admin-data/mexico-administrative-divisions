@@ -1,0 +1,45 @@
+{
+  "id": "MX10027",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan de Guadalupe",
+    "en": "San Juan de Guadalupe",
+    "slug": "san-juan-de-guadalupe-mx10027"
+  },
+  "code": {
+    "id": "MX10027",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.728",
+    "lon": "-102.712"
+  },
+  "metadata": {},
+  "source": {}
+}

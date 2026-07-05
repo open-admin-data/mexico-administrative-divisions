@@ -1,0 +1,45 @@
+{
+  "id": "MX12025",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuautepec",
+    "en": "Cuautepec",
+    "slug": "cuautepec-mx12025"
+  },
+  "code": {
+    "id": "MX12025",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.72",
+    "lon": "-98.973"
+  },
+  "metadata": {},
+  "source": {}
+}

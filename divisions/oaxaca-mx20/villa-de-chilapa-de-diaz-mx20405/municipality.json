@@ -1,0 +1,45 @@
+{
+  "id": "MX20405",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa de Chilapa de Díaz",
+    "en": "Villa de Chilapa de Diaz",
+    "slug": "villa-de-chilapa-de-diaz-mx20405"
+  },
+  "code": {
+    "id": "MX20405",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.595",
+    "lon": "-97.65"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX21031",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coatzingo",
+    "en": "Coatzingo",
+    "slug": "coatzingo-mx21031"
+  },
+  "code": {
+    "id": "MX21031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.574",
+    "lon": "-98.149"
+  },
+  "metadata": {},
+  "source": {}
+}

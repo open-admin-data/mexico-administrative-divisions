@@ -1,0 +1,45 @@
+{
+  "id": "MX29037",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ziltlaltépec de Trinidad Sánchez Santos",
+    "en": "Ziltlaltepec de Trinidad Sanchez Santos",
+    "slug": "ziltlaltepec-de-trinidad-sanchez-santos-mx29037"
+  },
+  "code": {
+    "id": "MX29037",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.209",
+    "lon": "-97.926"
+  },
+  "metadata": {},
+  "source": {}
+}

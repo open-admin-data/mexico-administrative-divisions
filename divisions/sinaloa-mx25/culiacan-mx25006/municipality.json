@@ -1,0 +1,45 @@
+{
+  "id": "MX25006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Culiacán",
+    "en": "Culiacan",
+    "slug": "culiacan-mx25006"
+  },
+  "code": {
+    "id": "MX25006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX25",
+    "level": 1,
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.662",
+    "lon": "-107.265"
+  },
+  "metadata": {},
+  "source": {}
+}

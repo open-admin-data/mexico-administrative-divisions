@@ -1,0 +1,33 @@
+{
+  "id": "MX17",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Morelos",
+    "en": "Morelos",
+    "slug": "morelos-mx17"
+  },
+  "code": {
+    "id": "MX17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.732",
+    "lon": "-99.102"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/morelos-mx17/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX12048",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Petatlán",
+    "en": "Petatlan",
+    "slug": "petatlan-mx12048"
+  },
+  "code": {
+    "id": "MX12048",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.633",
+    "lon": "-101.134"
+  },
+  "metadata": {},
+  "source": {}
+}

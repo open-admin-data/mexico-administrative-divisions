@@ -1,0 +1,45 @@
+{
+  "id": "MX31065",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Felipe",
+    "en": "San Felipe",
+    "slug": "san-felipe-mx31065"
+  },
+  "code": {
+    "id": "MX31065",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.485",
+    "lon": "-88.312"
+  },
+  "metadata": {},
+  "source": {}
+}

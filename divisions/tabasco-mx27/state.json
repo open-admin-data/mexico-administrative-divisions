@@ -1,0 +1,33 @@
+{
+  "id": "MX27",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Tabasco",
+    "en": "Tabasco",
+    "slug": "tabasco-mx27"
+  },
+  "code": {
+    "id": "MX27",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.923",
+    "lon": "-92.464"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/tabasco-mx27/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

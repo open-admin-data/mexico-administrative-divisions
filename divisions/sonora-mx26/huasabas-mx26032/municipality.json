@@ -1,0 +1,45 @@
+{
+  "id": "MX26032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huásabas",
+    "en": "Huasabas",
+    "slug": "huasabas-mx26032"
+  },
+  "code": {
+    "id": "MX26032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.972",
+    "lon": "-109.355"
+  },
+  "metadata": {},
+  "source": {}
+}

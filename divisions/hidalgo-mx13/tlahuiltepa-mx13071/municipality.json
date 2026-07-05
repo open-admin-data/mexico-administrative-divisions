@@ -1,0 +1,45 @@
+{
+  "id": "MX13071",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlahuiltepa",
+    "en": "Tlahuiltepa",
+    "slug": "tlahuiltepa-mx13071"
+  },
+  "code": {
+    "id": "MX13071",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.833",
+    "lon": "-98.963"
+  },
+  "metadata": {},
+  "source": {}
+}

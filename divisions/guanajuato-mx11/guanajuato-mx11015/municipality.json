@@ -1,0 +1,45 @@
+{
+  "id": "MX11015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guanajuato",
+    "en": "Guanajuato",
+    "slug": "guanajuato-mx11015"
+  },
+  "code": {
+    "id": "MX11015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.024",
+    "lon": "-101.243"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX26065",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tubutama",
+    "en": "Tubutama",
+    "slug": "tubutama-mx26065"
+  },
+  "code": {
+    "id": "MX26065",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.939",
+    "lon": "-111.354"
+  },
+  "metadata": {},
+  "source": {}
+}

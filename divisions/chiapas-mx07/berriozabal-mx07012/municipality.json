@@ -1,0 +1,45 @@
+{
+  "id": "MX07012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Berriozábal",
+    "en": "Berriozabal",
+    "slug": "berriozabal-mx07012"
+  },
+  "code": {
+    "id": "MX07012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.873",
+    "lon": "-93.337"
+  },
+  "metadata": {},
+  "source": {}
+}

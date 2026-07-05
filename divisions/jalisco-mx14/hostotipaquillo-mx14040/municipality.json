@@ -1,0 +1,45 @@
+{
+  "id": "MX14040",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Hostotipaquillo",
+    "en": "Hostotipaquillo",
+    "slug": "hostotipaquillo-mx14040"
+  },
+  "code": {
+    "id": "MX14040",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.071",
+    "lon": "-104.039"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20474",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Llano Grande",
+    "en": "Santiago Llano Grande",
+    "slug": "santiago-llano-grande-mx20474"
+  },
+  "code": {
+    "id": "MX20474",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.488",
+    "lon": "-98.261"
+  },
+  "metadata": {},
+  "source": {}
+}

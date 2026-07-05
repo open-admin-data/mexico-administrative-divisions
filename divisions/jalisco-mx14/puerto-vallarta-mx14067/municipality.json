@@ -1,0 +1,45 @@
+{
+  "id": "MX14067",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Puerto Vallarta",
+    "en": "Puerto Vallarta",
+    "slug": "puerto-vallarta-mx14067"
+  },
+  "code": {
+    "id": "MX14067",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.698",
+    "lon": "-105.181"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20265",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Chimalapa",
+    "en": "San Miguel Chimalapa",
+    "slug": "san-miguel-chimalapa-mx20265"
+  },
+  "code": {
+    "id": "MX20265",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.624",
+    "lon": "-94.271"
+  },
+  "metadata": {},
+  "source": {}
+}

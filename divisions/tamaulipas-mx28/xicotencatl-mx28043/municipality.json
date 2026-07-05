@@ -1,0 +1,45 @@
+{
+  "id": "MX28043",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xicoténcatl",
+    "en": "Xicotencatl",
+    "slug": "xicotencatl-mx28043"
+  },
+  "code": {
+    "id": "MX28043",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.986",
+    "lon": "-98.884"
+  },
+  "metadata": {},
+  "source": {}
+}

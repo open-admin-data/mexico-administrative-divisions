@@ -1,0 +1,45 @@
+{
+  "id": "MX27007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Emiliano Zapata",
+    "en": "Emiliano Zapata",
+    "slug": "emiliano-zapata-mx27007"
+  },
+  "code": {
+    "id": "MX27007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX27",
+    "level": 1,
+    "name": {
+      "local": "Tabasco",
+      "en": "Tabasco",
+      "slug": "tabasco-mx27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.694",
+    "lon": "-91.639"
+  },
+  "metadata": {},
+  "source": {}
+}

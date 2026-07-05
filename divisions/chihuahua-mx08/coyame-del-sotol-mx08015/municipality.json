@@ -1,0 +1,45 @@
+{
+  "id": "MX08015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coyame del Sotol",
+    "en": "Coyame del Sotol",
+    "slug": "coyame-del-sotol-mx08015"
+  },
+  "code": {
+    "id": "MX08015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.735",
+    "lon": "-105.345"
+  },
+  "metadata": {},
+  "source": {}
+}

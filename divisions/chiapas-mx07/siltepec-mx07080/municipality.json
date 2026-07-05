@@ -1,0 +1,45 @@
+{
+  "id": "MX07080",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Siltepec",
+    "en": "Siltepec",
+    "slug": "siltepec-mx07080"
+  },
+  "code": {
+    "id": "MX07080",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.558",
+    "lon": "-92.49"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cosoltepec",
+    "en": "Cosoltepec",
+    "slug": "cosoltepec-mx20022"
+  },
+  "code": {
+    "id": "MX20022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.143",
+    "lon": "-97.813"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX18016",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tecuala",
+    "en": "Tecuala",
+    "slug": "tecuala-mx18016"
+  },
+  "code": {
+    "id": "MX18016",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX18",
+    "level": 1,
+    "name": {
+      "local": "Nayarit",
+      "en": "Nayarit",
+      "slug": "nayarit-mx18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.325",
+    "lon": "-105.465"
+  },
+  "metadata": {},
+  "source": {}
+}

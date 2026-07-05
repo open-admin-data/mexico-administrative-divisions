@@ -1,0 +1,45 @@
+{
+  "id": "MX20486",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa Tejúpam de la Unión",
+    "en": "Villa Tejupam de la Union",
+    "slug": "villa-tejupam-de-la-union-mx20486"
+  },
+  "code": {
+    "id": "MX20486",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.665",
+    "lon": "-97.456"
+  },
+  "metadata": {},
+  "source": {}
+}

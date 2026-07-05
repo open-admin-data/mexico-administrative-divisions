@@ -1,0 +1,45 @@
+{
+  "id": "MX20430",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Tataltepec",
+    "en": "Santa Maria Tataltepec",
+    "slug": "santa-maria-tataltepec-mx20430"
+  },
+  "code": {
+    "id": "MX20430",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.137",
+    "lon": "-97.399"
+  },
+  "metadata": {},
+  "source": {}
+}

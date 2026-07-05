@@ -1,0 +1,45 @@
+{
+  "id": "MX26022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cucurpe",
+    "en": "Cucurpe",
+    "slug": "cucurpe-mx26022"
+  },
+  "code": {
+    "id": "MX26022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.43",
+    "lon": "-110.632"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX10017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ocampo",
+    "en": "Ocampo",
+    "slug": "ocampo-mx10017"
+  },
+  "code": {
+    "id": "MX10017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.457",
+    "lon": "-105.381"
+  },
+  "metadata": {},
+  "source": {}
+}

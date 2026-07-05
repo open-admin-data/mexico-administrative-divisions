@@ -1,0 +1,45 @@
+{
+  "id": "MX20010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Barrio de la Soledad",
+    "en": "El Barrio de la Soledad",
+    "slug": "el-barrio-de-la-soledad-mx20010"
+  },
+  "code": {
+    "id": "MX20010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.802",
+    "lon": "-95.054"
+  },
+  "metadata": {},
+  "source": {}
+}

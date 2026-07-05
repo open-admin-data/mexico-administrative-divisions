@@ -1,0 +1,45 @@
+{
+  "id": "MX12052",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Luis Acatlán",
+    "en": "San Luis Acatlan",
+    "slug": "san-luis-acatlan-mx12052"
+  },
+  "code": {
+    "id": "MX12052",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.87",
+    "lon": "-98.722"
+  },
+  "metadata": {},
+  "source": {}
+}

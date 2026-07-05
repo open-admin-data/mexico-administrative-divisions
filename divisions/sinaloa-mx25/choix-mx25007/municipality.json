@@ -1,0 +1,45 @@
+{
+  "id": "MX25007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Choix",
+    "en": "Choix",
+    "slug": "choix-mx25007"
+  },
+  "code": {
+    "id": "MX25007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX25",
+    "level": 1,
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.663",
+    "lon": "-108.353"
+  },
+  "metadata": {},
+  "source": {}
+}

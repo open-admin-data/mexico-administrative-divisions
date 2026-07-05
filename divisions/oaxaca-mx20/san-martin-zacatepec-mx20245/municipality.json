@@ -1,0 +1,45 @@
+{
+  "id": "MX20245",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Martín Zacatepec",
+    "en": "San Martin Zacatepec",
+    "slug": "san-martin-zacatepec-mx20245"
+  },
+  "code": {
+    "id": "MX20245",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.814",
+    "lon": "-98.066"
+  },
+  "metadata": {},
+  "source": {}
+}

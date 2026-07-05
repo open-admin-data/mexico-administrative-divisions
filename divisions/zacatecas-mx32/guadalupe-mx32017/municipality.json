@@ -1,0 +1,45 @@
+{
+  "id": "MX32017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guadalupe",
+    "en": "Guadalupe",
+    "slug": "guadalupe-mx32017"
+  },
+  "code": {
+    "id": "MX32017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.782",
+    "lon": "-102.451"
+  },
+  "metadata": {},
+  "source": {}
+}

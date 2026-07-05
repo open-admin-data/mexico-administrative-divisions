@@ -1,0 +1,34 @@
+# Data from Open Admin Data (https://openadmindata.org/mx/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/mexico-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.state,children_count.municipality,zip_codes,geo.lat,geo.lon,source_url
+MX01,1,Estado,State,Aguascalientes,Aguascalientes,aguascalientes-mx01,MX01,,,,,,11,,22.041,-102.313,https://openadmindata.org/mx/states/aguascalientes-mx01/
+MX02,1,Estado,State,Baja California,Baja California,baja-california-mx02,MX02,,,,,,5,,30.359,-115.244,https://openadmindata.org/mx/states/baja-california-mx02/
+MX03,1,Estado,State,Baja California Sur,Baja California Sur,baja-california-sur-mx03,MX03,,,,,,5,,25.436,-111.543,https://openadmindata.org/mx/states/baja-california-sur-mx03/
+MX04,1,Estado,State,Campeche,Campeche,campeche-mx04,MX04,,,,,,11,,19.331,-89.943,https://openadmindata.org/mx/states/campeche-mx04/
+MX05,1,Estado,State,Coahuila de Zaragoza,Coahuila de Zaragoza,coahuila-de-zaragoza-mx05,MX05,,,,,,38,,27.207,-102.31,https://openadmindata.org/mx/states/coahuila-de-zaragoza-mx05/
+MX06,1,Estado,State,Colima,Colima,colima-mx06,MX06,,,,,,10,,19.099,-103.922,https://openadmindata.org/mx/states/colima-mx06/
+MX07,1,Estado,State,Chiapas,Chiapas,chiapas-mx07,MX07,,,,,,118,,16.26,-92.245,https://openadmindata.org/mx/states/chiapas-mx07/
+MX08,1,Estado,State,Chihuahua,Chihuahua,chihuahua-mx08,MX08,,,,,,67,,28.693,-106.041,https://openadmindata.org/mx/states/chihuahua-mx08/
+MX09,1,Estado,State,Distrito Federal,Distrito Federal,distrito-federal-mx09,MX09,,,,,,16,,19.321,-99.152,https://openadmindata.org/mx/states/distrito-federal-mx09/
+MX10,1,Estado,State,Durango,Durango,durango-mx10,MX10,,,,,,39,,24.594,-104.587,https://openadmindata.org/mx/states/durango-mx10/
+MX11,1,Estado,State,Guanajuato,Guanajuato,guanajuato-mx11,MX11,,,,,,46,,20.877,-101.257,https://openadmindata.org/mx/states/guanajuato-mx11/
+MX12,1,Estado,State,Guerrero,Guerrero,guerrero-mx12,MX12,,,,,,81,,17.602,-99.946,https://openadmindata.org/mx/states/guerrero-mx12/
+MX13,1,Estado,State,Hidalgo,Hidalgo,hidalgo-mx13,MX13,,,,,,84,,20.498,-99.213,https://openadmindata.org/mx/states/hidalgo-mx13/
+MX14,1,Estado,State,Jalisco,Jalisco,jalisco-mx14,MX14,,,,,,125,,20.838,-103.217,https://openadmindata.org/mx/states/jalisco-mx14/
+MX15,1,Estado,State,México,Mexico,mexico-mx15,MX15,,,,,,125,,19.326,-99.822,https://openadmindata.org/mx/states/mexico-mx15/
+MX16,1,Estado,State,Michoacán de Ocampo,Michoacan de Ocampo,michoacan-de-ocampo-mx16,MX16,,,,,,113,,19.156,-101.668,https://openadmindata.org/mx/states/michoacan-de-ocampo-mx16/
+MX17,1,Estado,State,Morelos,Morelos,morelos-mx17,MX17,,,,,,33,,18.732,-99.102,https://openadmindata.org/mx/states/morelos-mx17/
+MX18,1,Estado,State,Nayarit,Nayarit,nayarit-mx18,MX18,,,,,,20,,21.844,-104.828,https://openadmindata.org/mx/states/nayarit-mx18/
+MX19,1,Estado,State,Nuevo León,Nuevo Leon,nuevo-leon-mx19,MX19,,,,,,51,,25.479,-99.503,https://openadmindata.org/mx/states/nuevo-leon-mx19/
+MX20,1,Estado,State,Oaxaca,Oaxaca,oaxaca-mx20,MX20,,,,,,570,,17.164,-96.283,https://openadmindata.org/mx/states/oaxaca-mx20/
+MX21,1,Estado,State,Puebla,Puebla,puebla-mx21,MX21,,,,,,217,,19.35,-97.42,https://openadmindata.org/mx/states/puebla-mx21/
+MX22,1,Estado,State,Querétaro de Arteaga,Queretaro de Arteaga,queretaro-de-arteaga-mx22,MX22,,,,,,18,,20.843,-100.002,https://openadmindata.org/mx/states/queretaro-de-arteaga-mx22/
+MX23,1,Estado,State,Quintana Roo,Quintana Roo,quintana-roo-mx23,MX23,,,,,,10,,19.742,-88.323,https://openadmindata.org/mx/states/quintana-roo-mx23/
+MX24,1,Estado,State,San Luis Potosí,San Luis Potosi,san-luis-potosi-mx24,MX24,,,,,,58,,22.827,-101.096,https://openadmindata.org/mx/states/san-luis-potosi-mx24/
+MX25,1,Estado,State,Sinaloa,Sinaloa,sinaloa-mx25,MX25,,,,,,18,,24.757,-107.386,https://openadmindata.org/mx/states/sinaloa-mx25/
+MX26,1,Estado,State,Sonora,Sonora,sonora-mx26,MX26,,,,,,72,,29.397,-110.554,https://openadmindata.org/mx/states/sonora-mx26/
+MX27,1,Estado,State,Tabasco,Tabasco,tabasco-mx27,MX27,,,,,,17,,17.923,-92.464,https://openadmindata.org/mx/states/tabasco-mx27/
+MX28,1,Estado,State,Tamaulipas,Tamaulipas,tamaulipas-mx28,MX28,,,,,,43,,24.944,-98.402,https://openadmindata.org/mx/states/tamaulipas-mx28/
+MX29,1,Estado,State,Tlaxcala,Tlaxcala,tlaxcala-mx29,MX29,,,,,,60,,19.417,-98.11,https://openadmindata.org/mx/states/tlaxcala-mx29/
+MX30,1,Estado,State,Veracruz de Ignacio de la Llave,Veracruz de Ignacio de la Llave,veracruz-de-ignacio-de-la-llave-mx30,MX30,,,,,,212,,17.964,-95.179,https://openadmindata.org/mx/states/veracruz-de-ignacio-de-la-llave-mx30/
+MX31,1,Estado,State,Yucatán,Yucatan,yucatan-mx31,MX31,,,,,,106,,20.61,-89.088,https://openadmindata.org/mx/states/yucatan-mx31/
+MX32,1,Estado,State,Zacatecas,Zacatecas,zacatecas-mx32,MX32,,,,,,58,,23.082,-103.209,https://openadmindata.org/mx/states/zacatecas-mx32/

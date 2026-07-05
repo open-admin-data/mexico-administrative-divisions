@@ -1,0 +1,45 @@
+{
+  "id": "MX24035",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Soledad de Graciano Sánchez",
+    "en": "Soledad de Graciano Sanchez",
+    "slug": "soledad-de-graciano-sanchez-mx24035"
+  },
+  "code": {
+    "id": "MX24035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX24",
+    "level": 1,
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.297",
+    "lon": "-100.867"
+  },
+  "metadata": {},
+  "source": {}
+}

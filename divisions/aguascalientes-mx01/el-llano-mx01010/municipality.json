@@ -1,0 +1,45 @@
+{
+  "id": "MX01010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Llano",
+    "en": "El Llano",
+    "slug": "el-llano-mx01010"
+  },
+  "code": {
+    "id": "MX01010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.929",
+    "lon": "-102.001"
+  },
+  "metadata": {},
+  "source": {}
+}

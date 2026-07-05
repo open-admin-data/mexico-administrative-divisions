@@ -1,0 +1,45 @@
+{
+  "id": "MX13006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alfajayucan",
+    "en": "Alfajayucan",
+    "slug": "alfajayucan-mx13006"
+  },
+  "code": {
+    "id": "MX13006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.41",
+    "lon": "-99.403"
+  },
+  "metadata": {},
+  "source": {}
+}

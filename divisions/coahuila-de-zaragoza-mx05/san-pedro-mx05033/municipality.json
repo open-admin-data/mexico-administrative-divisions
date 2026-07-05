@@ -1,0 +1,45 @@
+{
+  "id": "MX05033",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro",
+    "en": "San Pedro",
+    "slug": "san-pedro-mx05033"
+  },
+  "code": {
+    "id": "MX05033",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX05",
+    "level": 1,
+    "name": {
+      "local": "Coahuila de Zaragoza",
+      "en": "Coahuila de Zaragoza",
+      "slug": "coahuila-de-zaragoza-mx05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.125",
+    "lon": "-102.775"
+  },
+  "metadata": {},
+  "source": {}
+}

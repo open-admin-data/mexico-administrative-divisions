@@ -1,0 +1,33 @@
+{
+  "id": "MX08",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Chihuahua",
+    "en": "Chihuahua",
+    "slug": "chihuahua-mx08"
+  },
+  "code": {
+    "id": "MX08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.693",
+    "lon": "-106.041"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/chihuahua-mx08/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

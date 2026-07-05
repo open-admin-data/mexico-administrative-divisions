@@ -1,0 +1,45 @@
+{
+  "id": "MX07109",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Yajalón",
+    "en": "Yajalon",
+    "slug": "yajalon-mx07109"
+  },
+  "code": {
+    "id": "MX07109",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.177",
+    "lon": "-92.352"
+  },
+  "metadata": {},
+  "source": {}
+}

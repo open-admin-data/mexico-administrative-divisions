@@ -1,0 +1,45 @@
+{
+  "id": "MX20394",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Alotepec",
+    "en": "Santa Maria Alotepec",
+    "slug": "santa-maria-alotepec-mx20394"
+  },
+  "code": {
+    "id": "MX20394",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.085",
+    "lon": "-95.83"
+  },
+  "metadata": {},
+  "source": {}
+}

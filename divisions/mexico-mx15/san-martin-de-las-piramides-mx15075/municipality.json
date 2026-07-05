@@ -1,0 +1,45 @@
+{
+  "id": "MX15075",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Martín de las Pirámides",
+    "en": "San Martin de las Piramides",
+    "slug": "san-martin-de-las-piramides-mx15075"
+  },
+  "code": {
+    "id": "MX15075",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.716",
+    "lon": "-98.824"
+  },
+  "metadata": {},
+  "source": {}
+}

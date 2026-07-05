@@ -1,0 +1,45 @@
+{
+  "id": "MX20257",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Melchor Betaza",
+    "en": "San Melchor Betaza",
+    "slug": "san-melchor-betaza-mx20257"
+  },
+  "code": {
+    "id": "MX20257",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.242",
+    "lon": "-96.154"
+  },
+  "metadata": {},
+  "source": {}
+}

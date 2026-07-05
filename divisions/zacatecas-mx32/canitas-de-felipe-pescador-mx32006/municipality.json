@@ -1,0 +1,45 @@
+{
+  "id": "MX32006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cañitas de Felipe Pescador",
+    "en": "Canitas de Felipe Pescador",
+    "slug": "canitas-de-felipe-pescador-mx32006"
+  },
+  "code": {
+    "id": "MX32006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.576",
+    "lon": "-102.717"
+  },
+  "metadata": {},
+  "source": {}
+}

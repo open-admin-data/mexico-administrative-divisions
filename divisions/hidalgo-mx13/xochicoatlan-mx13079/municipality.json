@@ -1,0 +1,45 @@
+{
+  "id": "MX13079",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xochicoatlán",
+    "en": "Xochicoatlan",
+    "slug": "xochicoatlan-mx13079"
+  },
+  "code": {
+    "id": "MX13079",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.789",
+    "lon": "-98.639"
+  },
+  "metadata": {},
+  "source": {}
+}

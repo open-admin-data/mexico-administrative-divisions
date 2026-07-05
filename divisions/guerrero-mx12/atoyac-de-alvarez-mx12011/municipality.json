@@ -1,0 +1,45 @@
+{
+  "id": "MX12011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atoyac de Álvarez",
+    "en": "Atoyac de Alvarez",
+    "slug": "atoyac-de-alvarez-mx12011"
+  },
+  "code": {
+    "id": "MX12011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.311",
+    "lon": "-100.343"
+  },
+  "metadata": {},
+  "source": {}
+}

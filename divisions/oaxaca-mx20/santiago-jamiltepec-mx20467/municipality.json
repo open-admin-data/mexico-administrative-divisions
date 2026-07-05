@@ -1,0 +1,45 @@
+{
+  "id": "MX20467",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Jamiltepec",
+    "en": "Santiago Jamiltepec",
+    "slug": "santiago-jamiltepec-mx20467"
+  },
+  "code": {
+    "id": "MX20467",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.225",
+    "lon": "-97.781"
+  },
+  "metadata": {},
+  "source": {}
+}

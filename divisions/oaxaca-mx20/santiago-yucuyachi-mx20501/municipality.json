@@ -1,0 +1,45 @@
+{
+  "id": "MX20501",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Yucuyachi",
+    "en": "Santiago Yucuyachi",
+    "slug": "santiago-yucuyachi-mx20501"
+  },
+  "code": {
+    "id": "MX20501",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.61",
+    "lon": "-98.245"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20387",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Gertrudis",
+    "en": "Santa Gertrudis",
+    "slug": "santa-gertrudis-mx20387"
+  },
+  "code": {
+    "id": "MX20387",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.776",
+    "lon": "-96.784"
+  },
+  "metadata": {},
+  "source": {}
+}

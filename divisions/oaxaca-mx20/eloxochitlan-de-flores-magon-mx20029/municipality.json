@@ -1,0 +1,45 @@
+{
+  "id": "MX20029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Eloxochitlán de Flores Magón",
+    "en": "Eloxochitlan de Flores Magon",
+    "slug": "eloxochitlan-de-flores-magon-mx20029"
+  },
+  "code": {
+    "id": "MX20029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.197",
+    "lon": "-96.872"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20531",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Tomás Mazaltepec",
+    "en": "Santo Tomas Mazaltepec",
+    "slug": "santo-tomas-mazaltepec-mx20531"
+  },
+  "code": {
+    "id": "MX20531",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.147",
+    "lon": "-96.916"
+  },
+  "metadata": {},
+  "source": {}
+}

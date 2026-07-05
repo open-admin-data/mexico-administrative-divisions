@@ -1,0 +1,45 @@
+{
+  "id": "MX27003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Centla",
+    "en": "Centla",
+    "slug": "centla-mx27003"
+  },
+  "code": {
+    "id": "MX27003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX27",
+    "level": 1,
+    "name": {
+      "local": "Tabasco",
+      "en": "Tabasco",
+      "slug": "tabasco-mx27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.453",
+    "lon": "-92.507"
+  },
+  "metadata": {},
+  "source": {}
+}

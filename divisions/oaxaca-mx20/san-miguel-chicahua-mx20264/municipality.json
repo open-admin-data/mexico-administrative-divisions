@@ -1,0 +1,45 @@
+{
+  "id": "MX20264",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Chicahua",
+    "en": "San Miguel Chicahua",
+    "slug": "san-miguel-chicahua-mx20264"
+  },
+  "code": {
+    "id": "MX20264",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.631",
+    "lon": "-97.204"
+  },
+  "metadata": {},
+  "source": {}
+}

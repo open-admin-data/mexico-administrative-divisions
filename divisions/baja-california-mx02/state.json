@@ -1,0 +1,33 @@
+{
+  "id": "MX02",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Baja California",
+    "en": "Baja California",
+    "slug": "baja-california-mx02"
+  },
+  "code": {
+    "id": "MX02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.359",
+    "lon": "-115.244"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/baja-california-mx02/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

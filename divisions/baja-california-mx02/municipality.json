@@ -1,0 +1,227 @@
+[
+  {
+    "id": "MX02001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ensenada",
+      "en": "Ensenada",
+      "slug": "ensenada-mx02001"
+    },
+    "code": {
+      "id": "MX02001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX02",
+        "level": 1,
+        "name": {
+          "local": "Baja California",
+          "en": "Baja California",
+          "slug": "baja-california-mx02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.193",
+      "lon": "-115.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX02002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mexicali",
+      "en": "Mexicali",
+      "slug": "mexicali-mx02002"
+    },
+    "code": {
+      "id": "MX02002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX02",
+        "level": 1,
+        "name": {
+          "local": "Baja California",
+          "en": "Baja California",
+          "slug": "baja-california-mx02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.792",
+      "lon": "-115.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX02005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Playas de Rosarito",
+      "en": "Playas de Rosarito",
+      "slug": "playas-de-rosarito-mx02005"
+    },
+    "code": {
+      "id": "MX02005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX02",
+        "level": 1,
+        "name": {
+          "local": "Baja California",
+          "en": "Baja California",
+          "slug": "baja-california-mx02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.258",
+      "lon": "-116.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX02003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecate",
+      "en": "Tecate",
+      "slug": "tecate-mx02003"
+    },
+    "code": {
+      "id": "MX02003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX02",
+        "level": 1,
+        "name": {
+          "local": "Baja California",
+          "en": "Baja California",
+          "slug": "baja-california-mx02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.435",
+      "lon": "-116.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX02004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tijuana",
+      "en": "Tijuana",
+      "slug": "tijuana-mx02004"
+    },
+    "code": {
+      "id": "MX02004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX02",
+        "level": 1,
+        "name": {
+          "local": "Baja California",
+          "en": "Baja California",
+          "slug": "baja-california-mx02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.378",
+      "lon": "-116.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

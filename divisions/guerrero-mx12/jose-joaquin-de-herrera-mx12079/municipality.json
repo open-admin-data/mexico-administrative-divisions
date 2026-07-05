@@ -1,0 +1,45 @@
+{
+  "id": "MX12079",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "José Joaquín de Herrera",
+    "en": "Jose Joaquin de Herrera",
+    "slug": "jose-joaquin-de-herrera-mx12079"
+  },
+  "code": {
+    "id": "MX12079",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.441",
+    "lon": "-98.993"
+  },
+  "metadata": {},
+  "source": {}
+}

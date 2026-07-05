@@ -1,0 +1,45 @@
+{
+  "id": "MX20389",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Inés Yatzeche",
+    "en": "Santa Ines Yatzeche",
+    "slug": "santa-ines-yatzeche-mx20389"
+  },
+  "code": {
+    "id": "MX20389",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.808",
+    "lon": "-96.759"
+  },
+  "metadata": {},
+  "source": {}
+}

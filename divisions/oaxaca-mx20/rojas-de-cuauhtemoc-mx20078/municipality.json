@@ -1,0 +1,45 @@
+{
+  "id": "MX20078",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rojas de Cuauhtémoc",
+    "en": "Rojas de Cuauhtemoc",
+    "slug": "rojas-de-cuauhtemoc-mx20078"
+  },
+  "code": {
+    "id": "MX20078",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.005",
+    "lon": "-96.639"
+  },
+  "metadata": {},
+  "source": {}
+}

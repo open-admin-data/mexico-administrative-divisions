@@ -1,0 +1,45 @@
+{
+  "id": "MX20060",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mixistlán de la Reforma",
+    "en": "Mixistlan de la Reforma",
+    "slug": "mixistlan-de-la-reforma-mx20060"
+  },
+  "code": {
+    "id": "MX20060",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.173",
+    "lon": "-96.092"
+  },
+  "metadata": {},
+  "source": {}
+}

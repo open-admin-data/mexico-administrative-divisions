@@ -1,0 +1,45 @@
+{
+  "id": "MX20307",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Huamelula",
+    "en": "San Pedro Huamelula",
+    "slug": "san-pedro-huamelula-mx20307"
+  },
+  "code": {
+    "id": "MX20307",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.977",
+    "lon": "-95.772"
+  },
+  "metadata": {},
+  "source": {}
+}

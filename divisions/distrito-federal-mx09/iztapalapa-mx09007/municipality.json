@@ -1,0 +1,45 @@
+{
+  "id": "MX09007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iztapalapa",
+    "en": "Iztapalapa",
+    "slug": "iztapalapa-mx09007"
+  },
+  "code": {
+    "id": "MX09007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX09",
+    "level": 1,
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.343",
+    "lon": "-99.047"
+  },
+  "metadata": {},
+  "source": {}
+}

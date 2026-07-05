@@ -1,0 +1,45 @@
+{
+  "id": "MX20119",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Bartolomé Yucuañe",
+    "en": "San Bartolome Yucuane",
+    "slug": "san-bartolome-yucuane-mx20119"
+  },
+  "code": {
+    "id": "MX20119",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.211",
+    "lon": "-97.456"
+  },
+  "metadata": {},
+  "source": {}
+}

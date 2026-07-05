@@ -1,0 +1,45 @@
+{
+  "id": "MX20368",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Catarina Minas",
+    "en": "Santa Catarina Minas",
+    "slug": "santa-catarina-minas-mx20368"
+  },
+  "code": {
+    "id": "MX20368",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.789",
+    "lon": "-96.616"
+  },
+  "metadata": {},
+  "source": {}
+}

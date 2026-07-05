@@ -1,0 +1,45 @@
+{
+  "id": "MX28015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gustavo Díaz Ordaz",
+    "en": "Gustavo Diaz Ordaz",
+    "slug": "gustavo-diaz-ordaz-mx28015"
+  },
+  "code": {
+    "id": "MX28015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.138",
+    "lon": "-98.642"
+  },
+  "metadata": {},
+  "source": {}
+}

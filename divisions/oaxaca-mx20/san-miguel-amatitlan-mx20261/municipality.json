@@ -1,0 +1,45 @@
+{
+  "id": "MX20261",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Amatitlán",
+    "en": "San Miguel Amatitlan",
+    "slug": "san-miguel-amatitlan-mx20261"
+  },
+  "code": {
+    "id": "MX20261",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.886",
+    "lon": "-98.031"
+  },
+  "metadata": {},
+  "source": {}
+}

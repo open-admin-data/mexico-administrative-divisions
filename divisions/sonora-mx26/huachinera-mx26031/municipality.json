@@ -1,0 +1,45 @@
+{
+  "id": "MX26031",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huachinera",
+    "en": "Huachinera",
+    "slug": "huachinera-mx26031"
+  },
+  "code": {
+    "id": "MX26031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.147",
+    "lon": "-108.921"
+  },
+  "metadata": {},
+  "source": {}
+}

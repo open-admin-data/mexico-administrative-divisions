@@ -1,0 +1,45 @@
+{
+  "id": "MX14080",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián del Oeste",
+    "en": "San Sebastian del Oeste",
+    "slug": "san-sebastian-del-oeste-mx14080"
+  },
+  "code": {
+    "id": "MX14080",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.855",
+    "lon": "-104.817"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "MX15",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "México",
+    "en": "Mexico",
+    "slug": "mexico-mx15"
+  },
+  "code": {
+    "id": "MX15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 125
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.326",
+    "lon": "-99.822"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/mexico-mx15/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

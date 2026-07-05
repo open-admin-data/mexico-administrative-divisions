@@ -1,0 +1,45 @@
+{
+  "id": "MX20151",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco Teopan",
+    "en": "San Francisco Teopan",
+    "slug": "san-francisco-teopan-mx20151"
+  },
+  "code": {
+    "id": "MX20151",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.898",
+    "lon": "-97.57"
+  },
+  "metadata": {},
+  "source": {}
+}

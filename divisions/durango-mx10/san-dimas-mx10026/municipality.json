@@ -1,0 +1,45 @@
+{
+  "id": "MX10026",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Dimas",
+    "en": "San Dimas",
+    "slug": "san-dimas-mx10026"
+  },
+  "code": {
+    "id": "MX10026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.115",
+    "lon": "-105.74"
+  },
+  "metadata": {},
+  "source": {}
+}

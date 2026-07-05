@@ -1,0 +1,45 @@
+{
+  "id": "MX20347",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián Río Hondo",
+    "en": "San Sebastian Rio Hondo",
+    "slug": "san-sebastian-rio-hondo-mx20347"
+  },
+  "code": {
+    "id": "MX20347",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.202",
+    "lon": "-96.42"
+  },
+  "metadata": {},
+  "source": {}
+}

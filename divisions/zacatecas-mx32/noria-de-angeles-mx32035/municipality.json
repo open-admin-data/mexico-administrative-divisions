@@ -1,0 +1,45 @@
+{
+  "id": "MX32035",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Noria de Ángeles",
+    "en": "Noria de Angeles",
+    "slug": "noria-de-angeles-mx32035"
+  },
+  "code": {
+    "id": "MX32035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.399",
+    "lon": "-101.956"
+  },
+  "metadata": {},
+  "source": {}
+}

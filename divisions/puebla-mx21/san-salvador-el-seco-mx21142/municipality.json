@@ -1,0 +1,45 @@
+{
+  "id": "MX21142",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Salvador el Seco",
+    "en": "San Salvador el Seco",
+    "slug": "san-salvador-el-seco-mx21142"
+  },
+  "code": {
+    "id": "MX21142",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.143",
+    "lon": "-97.611"
+  },
+  "metadata": {},
+  "source": {}
+}

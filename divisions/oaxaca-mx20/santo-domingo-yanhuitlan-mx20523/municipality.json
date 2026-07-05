@@ -1,0 +1,45 @@
+{
+  "id": "MX20523",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Yanhuitlán",
+    "en": "Santo Domingo Yanhuitlan",
+    "slug": "santo-domingo-yanhuitlan-mx20523"
+  },
+  "code": {
+    "id": "MX20523",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.526",
+    "lon": "-97.336"
+  },
+  "metadata": {},
+  "source": {}
+}

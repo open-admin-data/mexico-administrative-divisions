@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MX25001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ahome",
+      "en": "Ahome",
+      "slug": "ahome-mx25001"
+    },
+    "code": {
+      "id": "MX25001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.927",
+      "lon": "-109.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angostura",
+      "en": "Angostura",
+      "slug": "angostura-mx25002"
+    },
+    "code": {
+      "id": "MX25002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.2",
+      "lon": "-108.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Badiraguato",
+      "en": "Badiraguato",
+      "slug": "badiraguato-mx25003"
+    },
+    "code": {
+      "id": "MX25003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.605",
+      "lon": "-107.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Choix",
+      "en": "Choix",
+      "slug": "choix-mx25007"
+    },
+    "code": {
+      "id": "MX25007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.663",
+      "lon": "-108.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concordia",
+      "en": "Concordia",
+      "slug": "concordia-mx25004"
+    },
+    "code": {
+      "id": "MX25004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.421",
+      "lon": "-105.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cosalá",
+      "en": "Cosala",
+      "slug": "cosala-mx25005"
+    },
+    "code": {
+      "id": "MX25005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.516",
+      "lon": "-106.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Culiacán",
+      "en": "Culiacan",
+      "slug": "culiacan-mx25006"
+    },
+    "code": {
+      "id": "MX25006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.662",
+      "lon": "-107.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Fuerte",
+      "en": "El Fuerte",
+      "slug": "el-fuerte-mx25010"
+    },
+    "code": {
+      "id": "MX25010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.237",
+      "lon": "-108.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Elota",
+      "en": "Elota",
+      "slug": "elota-mx25008"
+    },
+    "code": {
+      "id": "MX25008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.031",
+      "lon": "-106.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Escuinapa",
+      "en": "Escuinapa",
+      "slug": "escuinapa-mx25009"
+    },
+    "code": {
+      "id": "MX25009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.718",
+      "lon": "-105.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guasave",
+      "en": "Guasave",
+      "slug": "guasave-mx25011"
+    },
+    "code": {
+      "id": "MX25011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.508",
+      "lon": "-108.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazatlán",
+      "en": "Mazatlan",
+      "slug": "mazatlan-mx25012"
+    },
+    "code": {
+      "id": "MX25012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.48",
+      "lon": "-106.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mocorito",
+      "en": "Mocorito",
+      "slug": "mocorito-mx25013"
+    },
+    "code": {
+      "id": "MX25013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.364",
+      "lon": "-107.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Navolato",
+      "en": "Navolato",
+      "slug": "navolato-mx25018"
+    },
+    "code": {
+      "id": "MX25018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.749",
+      "lon": "-107.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosario",
+      "en": "Rosario",
+      "slug": "rosario-mx25014"
+    },
+    "code": {
+      "id": "MX25014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.09",
+      "lon": "-105.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salvador Alvarado",
+      "en": "Salvador Alvarado",
+      "slug": "salvador-alvarado-mx25015"
+    },
+    "code": {
+      "id": "MX25015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.381",
+      "lon": "-107.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ignacio",
+      "en": "San Ignacio",
+      "slug": "san-ignacio-mx25016"
+    },
+    "code": {
+      "id": "MX25016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.925",
+      "lon": "-106.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX25017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25017"
+    },
+    "code": {
+      "id": "MX25017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX25",
+        "level": 1,
+        "name": {
+          "local": "Sinaloa",
+          "en": "Sinaloa",
+          "slug": "sinaloa-mx25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.02",
+      "lon": "-108.07"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

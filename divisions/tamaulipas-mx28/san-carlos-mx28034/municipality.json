@@ -1,0 +1,45 @@
+{
+  "id": "MX28034",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Carlos",
+    "en": "San Carlos",
+    "slug": "san-carlos-mx28034"
+  },
+  "code": {
+    "id": "MX28034",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.498",
+    "lon": "-99.008"
+  },
+  "metadata": {},
+  "source": {}
+}

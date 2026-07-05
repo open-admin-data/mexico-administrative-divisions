@@ -1,0 +1,45 @@
+{
+  "id": "MX02002",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mexicali",
+    "en": "Mexicali",
+    "slug": "mexicali-mx02002"
+  },
+  "code": {
+    "id": "MX02002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX02",
+    "level": 1,
+    "name": {
+      "local": "Baja California",
+      "en": "Baja California",
+      "slug": "baja-california-mx02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.792",
+    "lon": "-115.264"
+  },
+  "metadata": {},
+  "source": {}
+}

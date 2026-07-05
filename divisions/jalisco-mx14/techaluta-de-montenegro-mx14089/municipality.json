@@ -1,0 +1,45 @@
+{
+  "id": "MX14089",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Techaluta de Montenegro",
+    "en": "Techaluta de Montenegro",
+    "slug": "techaluta-de-montenegro-mx14089"
+  },
+  "code": {
+    "id": "MX14089",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.094",
+    "lon": "-103.58"
+  },
+  "metadata": {},
+  "source": {}
+}

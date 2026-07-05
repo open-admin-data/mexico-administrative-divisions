@@ -1,0 +1,45 @@
+{
+  "id": "MX14022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cihuatlán",
+    "en": "Cihuatlan",
+    "slug": "cihuatlan-mx14022"
+  },
+  "code": {
+    "id": "MX14022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.263",
+    "lon": "-104.605"
+  },
+  "metadata": {},
+  "source": {}
+}

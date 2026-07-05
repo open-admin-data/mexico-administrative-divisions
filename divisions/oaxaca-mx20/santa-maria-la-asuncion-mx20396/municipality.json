@@ -1,0 +1,45 @@
+{
+  "id": "MX20396",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María la Asunción",
+    "en": "Santa Maria la Asuncion",
+    "slug": "santa-maria-la-asuncion-mx20396"
+  },
+  "code": {
+    "id": "MX20396",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.103",
+    "lon": "-96.819"
+  },
+  "metadata": {},
+  "source": {}
+}

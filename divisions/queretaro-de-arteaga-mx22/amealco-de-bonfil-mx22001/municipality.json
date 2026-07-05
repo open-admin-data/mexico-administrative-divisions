@@ -1,0 +1,45 @@
+{
+  "id": "MX22001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Amealco de Bonfil",
+    "en": "Amealco de Bonfil",
+    "slug": "amealco-de-bonfil-mx22001"
+  },
+  "code": {
+    "id": "MX22001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX22",
+    "level": 1,
+    "name": {
+      "local": "Querétaro de Arteaga",
+      "en": "Queretaro de Arteaga",
+      "slug": "queretaro-de-arteaga-mx22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.187",
+    "lon": "-100.069"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX21022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atzitzihuacán",
+    "en": "Atzitzihuacan",
+    "slug": "atzitzihuacan-mx21022"
+  },
+  "code": {
+    "id": "MX21022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.813",
+    "lon": "-98.613"
+  },
+  "metadata": {},
+  "source": {}
+}

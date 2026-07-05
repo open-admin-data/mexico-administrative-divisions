@@ -1,0 +1,45 @@
+{
+  "id": "MX20118",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Bartolomé Quialana",
+    "en": "San Bartolome Quialana",
+    "slug": "san-bartolome-quialana-mx20118"
+  },
+  "code": {
+    "id": "MX20118",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.894",
+    "lon": "-96.499"
+  },
+  "metadata": {},
+  "source": {}
+}

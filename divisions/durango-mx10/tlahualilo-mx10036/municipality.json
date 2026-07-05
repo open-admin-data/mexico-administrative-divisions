@@ -1,0 +1,45 @@
+{
+  "id": "MX10036",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlahualilo",
+    "en": "Tlahualilo",
+    "slug": "tlahualilo-mx10036"
+  },
+  "code": {
+    "id": "MX10036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.308",
+    "lon": "-103.604"
+  },
+  "metadata": {},
+  "source": {}
+}

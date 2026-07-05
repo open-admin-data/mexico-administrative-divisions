@@ -1,0 +1,204 @@
+# Durango — Mexico Administrative Divisions
+
+> 39 municipalitys
+> Code: MX10
+> Coordinates: 24.594, -104.587
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Canatlán (Canatlan)
+
+Code: MX10001, Coordinates: 24.53, -104.98
+
+
+### Canelas
+
+Code: MX10002, Coordinates: 25.072, -106.543
+
+
+### Coneto de Comonfort
+
+Code: MX10003, Coordinates: 25.008, -104.743
+
+
+### Cuencamé (Cuencame)
+
+Code: MX10004, Coordinates: 24.653, -103.675
+
+
+### Durango
+
+Code: MX10005, Coordinates: 23.911, -104.92
+
+
+### El Oro
+
+Code: MX10018, Coordinates: 25.642, -105.324
+
+
+### General Simón Bolívar (General Simon Bolivar)
+
+Code: MX10006, Coordinates: 24.836, -103.247
+
+
+### Gómez Palacio (Gomez Palacio)
+
+Code: MX10007, Coordinates: 25.712, -103.507
+
+
+### Guadalupe Victoria
+
+Code: MX10008, Coordinates: 24.401, -104.105
+
+
+### Guanaceví (Guanacevi)
+
+Code: MX10009, Coordinates: 26.043, -106.114
+
+
+### Hidalgo
+
+Code: MX10010, Coordinates: 26.045, -104.822
+
+
+### Indé (Inde)
+
+Code: MX10011, Coordinates: 25.735, -104.993
+
+
+### Lerdo
+
+Code: MX10012, Coordinates: 25.471, -103.664
+
+
+### Mapimí (Mapimi)
+
+Code: MX10013, Coordinates: 26.158, -104.141
+
+
+### Mezquital
+
+Code: MX10014, Coordinates: 23.057, -104.538
+
+
+### Nazas
+
+Code: MX10015, Coordinates: 25.271, -104.073
+
+
+### Nombre de Dios
+
+Code: MX10016, Coordinates: 23.841, -104.22
+
+
+### Nuevo Ideal
+
+Code: MX10039, Coordinates: 24.839, -105.003
+
+
+### Ocampo
+
+Code: MX10017, Coordinates: 26.457, -105.381
+
+
+### Otáez (Otaez)
+
+Code: MX10019, Coordinates: 24.712, -105.918
+
+
+### Pánuco de Coronado (Panuco de Coronado)
+
+Code: MX10020, Coordinates: 24.506, -104.362
+
+
+### Peñón Blanco (Penon Blanco)
+
+Code: MX10021, Coordinates: 24.769, -104.043
+
+
+### Poanas
+
+Code: MX10022, Coordinates: 24.035, -104.088
+
+
+### Pueblo Nuevo
+
+Code: MX10023, Coordinates: 23.455, -105.278
+
+
+### Rodeo
+
+Code: MX10024, Coordinates: 25.195, -104.578
+
+
+### San Bernardo
+
+Code: MX10025, Coordinates: 26.184, -105.678
+
+
+### San Dimas
+
+Code: MX10026, Coordinates: 24.115, -105.74
+
+
+### San Juan de Guadalupe
+
+Code: MX10027, Coordinates: 24.728, -102.712
+
+
+### San Juan del Río (San Juan del Rio)
+
+Code: MX10028, Coordinates: 24.795, -104.444
+
+
+### San Luis del Cordero
+
+Code: MX10029, Coordinates: 25.391, -104.335
+
+
+### San Pedro del Gallo
+
+Code: MX10030, Coordinates: 25.641, -104.414
+
+
+### Santa Clara
+
+Code: MX10031, Coordinates: 24.485, -103.362
+
+
+### Santiago Papasquiaro
+
+Code: MX10032, Coordinates: 25.022, -105.672
+
+
+### Súchil (Suchil)
+
+Code: MX10033, Coordinates: 23.416, -104.205
+
+
+### Tamazula
+
+Code: MX10034, Coordinates: 24.972, -106.854
+
+
+### Tepehuanes
+
+Code: MX10035, Coordinates: 25.424, -106.111
+
+
+### Tlahualilo
+
+Code: MX10036, Coordinates: 26.308, -103.604
+
+
+### Topia
+
+Code: MX10037, Coordinates: 25.251, -106.553
+
+
+### Vicente Guerrero
+
+Code: MX10038, Coordinates: 23.727, -103.946
+
+

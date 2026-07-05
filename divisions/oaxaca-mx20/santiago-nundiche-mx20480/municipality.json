@@ -1,0 +1,45 @@
+{
+  "id": "MX20480",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Nundiche",
+    "en": "Santiago Nundiche",
+    "slug": "santiago-nundiche-mx20480"
+  },
+  "code": {
+    "id": "MX20480",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.337",
+    "lon": "-97.704"
+  },
+  "metadata": {},
+  "source": {}
+}

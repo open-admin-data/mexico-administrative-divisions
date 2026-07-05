@@ -1,0 +1,45 @@
+{
+  "id": "MX31090",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Timucuy",
+    "en": "Timucuy",
+    "slug": "timucuy-mx31090"
+  },
+  "code": {
+    "id": "MX31090",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.741",
+    "lon": "-89.573"
+  },
+  "metadata": {},
+  "source": {}
+}

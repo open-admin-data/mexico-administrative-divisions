@@ -1,0 +1,45 @@
+{
+  "id": "MX21113",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Piaxtla",
+    "en": "Piaxtla",
+    "slug": "piaxtla-mx21113"
+  },
+  "code": {
+    "id": "MX21113",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.085",
+    "lon": "-98.22"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX28032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Reynosa",
+    "en": "Reynosa",
+    "slug": "reynosa-mx28032"
+  },
+  "code": {
+    "id": "MX28032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.837",
+    "lon": "-98.371"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX22013",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Peñamiller",
+    "en": "Penamiller",
+    "slug": "penamiller-mx22013"
+  },
+  "code": {
+    "id": "MX22013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX22",
+    "level": 1,
+    "name": {
+      "local": "Querétaro de Arteaga",
+      "en": "Queretaro de Arteaga",
+      "slug": "queretaro-de-arteaga-mx22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.091",
+    "lon": "-99.856"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20521",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Tonaltepec",
+    "en": "Santo Domingo Tonaltepec",
+    "slug": "santo-domingo-tonaltepec-mx20521"
+  },
+  "code": {
+    "id": "MX20521",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.615",
+    "lon": "-97.351"
+  },
+  "metadata": {},
+  "source": {}
+}

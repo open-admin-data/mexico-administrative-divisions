@@ -1,0 +1,45 @@
+{
+  "id": "MX07069",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pijijiapan",
+    "en": "Pijijiapan",
+    "slug": "pijijiapan-mx07069"
+  },
+  "code": {
+    "id": "MX07069",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.653",
+    "lon": "-93.134"
+  },
+  "metadata": {},
+  "source": {}
+}

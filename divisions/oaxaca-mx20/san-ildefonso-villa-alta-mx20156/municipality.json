@@ -1,0 +1,45 @@
+{
+  "id": "MX20156",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Ildefonso Villa Alta",
+    "en": "San Ildefonso Villa Alta",
+    "slug": "san-ildefonso-villa-alta-mx20156"
+  },
+  "code": {
+    "id": "MX20156",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.373",
+    "lon": "-96.107"
+  },
+  "metadata": {},
+  "source": {}
+}

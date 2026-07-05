@@ -1,0 +1,45 @@
+{
+  "id": "MX20171",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José Tenango",
+    "en": "San Jose Tenango",
+    "slug": "san-jose-tenango-mx20171"
+  },
+  "code": {
+    "id": "MX20171",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.164",
+    "lon": "-96.671"
+  },
+  "metadata": {},
+  "source": {}
+}

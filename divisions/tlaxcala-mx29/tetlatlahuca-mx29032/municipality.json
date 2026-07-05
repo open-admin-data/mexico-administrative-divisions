@@ -1,0 +1,45 @@
+{
+  "id": "MX29032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tetlatlahuca",
+    "en": "Tetlatlahuca",
+    "slug": "tetlatlahuca-mx29032"
+  },
+  "code": {
+    "id": "MX29032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.233",
+    "lon": "-98.287"
+  },
+  "metadata": {},
+  "source": {}
+}

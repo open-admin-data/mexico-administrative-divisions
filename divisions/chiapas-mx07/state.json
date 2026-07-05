@@ -1,0 +1,33 @@
+{
+  "id": "MX07",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Chiapas",
+    "en": "Chiapas",
+    "slug": "chiapas-mx07"
+  },
+  "code": {
+    "id": "MX07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 118
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.26",
+    "lon": "-92.245"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/chiapas-mx07/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

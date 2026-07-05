@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MX22001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amealco de Bonfil",
+      "en": "Amealco de Bonfil",
+      "slug": "amealco-de-bonfil-mx22001"
+    },
+    "code": {
+      "id": "MX22001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.187",
+      "lon": "-100.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arroyo Seco",
+      "en": "Arroyo Seco",
+      "slug": "arroyo-seco-mx22003"
+    },
+    "code": {
+      "id": "MX22003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.432",
+      "lon": "-99.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cadereyta de Montes",
+      "en": "Cadereyta de Montes",
+      "slug": "cadereyta-de-montes-mx22004"
+    },
+    "code": {
+      "id": "MX22004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.791",
+      "lon": "-99.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colón",
+      "en": "Colon",
+      "slug": "colon-mx22005"
+    },
+    "code": {
+      "id": "MX22005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.75",
+      "lon": "-100.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corregidora",
+      "en": "Corregidora",
+      "slug": "corregidora-mx22006"
+    },
+    "code": {
+      "id": "MX22006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.478",
+      "lon": "-100.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Marqués",
+      "en": "El Marques",
+      "slug": "el-marques-mx22011"
+    },
+    "code": {
+      "id": "MX22011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.735",
+      "lon": "-100.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ezequiel Montes",
+      "en": "Ezequiel Montes",
+      "slug": "ezequiel-montes-mx22007"
+    },
+    "code": {
+      "id": "MX22007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.653",
+      "lon": "-99.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huimilpan",
+      "en": "Huimilpan",
+      "slug": "huimilpan-mx22008"
+    },
+    "code": {
+      "id": "MX22008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.419",
+      "lon": "-100.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jalpan de Serra",
+      "en": "Jalpan de Serra",
+      "slug": "jalpan-de-serra-mx22009"
+    },
+    "code": {
+      "id": "MX22009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.384",
+      "lon": "-99.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Landa de Matamoros",
+      "en": "Landa de Matamoros",
+      "slug": "landa-de-matamoros-mx22010"
+    },
+    "code": {
+      "id": "MX22010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.282",
+      "lon": "-99.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pedro Escobedo",
+      "en": "Pedro Escobedo",
+      "slug": "pedro-escobedo-mx22012"
+    },
+    "code": {
+      "id": "MX22012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.469",
+      "lon": "-100.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peñamiller",
+      "en": "Penamiller",
+      "slug": "penamiller-mx22013"
+    },
+    "code": {
+      "id": "MX22013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.091",
+      "lon": "-99.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pinal de Amoles",
+      "en": "Pinal de Amoles",
+      "slug": "pinal-de-amoles-mx22002"
+    },
+    "code": {
+      "id": "MX22002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.167",
+      "lon": "-99.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Querétaro",
+      "en": "Queretaro",
+      "slug": "queretaro-mx22014"
+    },
+    "code": {
+      "id": "MX22014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.726",
+      "lon": "-100.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Joaquín",
+      "en": "San Joaquin",
+      "slug": "san-joaquin-mx22015"
+    },
+    "code": {
+      "id": "MX22015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.999",
+      "lon": "-99.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan del Río",
+      "en": "San Juan del Rio",
+      "slug": "san-juan-del-rio-mx22016"
+    },
+    "code": {
+      "id": "MX22016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.387",
+      "lon": "-100.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tequisquiapan",
+      "en": "Tequisquiapan",
+      "slug": "tequisquiapan-mx22017"
+    },
+    "code": {
+      "id": "MX22017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.542",
+      "lon": "-99.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX22018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tolimán",
+      "en": "Toliman",
+      "slug": "toliman-mx22018"
+    },
+    "code": {
+      "id": "MX22018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX22",
+        "level": 1,
+        "name": {
+          "local": "Querétaro de Arteaga",
+          "en": "Queretaro de Arteaga",
+          "slug": "queretaro-de-arteaga-mx22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.912",
+      "lon": "-99.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

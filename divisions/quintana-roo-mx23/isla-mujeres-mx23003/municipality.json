@@ -1,0 +1,45 @@
+{
+  "id": "MX23003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Isla Mujeres",
+    "en": "Isla Mujeres",
+    "slug": "isla-mujeres-mx23003"
+  },
+  "code": {
+    "id": "MX23003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX23",
+    "level": 1,
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.4",
+    "lon": "-87.007"
+  },
+  "metadata": {},
+  "source": {}
+}

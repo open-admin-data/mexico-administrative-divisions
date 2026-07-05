@@ -1,0 +1,45 @@
+{
+  "id": "MX14015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Autlán de Navarro",
+    "en": "Autlan de Navarro",
+    "slug": "autlan-de-navarro-mx14015"
+  },
+  "code": {
+    "id": "MX14015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.757",
+    "lon": "-104.318"
+  },
+  "metadata": {},
+  "source": {}
+}

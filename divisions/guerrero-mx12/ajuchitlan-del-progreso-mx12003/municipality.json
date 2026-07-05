@@ -1,0 +1,45 @@
+{
+  "id": "MX12003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ajuchitlán del Progreso",
+    "en": "Ajuchitlan del Progreso",
+    "slug": "ajuchitlan-del-progreso-mx12003"
+  },
+  "code": {
+    "id": "MX12003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.931",
+    "lon": "-100.616"
+  },
+  "metadata": {},
+  "source": {}
+}

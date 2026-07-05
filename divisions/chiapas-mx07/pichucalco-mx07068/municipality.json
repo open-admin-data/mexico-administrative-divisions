@@ -1,0 +1,45 @@
+{
+  "id": "MX07068",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pichucalco",
+    "en": "Pichucalco",
+    "slug": "pichucalco-mx07068"
+  },
+  "code": {
+    "id": "MX07068",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.509",
+    "lon": "-93.129"
+  },
+  "metadata": {},
+  "source": {}
+}

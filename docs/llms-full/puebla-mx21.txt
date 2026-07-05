@@ -1,0 +1,1094 @@
+# Puebla — Mexico Administrative Divisions
+
+> 217 municipalitys
+> Code: MX21
+> Coordinates: 19.35, -97.42
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acajete
+
+Code: MX21001, Coordinates: 19.1, -97.933
+
+
+### Acateno
+
+Code: MX21002, Coordinates: 20.1, -97.215
+
+
+### Acatlán (Acatlan)
+
+Code: MX21003, Coordinates: 18.223, -98.077
+
+
+### Acatzingo
+
+Code: MX21004, Coordinates: 19.03, -97.764
+
+
+### Acteopan
+
+Code: MX21005, Coordinates: 18.751, -98.68
+
+
+### Ahuacatlán (Ahuacatlan)
+
+Code: MX21006, Coordinates: 20.028, -97.855
+
+
+### Ahuatlán (Ahuatlan)
+
+Code: MX21007, Coordinates: 18.572, -98.287
+
+
+### Ahuazotepec
+
+Code: MX21008, Coordinates: 20.057, -98.137
+
+
+### Ahuehuetitla
+
+Code: MX21009, Coordinates: 18.232, -98.193
+
+
+### Ajalpan
+
+Code: MX21010, Coordinates: 18.435, -97.025
+
+
+### Albino Zertuche
+
+Code: MX21011, Coordinates: 18.013, -98.535
+
+
+### Aljojuca
+
+Code: MX21012, Coordinates: 19.106, -97.52
+
+
+### Altepexi
+
+Code: MX21013, Coordinates: 18.358, -97.292
+
+
+### Amixtlán (Amixtlan)
+
+Code: MX21014, Coordinates: 20.056, -97.8
+
+
+### Amozoc
+
+Code: MX21015, Coordinates: 19.064, -98.044
+
+
+### Aquixtla
+
+Code: MX21016, Coordinates: 19.78, -97.924
+
+
+### Atempan
+
+Code: MX21017, Coordinates: 19.802, -97.442
+
+
+### Atexcal
+
+Code: MX21018, Coordinates: 18.376, -97.689
+
+
+### Atlequizayan
+
+Code: MX21080, Coordinates: 20.016, -97.626
+
+
+### Atlixco
+
+Code: MX21019, Coordinates: 18.901, -98.453
+
+
+### Atoyatempan
+
+Code: MX21020, Coordinates: 18.804, -97.908
+
+
+### Atzala
+
+Code: MX21021, Coordinates: 18.547, -98.54
+
+
+### Atzitzihuacán (Atzitzihuacan)
+
+Code: MX21022, Coordinates: 18.813, -98.613
+
+
+### Atzitzintla
+
+Code: MX21023, Coordinates: 18.944, -97.308
+
+
+### Axutla
+
+Code: MX21024, Coordinates: 18.185, -98.395
+
+
+### Ayotoxco de Guerrero
+
+Code: MX21025, Coordinates: 20.072, -97.409
+
+
+### Calpan
+
+Code: MX21026, Coordinates: 19.103, -98.466
+
+
+### Caltepec
+
+Code: MX21027, Coordinates: 18.145, -97.446
+
+
+### Camocuautla
+
+Code: MX21028, Coordinates: 20.035, -97.753
+
+
+### Cañada Morelos (Canada Morelos)
+
+Code: MX21099, Coordinates: 18.725, -97.429
+
+
+### Caxhuacan
+
+Code: MX21029, Coordinates: 20.075, -97.61
+
+
+### Chalchicomula de Sesma
+
+Code: MX21045, Coordinates: 18.977, -97.451
+
+
+### Chapulco
+
+Code: MX21046, Coordinates: 18.647, -97.41
+
+
+### Chiautla
+
+Code: MX21047, Coordinates: 18.284, -98.579
+
+
+### Chiautzingo
+
+Code: MX21048, Coordinates: 19.199, -98.516
+
+
+### Chichiquila
+
+Code: MX21050, Coordinates: 19.207, -97.091
+
+
+### Chiconcuautla
+
+Code: MX21049, Coordinates: 20.086, -97.952
+
+
+### Chietla
+
+Code: MX21051, Coordinates: 18.51, -98.622
+
+
+### Chigmecatitlán (Chigmecatitlan)
+
+Code: MX21052, Coordinates: 18.648, -98.068
+
+
+### Chignahuapan
+
+Code: MX21053, Coordinates: 19.821, -98.118
+
+
+### Chignautla
+
+Code: MX21054, Coordinates: 19.757, -97.419
+
+
+### Chila
+
+Code: MX21055, Coordinates: 17.967, -97.879
+
+
+### Chila de la Sal
+
+Code: MX21056, Coordinates: 18.149, -98.499
+
+
+### Chilchotla
+
+Code: MX21058, Coordinates: 19.256, -97.21
+
+
+### Chinantla
+
+Code: MX21059, Coordinates: 18.228, -98.29
+
+
+### Coatepec
+
+Code: MX21030, Coordinates: 20.055, -97.73
+
+
+### Coatzingo
+
+Code: MX21031, Coordinates: 18.574, -98.149
+
+
+### Cohetzala
+
+Code: MX21032, Coordinates: 18.209, -98.803
+
+
+### Cohuecan
+
+Code: MX21033, Coordinates: 18.758, -98.74
+
+
+### Coronango
+
+Code: MX21034, Coordinates: 19.137, -98.292
+
+
+### Coxcatlán (Coxcatlan)
+
+Code: MX21035, Coordinates: 18.25, -97.14
+
+
+### Coyomeapan
+
+Code: MX21036, Coordinates: 18.286, -96.957
+
+
+### Coyotepec
+
+Code: MX21037, Coordinates: 18.396, -97.833
+
+
+### Cuapiaxtla de Madero
+
+Code: MX21038, Coordinates: 18.928, -97.833
+
+
+### Cuautempan
+
+Code: MX21039, Coordinates: 19.919, -97.794
+
+
+### Cuautinchán (Cuautinchan)
+
+Code: MX21040, Coordinates: 18.963, -98.045
+
+
+### Cuautlancingo
+
+Code: MX21041, Coordinates: 19.119, -98.249
+
+
+### Cuayuca de Andrade
+
+Code: MX21042, Coordinates: 18.433, -98.193
+
+
+### Cuetzalan del Progreso
+
+Code: MX21043, Coordinates: 20.027, -97.494
+
+
+### Cuyoaco
+
+Code: MX21044, Coordinates: 19.585, -97.575
+
+
+### Domingo Arenas
+
+Code: MX21060, Coordinates: 19.131, -98.44
+
+
+### Eloxochitlán (Eloxochitlan)
+
+Code: MX21061, Coordinates: 18.503, -96.918
+
+
+### Epatlán (Epatlan)
+
+Code: MX21062, Coordinates: 18.615, -98.379
+
+
+### Esperanza
+
+Code: MX21063, Coordinates: 18.857, -97.35
+
+
+### Francisco Z. Mena
+
+Code: MX21064, Coordinates: 20.706, -97.827
+
+
+### General Felipe Ángeles (General Felipe Angeles)
+
+Code: MX21065, Coordinates: 19.028, -97.662
+
+
+### Guadalupe
+
+Code: MX21066, Coordinates: 18.05, -98.155
+
+
+### Guadalupe Victoria
+
+Code: MX21067, Coordinates: 19.307, -97.403
+
+
+### Hermenegildo Galeana
+
+Code: MX21068, Coordinates: 20.119, -97.729
+
+
+### Honey
+
+Code: MX21057, Coordinates: 20.26, -98.238
+
+
+### Huaquechula
+
+Code: MX21069, Coordinates: 18.757, -98.525
+
+
+### Huatlatlauca
+
+Code: MX21070, Coordinates: 18.679, -98.073
+
+
+### Huauchinango
+
+Code: MX21071, Coordinates: 20.178, -98.049
+
+
+### Huehuetla
+
+Code: MX21072, Coordinates: 20.122, -97.619
+
+
+### Huehuetlán el Chico (Huehuetlan el Chico)
+
+Code: MX21073, Coordinates: 18.385, -98.726
+
+
+### Huehuetlán el Grande (Huehuetlan el Grande)
+
+Code: MX21150, Coordinates: 18.758, -98.172
+
+
+### Huejotzingo
+
+Code: MX21074, Coordinates: 19.164, -98.439
+
+
+### Hueyapan
+
+Code: MX21075, Coordinates: 19.929, -97.393
+
+
+### Hueytamalco
+
+Code: MX21076, Coordinates: 20.034, -97.244
+
+
+### Hueytlalpan
+
+Code: MX21077, Coordinates: 20.051, -97.672
+
+
+### Huitzilan de Serdán (Huitzilan de Serdan)
+
+Code: MX21078, Coordinates: 19.944, -97.712
+
+
+### Huitziltepec
+
+Code: MX21079, Coordinates: 18.784, -97.876
+
+
+### Ixcamilpa de Guerrero
+
+Code: MX21081, Coordinates: 18.028, -98.685
+
+
+### Ixcaquixtla
+
+Code: MX21082, Coordinates: 18.478, -97.827
+
+
+### Ixtacamaxtitlán (Ixtacamaxtitlan)
+
+Code: MX21083, Coordinates: 19.598, -97.826
+
+
+### Ixtepec
+
+Code: MX21084, Coordinates: 20.04, -97.649
+
+
+### Izúcar de Matamoros (Izucar de Matamoros)
+
+Code: MX21085, Coordinates: 18.507, -98.423
+
+
+### Jalpan
+
+Code: MX21086, Coordinates: 20.452, -97.865
+
+
+### Jolalpan
+
+Code: MX21087, Coordinates: 18.299, -98.915
+
+
+### Jonotla
+
+Code: MX21088, Coordinates: 20.046, -97.565
+
+
+### Jopala
+
+Code: MX21089, Coordinates: 20.203, -97.8
+
+
+### Juan C. Bonilla
+
+Code: MX21090, Coordinates: 19.122, -98.347
+
+
+### Juan Galindo
+
+Code: MX21091, Coordinates: 20.223, -97.991
+
+
+### Juan N. Méndez (Juan N. Mendez)
+
+Code: MX21092, Coordinates: 18.541, -97.749
+
+
+### La Magdalena Tlatlauquitepec
+
+Code: MX21095, Coordinates: 18.743, -98.094
+
+
+### Lafragua
+
+Code: MX21093, Coordinates: 19.284, -97.281
+
+
+### Libres
+
+Code: MX21094, Coordinates: 19.454, -97.648
+
+
+### Los Reyes de Juárez (Los Reyes de Juarez)
+
+Code: MX21118, Coordinates: 18.968, -97.824
+
+
+### Mazapiltepec de Juárez (Mazapiltepec de Juarez)
+
+Code: MX21096, Coordinates: 19.145, -97.679
+
+
+### Mixtla
+
+Code: MX21097, Coordinates: 18.904, -97.892
+
+
+### Molcaxac
+
+Code: MX21098, Coordinates: 18.674, -97.88
+
+
+### Naupan
+
+Code: MX21100, Coordinates: 20.238, -98.117
+
+
+### Nauzontla
+
+Code: MX21101, Coordinates: 19.962, -97.587
+
+
+### Nealtican
+
+Code: MX21102, Coordinates: 19.058, -98.444
+
+
+### Nicolás Bravo (Nicolas Bravo)
+
+Code: MX21103, Coordinates: 18.614, -97.317
+
+
+### Nopalucan
+
+Code: MX21104, Coordinates: 19.193, -97.826
+
+
+### Ocotepec
+
+Code: MX21105, Coordinates: 19.551, -97.671
+
+
+### Ocoyucan
+
+Code: MX21106, Coordinates: 18.93, -98.322
+
+
+### Olintla
+
+Code: MX21107, Coordinates: 20.114, -97.67
+
+
+### Oriental
+
+Code: MX21108, Coordinates: 19.328, -97.565
+
+
+### Pahuatlán (Pahuatlan)
+
+Code: MX21109, Coordinates: 20.288, -98.145
+
+
+### Palmar de Bravo
+
+Code: MX21110, Coordinates: 18.838, -97.52
+
+
+### Pantepec
+
+Code: MX21111, Coordinates: 20.58, -97.851
+
+
+### Petlalcingo
+
+Code: MX21112, Coordinates: 18.063, -97.91
+
+
+### Piaxtla
+
+Code: MX21113, Coordinates: 18.085, -98.22
+
+
+### Puebla
+
+Code: MX21114, Coordinates: 19.034, -98.187
+
+
+### Quecholac
+
+Code: MX21115, Coordinates: 18.95, -97.639
+
+
+### Quimixtlán (Quimixtlan)
+
+Code: MX21116, Coordinates: 19.243, -97.131
+
+
+### Rafael Lara Grajales
+
+Code: MX21117, Coordinates: 19.266, -97.828
+
+
+### San Andrés Cholula (San Andres Cholula)
+
+Code: MX21119, Coordinates: 19.022, -98.291
+
+
+### San Antonio Cañada (San Antonio Canada)
+
+Code: MX21120, Coordinates: 18.495, -97.274
+
+
+### San Diego la Mesa Tochimiltzingo
+
+Code: MX21121, Coordinates: 18.762, -98.348
+
+
+### San Felipe Teotlalcingo
+
+Code: MX21122, Coordinates: 19.233, -98.522
+
+
+### San Felipe Tepatlán (San Felipe Tepatlan)
+
+Code: MX21123, Coordinates: 20.119, -97.783
+
+
+### San Gabriel Chilac
+
+Code: MX21124, Coordinates: 18.312, -97.372
+
+
+### San Gregorio Atzompa
+
+Code: MX21125, Coordinates: 19.013, -98.342
+
+
+### San Jerónimo Tecuanipan (San Jeronimo Tecuanipan)
+
+Code: MX21126, Coordinates: 19.039, -98.412
+
+
+### San Jerónimo Xayacatlán (San Jeronimo Xayacatlan)
+
+Code: MX21127, Coordinates: 18.205, -97.919
+
+
+### San José Chiapa (San Jose Chiapa)
+
+Code: MX21128, Coordinates: 19.249, -97.72
+
+
+### San José Miahuatlán (San Jose Miahuatlán)
+
+Code: MX21129, Coordinates: 18.226, -97.281
+
+
+### San Juan Atenco
+
+Code: MX21130, Coordinates: 19.047, -97.552
+
+
+### San Juan Atzompa
+
+Code: MX21131, Coordinates: 18.745, -98.042
+
+
+### San Martín Texmelucan (San Martin Texmelucan)
+
+Code: MX21132, Coordinates: 19.266, -98.425
+
+
+### San Martín Totoltepec (San Martin Totoltepec)
+
+Code: MX21133, Coordinates: 18.658, -98.355
+
+
+### San Matías Tlalancaleca (San Matias Tlalancaleca)
+
+Code: MX21134, Coordinates: 19.351, -98.495
+
+
+### San Miguel Ixitlán (San Miguel Ixitlan)
+
+Code: MX21135, Coordinates: 18.007, -97.778
+
+
+### San Miguel Xoxtla
+
+Code: MX21136, Coordinates: 19.173, -98.305
+
+
+### San Nicolás Buenos Aires (San Nicolas Buenos Aires)
+
+Code: MX21137, Coordinates: 19.221, -97.485
+
+
+### San Nicolás de los Ranchos (San Nicolas de los Ranchos)
+
+Code: MX21138, Coordinates: 19.087, -98.555
+
+
+### San Pablo Anicano
+
+Code: MX21139, Coordinates: 18.141, -98.138
+
+
+### San Pedro Cholula
+
+Code: MX21140, Coordinates: 19.072, -98.322
+
+
+### San Pedro Yeloixtlahuaca
+
+Code: MX21141, Coordinates: 18.052, -98.046
+
+
+### San Salvador el Seco
+
+Code: MX21142, Coordinates: 19.143, -97.611
+
+
+### San Salvador el Verde
+
+Code: MX21143, Coordinates: 19.258, -98.524
+
+
+### San Salvador Huixcolotla
+
+Code: MX21144, Coordinates: 18.923, -97.777
+
+
+### San Sebastián Tlacotepec (San Sebastian Tlacotepec)
+
+Code: MX21145, Coordinates: 18.377, -96.822
+
+
+### Santa Catarina Tlaltempan
+
+Code: MX21146, Coordinates: 18.615, -98.084
+
+
+### Santa Inés Ahuatempan (Santa Ines Ahuatempan)
+
+Code: MX21147, Coordinates: 18.402, -98.052
+
+
+### Santa Isabel Cholula
+
+Code: MX21148, Coordinates: 18.968, -98.39
+
+
+### Santiago Miahuatlán (Santiago Miahuatlan)
+
+Code: MX21149, Coordinates: 18.55, -97.448
+
+
+### Santo Tomás Hueyotlipan (Santo Tomas Hueyotlipan)
+
+Code: MX21151, Coordinates: 18.889, -97.863
+
+
+### Soltepec
+
+Code: MX21152, Coordinates: 19.123, -97.754
+
+
+### Tecali de Herrera
+
+Code: MX21153, Coordinates: 18.898, -97.985
+
+
+### Tecamachalco
+
+Code: MX21154, Coordinates: 18.864, -97.728
+
+
+### Tecomatlán (Tecomatlan)
+
+Code: MX21155, Coordinates: 18.057, -98.327
+
+
+### Tehuacán (Tehuacan)
+
+Code: MX21156, Coordinates: 18.466, -97.398
+
+
+### Tehuitzingo
+
+Code: MX21157, Coordinates: 18.369, -98.31
+
+
+### Tenampulco
+
+Code: MX21158, Coordinates: 20.195, -97.39
+
+
+### Teopantlán (Teopantlan)
+
+Code: MX21159, Coordinates: 18.735, -98.26
+
+
+### Teotlalco
+
+Code: MX21160, Coordinates: 18.449, -98.838
+
+
+### Tepanco de López (Tepanco de Lopez)
+
+Code: MX21161, Coordinates: 18.553, -97.574
+
+
+### Tepango de Rodríguez (Tepango de Rodriguez)
+
+Code: MX21162, Coordinates: 20.011, -97.798
+
+
+### Tepatlaxco de Hidalgo
+
+Code: MX21163, Coordinates: 19.146, -98.008
+
+
+### Tepeaca
+
+Code: MX21164, Coordinates: 19.018, -97.885
+
+
+### Tepemaxalco
+
+Code: MX21165, Coordinates: 18.744, -98.631
+
+
+### Tepeojuma
+
+Code: MX21166, Coordinates: 18.729, -98.439
+
+
+### Tepetzintla
+
+Code: MX21167, Coordinates: 19.942, -97.865
+
+
+### Tepexco
+
+Code: MX21168, Coordinates: 18.65, -98.645
+
+
+### Tepexi de Rodríguez (Tepexi de Rodriguez)
+
+Code: MX21169, Coordinates: 18.474, -97.941
+
+
+### Tepeyahualco
+
+Code: MX21170, Coordinates: 19.519, -97.458
+
+
+### Tepeyahualco de Cuauhtémoc (Tepeyahualco de Cuauhtemoc)
+
+Code: MX21171, Coordinates: 18.81, -97.867
+
+
+### Tetela de Ocampo
+
+Code: MX21172, Coordinates: 19.812, -97.787
+
+
+### Teteles de Avila Castillo
+
+Code: MX21173, Coordinates: 19.852, -97.446
+
+
+### Teziutlán (Teziutlan)
+
+Code: MX21174, Coordinates: 19.874, -97.372
+
+
+### Tianguismanalco
+
+Code: MX21175, Coordinates: 19, -98.498
+
+
+### Tilapa
+
+Code: MX21176, Coordinates: 18.619, -98.55
+
+
+### Tlachichuca
+
+Code: MX21179, Coordinates: 19.149, -97.337
+
+
+### Tlacotepec de Benito Juárez (Tlacotepec de Benito Juarez)
+
+Code: MX21177, Coordinates: 18.634, -97.637
+
+
+### Tlacuilotepec
+
+Code: MX21178, Coordinates: 20.381, -97.975
+
+
+### Tlahuapan
+
+Code: MX21180, Coordinates: 19.351, -98.589
+
+
+### Tlaltenango
+
+Code: MX21181, Coordinates: 19.163, -98.34
+
+
+### Tlanepantla
+
+Code: MX21182, Coordinates: 18.857, -97.885
+
+
+### Tlaola
+
+Code: MX21183, Coordinates: 20.163, -97.913
+
+
+### Tlapacoya
+
+Code: MX21184, Coordinates: 20.137, -97.825
+
+
+### Tlapanalá (Tlapanala)
+
+Code: MX21185, Coordinates: 18.695, -98.539
+
+
+### Tlatlauquitepec
+
+Code: MX21186, Coordinates: 19.839, -97.506
+
+
+### Tlaxco
+
+Code: MX21187, Coordinates: 20.403, -98.046
+
+
+### Tochimilco
+
+Code: MX21188, Coordinates: 18.927, -98.618
+
+
+### Tochtepec
+
+Code: MX21189, Coordinates: 18.819, -97.823
+
+
+### Totoltepec de Guerrero
+
+Code: MX21190, Coordinates: 18.283, -97.852
+
+
+### Tulcingo
+
+Code: MX21191, Coordinates: 17.976, -98.372
+
+
+### Tuzamapan de Galeana
+
+Code: MX21192, Coordinates: 20.103, -97.523
+
+
+### Tzicatlacoyan
+
+Code: MX21193, Coordinates: 18.816, -98.034
+
+
+### Venustiano Carranza
+
+Code: MX21194, Coordinates: 20.505, -97.682
+
+
+### Vicente Guerrero
+
+Code: MX21195, Coordinates: 18.536, -97.173
+
+
+### Xayacatlán de Bravo (Xayacatlan de Bravo)
+
+Code: MX21196, Coordinates: 18.276, -97.957
+
+
+### Xicotepec
+
+Code: MX21197, Coordinates: 20.331, -97.906
+
+
+### Xicotlán (Xicotlan)
+
+Code: MX21198, Coordinates: 18.113, -98.547
+
+
+### Xiutetelco
+
+Code: MX21199, Coordinates: 19.746, -97.361
+
+
+### Xochiapulco
+
+Code: MX21200, Coordinates: 19.853, -97.646
+
+
+### Xochiltepec
+
+Code: MX21201, Coordinates: 18.653, -98.325
+
+
+### Xochitlán de Vicente Suárez (Xochitlan de Vicente Suarez)
+
+Code: MX21202, Coordinates: 19.934, -97.648
+
+
+### Xochitlán Todos Santos (Xochitlan Todos Santos)
+
+Code: MX21203, Coordinates: 18.694, -97.782
+
+
+### Yaonáhuac (Yaonahuac)
+
+Code: MX21204, Coordinates: 19.915, -97.447
+
+
+### Yehualtepec
+
+Code: MX21205, Coordinates: 18.767, -97.668
+
+
+### Zacapala
+
+Code: MX21206, Coordinates: 18.596, -98.046
+
+
+### Zacapoaxtla
+
+Code: MX21207, Coordinates: 19.841, -97.579
+
+
+### Zacatlán (Zacatlan)
+
+Code: MX21208, Coordinates: 19.961, -98.006
+
+
+### Zapotitlán (Zapotitlan)
+
+Code: MX21209, Coordinates: 18.262, -97.503
+
+
+### Zapotitlán de Méndez (Zapotitlan de Mendez)
+
+Code: MX21210, Coordinates: 20.004, -97.691
+
+
+### Zaragoza
+
+Code: MX21211, Coordinates: 19.746, -97.573
+
+
+### Zautla
+
+Code: MX21212, Coordinates: 19.714, -97.672
+
+
+### Zihuateutla
+
+Code: MX21213, Coordinates: 20.291, -97.788
+
+
+### Zinacatepec
+
+Code: MX21214, Coordinates: 18.328, -97.212
+
+
+### Zongozotla
+
+Code: MX21215, Coordinates: 19.971, -97.743
+
+
+### Zoquiapan
+
+Code: MX21216, Coordinates: 20.007, -97.597
+
+
+### Zoquitlán (Zoquitlan)
+
+Code: MX21217, Coordinates: 18.385, -96.935
+
+

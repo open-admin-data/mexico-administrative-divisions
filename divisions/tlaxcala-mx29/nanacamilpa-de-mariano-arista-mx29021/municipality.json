@@ -1,0 +1,45 @@
+{
+  "id": "MX29021",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nanacamilpa de Mariano Arista",
+    "en": "Nanacamilpa de Mariano Arista",
+    "slug": "nanacamilpa-de-mariano-arista-mx29021"
+  },
+  "code": {
+    "id": "MX29021",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.508",
+    "lon": "-98.543"
+  },
+  "metadata": {},
+  "source": {}
+}

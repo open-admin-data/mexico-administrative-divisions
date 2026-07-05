@@ -1,0 +1,45 @@
+{
+  "id": "MX21153",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tecali de Herrera",
+    "en": "Tecali de Herrera",
+    "slug": "tecali-de-herrera-mx21153"
+  },
+  "code": {
+    "id": "MX21153",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.898",
+    "lon": "-97.985"
+  },
+  "metadata": {},
+  "source": {}
+}

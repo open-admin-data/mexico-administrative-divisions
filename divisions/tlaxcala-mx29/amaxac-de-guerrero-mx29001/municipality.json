@@ -1,0 +1,45 @@
+{
+  "id": "MX29001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Amaxac de Guerrero",
+    "en": "Amaxac de Guerrero",
+    "slug": "amaxac-de-guerrero-mx29001"
+  },
+  "code": {
+    "id": "MX29001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.378",
+    "lon": "-98.219"
+  },
+  "metadata": {},
+  "source": {}
+}

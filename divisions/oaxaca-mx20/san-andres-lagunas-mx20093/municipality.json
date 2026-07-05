@@ -1,0 +1,45 @@
+{
+  "id": "MX20093",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Andrés Lagunas",
+    "en": "San Andres Lagunas",
+    "slug": "san-andres-lagunas-mx20093"
+  },
+  "code": {
+    "id": "MX20093",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.59",
+    "lon": "-97.528"
+  },
+  "metadata": {},
+  "source": {}
+}

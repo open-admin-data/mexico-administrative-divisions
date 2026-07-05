@@ -1,0 +1,45 @@
+{
+  "id": "MX19036",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mier y Noriega",
+    "en": "Mier y Noriega",
+    "slug": "mier-y-noriega-mx19036"
+  },
+  "code": {
+    "id": "MX19036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.402",
+    "lon": "-100.139"
+  },
+  "metadata": {},
+  "source": {}
+}

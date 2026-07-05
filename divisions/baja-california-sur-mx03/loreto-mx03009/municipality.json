@@ -1,0 +1,45 @@
+{
+  "id": "MX03009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Loreto",
+    "en": "Loreto",
+    "slug": "loreto-mx03009"
+  },
+  "code": {
+    "id": "MX03009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX03",
+    "level": 1,
+    "name": {
+      "local": "Baja California Sur",
+      "en": "Baja California Sur",
+      "slug": "baja-california-sur-mx03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX03",
+      "level": 1,
+      "name": {
+        "local": "Baja California Sur",
+        "en": "Baja California Sur",
+        "slug": "baja-california-sur-mx03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.884",
+    "lon": "-111.502"
+  },
+  "metadata": {},
+  "source": {}
+}

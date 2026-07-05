@@ -1,0 +1,45 @@
+{
+  "id": "MX10002",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canelas",
+    "en": "Canelas",
+    "slug": "canelas-mx10002"
+  },
+  "code": {
+    "id": "MX10002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.072",
+    "lon": "-106.543"
+  },
+  "metadata": {},
+  "source": {}
+}

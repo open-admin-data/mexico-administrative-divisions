@@ -1,0 +1,45 @@
+{
+  "id": "MX12065",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlalixtaquilla de Maldonado",
+    "en": "Tlalixtaquilla de Maldonado",
+    "slug": "tlalixtaquilla-de-maldonado-mx12065"
+  },
+  "code": {
+    "id": "MX12065",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.568",
+    "lon": "-98.378"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20067",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Oaxaca de Juárez",
+    "en": "Oaxaca de Juarez",
+    "slug": "oaxaca-de-juarez-mx20067"
+  },
+  "code": {
+    "id": "MX20067",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.097",
+    "lon": "-96.721"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX07114",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Benemérito de las Américas",
+    "en": "Benemerito de las Americas",
+    "slug": "benemerito-de-las-americas-mx07114"
+  },
+  "code": {
+    "id": "MX07114",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.339",
+    "lon": "-90.503"
+  },
+  "metadata": {},
+  "source": {}
+}

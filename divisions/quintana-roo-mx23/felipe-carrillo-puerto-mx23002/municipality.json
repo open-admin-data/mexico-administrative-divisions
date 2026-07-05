@@ -1,0 +1,45 @@
+{
+  "id": "MX23002",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Felipe Carrillo Puerto",
+    "en": "Felipe Carrillo Puerto",
+    "slug": "felipe-carrillo-puerto-mx23002"
+  },
+  "code": {
+    "id": "MX23002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX23",
+    "level": 1,
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.738",
+    "lon": "-88.08"
+  },
+  "metadata": {},
+  "source": {}
+}

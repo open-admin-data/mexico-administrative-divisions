@@ -1,0 +1,45 @@
+{
+  "id": "MX07011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bella Vista",
+    "en": "Bella Vista",
+    "slug": "bella-vista-mx07011"
+  },
+  "code": {
+    "id": "MX07011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.623",
+    "lon": "-92.232"
+  },
+  "metadata": {},
+  "source": {}
+}

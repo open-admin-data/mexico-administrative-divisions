@@ -1,0 +1,33 @@
+{
+  "id": "MX23",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Quintana Roo",
+    "en": "Quintana Roo",
+    "slug": "quintana-roo-mx23"
+  },
+  "code": {
+    "id": "MX23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.742",
+    "lon": "-88.323"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/quintana-roo-mx23/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

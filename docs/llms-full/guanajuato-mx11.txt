@@ -1,0 +1,239 @@
+# Guanajuato — Mexico Administrative Divisions
+
+> 46 municipalitys
+> Code: MX11
+> Coordinates: 20.877, -101.257
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abasolo
+
+Code: MX11001, Coordinates: 20.537, -101.546
+
+
+### Acámbaro (Acambaro)
+
+Code: MX11002, Coordinates: 20.071, -100.745
+
+
+### Apaseo el Alto
+
+Code: MX11004, Coordinates: 20.433, -100.592
+
+
+### Apaseo el Grande
+
+Code: MX11005, Coordinates: 20.592, -100.598
+
+
+### Atarjea
+
+Code: MX11006, Coordinates: 21.277, -99.781
+
+
+### Celaya
+
+Code: MX11007, Coordinates: 20.523, -100.831
+
+
+### Comonfort
+
+Code: MX11009, Coordinates: 20.737, -100.797
+
+
+### Coroneo
+
+Code: MX11010, Coordinates: 20.217, -100.395
+
+
+### Cortazar
+
+Code: MX11011, Coordinates: 20.422, -100.931
+
+
+### Cuerámaro (Cueramaro)
+
+Code: MX11012, Coordinates: 20.615, -101.671
+
+
+### Doctor Mora
+
+Code: MX11013, Coordinates: 21.147, -100.368
+
+
+### Dolores Hidalgo Cuna de la Independencia Nacional
+
+Code: MX11014, Coordinates: 21.105, -100.913
+
+
+### Guanajuato
+
+Code: MX11015, Coordinates: 21.024, -101.243
+
+
+### Huanímaro (Huanimaro)
+
+Code: MX11016, Coordinates: 20.365, -101.504
+
+
+### Irapuato
+
+Code: MX11017, Coordinates: 20.675, -101.389
+
+
+### Jaral del Progreso
+
+Code: MX11018, Coordinates: 20.364, -101.062
+
+
+### Jerécuaro (Jerecuaro)
+
+Code: MX11019, Coordinates: 20.185, -100.543
+
+
+### León (Leon)
+
+Code: MX11020, Coordinates: 21.097, -101.648
+
+
+### Manuel Doblado
+
+Code: MX11008, Coordinates: 20.693, -101.878
+
+
+### Moroleón (Moroleon)
+
+Code: MX11021, Coordinates: 20.084, -101.258
+
+
+### Ocampo
+
+Code: MX11022, Coordinates: 21.604, -101.476
+
+
+### Pénjamo (Penjamo)
+
+Code: MX11023, Coordinates: 20.405, -101.841
+
+
+### Pueblo Nuevo
+
+Code: MX11024, Coordinates: 20.548, -101.366
+
+
+### Purísima del Rincón (Purisima del Rincon)
+
+Code: MX11025, Coordinates: 20.941, -101.906
+
+
+### Romita
+
+Code: MX11026, Coordinates: 20.815, -101.585
+
+
+### Salamanca
+
+Code: MX11027, Coordinates: 20.652, -101.167
+
+
+### Salvatierra
+
+Code: MX11028, Coordinates: 20.193, -100.866
+
+
+### San Diego de la Unión (San Diego de la Union)
+
+Code: MX11029, Coordinates: 21.455, -100.87
+
+
+### San Felipe
+
+Code: MX11030, Coordinates: 21.485, -101.171
+
+
+### San Francisco del Rincón (San Francisco del Rincon)
+
+Code: MX11031, Coordinates: 20.925, -101.798
+
+
+### San José Iturbide (San Jose Iturbide)
+
+Code: MX11032, Coordinates: 21.001, -100.384
+
+
+### San Luis de la Paz
+
+Code: MX11033, Coordinates: 21.381, -100.482
+
+
+### San Miguel de Allende
+
+Code: MX11003, Coordinates: 20.913, -100.736
+
+
+### Santa Catarina
+
+Code: MX11034, Coordinates: 21.141, -100.071
+
+
+### Santa Cruz de Juventino Rosas
+
+Code: MX11035, Coordinates: 20.683, -100.959
+
+
+### Santiago Maravatío (Santiago Maravatio)
+
+Code: MX11036, Coordinates: 20.157, -100.976
+
+
+### Silao de la Victoria
+
+Code: MX11037, Coordinates: 20.976, -101.45
+
+
+### Tarandacuao
+
+Code: MX11038, Coordinates: 19.999, -100.526
+
+
+### Tarimoro
+
+Code: MX11039, Coordinates: 20.293, -100.754
+
+
+### Tierra Blanca
+
+Code: MX11040, Coordinates: 21.039, -100.135
+
+
+### Uriangato
+
+Code: MX11041, Coordinates: 20.118, -101.138
+
+
+### Valle de Santiago
+
+Code: MX11042, Coordinates: 20.397, -101.259
+
+
+### Victoria
+
+Code: MX11043, Coordinates: 21.386, -100.239
+
+
+### Villagrán (Villagran)
+
+Code: MX11044, Coordinates: 20.546, -100.994
+
+
+### Xichú (Xichu)
+
+Code: MX11045, Coordinates: 21.36, -99.981
+
+
+### Yuriria
+
+Code: MX11046, Coordinates: 20.166, -101.317
+
+

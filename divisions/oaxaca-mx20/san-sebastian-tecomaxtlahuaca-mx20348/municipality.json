@@ -1,0 +1,45 @@
+{
+  "id": "MX20348",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián Tecomaxtlahuaca",
+    "en": "San Sebastian Tecomaxtlahuaca",
+    "slug": "san-sebastian-tecomaxtlahuaca-mx20348"
+  },
+  "code": {
+    "id": "MX20348",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.348",
+    "lon": "-98.091"
+  },
+  "metadata": {},
+  "source": {}
+}

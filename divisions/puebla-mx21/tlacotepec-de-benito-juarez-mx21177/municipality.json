@@ -1,0 +1,45 @@
+{
+  "id": "MX21177",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlacotepec de Benito Juárez",
+    "en": "Tlacotepec de Benito Juarez",
+    "slug": "tlacotepec-de-benito-juarez-mx21177"
+  },
+  "code": {
+    "id": "MX21177",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.634",
+    "lon": "-97.637"
+  },
+  "metadata": {},
+  "source": {}
+}

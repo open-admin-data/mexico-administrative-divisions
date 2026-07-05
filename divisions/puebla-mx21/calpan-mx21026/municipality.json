@@ -1,0 +1,45 @@
+{
+  "id": "MX21026",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Calpan",
+    "en": "Calpan",
+    "slug": "calpan-mx21026"
+  },
+  "code": {
+    "id": "MX21026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.103",
+    "lon": "-98.466"
+  },
+  "metadata": {},
+  "source": {}
+}

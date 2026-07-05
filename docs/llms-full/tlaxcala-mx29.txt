@@ -1,0 +1,309 @@
+# Tlaxcala — Mexico Administrative Divisions
+
+> 60 municipalitys
+> Code: MX29
+> Coordinates: 19.417, -98.11
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acuamanala de Miguel Hidalgo
+
+Code: MX29022, Coordinates: 19.216, -98.161
+
+
+### Amaxac de Guerrero
+
+Code: MX29001, Coordinates: 19.378, -98.219
+
+
+### Apetatitlán de Antonio Carvajal (Apetatitlan de Antonio Carvajal)
+
+Code: MX29002, Coordinates: 19.351, -98.191
+
+
+### Apizaco
+
+Code: MX29005, Coordinates: 19.425, -98.078
+
+
+### Atlangatepec
+
+Code: MX29003, Coordinates: 19.547, -98.187
+
+
+### Atltzayanca
+
+Code: MX29004, Coordinates: 19.412, -97.795
+
+
+### Benito Juárez (Benito Juarez)
+
+Code: MX29045, Coordinates: 19.596, -98.418
+
+
+### Calpulalpan
+
+Code: MX29006, Coordinates: 19.552, -98.611
+
+
+### Chiautempan
+
+Code: MX29010, Coordinates: 19.289, -98.117
+
+
+### Contla de Juan Cuamatzi
+
+Code: MX29018, Coordinates: 19.32, -98.144
+
+
+### Cuapiaxtla
+
+Code: MX29008, Coordinates: 19.339, -97.779
+
+
+### Cuaxomulco
+
+Code: MX29009, Coordinates: 19.345, -98.095
+
+
+### El Carmen Tequexquitla
+
+Code: MX29007, Coordinates: 19.341, -97.661
+
+
+### Emiliano Zapata
+
+Code: MX29046, Coordinates: 19.566, -97.925
+
+
+### Españita (Espanita)
+
+Code: MX29012, Coordinates: 19.441, -98.424
+
+
+### Huamantla
+
+Code: MX29013, Coordinates: 19.323, -97.915
+
+
+### Hueyotlipan
+
+Code: MX29014, Coordinates: 19.48, -98.33
+
+
+### Ixtacuixtla de Mariano Matamoros
+
+Code: MX29015, Coordinates: 19.347, -98.378
+
+
+### Ixtenco
+
+Code: MX29016, Coordinates: 19.26, -97.904
+
+
+### La Magdalena Tlaltelulco
+
+Code: MX29048, Coordinates: 19.28, -98.193
+
+
+### Lázaro Cárdenas (Lazaro Cardenas)
+
+Code: MX29047, Coordinates: 19.536, -97.99
+
+
+### Mazatecochco de José María Morelos (Mazatecochco de Jose Maria Morelos)
+
+Code: MX29017, Coordinates: 19.192, -98.165
+
+
+### Muñoz de Domingo Arenas (Munoz de Domingo Arenas)
+
+Code: MX29011, Coordinates: 19.501, -98.221
+
+
+### Nanacamilpa de Mariano Arista
+
+Code: MX29021, Coordinates: 19.508, -98.543
+
+
+### Natívitas (Nativitas)
+
+Code: MX29023, Coordinates: 19.23, -98.338
+
+
+### Panotla
+
+Code: MX29024, Coordinates: 19.352, -98.281
+
+
+### Papalotla de Xicohténcatl (Papalotla de Xicohtencatl)
+
+Code: MX29041, Coordinates: 19.172, -98.189
+
+
+### San Damián Texóloc (San Damian Texoloc)
+
+Code: MX29049, Coordinates: 19.291, -98.308
+
+
+### San Francisco Tetlanohcan
+
+Code: MX29050, Coordinates: 19.261, -98.159
+
+
+### San Jerónimo Zacualpan (San Jeronimo Zacualpan)
+
+Code: MX29051, Coordinates: 19.247, -98.263
+
+
+### San José Teacalco (San Jose Teacalco)
+
+Code: MX29052, Coordinates: 19.323, -98.053
+
+
+### San Juan Huactzinco
+
+Code: MX29053, Coordinates: 19.238, -98.253
+
+
+### San Lorenzo Axocomanitla
+
+Code: MX29054, Coordinates: 19.215, -98.265
+
+
+### San Lucas Tecopilco
+
+Code: MX29055, Coordinates: 19.489, -98.254
+
+
+### San Pablo del Monte
+
+Code: MX29025, Coordinates: 19.161, -98.129
+
+
+### Sanctórum de Lázaro Cárdenas (Sanctorum de Lazaro Cardenas)
+
+Code: MX29020, Coordinates: 19.551, -98.416
+
+
+### Santa Ana Nopalucan
+
+Code: MX29056, Coordinates: 19.293, -98.328
+
+
+### Santa Apolonia Teacalco
+
+Code: MX29057, Coordinates: 19.242, -98.315
+
+
+### Santa Catarina Ayometla
+
+Code: MX29058, Coordinates: 19.193, -98.216
+
+
+### Santa Cruz Quilehtla
+
+Code: MX29059, Coordinates: 19.212, -98.212
+
+
+### Santa Cruz Tlaxcala
+
+Code: MX29026, Coordinates: 19.361, -98.14
+
+
+### Santa Isabel Xiloxoxtla
+
+Code: MX29060, Coordinates: 19.264, -98.207
+
+
+### Tenancingo
+
+Code: MX29027, Coordinates: 19.15, -98.188
+
+
+### Teolocholco
+
+Code: MX29028, Coordinates: 19.211, -98.076
+
+
+### Tepetitla de Lardizábal (Tepetitla de Lardizabal)
+
+Code: MX29019, Coordinates: 19.283, -98.376
+
+
+### Tepeyanco
+
+Code: MX29029, Coordinates: 19.247, -98.225
+
+
+### Terrenate
+
+Code: MX29030, Coordinates: 19.48, -97.915
+
+
+### Tetla de la Solidaridad
+
+Code: MX29031, Coordinates: 19.495, -98.089
+
+
+### Tetlatlahuca
+
+Code: MX29032, Coordinates: 19.233, -98.287
+
+
+### Tlaxcala
+
+Code: MX29033, Coordinates: 19.318, -98.237
+
+
+### Tlaxco
+
+Code: MX29034, Coordinates: 19.62, -98.171
+
+
+### Tocatlán (Tocatlan)
+
+Code: MX29035, Coordinates: 19.391, -98.018
+
+
+### Totolac
+
+Code: MX29036, Coordinates: 19.338, -98.245
+
+
+### Tzompantepec
+
+Code: MX29038, Coordinates: 19.383, -98.086
+
+
+### Xaloztoc
+
+Code: MX29039, Coordinates: 19.412, -98.043
+
+
+### Xaltocan
+
+Code: MX29040, Coordinates: 19.419, -98.245
+
+
+### Xicohtzinco
+
+Code: MX29042, Coordinates: 19.172, -98.238
+
+
+### Yauhquemehcan
+
+Code: MX29043, Coordinates: 19.404, -98.181
+
+
+### Zacatelco
+
+Code: MX29044, Coordinates: 19.196, -98.257
+
+
+### Ziltlaltépec de Trinidad Sánchez Santos (Ziltlaltepec de Trinidad Sanchez Santos)
+
+Code: MX29037, Coordinates: 19.209, -97.926
+
+

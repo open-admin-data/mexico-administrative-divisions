@@ -1,0 +1,45 @@
+{
+  "id": "MX20200",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Juquila Mixes",
+    "en": "San Juan Juquila Mixes",
+    "slug": "san-juan-juquila-mixes-mx20200"
+  },
+  "code": {
+    "id": "MX20200",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.868",
+    "lon": "-95.879"
+  },
+  "metadata": {},
+  "source": {}
+}

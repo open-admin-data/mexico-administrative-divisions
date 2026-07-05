@@ -1,0 +1,45 @@
+{
+  "id": "MX14072",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Diego de Alejandría",
+    "en": "San Diego de Alejandria",
+    "slug": "san-diego-de-alejandria-mx14072"
+  },
+  "code": {
+    "id": "MX14072",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.956",
+    "lon": "-102.026"
+  },
+  "metadata": {},
+  "source": {}
+}

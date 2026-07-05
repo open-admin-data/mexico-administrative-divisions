@@ -1,0 +1,45 @@
+{
+  "id": "MX14010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atemajac de Brizuela",
+    "en": "Atemajac de Brizuela",
+    "slug": "atemajac-de-brizuela-mx14010"
+  },
+  "code": {
+    "id": "MX14010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.18",
+    "lon": "-103.741"
+  },
+  "metadata": {},
+  "source": {}
+}

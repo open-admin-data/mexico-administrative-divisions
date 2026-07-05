@@ -1,0 +1,45 @@
+{
+  "id": "MX26046",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Oquitoa",
+    "en": "Oquitoa",
+    "slug": "oquitoa-mx26046"
+  },
+  "code": {
+    "id": "MX26046",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.793",
+    "lon": "-111.714"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX07017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cintalapa",
+    "en": "Cintalapa",
+    "slug": "cintalapa-mx07017"
+  },
+  "code": {
+    "id": "MX07017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.752",
+    "lon": "-93.833"
+  },
+  "metadata": {},
+  "source": {}
+}

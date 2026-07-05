@@ -1,0 +1,45 @@
+{
+  "id": "MX20397",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Heroica Ciudad de Tlaxiaco",
+    "en": "Heroica Ciudad de Tlaxiaco",
+    "slug": "heroica-ciudad-de-tlaxiaco-mx20397"
+  },
+  "code": {
+    "id": "MX20397",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.236",
+    "lon": "-97.699"
+  },
+  "metadata": {},
+  "source": {}
+}

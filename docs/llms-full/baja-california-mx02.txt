@@ -1,0 +1,34 @@
+# Baja California — Mexico Administrative Divisions
+
+> 5 municipalitys
+> Code: MX02
+> Coordinates: 30.359, -115.244
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ensenada
+
+Code: MX02001, Coordinates: 30.193, -115.231
+
+
+### Mexicali
+
+Code: MX02002, Coordinates: 31.792, -115.264
+
+
+### Playas de Rosarito
+
+Code: MX02005, Coordinates: 32.258, -116.873
+
+
+### Tecate
+
+Code: MX02003, Coordinates: 32.435, -116.274
+
+
+### Tijuana
+
+Code: MX02004, Coordinates: 32.378, -116.796
+
+

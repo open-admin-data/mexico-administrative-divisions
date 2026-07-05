@@ -1,0 +1,45 @@
+{
+  "id": "MX21202",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xochitlán de Vicente Suárez",
+    "en": "Xochitlan de Vicente Suarez",
+    "slug": "xochitlan-de-vicente-suarez-mx21202"
+  },
+  "code": {
+    "id": "MX21202",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.934",
+    "lon": "-97.648"
+  },
+  "metadata": {},
+  "source": {}
+}

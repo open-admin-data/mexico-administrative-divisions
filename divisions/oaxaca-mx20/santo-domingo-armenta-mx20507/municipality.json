@@ -1,0 +1,45 @@
+{
+  "id": "MX20507",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Armenta",
+    "en": "Santo Domingo Armenta",
+    "slug": "santo-domingo-armenta-mx20507"
+  },
+  "code": {
+    "id": "MX20507",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.341",
+    "lon": "-98.359"
+  },
+  "metadata": {},
+  "source": {}
+}

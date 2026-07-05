@@ -1,0 +1,45 @@
+{
+  "id": "MX20481",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Nuyoó",
+    "en": "Santiago Nuyoo",
+    "slug": "santiago-nuyoo-mx20481"
+  },
+  "code": {
+    "id": "MX20481",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.01",
+    "lon": "-97.749"
+  },
+  "metadata": {},
+  "source": {}
+}

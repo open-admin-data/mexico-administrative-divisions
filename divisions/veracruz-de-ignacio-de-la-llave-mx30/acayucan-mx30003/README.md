@@ -1,0 +1,21 @@
+# Acayucan
+
+[Home](../../../) &gt; [Veracruz de Ignacio de la Llave](../) > **Acayucan**
+
+Acayucan is a municipality in Mexico, under Veracruz de Ignacio de la Llave.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | MX30003 |
+| Coordinates | 18.028, -95.036 |
+| Parent | Veracruz de Ignacio de la Llave |
+
+## Data Files
+
+- [municipality.json](municipality.json) — Municipality metadata
+
+---
+
+<- Back to [Veracruz de Ignacio de la Llave](../)

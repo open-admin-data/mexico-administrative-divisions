@@ -1,0 +1,45 @@
+{
+  "id": "MX07039",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huitiupán",
+    "en": "Huitiupan",
+    "slug": "huitiupan-mx07039"
+  },
+  "code": {
+    "id": "MX07039",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.241",
+    "lon": "-92.703"
+  },
+  "metadata": {},
+  "source": {}
+}

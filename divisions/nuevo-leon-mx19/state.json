@@ -1,0 +1,33 @@
+{
+  "id": "MX19",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Nuevo León",
+    "en": "Nuevo Leon",
+    "slug": "nuevo-leon-mx19"
+  },
+  "code": {
+    "id": "MX19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.479",
+    "lon": "-99.503"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/nuevo-leon-mx19/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

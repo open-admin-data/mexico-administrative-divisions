@@ -1,0 +1,45 @@
+{
+  "id": "MX20570",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zimatlán de Álvarez",
+    "en": "Zimatlan de Alvarez",
+    "slug": "zimatlan-de-alvarez-mx20570"
+  },
+  "code": {
+    "id": "MX20570",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.873",
+    "lon": "-96.801"
+  },
+  "metadata": {},
+  "source": {}
+}

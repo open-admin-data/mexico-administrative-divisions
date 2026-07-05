@@ -1,0 +1,45 @@
+{
+  "id": "MX04006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Hopelchén",
+    "en": "Hopelchen",
+    "slug": "hopelchen-mx04006"
+  },
+  "code": {
+    "id": "MX04006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX04",
+    "level": 1,
+    "name": {
+      "local": "Campeche",
+      "en": "Campeche",
+      "slug": "campeche-mx04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.539",
+    "lon": "-89.621"
+  },
+  "metadata": {},
+  "source": {}
+}

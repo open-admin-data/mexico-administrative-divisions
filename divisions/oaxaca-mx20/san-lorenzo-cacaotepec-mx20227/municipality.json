@@ -1,0 +1,45 @@
+{
+  "id": "MX20227",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lorenzo Cacaotepec",
+    "en": "San Lorenzo Cacaotepec",
+    "slug": "san-lorenzo-cacaotepec-mx20227"
+  },
+  "code": {
+    "id": "MX20227",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.126",
+    "lon": "-96.808"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX23007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lázaro Cárdenas",
+    "en": "Lazaro Cardenas",
+    "slug": "lazaro-cardenas-mx23007"
+  },
+  "code": {
+    "id": "MX23007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX23",
+    "level": 1,
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.037",
+    "lon": "-87.427"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20163",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Jerónimo Tecóatl",
+    "en": "San Jeronimo Tecoatl",
+    "slug": "san-jeronimo-tecoatl-mx20163"
+  },
+  "code": {
+    "id": "MX20163",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.146",
+    "lon": "-96.942"
+  },
+  "metadata": {},
+  "source": {}
+}

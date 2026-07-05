@@ -1,0 +1,45 @@
+{
+  "id": "MX12054",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Totolapan",
+    "en": "San Miguel Totolapan",
+    "slug": "san-miguel-totolapan-mx12054"
+  },
+  "code": {
+    "id": "MX12054",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.847",
+    "lon": "-100.319"
+  },
+  "metadata": {},
+  "source": {}
+}

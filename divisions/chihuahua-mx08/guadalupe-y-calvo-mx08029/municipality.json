@@ -1,0 +1,45 @@
+{
+  "id": "MX08029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guadalupe y Calvo",
+    "en": "Guadalupe y Calvo",
+    "slug": "guadalupe-y-calvo-mx08029"
+  },
+  "code": {
+    "id": "MX08029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.124",
+    "lon": "-106.909"
+  },
+  "metadata": {},
+  "source": {}
+}

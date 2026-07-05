@@ -1,0 +1,45 @@
+{
+  "id": "MX20550",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Jerónimo Tlacochahuaya",
+    "en": "San Jeronimo Tlacochahuaya",
+    "slug": "san-jeronimo-tlacochahuaya-mx20550"
+  },
+  "code": {
+    "id": "MX20550",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.018",
+    "lon": "-96.545"
+  },
+  "metadata": {},
+  "source": {}
+}

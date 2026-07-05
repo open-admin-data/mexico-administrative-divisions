@@ -1,0 +1,45 @@
+{
+  "id": "MX20508",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Chihuitán",
+    "en": "Santo Domingo Chihuitan",
+    "slug": "santo-domingo-chihuitan-mx20508"
+  },
+  "code": {
+    "id": "MX20508",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.639",
+    "lon": "-95.176"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "MX28",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Tamaulipas",
+    "en": "Tamaulipas",
+    "slug": "tamaulipas-mx28"
+  },
+  "code": {
+    "id": "MX28",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.944",
+    "lon": "-98.402"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/tamaulipas-mx28/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

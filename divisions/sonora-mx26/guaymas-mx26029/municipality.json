@@ -1,0 +1,45 @@
+{
+  "id": "MX26029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Guaymas",
+    "en": "Guaymas",
+    "slug": "guaymas-mx26029"
+  },
+  "code": {
+    "id": "MX26029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.074",
+    "lon": "-111.019"
+  },
+  "metadata": {},
+  "source": {}
+}

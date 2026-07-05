@@ -1,0 +1,45 @@
+{
+  "id": "MX28027",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nuevo Laredo",
+    "en": "Nuevo Laredo",
+    "slug": "nuevo-laredo-mx28027"
+  },
+  "code": {
+    "id": "MX28027",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.475",
+    "lon": "-99.677"
+  },
+  "metadata": {},
+  "source": {}
+}

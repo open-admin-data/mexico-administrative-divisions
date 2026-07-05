@@ -1,0 +1,45 @@
+{
+  "id": "MX11008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Manuel Doblado",
+    "en": "Manuel Doblado",
+    "slug": "manuel-doblado-mx11008"
+  },
+  "code": {
+    "id": "MX11008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.693",
+    "lon": "-101.878"
+  },
+  "metadata": {},
+  "source": {}
+}

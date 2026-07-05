@@ -1,0 +1,45 @@
+{
+  "id": "MX14118",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Yahualica de González Gallo",
+    "en": "Yahualica de Gonzalez Gallo",
+    "slug": "yahualica-de-gonzalez-gallo-mx14118"
+  },
+  "code": {
+    "id": "MX14118",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.123",
+    "lon": "-102.951"
+  },
+  "metadata": {},
+  "source": {}
+}

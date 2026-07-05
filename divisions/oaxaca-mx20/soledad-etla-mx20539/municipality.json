@@ -1,0 +1,45 @@
+{
+  "id": "MX20539",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Soledad Etla",
+    "en": "Soledad Etla",
+    "slug": "soledad-etla-mx20539"
+  },
+  "code": {
+    "id": "MX20539",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.158",
+    "lon": "-96.828"
+  },
+  "metadata": {},
+  "source": {}
+}

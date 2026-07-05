@@ -1,0 +1,45 @@
+{
+  "id": "MX07045",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixtapangajoya",
+    "en": "Ixtapangajoya",
+    "slug": "ixtapangajoya-mx07045"
+  },
+  "code": {
+    "id": "MX07045",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.461",
+    "lon": "-92.979"
+  },
+  "metadata": {},
+  "source": {}
+}

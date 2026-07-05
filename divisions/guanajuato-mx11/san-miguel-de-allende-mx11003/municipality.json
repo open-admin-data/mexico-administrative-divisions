@@ -1,0 +1,45 @@
+{
+  "id": "MX11003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel de Allende",
+    "en": "San Miguel de Allende",
+    "slug": "san-miguel-de-allende-mx11003"
+  },
+  "code": {
+    "id": "MX11003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.913",
+    "lon": "-100.736"
+  },
+  "metadata": {},
+  "source": {}
+}

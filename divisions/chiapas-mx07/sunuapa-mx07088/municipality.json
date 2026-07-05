@@ -1,0 +1,45 @@
+{
+  "id": "MX07088",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sunuapa",
+    "en": "Sunuapa",
+    "slug": "sunuapa-mx07088"
+  },
+  "code": {
+    "id": "MX07088",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.483",
+    "lon": "-93.242"
+  },
+  "metadata": {},
+  "source": {}
+}

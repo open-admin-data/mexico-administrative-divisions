@@ -1,0 +1,45 @@
+{
+  "id": "MX20288",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Yotao",
+    "en": "San Miguel Yotao",
+    "slug": "san-miguel-yotao-mx20288"
+  },
+  "code": {
+    "id": "MX20288",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.347",
+    "lon": "-96.357"
+  },
+  "metadata": {},
+  "source": {}
+}

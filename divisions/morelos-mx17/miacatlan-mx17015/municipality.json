@@ -1,0 +1,45 @@
+{
+  "id": "MX17015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Miacatlán",
+    "en": "Miacatlan",
+    "slug": "miacatlan-mx17015"
+  },
+  "code": {
+    "id": "MX17015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.804",
+    "lon": "-99.361"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20566",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Mateo Yucutindó",
+    "en": "San Mateo Yucutindo",
+    "slug": "san-mateo-yucutindo-mx20566"
+  },
+  "code": {
+    "id": "MX20566",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.792",
+    "lon": "-97.295"
+  },
+  "metadata": {},
+  "source": {}
+}

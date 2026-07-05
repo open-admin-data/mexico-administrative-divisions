@@ -1,0 +1,45 @@
+{
+  "id": "MX07071",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa Comaltitlán",
+    "en": "Villa Comaltitlan",
+    "slug": "villa-comaltitlan-mx07071"
+  },
+  "code": {
+    "id": "MX07071",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.171",
+    "lon": "-92.613"
+  },
+  "metadata": {},
+  "source": {}
+}

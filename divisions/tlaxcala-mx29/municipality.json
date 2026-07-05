@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "MX29022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acuamanala de Miguel Hidalgo",
+      "en": "Acuamanala de Miguel Hidalgo",
+      "slug": "acuamanala-de-miguel-hidalgo-mx29022"
+    },
+    "code": {
+      "id": "MX29022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.216",
+      "lon": "-98.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amaxac de Guerrero",
+      "en": "Amaxac de Guerrero",
+      "slug": "amaxac-de-guerrero-mx29001"
+    },
+    "code": {
+      "id": "MX29001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.378",
+      "lon": "-98.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apetatitlán de Antonio Carvajal",
+      "en": "Apetatitlan de Antonio Carvajal",
+      "slug": "apetatitlan-de-antonio-carvajal-mx29002"
+    },
+    "code": {
+      "id": "MX29002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.351",
+      "lon": "-98.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apizaco",
+      "en": "Apizaco",
+      "slug": "apizaco-mx29005"
+    },
+    "code": {
+      "id": "MX29005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.425",
+      "lon": "-98.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atlangatepec",
+      "en": "Atlangatepec",
+      "slug": "atlangatepec-mx29003"
+    },
+    "code": {
+      "id": "MX29003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.547",
+      "lon": "-98.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atltzayanca",
+      "en": "Atltzayanca",
+      "slug": "atltzayanca-mx29004"
+    },
+    "code": {
+      "id": "MX29004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.412",
+      "lon": "-97.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benito Juárez",
+      "en": "Benito Juarez",
+      "slug": "benito-juarez-mx29045"
+    },
+    "code": {
+      "id": "MX29045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.596",
+      "lon": "-98.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calpulalpan",
+      "en": "Calpulalpan",
+      "slug": "calpulalpan-mx29006"
+    },
+    "code": {
+      "id": "MX29006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.552",
+      "lon": "-98.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiautempan",
+      "en": "Chiautempan",
+      "slug": "chiautempan-mx29010"
+    },
+    "code": {
+      "id": "MX29010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.289",
+      "lon": "-98.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Contla de Juan Cuamatzi",
+      "en": "Contla de Juan Cuamatzi",
+      "slug": "contla-de-juan-cuamatzi-mx29018"
+    },
+    "code": {
+      "id": "MX29018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.32",
+      "lon": "-98.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuapiaxtla",
+      "en": "Cuapiaxtla",
+      "slug": "cuapiaxtla-mx29008"
+    },
+    "code": {
+      "id": "MX29008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.339",
+      "lon": "-97.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuaxomulco",
+      "en": "Cuaxomulco",
+      "slug": "cuaxomulco-mx29009"
+    },
+    "code": {
+      "id": "MX29009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.345",
+      "lon": "-98.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Carmen Tequexquitla",
+      "en": "El Carmen Tequexquitla",
+      "slug": "el-carmen-tequexquitla-mx29007"
+    },
+    "code": {
+      "id": "MX29007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.341",
+      "lon": "-97.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Emiliano Zapata",
+      "en": "Emiliano Zapata",
+      "slug": "emiliano-zapata-mx29046"
+    },
+    "code": {
+      "id": "MX29046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.566",
+      "lon": "-97.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Españita",
+      "en": "Espanita",
+      "slug": "espanita-mx29012"
+    },
+    "code": {
+      "id": "MX29012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.441",
+      "lon": "-98.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huamantla",
+      "en": "Huamantla",
+      "slug": "huamantla-mx29013"
+    },
+    "code": {
+      "id": "MX29013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.323",
+      "lon": "-97.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hueyotlipan",
+      "en": "Hueyotlipan",
+      "slug": "hueyotlipan-mx29014"
+    },
+    "code": {
+      "id": "MX29014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.48",
+      "lon": "-98.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtacuixtla de Mariano Matamoros",
+      "en": "Ixtacuixtla de Mariano Matamoros",
+      "slug": "ixtacuixtla-de-mariano-matamoros-mx29015"
+    },
+    "code": {
+      "id": "MX29015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.347",
+      "lon": "-98.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtenco",
+      "en": "Ixtenco",
+      "slug": "ixtenco-mx29016"
+    },
+    "code": {
+      "id": "MX29016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.26",
+      "lon": "-97.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Magdalena Tlaltelulco",
+      "en": "La Magdalena Tlaltelulco",
+      "slug": "la-magdalena-tlaltelulco-mx29048"
+    },
+    "code": {
+      "id": "MX29048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.28",
+      "lon": "-98.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lázaro Cárdenas",
+      "en": "Lazaro Cardenas",
+      "slug": "lazaro-cardenas-mx29047"
+    },
+    "code": {
+      "id": "MX29047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.536",
+      "lon": "-97.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazatecochco de José María Morelos",
+      "en": "Mazatecochco de Jose Maria Morelos",
+      "slug": "mazatecochco-de-jose-maria-morelos-mx29017"
+    },
+    "code": {
+      "id": "MX29017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.192",
+      "lon": "-98.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Muñoz de Domingo Arenas",
+      "en": "Munoz de Domingo Arenas",
+      "slug": "munoz-de-domingo-arenas-mx29011"
+    },
+    "code": {
+      "id": "MX29011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.501",
+      "lon": "-98.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nanacamilpa de Mariano Arista",
+      "en": "Nanacamilpa de Mariano Arista",
+      "slug": "nanacamilpa-de-mariano-arista-mx29021"
+    },
+    "code": {
+      "id": "MX29021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.508",
+      "lon": "-98.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Natívitas",
+      "en": "Nativitas",
+      "slug": "nativitas-mx29023"
+    },
+    "code": {
+      "id": "MX29023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.23",
+      "lon": "-98.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panotla",
+      "en": "Panotla",
+      "slug": "panotla-mx29024"
+    },
+    "code": {
+      "id": "MX29024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.352",
+      "lon": "-98.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Papalotla de Xicohténcatl",
+      "en": "Papalotla de Xicohtencatl",
+      "slug": "papalotla-de-xicohtencatl-mx29041"
+    },
+    "code": {
+      "id": "MX29041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.172",
+      "lon": "-98.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Damián Texóloc",
+      "en": "San Damian Texoloc",
+      "slug": "san-damian-texoloc-mx29049"
+    },
+    "code": {
+      "id": "MX29049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.291",
+      "lon": "-98.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco Tetlanohcan",
+      "en": "San Francisco Tetlanohcan",
+      "slug": "san-francisco-tetlanohcan-mx29050"
+    },
+    "code": {
+      "id": "MX29050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.261",
+      "lon": "-98.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Jerónimo Zacualpan",
+      "en": "San Jeronimo Zacualpan",
+      "slug": "san-jeronimo-zacualpan-mx29051"
+    },
+    "code": {
+      "id": "MX29051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.247",
+      "lon": "-98.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Teacalco",
+      "en": "San Jose Teacalco",
+      "slug": "san-jose-teacalco-mx29052"
+    },
+    "code": {
+      "id": "MX29052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.323",
+      "lon": "-98.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Huactzinco",
+      "en": "San Juan Huactzinco",
+      "slug": "san-juan-huactzinco-mx29053"
+    },
+    "code": {
+      "id": "MX29053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.238",
+      "lon": "-98.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lorenzo Axocomanitla",
+      "en": "San Lorenzo Axocomanitla",
+      "slug": "san-lorenzo-axocomanitla-mx29054"
+    },
+    "code": {
+      "id": "MX29054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.215",
+      "lon": "-98.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lucas Tecopilco",
+      "en": "San Lucas Tecopilco",
+      "slug": "san-lucas-tecopilco-mx29055"
+    },
+    "code": {
+      "id": "MX29055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.489",
+      "lon": "-98.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pablo del Monte",
+      "en": "San Pablo del Monte",
+      "slug": "san-pablo-del-monte-mx29025"
+    },
+    "code": {
+      "id": "MX29025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.161",
+      "lon": "-98.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sanctórum de Lázaro Cárdenas",
+      "en": "Sanctorum de Lazaro Cardenas",
+      "slug": "sanctorum-de-lazaro-cardenas-mx29020"
+    },
+    "code": {
+      "id": "MX29020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.551",
+      "lon": "-98.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Ana Nopalucan",
+      "en": "Santa Ana Nopalucan",
+      "slug": "santa-ana-nopalucan-mx29056"
+    },
+    "code": {
+      "id": "MX29056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.293",
+      "lon": "-98.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Apolonia Teacalco",
+      "en": "Santa Apolonia Teacalco",
+      "slug": "santa-apolonia-teacalco-mx29057"
+    },
+    "code": {
+      "id": "MX29057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.242",
+      "lon": "-98.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina Ayometla",
+      "en": "Santa Catarina Ayometla",
+      "slug": "santa-catarina-ayometla-mx29058"
+    },
+    "code": {
+      "id": "MX29058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.193",
+      "lon": "-98.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Quilehtla",
+      "en": "Santa Cruz Quilehtla",
+      "slug": "santa-cruz-quilehtla-mx29059"
+    },
+    "code": {
+      "id": "MX29059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.212",
+      "lon": "-98.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Tlaxcala",
+      "en": "Santa Cruz Tlaxcala",
+      "slug": "santa-cruz-tlaxcala-mx29026"
+    },
+    "code": {
+      "id": "MX29026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.361",
+      "lon": "-98.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Isabel Xiloxoxtla",
+      "en": "Santa Isabel Xiloxoxtla",
+      "slug": "santa-isabel-xiloxoxtla-mx29060"
+    },
+    "code": {
+      "id": "MX29060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.264",
+      "lon": "-98.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenancingo",
+      "en": "Tenancingo",
+      "slug": "tenancingo-mx29027"
+    },
+    "code": {
+      "id": "MX29027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.15",
+      "lon": "-98.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teolocholco",
+      "en": "Teolocholco",
+      "slug": "teolocholco-mx29028"
+    },
+    "code": {
+      "id": "MX29028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.211",
+      "lon": "-98.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepetitla de Lardizábal",
+      "en": "Tepetitla de Lardizabal",
+      "slug": "tepetitla-de-lardizabal-mx29019"
+    },
+    "code": {
+      "id": "MX29019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.283",
+      "lon": "-98.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepeyanco",
+      "en": "Tepeyanco",
+      "slug": "tepeyanco-mx29029"
+    },
+    "code": {
+      "id": "MX29029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.247",
+      "lon": "-98.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Terrenate",
+      "en": "Terrenate",
+      "slug": "terrenate-mx29030"
+    },
+    "code": {
+      "id": "MX29030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.48",
+      "lon": "-97.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tetla de la Solidaridad",
+      "en": "Tetla de la Solidaridad",
+      "slug": "tetla-de-la-solidaridad-mx29031"
+    },
+    "code": {
+      "id": "MX29031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.495",
+      "lon": "-98.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tetlatlahuca",
+      "en": "Tetlatlahuca",
+      "slug": "tetlatlahuca-mx29032"
+    },
+    "code": {
+      "id": "MX29032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.233",
+      "lon": "-98.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29033"
+    },
+    "code": {
+      "id": "MX29033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.318",
+      "lon": "-98.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlaxco",
+      "en": "Tlaxco",
+      "slug": "tlaxco-mx29034"
+    },
+    "code": {
+      "id": "MX29034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.62",
+      "lon": "-98.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tocatlán",
+      "en": "Tocatlan",
+      "slug": "tocatlan-mx29035"
+    },
+    "code": {
+      "id": "MX29035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.391",
+      "lon": "-98.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Totolac",
+      "en": "Totolac",
+      "slug": "totolac-mx29036"
+    },
+    "code": {
+      "id": "MX29036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.338",
+      "lon": "-98.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tzompantepec",
+      "en": "Tzompantepec",
+      "slug": "tzompantepec-mx29038"
+    },
+    "code": {
+      "id": "MX29038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.383",
+      "lon": "-98.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xaloztoc",
+      "en": "Xaloztoc",
+      "slug": "xaloztoc-mx29039"
+    },
+    "code": {
+      "id": "MX29039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.412",
+      "lon": "-98.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xaltocan",
+      "en": "Xaltocan",
+      "slug": "xaltocan-mx29040"
+    },
+    "code": {
+      "id": "MX29040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.419",
+      "lon": "-98.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xicohtzinco",
+      "en": "Xicohtzinco",
+      "slug": "xicohtzinco-mx29042"
+    },
+    "code": {
+      "id": "MX29042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.172",
+      "lon": "-98.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yauhquemehcan",
+      "en": "Yauhquemehcan",
+      "slug": "yauhquemehcan-mx29043"
+    },
+    "code": {
+      "id": "MX29043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.404",
+      "lon": "-98.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacatelco",
+      "en": "Zacatelco",
+      "slug": "zacatelco-mx29044"
+    },
+    "code": {
+      "id": "MX29044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.196",
+      "lon": "-98.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX29037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ziltlaltépec de Trinidad Sánchez Santos",
+      "en": "Ziltlaltepec de Trinidad Sanchez Santos",
+      "slug": "ziltlaltepec-de-trinidad-sanchez-santos-mx29037"
+    },
+    "code": {
+      "id": "MX29037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX29",
+        "level": 1,
+        "name": {
+          "local": "Tlaxcala",
+          "en": "Tlaxcala",
+          "slug": "tlaxcala-mx29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.209",
+      "lon": "-97.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

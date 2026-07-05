@@ -1,0 +1,45 @@
+{
+  "id": "MX20464",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Ihuitlán Plumas",
+    "en": "Santiago Ihuitlan Plumas",
+    "slug": "santiago-ihuitlan-plumas-mx20464"
+  },
+  "code": {
+    "id": "MX20464",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.881",
+    "lon": "-97.432"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX07063",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Osumacinta",
+    "en": "Osumacinta",
+    "slug": "osumacinta-mx07063"
+  },
+  "code": {
+    "id": "MX07063",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.896",
+    "lon": "-93.092"
+  },
+  "metadata": {},
+  "source": {}
+}

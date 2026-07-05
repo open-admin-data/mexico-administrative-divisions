@@ -1,0 +1,45 @@
+{
+  "id": "MX02003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tecate",
+    "en": "Tecate",
+    "slug": "tecate-mx02003"
+  },
+  "code": {
+    "id": "MX02003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX02",
+    "level": 1,
+    "name": {
+      "local": "Baja California",
+      "en": "Baja California",
+      "slug": "baja-california-mx02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.435",
+    "lon": "-116.274"
+  },
+  "metadata": {},
+  "source": {}
+}

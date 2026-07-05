@@ -1,0 +1,45 @@
+{
+  "id": "MX13050",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Progreso de Obregón",
+    "en": "Progreso de Obregon",
+    "slug": "progreso-de-obregon-mx13050"
+  },
+  "code": {
+    "id": "MX13050",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.304",
+    "lon": "-99.181"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX07008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Angel Albino Corzo",
+    "en": "Angel Albino Corzo",
+    "slug": "angel-albino-corzo-mx07008"
+  },
+  "code": {
+    "id": "MX07008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.759",
+    "lon": "-92.69"
+  },
+  "metadata": {},
+  "source": {}
+}

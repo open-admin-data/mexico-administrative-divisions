@@ -1,0 +1,45 @@
+{
+  "id": "MX07075",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Las Rosas",
+    "en": "Las Rosas",
+    "slug": "las-rosas-mx07075"
+  },
+  "code": {
+    "id": "MX07075",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.369",
+    "lon": "-92.378"
+  },
+  "metadata": {},
+  "source": {}
+}

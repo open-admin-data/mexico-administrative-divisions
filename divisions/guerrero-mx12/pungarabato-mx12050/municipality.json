@@ -1,0 +1,45 @@
+{
+  "id": "MX12050",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pungarabato",
+    "en": "Pungarabato",
+    "slug": "pungarabato-mx12050"
+  },
+  "code": {
+    "id": "MX12050",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.344",
+    "lon": "-100.612"
+  },
+  "metadata": {},
+  "source": {}
+}

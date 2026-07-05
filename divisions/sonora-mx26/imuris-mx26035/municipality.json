@@ -1,0 +1,45 @@
+{
+  "id": "MX26035",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Imuris",
+    "en": "Imuris",
+    "slug": "imuris-mx26035"
+  },
+  "code": {
+    "id": "MX26035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.838",
+    "lon": "-110.787"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX22014",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Querétaro",
+    "en": "Queretaro",
+    "slug": "queretaro-mx22014"
+  },
+  "code": {
+    "id": "MX22014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX22",
+    "level": 1,
+    "name": {
+      "local": "Querétaro de Arteaga",
+      "en": "Queretaro de Arteaga",
+      "slug": "queretaro-de-arteaga-mx22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX22",
+      "level": 1,
+      "name": {
+        "local": "Querétaro de Arteaga",
+        "en": "Queretaro de Arteaga",
+        "slug": "queretaro-de-arteaga-mx22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.726",
+    "lon": "-100.486"
+  },
+  "metadata": {},
+  "source": {}
+}

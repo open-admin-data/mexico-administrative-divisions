@@ -1,0 +1,45 @@
+{
+  "id": "MX26023",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cumpas",
+    "en": "Cumpas",
+    "slug": "cumpas-mx26023"
+  },
+  "code": {
+    "id": "MX26023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.069",
+    "lon": "-109.845"
+  },
+  "metadata": {},
+  "source": {}
+}

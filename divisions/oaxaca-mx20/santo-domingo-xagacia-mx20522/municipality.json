@@ -1,0 +1,45 @@
+{
+  "id": "MX20522",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Xagacía",
+    "en": "Santo Domingo Xagacia",
+    "slug": "santo-domingo-xagacia-mx20522"
+  },
+  "code": {
+    "id": "MX20522",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.127",
+    "lon": "-96.297"
+  },
+  "metadata": {},
+  "source": {}
+}

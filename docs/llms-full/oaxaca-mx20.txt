@@ -1,0 +1,2859 @@
+# Oaxaca — Mexico Administrative Divisions
+
+> 570 municipalitys
+> Code: MX20
+> Coordinates: 17.164, -96.283
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abejones
+
+Code: MX20001, Coordinates: 17.489, -96.62
+
+
+### Acatlán de Pérez Figueroa (Acatlán de Perez Figueroa)
+
+Code: MX20002, Coordinates: 18.451, -96.553
+
+
+### Ánimas Trujano (Animas Trujano)
+
+Code: MX20174, Coordinates: 16.988, -96.715
+
+
+### Asunción Cacalotepec (Asuncion Cacalotepec)
+
+Code: MX20003, Coordinates: 17.038, -95.929
+
+
+### Asunción Cuyotepeji (Asuncion Cuyotepeji)
+
+Code: MX20004, Coordinates: 17.931, -97.654
+
+
+### Asunción Ixtaltepec (Asuncion Ixtaltepec)
+
+Code: MX20005, Coordinates: 16.644, -94.929
+
+
+### Asunción Nochixtlán (Asuncion Nochixtlan)
+
+Code: MX20006, Coordinates: 17.452, -97.184
+
+
+### Asunción Ocotlán (Asuncion Ocotlan)
+
+Code: MX20007, Coordinates: 16.762, -96.726
+
+
+### Asunción Tlacolulita (Asuncion Tlacolulita)
+
+Code: MX20008, Coordinates: 16.21, -95.765
+
+
+### Ayoquezco de Aldama
+
+Code: MX20398, Coordinates: 16.668, -96.89
+
+
+### Ayotzintepec
+
+Code: MX20009, Coordinates: 17.726, -96.143
+
+
+### Calihualá (Calihuala)
+
+Code: MX20011, Coordinates: 17.557, -98.253
+
+
+### Candelaria Loxicha
+
+Code: MX20012, Coordinates: 15.9, -96.537
+
+
+### Capulálpam de Méndez (Capulálpam de Mendez)
+
+Code: MX20247, Coordinates: 17.315, -96.417
+
+
+### Chahuites
+
+Code: MX20025, Coordinates: 16.276, -94.205
+
+
+### Chalcatongo de Hidalgo
+
+Code: MX20026, Coordinates: 16.998, -97.57
+
+
+### Chiquihuitlán de Benito Juárez (Chiquihuitlan de Benito Juarez)
+
+Code: MX20027, Coordinates: 17.99, -96.749
+
+
+### Ciénega de Zimatlán (Cienega de Zimatlán)
+
+Code: MX20013, Coordinates: 16.893, -96.766
+
+
+### Ciudad Ixtepec
+
+Code: MX20014, Coordinates: 16.617, -95.078
+
+
+### Coatecas Altas
+
+Code: MX20015, Coordinates: 16.522, -96.628
+
+
+### Coicoyán de las Flores (Coicoyan de las Flores)
+
+Code: MX20016, Coordinates: 17.216, -98.184
+
+
+### Concepción Buenavista (Concepcion Buenavista)
+
+Code: MX20018, Coordinates: 17.986, -97.438
+
+
+### Concepción Pápalo (Concepcion Papalo)
+
+Code: MX20019, Coordinates: 17.874, -96.865
+
+
+### Constancia del Rosario
+
+Code: MX20020, Coordinates: 17.046, -97.96
+
+
+### Cosolapa
+
+Code: MX20021, Coordinates: 18.581, -96.653
+
+
+### Cosoltepec
+
+Code: MX20022, Coordinates: 18.143, -97.813
+
+
+### Cuilápam de Guerrero (Cuilapam de Guerrero)
+
+Code: MX20023, Coordinates: 17.003, -96.787
+
+
+### Cuyamecalco Villa de Zaragoza
+
+Code: MX20024, Coordinates: 17.971, -96.866
+
+
+### El Barrio de la Soledad
+
+Code: MX20010, Coordinates: 16.802, -95.054
+
+
+### El Espinal
+
+Code: MX20030, Coordinates: 16.461, -95.058
+
+
+### Eloxochitlán de Flores Magón (Eloxochitlan de Flores Magon)
+
+Code: MX20029, Coordinates: 18.197, -96.872
+
+
+### Fresnillo de Trujano
+
+Code: MX20032, Coordinates: 17.929, -98.134
+
+
+### Guadalupe de Ramírez (Guadalupe de Ramirez)
+
+Code: MX20034, Coordinates: 17.755, -98.147
+
+
+### Guadalupe Etla
+
+Code: MX20033, Coordinates: 17.176, -96.809
+
+
+### Guelatao de Juárez (Guelatao de Juarez)
+
+Code: MX20035, Coordinates: 17.314, -96.499
+
+
+### Guevea de Humboldt
+
+Code: MX20036, Coordinates: 16.852, -95.372
+
+
+### Heroica Ciudad de Ejutla de Crespo
+
+Code: MX20028, Coordinates: 16.598, -96.661
+
+
+### Heroica Ciudad de Huajuapan de León (Heroica Ciudad de Huajuapan de Leon)
+
+Code: MX20039, Coordinates: 17.847, -97.878
+
+
+### Heroica Ciudad de Juchitán de Zaragoza (Heroica Ciudad de Juchitan de Zaragoza)
+
+Code: MX20043, Coordinates: 16.222, -94.851
+
+
+### Heroica Ciudad de Tlaxiaco
+
+Code: MX20397, Coordinates: 17.236, -97.699
+
+
+### Heroica Villa Tezoatlán de Segura y Luna (Heroica Villa Tezoatlan de Segura y Luna)
+
+Code: MX20549, Coordinates: 17.573, -97.86
+
+
+### Huautepec
+
+Code: MX20040, Coordinates: 18.07, -96.775
+
+
+### Huautla de Jiménez (Huautla de Jimenez)
+
+Code: MX20041, Coordinates: 18.148, -96.801
+
+
+### Ixpantepec Nieves
+
+Code: MX20065, Coordinates: 17.504, -98.018
+
+
+### Ixtlán de Juárez (Ixtlan de Juarez)
+
+Code: MX20042, Coordinates: 17.477, -96.346
+
+
+### La Compañía (La Compania)
+
+Code: MX20017, Coordinates: 16.58, -96.858
+
+
+### La Pe
+
+Code: MX20069, Coordinates: 16.623, -96.794
+
+
+### La Reforma
+
+Code: MX20076, Coordinates: 16.659, -97.864
+
+
+### La Trinidad Vista Hermosa
+
+Code: MX20556, Coordinates: 17.774, -97.496
+
+
+### Loma Bonita
+
+Code: MX20044, Coordinates: 18.001, -95.888
+
+
+### Magdalena Apasco
+
+Code: MX20045, Coordinates: 17.249, -96.808
+
+
+### Magdalena Jaltepec
+
+Code: MX20046, Coordinates: 17.245, -97.25
+
+
+### Magdalena Mixtepec
+
+Code: MX20048, Coordinates: 16.904, -96.905
+
+
+### Magdalena Ocotlán (Magdalena Ocotlan)
+
+Code: MX20049, Coordinates: 16.71, -96.715
+
+
+### Magdalena Peñasco (Magdalena Penasco)
+
+Code: MX20050, Coordinates: 17.235, -97.564
+
+
+### Magdalena Teitipac
+
+Code: MX20051, Coordinates: 16.886, -96.558
+
+
+### Magdalena Tequisistlán (Magdalena Tequisistlan)
+
+Code: MX20052, Coordinates: 16.367, -95.637
+
+
+### Magdalena Tlacotepec
+
+Code: MX20053, Coordinates: 16.515, -95.252
+
+
+### Magdalena Yodocono de Porfirio Díaz (Magdalena Yodocono de Porfirio Diaz)
+
+Code: MX20562, Coordinates: 17.379, -97.392
+
+
+### Magdalena Zahuatlán (Magdalena Zahuatlan)
+
+Code: MX20054, Coordinates: 17.391, -97.226
+
+
+### Mariscala de Juárez (Mariscala de Juarez)
+
+Code: MX20055, Coordinates: 17.823, -98.12
+
+
+### Mártires de Tacubaya (Martires de Tacubaya)
+
+Code: MX20056, Coordinates: 16.55, -98.238
+
+
+### Matías Romero Avendaño (Matias Romero Avendano)
+
+Code: MX20057, Coordinates: 17.132, -94.879
+
+
+### Mazatlán Villa de Flores (Mazatlan Villa de Flores)
+
+Code: MX20058, Coordinates: 18.015, -96.907
+
+
+### Mesones Hidalgo
+
+Code: MX20037, Coordinates: 16.918, -98.019
+
+
+### Miahuatlán de Porfirio Díaz (Miahuatlan de Porfirio Diaz)
+
+Code: MX20059, Coordinates: 16.361, -96.585
+
+
+### Mixistlán de la Reforma (Mixistlan de la Reforma)
+
+Code: MX20060, Coordinates: 17.173, -96.092
+
+
+### Monjas
+
+Code: MX20061, Coordinates: 16.374, -96.633
+
+
+### Natividad
+
+Code: MX20062, Coordinates: 17.302, -96.425
+
+
+### Nazareno Etla
+
+Code: MX20063, Coordinates: 17.182, -96.829
+
+
+### Nejapa de Madero
+
+Code: MX20064, Coordinates: 16.563, -95.993
+
+
+### Nuevo Zoquiápam (Nuevo Zoquiapam)
+
+Code: MX20504, Coordinates: 17.249, -96.656
+
+
+### Oaxaca de Juárez (Oaxaca de Juarez)
+
+Code: MX20067, Coordinates: 17.097, -96.721
+
+
+### Ocotlán de Morelos (Ocotlan de Morelos)
+
+Code: MX20068, Coordinates: 16.785, -96.668
+
+
+### Pinotepa de Don Luis
+
+Code: MX20070, Coordinates: 16.403, -97.961
+
+
+### Pluma Hidalgo
+
+Code: MX20071, Coordinates: 15.922, -96.441
+
+
+### Putla Villa de Guerrero
+
+Code: MX20073, Coordinates: 16.787, -97.78
+
+
+### Reforma de Pineda
+
+Code: MX20075, Coordinates: 16.394, -94.455
+
+
+### Reyes Etla
+
+Code: MX20077, Coordinates: 17.21, -96.824
+
+
+### Rojas de Cuauhtémoc (Rojas de Cuauhtemoc)
+
+Code: MX20078, Coordinates: 17.005, -96.639
+
+
+### Salina Cruz
+
+Code: MX20079, Coordinates: 16.19, -95.229
+
+
+### San Agustín Amatengo (San Agustin Amatengo)
+
+Code: MX20080, Coordinates: 16.519, -96.797
+
+
+### San Agustín Atenango (San Agustin Atenango)
+
+Code: MX20081, Coordinates: 17.586, -98.001
+
+
+### San Agustín Chayuco (San Agustin Chayuco)
+
+Code: MX20082, Coordinates: 16.456, -97.8
+
+
+### San Agustín de las Juntas (San Agustin de las Juntas)
+
+Code: MX20083, Coordinates: 16.991, -96.684
+
+
+### San Agustín Etla (San Agustin Etla)
+
+Code: MX20084, Coordinates: 17.204, -96.718
+
+
+### San Agustín Loxicha (San Agustin Loxicha)
+
+Code: MX20085, Coordinates: 15.968, -96.612
+
+
+### San Agustín Tlacotepec (San Agustin Tlacotepec)
+
+Code: MX20086, Coordinates: 17.201, -97.52
+
+
+### San Agustín Yatareni (San Agustin Yatareni)
+
+Code: MX20087, Coordinates: 17.08, -96.678
+
+
+### San Andrés Cabecera Nueva (San Andres Cabecera Nueva)
+
+Code: MX20088, Coordinates: 16.825, -97.795
+
+
+### San Andrés Dinicuiti (San Andres Dinicuiti)
+
+Code: MX20089, Coordinates: 17.699, -97.692
+
+
+### San Andrés Huaxpaltepec (San Andres Huaxpaltepec)
+
+Code: MX20090, Coordinates: 16.341, -97.935
+
+
+### San Andrés Huayápam (San Andres Huayápam)
+
+Code: MX20091, Coordinates: 17.129, -96.667
+
+
+### San Andrés Ixtlahuaca (San Andres Ixtlahuaca)
+
+Code: MX20092, Coordinates: 17.059, -96.858
+
+
+### San Andrés Lagunas (San Andres Lagunas)
+
+Code: MX20093, Coordinates: 17.59, -97.528
+
+
+### San Andrés Nuxiño (San Andres Nuxino)
+
+Code: MX20094, Coordinates: 17.229, -97.07
+
+
+### San Andrés Paxtlán (San Andres Paxtlán)
+
+Code: MX20095, Coordinates: 16.212, -96.516
+
+
+### San Andrés Sinaxtla (San Andres Sinaxtla)
+
+Code: MX20096, Coordinates: 17.485, -97.273
+
+
+### San Andrés Solaga (San Andres Solaga)
+
+Code: MX20097, Coordinates: 17.275, -96.221
+
+
+### San Andrés Teotilálpam (San Andres Teotilálpam)
+
+Code: MX20098, Coordinates: 17.951, -96.648
+
+
+### San Andrés Tepetlapa (San Andres Tepetlapa)
+
+Code: MX20099, Coordinates: 17.662, -98.389
+
+
+### San Andrés Yaá (San Andres Yaá)
+
+Code: MX20100, Coordinates: 17.294, -96.126
+
+
+### San Andrés Zabache (San Andres Zabache)
+
+Code: MX20101, Coordinates: 16.605, -96.864
+
+
+### San Andrés Zautla (San Andres Zautla)
+
+Code: MX20102, Coordinates: 17.183, -96.905
+
+
+### San Antonino Castillo Velasco
+
+Code: MX20103, Coordinates: 16.816, -96.695
+
+
+### San Antonino el Alto
+
+Code: MX20104, Coordinates: 16.822, -97.001
+
+
+### San Antonino Monte Verde
+
+Code: MX20105, Coordinates: 17.524, -97.751
+
+
+### San Antonio Acutla
+
+Code: MX20106, Coordinates: 17.745, -97.5
+
+
+### San Antonio de la Cal
+
+Code: MX20107, Coordinates: 17.028, -96.696
+
+
+### San Antonio Huitepec
+
+Code: MX20108, Coordinates: 16.922, -97.148
+
+
+### San Antonio Nanahuatípam (San Antonio Nanahuatipam)
+
+Code: MX20109, Coordinates: 18.149, -97.16
+
+
+### San Antonio Sinicahua
+
+Code: MX20110, Coordinates: 17.151, -97.575
+
+
+### San Antonio Tepetlapa
+
+Code: MX20111, Coordinates: 16.534, -98.049
+
+
+### San Baltazar Chichicápam (San Baltazar Chichicapam)
+
+Code: MX20112, Coordinates: 16.758, -96.494
+
+
+### San Baltazar Loxicha
+
+Code: MX20113, Coordinates: 16.044, -96.798
+
+
+### San Baltazar Yatzachi el Bajo
+
+Code: MX20114, Coordinates: 17.225, -96.213
+
+
+### San Bartolo Coyotepec
+
+Code: MX20115, Coordinates: 16.949, -96.693
+
+
+### San Bartolo Soyaltepec
+
+Code: MX20121, Coordinates: 17.577, -97.312
+
+
+### San Bartolo Yautepec
+
+Code: MX20122, Coordinates: 16.426, -95.922
+
+
+### San Bartolomé Ayautla (San Bartolome Ayautla)
+
+Code: MX20116, Coordinates: 18.058, -96.662
+
+
+### San Bartolomé Loxicha (San Bartolome Loxicha)
+
+Code: MX20117, Coordinates: 15.957, -96.764
+
+
+### San Bartolomé Quialana (San Bartolome Quialana)
+
+Code: MX20118, Coordinates: 16.894, -96.499
+
+
+### San Bartolomé Yucuañe (San Bartolome Yucuane)
+
+Code: MX20119, Coordinates: 17.211, -97.456
+
+
+### San Bartolomé Zoogocho (San Bartolome Zoogocho)
+
+Code: MX20120, Coordinates: 17.246, -96.246
+
+
+### San Bernardo Mixtepec
+
+Code: MX20123, Coordinates: 16.842, -96.919
+
+
+### San Blas Atempa
+
+Code: MX20124, Coordinates: 16.361, -95.141
+
+
+### San Carlos Yautepec
+
+Code: MX20125, Coordinates: 16.422, -96.091
+
+
+### San Cristóbal Amatlán (San Cristobal Amatlan)
+
+Code: MX20126, Coordinates: 16.303, -96.379
+
+
+### San Cristóbal Amoltepec (San Cristobal Amoltepec)
+
+Code: MX20127, Coordinates: 17.286, -97.576
+
+
+### San Cristóbal Lachirioag (San Cristobal Lachirioag)
+
+Code: MX20128, Coordinates: 17.35, -96.177
+
+
+### San Cristóbal Suchixtlahuaca (San Cristobal Suchixtlahuaca)
+
+Code: MX20129, Coordinates: 17.725, -97.384
+
+
+### San Dionisio del Mar
+
+Code: MX20130, Coordinates: 16.358, -94.746
+
+
+### San Dionisio Ocotepec
+
+Code: MX20131, Coordinates: 16.785, -96.306
+
+
+### San Dionisio Ocotlán (San Dionisio Ocotlan)
+
+Code: MX20132, Coordinates: 16.75, -96.663
+
+
+### San Esteban Atatlahuca
+
+Code: MX20133, Coordinates: 17.075, -97.69
+
+
+### San Felipe Jalapa de Díaz (San Felipe Jalapa de Diaz)
+
+Code: MX20134, Coordinates: 18.066, -96.545
+
+
+### San Felipe Tejalápam (San Felipe Tejalapam)
+
+Code: MX20135, Coordinates: 17.081, -96.9
+
+
+### San Felipe Usila
+
+Code: MX20136, Coordinates: 17.82, -96.509
+
+
+### San Francisco Cahuacuá (San Francisco Cahuacua)
+
+Code: MX20137, Coordinates: 16.831, -97.34
+
+
+### San Francisco Cajonos
+
+Code: MX20138, Coordinates: 17.18, -96.268
+
+
+### San Francisco Chapulapa
+
+Code: MX20139, Coordinates: 17.913, -96.72
+
+
+### San Francisco Chindúa (San Francisco Chindua)
+
+Code: MX20140, Coordinates: 17.415, -97.318
+
+
+### San Francisco del Mar
+
+Code: MX20141, Coordinates: 16.329, -94.538
+
+
+### San Francisco Huehuetlán (San Francisco Huehuetlan)
+
+Code: MX20142, Coordinates: 18.204, -96.938
+
+
+### San Francisco Ixhuatán (San Francisco Ixhuatan)
+
+Code: MX20143, Coordinates: 16.336, -94.476
+
+
+### San Francisco Jaltepetongo
+
+Code: MX20144, Coordinates: 17.34, -97.278
+
+
+### San Francisco Lachigoló (San Francisco Lachigolo)
+
+Code: MX20145, Coordinates: 17.028, -96.595
+
+
+### San Francisco Logueche
+
+Code: MX20146, Coordinates: 16.375, -96.384
+
+
+### San Francisco Nuxaño (San Francisco Nuxano)
+
+Code: MX20147, Coordinates: 17.363, -97.337
+
+
+### San Francisco Ozolotepec
+
+Code: MX20148, Coordinates: 16.098, -96.197
+
+
+### San Francisco Sola
+
+Code: MX20149, Coordinates: 16.519, -96.903
+
+
+### San Francisco Telixtlahuaca
+
+Code: MX20150, Coordinates: 17.367, -96.926
+
+
+### San Francisco Teopan
+
+Code: MX20151, Coordinates: 17.898, -97.57
+
+
+### San Francisco Tlapancingo
+
+Code: MX20152, Coordinates: 17.481, -98.257
+
+
+### San Gabriel Mixtepec
+
+Code: MX20153, Coordinates: 16.061, -97.068
+
+
+### San Ildefonso Amatlán (San Ildefonso Amatlan)
+
+Code: MX20154, Coordinates: 16.297, -96.457
+
+
+### San Ildefonso Sola
+
+Code: MX20155, Coordinates: 16.576, -96.939
+
+
+### San Ildefonso Villa Alta
+
+Code: MX20156, Coordinates: 17.373, -96.107
+
+
+### San Jacinto Amilpas
+
+Code: MX20157, Coordinates: 17.093, -96.758
+
+
+### San Jacinto Tlacotepec
+
+Code: MX20158, Coordinates: 16.506, -97.364
+
+
+### San Jerónimo Coatlán (San Jeronimo Coatlan)
+
+Code: MX20159, Coordinates: 16.195, -96.941
+
+
+### San Jerónimo Silacayoapilla (San Jeronimo Silacayoapilla)
+
+Code: MX20160, Coordinates: 17.807, -97.871
+
+
+### San Jerónimo Sosola (San Jeronimo Sosola)
+
+Code: MX20161, Coordinates: 17.384, -97.058
+
+
+### San Jerónimo Taviche (San Jeronimo Taviche)
+
+Code: MX20162, Coordinates: 16.698, -96.574
+
+
+### San Jerónimo Tecóatl (San Jeronimo Tecoatl)
+
+Code: MX20163, Coordinates: 18.146, -96.942
+
+
+### San Jerónimo Tlacochahuaya (San Jeronimo Tlacochahuaya)
+
+Code: MX20550, Coordinates: 17.018, -96.545
+
+
+### San Jorge Nuchita
+
+Code: MX20164, Coordinates: 17.686, -98.093
+
+
+### San José Ayuquila (San Jose Ayuquila)
+
+Code: MX20165, Coordinates: 17.951, -97.976
+
+
+### San José Chiltepec (San Jose Chiltepec)
+
+Code: MX20166, Coordinates: 17.914, -96.097
+
+
+### San José del Peñasco (San Jose del Penasco)
+
+Code: MX20167, Coordinates: 16.28, -96.492
+
+
+### San José del Progreso (San Jose del Progreso)
+
+Code: MX20072, Coordinates: 16.676, -96.666
+
+
+### San José Estancia Grande (San Jose Estancia Grande)
+
+Code: MX20168, Coordinates: 16.377, -98.256
+
+
+### San José Independencia (San Jose Independencia)
+
+Code: MX20169, Coordinates: 18.255, -96.641
+
+
+### San José Lachiguiri (San Jose Lachiguiri)
+
+Code: MX20170, Coordinates: 16.394, -96.326
+
+
+### San José Tenango (San Jose Tenango)
+
+Code: MX20171, Coordinates: 18.164, -96.671
+
+
+### San Juan Achiutla
+
+Code: MX20172, Coordinates: 17.347, -97.49
+
+
+### San Juan Atepec
+
+Code: MX20173, Coordinates: 17.474, -96.476
+
+
+### San Juan Bautista Atatlahuca
+
+Code: MX20175, Coordinates: 17.583, -96.765
+
+
+### San Juan Bautista Coixtlahuaca
+
+Code: MX20176, Coordinates: 17.728, -97.256
+
+
+### San Juan Bautista Cuicatlán (San Juan Bautista Cuicatlan)
+
+Code: MX20177, Coordinates: 17.725, -96.922
+
+
+### San Juan Bautista Guelache
+
+Code: MX20178, Coordinates: 17.239, -96.751
+
+
+### San Juan Bautista Jayacatlán (San Juan Bautista Jayacatlan)
+
+Code: MX20179, Coordinates: 17.432, -96.81
+
+
+### San Juan Bautista Lo de Soto
+
+Code: MX20180, Coordinates: 16.507, -98.349
+
+
+### San Juan Bautista Suchitepec
+
+Code: MX20181, Coordinates: 18.006, -97.642
+
+
+### San Juan Bautista Tlachichilco
+
+Code: MX20183, Coordinates: 17.586, -98.351
+
+
+### San Juan Bautista Tlacoatzintepec
+
+Code: MX20182, Coordinates: 17.87, -96.591
+
+
+### San Juan Bautista Tuxtepec
+
+Code: MX20184, Coordinates: 18.021, -96.087
+
+
+### San Juan Bautista Valle Nacional
+
+Code: MX20559, Coordinates: 17.82, -96.34
+
+
+### San Juan Cacahuatepec
+
+Code: MX20185, Coordinates: 16.656, -98.193
+
+
+### San Juan Chicomezúchil (San Juan Chicomezuchil)
+
+Code: MX20191, Coordinates: 17.276, -96.503
+
+
+### San Juan Chilateca
+
+Code: MX20192, Coordinates: 16.828, -96.673
+
+
+### San Juan Cieneguilla
+
+Code: MX20186, Coordinates: 17.875, -98.31
+
+
+### San Juan Coatzóspam (San Juan Coatzospam)
+
+Code: MX20187, Coordinates: 18.066, -96.709
+
+
+### San Juan Colorado
+
+Code: MX20188, Coordinates: 16.502, -97.903
+
+
+### San Juan Comaltepec
+
+Code: MX20189, Coordinates: 17.329, -95.938
+
+
+### San Juan Cotzocón (San Juan Cotzocon)
+
+Code: MX20190, Coordinates: 17.313, -95.53
+
+
+### San Juan de los Cués (San Juan de los Cues)
+
+Code: MX20206, Coordinates: 18.044, -97.05
+
+
+### San Juan del Estado
+
+Code: MX20193, Coordinates: 17.336, -96.774
+
+
+### San Juan del Río (San Juan del Rio)
+
+Code: MX20194, Coordinates: 16.897, -96.147
+
+
+### San Juan Diuxi
+
+Code: MX20195, Coordinates: 17.274, -97.384
+
+
+### San Juan Evangelista Analco
+
+Code: MX20196, Coordinates: 17.399, -96.54
+
+
+### San Juan Guelavía (San Juan Guelavia)
+
+Code: MX20197, Coordinates: 16.96, -96.54
+
+
+### San Juan Guichicovi
+
+Code: MX20198, Coordinates: 17.105, -95.225
+
+
+### San Juan Ihualtepec
+
+Code: MX20199, Coordinates: 17.768, -98.29
+
+
+### San Juan Juquila Mixes
+
+Code: MX20200, Coordinates: 16.868, -95.879
+
+
+### San Juan Juquila Vijanos
+
+Code: MX20201, Coordinates: 17.33, -96.298
+
+
+### San Juan Lachao
+
+Code: MX20202, Coordinates: 16.205, -97.121
+
+
+### San Juan Lachigalla
+
+Code: MX20203, Coordinates: 16.565, -96.545
+
+
+### San Juan Lajarcia
+
+Code: MX20204, Coordinates: 16.512, -95.921
+
+
+### San Juan Lalana
+
+Code: MX20205, Coordinates: 17.512, -95.833
+
+
+### San Juan Mazatlán (San Juan Mazatlan)
+
+Code: MX20207, Coordinates: 17.147, -95.44
+
+
+### San Juan Mixtepec -Dto. 08 -
+
+Code: MX20208, Coordinates: 17.376, -97.866
+
+
+### San Juan Mixtepec -Dto. 26 -
+
+Code: MX20209, Coordinates: 16.258, -96.319
+
+
+### San Juan Ñumí (San Juan Numi)
+
+Code: MX20210, Coordinates: 17.437, -97.764
+
+
+### San Juan Ozolotepec
+
+Code: MX20211, Coordinates: 16.098, -96.269
+
+
+### San Juan Petlapa
+
+Code: MX20212, Coordinates: 17.489, -96.036
+
+
+### San Juan Quiahije
+
+Code: MX20213, Coordinates: 16.355, -97.376
+
+
+### San Juan Quiotepec
+
+Code: MX20214, Coordinates: 17.673, -96.636
+
+
+### San Juan Sayultepec
+
+Code: MX20215, Coordinates: 17.449, -97.284
+
+
+### San Juan Tabaá (San Juan Tabaa)
+
+Code: MX20216, Coordinates: 17.319, -96.218
+
+
+### San Juan Tamazola
+
+Code: MX20217, Coordinates: 17.117, -97.159
+
+
+### San Juan Teita
+
+Code: MX20218, Coordinates: 17.074, -97.429
+
+
+### San Juan Teitipac
+
+Code: MX20219, Coordinates: 16.89, -96.595
+
+
+### San Juan Tepeuxila
+
+Code: MX20220, Coordinates: 17.75, -96.734
+
+
+### San Juan Teposcolula
+
+Code: MX20221, Coordinates: 17.587, -97.416
+
+
+### San Juan Yaeé (San Juan Yaee)
+
+Code: MX20222, Coordinates: 17.445, -96.277
+
+
+### San Juan Yatzona
+
+Code: MX20223, Coordinates: 17.411, -96.183
+
+
+### San Juan Yucuita
+
+Code: MX20224, Coordinates: 17.522, -97.264
+
+
+### San Lorenzo
+
+Code: MX20225, Coordinates: 16.418, -97.885
+
+
+### San Lorenzo Albarradas
+
+Code: MX20226, Coordinates: 16.889, -96.267
+
+
+### San Lorenzo Cacaotepec
+
+Code: MX20227, Coordinates: 17.126, -96.808
+
+
+### San Lorenzo Cuaunecuiltitla
+
+Code: MX20228, Coordinates: 18.216, -96.915
+
+
+### San Lorenzo Texmelúcan (San Lorenzo Texmelucan)
+
+Code: MX20229, Coordinates: 16.535, -97.179
+
+
+### San Lorenzo Victoria
+
+Code: MX20230, Coordinates: 17.625, -98.116
+
+
+### San Lucas Camotlán (San Lucas Camotlan)
+
+Code: MX20231, Coordinates: 16.936, -95.692
+
+
+### San Lucas Ojitlán (San Lucas Ojitlan)
+
+Code: MX20232, Coordinates: 18.035, -96.371
+
+
+### San Lucas Quiaviní (San Lucas Quiavini)
+
+Code: MX20233, Coordinates: 16.883, -96.455
+
+
+### San Lucas Zoquiápam (San Lucas Zoquiapam)
+
+Code: MX20234, Coordinates: 18.111, -96.918
+
+
+### San Luis Amatlán (San Luis Amatlan)
+
+Code: MX20235, Coordinates: 16.471, -96.489
+
+
+### San Marcial Ozolotepec
+
+Code: MX20236, Coordinates: 16.032, -96.404
+
+
+### San Marcos Arteaga
+
+Code: MX20237, Coordinates: 17.746, -97.943
+
+
+### San Martín de los Cansecos (San Martin de los Cansecos)
+
+Code: MX20238, Coordinates: 16.659, -96.726
+
+
+### San Martín Huamelúlpam (San Martin Huamelulpam)
+
+Code: MX20239, Coordinates: 17.395, -97.613
+
+
+### San Martín Itunyoso (San Martin Itunyoso)
+
+Code: MX20240, Coordinates: 17.223, -97.853
+
+
+### San Martín Lachilá (San Martin Lachila)
+
+Code: MX20241, Coordinates: 16.612, -96.85
+
+
+### San Martín Peras (San Martin Peras)
+
+Code: MX20242, Coordinates: 17.372, -98.228
+
+
+### San Martín Tilcajete (San Martin Tilcajete)
+
+Code: MX20243, Coordinates: 16.88, -96.691
+
+
+### San Martín Toxpalan (San Martin Toxpalan)
+
+Code: MX20244, Coordinates: 18.11, -97.023
+
+
+### San Martín Zacatepec (San Martin Zacatepec)
+
+Code: MX20245, Coordinates: 17.814, -98.066
+
+
+### San Mateo Cajonos
+
+Code: MX20246, Coordinates: 17.154, -96.201
+
+
+### San Mateo del Mar
+
+Code: MX20248, Coordinates: 16.21, -95.057
+
+
+### San Mateo Etlatongo
+
+Code: MX20250, Coordinates: 17.423, -97.26
+
+
+### San Mateo Nejápam (San Mateo Nejapam)
+
+Code: MX20251, Coordinates: 17.646, -98.43
+
+
+### San Mateo Peñasco (San Mateo Penasco)
+
+Code: MX20252, Coordinates: 17.14, -97.465
+
+
+### San Mateo Piñas (San Mateo Pinas)
+
+Code: MX20253, Coordinates: 15.975, -96.346
+
+
+### San Mateo Río Hondo (San Mateo Rio Hondo)
+
+Code: MX20254, Coordinates: 16.099, -96.57
+
+
+### San Mateo Sindihui
+
+Code: MX20255, Coordinates: 17.027, -97.368
+
+
+### San Mateo Tlapiltepec
+
+Code: MX20256, Coordinates: 17.804, -97.429
+
+
+### San Mateo Yoloxochitlán (San Mateo Yoloxochitlan)
+
+Code: MX20249, Coordinates: 18.143, -96.869
+
+
+### San Mateo Yucutindó (San Mateo Yucutindo)
+
+Code: MX20566, Coordinates: 16.792, -97.295
+
+
+### San Melchor Betaza
+
+Code: MX20257, Coordinates: 17.242, -96.154
+
+
+### San Miguel Achiutla
+
+Code: MX20258, Coordinates: 17.31, -97.474
+
+
+### San Miguel Ahuehuetitlán (San Miguel Ahuehuetitlan)
+
+Code: MX20259, Coordinates: 17.678, -98.334
+
+
+### San Miguel Aloápam (San Miguel Aloapam)
+
+Code: MX20260, Coordinates: 17.432, -96.697
+
+
+### San Miguel Amatitlán (San Miguel Amatitlan)
+
+Code: MX20261, Coordinates: 17.886, -98.031
+
+
+### San Miguel Amatlán (San Miguel Amatlan)
+
+Code: MX20262, Coordinates: 17.199, -96.46
+
+
+### San Miguel Chicahua
+
+Code: MX20264, Coordinates: 17.631, -97.204
+
+
+### San Miguel Chimalapa
+
+Code: MX20265, Coordinates: 16.624, -94.271
+
+
+### San Miguel Coatlán (San Miguel Coatlan)
+
+Code: MX20263, Coordinates: 16.169, -96.683
+
+
+### San Miguel del Puerto
+
+Code: MX20266, Coordinates: 15.952, -96.098
+
+
+### San Miguel del Río (San Miguel del Rio)
+
+Code: MX20267, Coordinates: 17.33, -96.576
+
+
+### San Miguel Ejutla
+
+Code: MX20268, Coordinates: 16.594, -96.733
+
+
+### San Miguel el Grande
+
+Code: MX20269, Coordinates: 17.074, -97.603
+
+
+### San Miguel Huautla
+
+Code: MX20270, Coordinates: 17.754, -97.145
+
+
+### San Miguel Mixtepec
+
+Code: MX20271, Coordinates: 16.759, -96.96
+
+
+### San Miguel Panixtlahuaca
+
+Code: MX20272, Coordinates: 16.226, -97.435
+
+
+### San Miguel Peras
+
+Code: MX20273, Coordinates: 16.928, -97.023
+
+
+### San Miguel Piedras
+
+Code: MX20274, Coordinates: 16.978, -97.209
+
+
+### San Miguel Quetzaltepec
+
+Code: MX20275, Coordinates: 16.979, -95.767
+
+
+### San Miguel Santa Flor
+
+Code: MX20276, Coordinates: 17.921, -96.802
+
+
+### San Miguel Soyaltepec
+
+Code: MX20278, Coordinates: 18.251, -96.483
+
+
+### San Miguel Suchixtepec
+
+Code: MX20279, Coordinates: 16.079, -96.457
+
+
+### San Miguel Tecomatlán (San Miguel Tecomatlan)
+
+Code: MX20281, Coordinates: 17.371, -97.302
+
+
+### San Miguel Tenango
+
+Code: MX20282, Coordinates: 16.227, -95.557
+
+
+### San Miguel Tequixtepec
+
+Code: MX20283, Coordinates: 17.831, -97.313
+
+
+### San Miguel Tilquiápam (San Miguel Tilquiapam)
+
+Code: MX20284, Coordinates: 16.785, -96.568
+
+
+### San Miguel Tlacamama
+
+Code: MX20285, Coordinates: 16.445, -98.113
+
+
+### San Miguel Tlacotepec
+
+Code: MX20286, Coordinates: 17.447, -98.012
+
+
+### San Miguel Tulancingo
+
+Code: MX20287, Coordinates: 17.752, -97.442
+
+
+### San Miguel Yotao
+
+Code: MX20288, Coordinates: 17.347, -96.357
+
+
+### San Nicolás (San Nicolas)
+
+Code: MX20289, Coordinates: 16.433, -96.742
+
+
+### San Nicolás Hidalgo (San Nicolas Hidalgo)
+
+Code: MX20290, Coordinates: 17.774, -98.122
+
+
+### San Pablo Coatlán (San Pablo Coatlan)
+
+Code: MX20291, Coordinates: 16.154, -96.776
+
+
+### San Pablo Cuatro Venados
+
+Code: MX20292, Coordinates: 16.892, -97.02
+
+
+### San Pablo Etla
+
+Code: MX20293, Coordinates: 17.155, -96.743
+
+
+### San Pablo Huitzo
+
+Code: MX20294, Coordinates: 17.315, -96.861
+
+
+### San Pablo Huixtepec
+
+Code: MX20295, Coordinates: 16.815, -96.804
+
+
+### San Pablo Macuiltianguis
+
+Code: MX20296, Coordinates: 17.517, -96.526
+
+
+### San Pablo Tijaltepec
+
+Code: MX20297, Coordinates: 17.004, -97.473
+
+
+### San Pablo Villa de Mitla
+
+Code: MX20298, Coordinates: 16.968, -96.318
+
+
+### San Pablo Yaganiza
+
+Code: MX20299, Coordinates: 17.128, -96.205
+
+
+### San Pedro Amuzgos
+
+Code: MX20300, Coordinates: 16.678, -98.085
+
+
+### San Pedro Apóstol (San Pedro Apostol)
+
+Code: MX20301, Coordinates: 16.743, -96.736
+
+
+### San Pedro Atoyac
+
+Code: MX20302, Coordinates: 16.522, -97.965
+
+
+### San Pedro Cajonos
+
+Code: MX20303, Coordinates: 17.165, -96.264
+
+
+### San Pedro Comitancillo
+
+Code: MX20305, Coordinates: 16.462, -95.162
+
+
+### San Pedro Coxcaltepec Cántaros (San Pedro Coxcaltepec Cantaros)
+
+Code: MX20304, Coordinates: 17.531, -97.145
+
+
+### San Pedro el Alto
+
+Code: MX20306, Coordinates: 16.023, -96.474
+
+
+### San Pedro Huamelula
+
+Code: MX20307, Coordinates: 15.977, -95.772
+
+
+### San Pedro Huilotepec
+
+Code: MX20308, Coordinates: 16.244, -95.141
+
+
+### San Pedro Ixcatlán (San Pedro Ixcatlan)
+
+Code: MX20309, Coordinates: 18.166, -96.547
+
+
+### San Pedro Ixtlahuaca
+
+Code: MX20310, Coordinates: 17.054, -96.821
+
+
+### San Pedro Jaltepetongo
+
+Code: MX20311, Coordinates: 17.679, -97.034
+
+
+### San Pedro Jicayán (San Pedro Jicayan)
+
+Code: MX20312, Coordinates: 16.464, -98.039
+
+
+### San Pedro Jocotipac
+
+Code: MX20313, Coordinates: 17.749, -97.076
+
+
+### San Pedro Juchatengo
+
+Code: MX20314, Coordinates: 16.316, -97.108
+
+
+### San Pedro Mártir (San Pedro Martir)
+
+Code: MX20315, Coordinates: 16.749, -96.705
+
+
+### San Pedro Mártir Quiechapa (San Pedro Martir Quiechapa)
+
+Code: MX20316, Coordinates: 16.462, -96.257
+
+
+### San Pedro Mártir Yucuxaco (San Pedro Martir Yucuxaco)
+
+Code: MX20317, Coordinates: 17.452, -97.649
+
+
+### San Pedro Mixtepec -Dto. 22 -
+
+Code: MX20318, Coordinates: 15.946, -97.071
+
+
+### San Pedro Mixtepec -Dto. 26 -
+
+Code: MX20319, Coordinates: 16.226, -96.224
+
+
+### San Pedro Molinos
+
+Code: MX20320, Coordinates: 17.102, -97.551
+
+
+### San Pedro Nopala
+
+Code: MX20321, Coordinates: 17.813, -97.568
+
+
+### San Pedro Ocopetatillo
+
+Code: MX20322, Coordinates: 18.185, -96.912
+
+
+### San Pedro Ocotepec
+
+Code: MX20323, Coordinates: 16.976, -95.839
+
+
+### San Pedro Pochutla
+
+Code: MX20324, Coordinates: 15.791, -96.43
+
+
+### San Pedro Quiatoni
+
+Code: MX20325, Coordinates: 16.763, -96.028
+
+
+### San Pedro Sochiápam (San Pedro Sochiapam)
+
+Code: MX20326, Coordinates: 17.817, -96.639
+
+
+### San Pedro Tapanatepec
+
+Code: MX20327, Coordinates: 16.316, -94.207
+
+
+### San Pedro Taviche
+
+Code: MX20328, Coordinates: 16.65, -96.544
+
+
+### San Pedro Teozacoalco
+
+Code: MX20329, Coordinates: 17.003, -97.303
+
+
+### San Pedro Teutila
+
+Code: MX20330, Coordinates: 17.978, -96.642
+
+
+### San Pedro Tidaá (San Pedro Tidaa)
+
+Code: MX20331, Coordinates: 17.336, -97.39
+
+
+### San Pedro Topiltepec
+
+Code: MX20332, Coordinates: 17.457, -97.361
+
+
+### San Pedro Totolápam (San Pedro Totolapam)
+
+Code: MX20333, Coordinates: 16.657, -96.234
+
+
+### San Pedro y San Pablo Ayutla
+
+Code: MX20337, Coordinates: 17.038, -96.137
+
+
+### San Pedro y San Pablo Teposcolula
+
+Code: MX20339, Coordinates: 17.494, -97.471
+
+
+### San Pedro y San Pablo Tequixtepec
+
+Code: MX20340, Coordinates: 18.101, -97.727
+
+
+### San Pedro Yaneri
+
+Code: MX20335, Coordinates: 17.426, -96.373
+
+
+### San Pedro Yólox (San Pedro Yolox)
+
+Code: MX20336, Coordinates: 17.634, -96.462
+
+
+### San Pedro Yucunama
+
+Code: MX20341, Coordinates: 17.579, -97.48
+
+
+### San Raymundo Jalpan
+
+Code: MX20342, Coordinates: 16.98, -96.755
+
+
+### San Sebastián Abasolo (San Sebastian Abasolo)
+
+Code: MX20343, Coordinates: 16.986, -96.639
+
+
+### San Sebastián Coatlán (San Sebastian Coatlan)
+
+Code: MX20344, Coordinates: 16.103, -96.87
+
+
+### San Sebastián Ixcapa (San Sebastian Ixcapa)
+
+Code: MX20345, Coordinates: 16.529, -98.148
+
+
+### San Sebastián Nicananduta (San Sebastian Nicananduta)
+
+Code: MX20346, Coordinates: 17.518, -97.672
+
+
+### San Sebastián Río Hondo (San Sebastian Rio Hondo)
+
+Code: MX20347, Coordinates: 16.202, -96.42
+
+
+### San Sebastián Tecomaxtlahuaca (San Sebastian Tecomaxtlahuaca)
+
+Code: MX20348, Coordinates: 17.348, -98.091
+
+
+### San Sebastián Teitipac (San Sebastian Teitipac)
+
+Code: MX20349, Coordinates: 16.948, -96.631
+
+
+### San Sebastián Tutla (San Sebastian Tutla)
+
+Code: MX20350, Coordinates: 17.045, -96.678
+
+
+### San Simón Almolongas (San Simon Almolongas)
+
+Code: MX20351, Coordinates: 16.412, -96.719
+
+
+### San Simón Zahuatlán (San Simon Zahuatlan)
+
+Code: MX20352, Coordinates: 17.837, -97.994
+
+
+### San Vicente Coatlán (San Vicente Coatlan)
+
+Code: MX20534, Coordinates: 16.376, -96.832
+
+
+### San Vicente Lachixío (San Vicente Lachixio)
+
+Code: MX20535, Coordinates: 16.646, -97.041
+
+
+### San Vicente Nuñú (San Vicente Nunu)
+
+Code: MX20536, Coordinates: 17.419, -97.435
+
+
+### Santa Ana
+
+Code: MX20353, Coordinates: 16.329, -96.724
+
+
+### Santa Ana Ateixtlahuaca
+
+Code: MX20354, Coordinates: 18.22, -96.889
+
+
+### Santa Ana Cuauhtémoc (Santa Ana Cuauhtemoc)
+
+Code: MX20355, Coordinates: 17.985, -96.801
+
+
+### Santa Ana del Valle
+
+Code: MX20356, Coordinates: 17.016, -96.463
+
+
+### Santa Ana Tavela
+
+Code: MX20357, Coordinates: 16.608, -95.879
+
+
+### Santa Ana Tlapacoyan
+
+Code: MX20358, Coordinates: 16.745, -96.867
+
+
+### Santa Ana Yareni
+
+Code: MX20359, Coordinates: 17.397, -96.622
+
+
+### Santa Ana Zegache
+
+Code: MX20360, Coordinates: 16.839, -96.731
+
+
+### Santa Catalina Quierí (Santa Catalina Quieri)
+
+Code: MX20361, Coordinates: 16.336, -96.257
+
+
+### Santa Catarina Cuixtla
+
+Code: MX20362, Coordinates: 16.296, -96.648
+
+
+### Santa Catarina Ixtepeji
+
+Code: MX20363, Coordinates: 17.222, -96.581
+
+
+### Santa Catarina Juquila
+
+Code: MX20364, Coordinates: 16.18, -97.33
+
+
+### Santa Catarina Lachatao
+
+Code: MX20365, Coordinates: 17.188, -96.497
+
+
+### Santa Catarina Loxicha
+
+Code: MX20366, Coordinates: 16.067, -96.713
+
+
+### Santa Catarina Mechoacán (Santa Catarina Mechoacan)
+
+Code: MX20367, Coordinates: 16.344, -97.831
+
+
+### Santa Catarina Minas
+
+Code: MX20368, Coordinates: 16.789, -96.616
+
+
+### Santa Catarina Quiané (Santa Catarina Quiane)
+
+Code: MX20369, Coordinates: 16.88, -96.73
+
+
+### Santa Catarina Quioquitani
+
+Code: MX20074, Coordinates: 16.318, -96.289
+
+
+### Santa Catarina Tayata
+
+Code: MX20370, Coordinates: 17.341, -97.551
+
+
+### Santa Catarina Ticuá (Santa Catarina Ticua)
+
+Code: MX20371, Coordinates: 17.056, -97.537
+
+
+### Santa Catarina Yosonotú (Santa Catarina Yosonotu)
+
+Code: MX20372, Coordinates: 17.005, -97.671
+
+
+### Santa Catarina Zapoquila
+
+Code: MX20373, Coordinates: 18.025, -97.542
+
+
+### Santa Cruz Acatepec
+
+Code: MX20374, Coordinates: 18.158, -96.882
+
+
+### Santa Cruz Amilpas
+
+Code: MX20375, Coordinates: 17.048, -96.685
+
+
+### Santa Cruz de Bravo
+
+Code: MX20376, Coordinates: 17.572, -98.216
+
+
+### Santa Cruz Itundujia
+
+Code: MX20377, Coordinates: 16.757, -97.674
+
+
+### Santa Cruz Mixtepec
+
+Code: MX20378, Coordinates: 16.781, -96.856
+
+
+### Santa Cruz Nundaco
+
+Code: MX20379, Coordinates: 17.155, -97.723
+
+
+### Santa Cruz Papalutla
+
+Code: MX20380, Coordinates: 16.953, -96.585
+
+
+### Santa Cruz Tacache de Mina
+
+Code: MX20381, Coordinates: 17.817, -98.166
+
+
+### Santa Cruz Tacahua
+
+Code: MX20382, Coordinates: 16.92, -97.463
+
+
+### Santa Cruz Tayata
+
+Code: MX20383, Coordinates: 17.376, -97.578
+
+
+### Santa Cruz Xitla
+
+Code: MX20384, Coordinates: 16.338, -96.669
+
+
+### Santa Cruz Xoxocotlán (Santa Cruz Xoxocotlan)
+
+Code: MX20385, Coordinates: 17.01, -96.738
+
+
+### Santa Cruz Zenzontepec
+
+Code: MX20386, Coordinates: 16.471, -97.474
+
+
+### Santa Gertrudis
+
+Code: MX20387, Coordinates: 16.776, -96.784
+
+
+### Santa Inés de Zaragoza (Santa Ines de Zaragoza)
+
+Code: MX20569, Coordinates: 17.265, -97.145
+
+
+### Santa Inés del Monte (Santa Ines del Monte)
+
+Code: MX20388, Coordinates: 16.922, -96.855
+
+
+### Santa Inés Yatzeche (Santa Ines Yatzeche)
+
+Code: MX20389, Coordinates: 16.808, -96.759
+
+
+### Santa Lucía del Camino (Santa Lucia del Camino)
+
+Code: MX20390, Coordinates: 17.068, -96.673
+
+
+### Santa Lucía Miahuatlán (Santa Lucia Miahuatlan)
+
+Code: MX20391, Coordinates: 16.18, -96.618
+
+
+### Santa Lucía Monteverde (Santa Lucia Monteverde)
+
+Code: MX20392, Coordinates: 16.955, -97.721
+
+
+### Santa Lucía Ocotlán (Santa Lucia Ocotlan)
+
+Code: MX20393, Coordinates: 16.727, -96.668
+
+
+### Santa Magdalena Jicotlán (Santa Magdalena Jicotlan)
+
+Code: MX20047, Coordinates: 17.804, -97.482
+
+
+### Santa María Alotepec (Santa Maria Alotepec)
+
+Code: MX20394, Coordinates: 17.085, -95.83
+
+
+### Santa María Apazco (Santa Maria Apazco)
+
+Code: MX20395, Coordinates: 17.626, -97.079
+
+
+### Santa María Atzompa (Santa Maria Atzompa)
+
+Code: MX20399, Coordinates: 17.085, -96.793
+
+
+### Santa María Camotlán (Santa Maria Camotlan)
+
+Code: MX20400, Coordinates: 17.866, -97.641
+
+
+### Santa María Chachoápam (Santa Maria Chachoapam)
+
+Code: MX20404, Coordinates: 17.574, -97.239
+
+
+### Santa María Chilchotla (Santa Maria Chilchotla)
+
+Code: MX20406, Coordinates: 18.289, -96.739
+
+
+### Santa María Chimalapa (Santa Maria Chimalapa)
+
+Code: MX20407, Coordinates: 16.942, -94.359
+
+
+### Santa María Colotepec (Santa Maria Colotepec)
+
+Code: MX20401, Coordinates: 15.854, -96.939
+
+
+### Santa María Cortijo (Santa Maria Cortijo)
+
+Code: MX20402, Coordinates: 16.435, -98.307
+
+
+### Santa María Coyotepec (Santa Maria Coyotepec)
+
+Code: MX20403, Coordinates: 16.972, -96.711
+
+
+### Santa María del Rosario (Santa Maria del Rosario)
+
+Code: MX20408, Coordinates: 17.343, -97.606
+
+
+### Santa María del Tule (Santa Maria del Tule)
+
+Code: MX20409, Coordinates: 17.03, -96.631
+
+
+### Santa María Ecatepec (Santa Maria Ecatepec)
+
+Code: MX20410, Coordinates: 16.222, -95.981
+
+
+### Santa María Guelacé (Santa Maria Guelace)
+
+Code: MX20411, Coordinates: 16.992, -96.615
+
+
+### Santa María Guienagati (Santa Maria Guienagati)
+
+Code: MX20412, Coordinates: 16.782, -95.287
+
+
+### Santa María Huatulco (Santa Maria Huatulco)
+
+Code: MX20413, Coordinates: 15.822, -96.206
+
+
+### Santa María Huazolotitlán (Santa Maria Huazolotitlan)
+
+Code: MX20414, Coordinates: 16.192, -97.924
+
+
+### Santa María Ipalapa (Santa Maria Ipalapa)
+
+Code: MX20415, Coordinates: 16.623, -97.991
+
+
+### Santa María Ixcatlán (Santa Maria Ixcatlan)
+
+Code: MX20416, Coordinates: 17.85, -97.161
+
+
+### Santa María Jacatepec (Santa Maria Jacatepec)
+
+Code: MX20417, Coordinates: 17.868, -96.204
+
+
+### Santa María Jalapa del Marqués (Santa Maria Jalapa del Marques)
+
+Code: MX20418, Coordinates: 16.509, -95.466
+
+
+### Santa María Jaltianguis (Santa Maria Jaltianguis)
+
+Code: MX20419, Coordinates: 17.361, -96.544
+
+
+### Santa María la Asunción (Santa Maria la Asuncion)
+
+Code: MX20396, Coordinates: 18.103, -96.819
+
+
+### Santa María Lachixío (Santa Maria Lachixio)
+
+Code: MX20420, Coordinates: 16.737, -97.037
+
+
+### Santa María Mixtequilla (Santa Maria Mixtequilla)
+
+Code: MX20421, Coordinates: 16.422, -95.274
+
+
+### Santa María Nativitas (Santa Maria Nativitas)
+
+Code: MX20422, Coordinates: 17.642, -97.333
+
+
+### Santa María Nduayaco (Santa Maria Nduayaco)
+
+Code: MX20423, Coordinates: 17.403, -97.503
+
+
+### Santa María Ozolotepec (Santa Maria Ozolotepec)
+
+Code: MX20424, Coordinates: 16.098, -96.354
+
+
+### Santa María Pápalo (Santa Maria Papalo)
+
+Code: MX20425, Coordinates: 17.798, -96.807
+
+
+### Santa María Peñoles (Santa Maria Penoles)
+
+Code: MX20426, Coordinates: 17.056, -97.071
+
+
+### Santa María Petapa (Santa Maria Petapa)
+
+Code: MX20427, Coordinates: 16.899, -95.125
+
+
+### Santa María Quiegolani (Santa Maria Quiegolani)
+
+Code: MX20428, Coordinates: 16.305, -96.044
+
+
+### Santa María Sola (Santa Maria Sola)
+
+Code: MX20429, Coordinates: 16.567, -97.024
+
+
+### Santa María Tataltepec (Santa Maria Tataltepec)
+
+Code: MX20430, Coordinates: 17.137, -97.399
+
+
+### Santa María Tecomavaca (Santa Maria Tecomavaca)
+
+Code: MX20431, Coordinates: 17.952, -97.08
+
+
+### Santa María Temaxcalapa (Santa Maria Temaxcalapa)
+
+Code: MX20432, Coordinates: 17.377, -96.164
+
+
+### Santa María Temaxcaltepec (Santa Maria Temaxcaltepec)
+
+Code: MX20433, Coordinates: 16.168, -97.197
+
+
+### Santa María Teopoxco (Santa Maria Teopoxco)
+
+Code: MX20434, Coordinates: 18.176, -96.973
+
+
+### Santa María Tepantlali (Santa Maria Tepantlali)
+
+Code: MX20435, Coordinates: 16.943, -95.989
+
+
+### Santa María Texcatitlán (Santa Maria Texcatitlan)
+
+Code: MX20436, Coordinates: 17.719, -97.048
+
+
+### Santa María Tlahuitoltepec (Santa Maria Tlahuitoltepec)
+
+Code: MX20437, Coordinates: 17.126, -96.029
+
+
+### Santa María Tlalixtac (Santa Maria Tlalixtac)
+
+Code: MX20438, Coordinates: 17.917, -96.741
+
+
+### Santa María Tonameca (Santa Maria Tonameca)
+
+Code: MX20439, Coordinates: 15.782, -96.683
+
+
+### Santa María Totolapilla (Santa Maria Totolapilla)
+
+Code: MX20440, Coordinates: 16.625, -95.619
+
+
+### Santa María Xadani (Santa Maria Xadani)
+
+Code: MX20441, Coordinates: 16.369, -95.019
+
+
+### Santa María Yalina (Santa Maria Yalina)
+
+Code: MX20442, Coordinates: 17.264, -96.287
+
+
+### Santa María Yavesía (Santa Maria Yavesia)
+
+Code: MX20443, Coordinates: 17.203, -96.41
+
+
+### Santa María Yolotepec (Santa Maria Yolotepec)
+
+Code: MX20444, Coordinates: 16.884, -97.464
+
+
+### Santa María Yosoyúa (Santa Maria Yosoyua)
+
+Code: MX20445, Coordinates: 17.108, -97.499
+
+
+### Santa María Yucuhiti (Santa Maria Yucuhiti)
+
+Code: MX20446, Coordinates: 17.027, -97.801
+
+
+### Santa María Zacatepec (Santa Maria Zacatepec)
+
+Code: MX20447, Coordinates: 16.768, -97.982
+
+
+### Santa María Zaniza (Santa Maria Zaniza)
+
+Code: MX20448, Coordinates: 16.633, -97.347
+
+
+### Santa María Zoquitlán (Santa Maria Zoquitlan)
+
+Code: MX20449, Coordinates: 16.562, -96.356
+
+
+### Santiago Amoltepec
+
+Code: MX20450, Coordinates: 16.649, -97.522
+
+
+### Santiago Apoala
+
+Code: MX20451, Coordinates: 17.639, -97.141
+
+
+### Santiago Apóstol (Santiago Apostol)
+
+Code: MX20452, Coordinates: 16.795, -96.727
+
+
+### Santiago Astata
+
+Code: MX20453, Coordinates: 15.976, -95.61
+
+
+### Santiago Atitlán (Santiago Atitlan)
+
+Code: MX20454, Coordinates: 17.09, -95.927
+
+
+### Santiago Ayuquililla
+
+Code: MX20455, Coordinates: 17.92, -97.961
+
+
+### Santiago Cacaloxtepec
+
+Code: MX20456, Coordinates: 17.73, -97.735
+
+
+### Santiago Camotlán (Santiago Camotlan)
+
+Code: MX20457, Coordinates: 17.545, -96.159
+
+
+### Santiago Chazumba
+
+Code: MX20459, Coordinates: 18.178, -97.699
+
+
+### Santiago Choápam (Santiago Choapam)
+
+Code: MX20460, Coordinates: 17.361, -95.886
+
+
+### Santiago Comaltepec
+
+Code: MX20458, Coordinates: 17.636, -96.352
+
+
+### Santiago del Río (Santiago del Rio)
+
+Code: MX20461, Coordinates: 17.433, -98.101
+
+
+### Santiago Huajolotitlán (Santiago Huajolotitlan)
+
+Code: MX20462, Coordinates: 17.814, -97.68
+
+
+### Santiago Huauclilla
+
+Code: MX20463, Coordinates: 17.491, -97.044
+
+
+### Santiago Ihuitlán Plumas (Santiago Ihuitlan Plumas)
+
+Code: MX20464, Coordinates: 17.881, -97.432
+
+
+### Santiago Ixcuintepec
+
+Code: MX20465, Coordinates: 16.928, -95.579
+
+
+### Santiago Ixtayutla
+
+Code: MX20466, Coordinates: 16.53, -97.692
+
+
+### Santiago Jamiltepec
+
+Code: MX20467, Coordinates: 16.225, -97.781
+
+
+### Santiago Jocotepec
+
+Code: MX20468, Coordinates: 17.649, -95.988
+
+
+### Santiago Juxtlahuaca
+
+Code: MX20469, Coordinates: 17.209, -98.038
+
+
+### Santiago Lachiguiri
+
+Code: MX20470, Coordinates: 16.795, -95.517
+
+
+### Santiago Lalopa
+
+Code: MX20471, Coordinates: 17.416, -96.249
+
+
+### Santiago Laollaga
+
+Code: MX20472, Coordinates: 16.634, -95.263
+
+
+### Santiago Laxopa
+
+Code: MX20473, Coordinates: 17.198, -96.345
+
+
+### Santiago Llano Grande
+
+Code: MX20474, Coordinates: 16.488, -98.261
+
+
+### Santiago Matatlán (Santiago Matatlan)
+
+Code: MX20475, Coordinates: 16.804, -96.455
+
+
+### Santiago Miltepec
+
+Code: MX20476, Coordinates: 17.988, -97.728
+
+
+### Santiago Minas
+
+Code: MX20477, Coordinates: 16.434, -97.274
+
+
+### Santiago Nacaltepec
+
+Code: MX20478, Coordinates: 17.515, -96.895
+
+
+### Santiago Nejapilla
+
+Code: MX20479, Coordinates: 17.43, -97.384
+
+
+### Santiago Niltepec
+
+Code: MX20066, Coordinates: 16.52, -94.584
+
+
+### Santiago Nundiche
+
+Code: MX20480, Coordinates: 17.337, -97.704
+
+
+### Santiago Nuyoó (Santiago Nuyoo)
+
+Code: MX20481, Coordinates: 17.01, -97.749
+
+
+### Santiago Pinotepa Nacional
+
+Code: MX20482, Coordinates: 16.296, -98.16
+
+
+### Santiago Suchilquitongo
+
+Code: MX20483, Coordinates: 17.232, -96.906
+
+
+### Santiago Tamazola
+
+Code: MX20484, Coordinates: 17.745, -98.245
+
+
+### Santiago Tapextla
+
+Code: MX20485, Coordinates: 16.33, -98.477
+
+
+### Santiago Tenango
+
+Code: MX20487, Coordinates: 17.298, -96.998
+
+
+### Santiago Tepetlapa
+
+Code: MX20488, Coordinates: 17.8, -97.395
+
+
+### Santiago Tetepec
+
+Code: MX20489, Coordinates: 16.359, -97.654
+
+
+### Santiago Texcalcingo
+
+Code: MX20490, Coordinates: 18.216, -96.975
+
+
+### Santiago Textitlán (Santiago Textitlan)
+
+Code: MX20491, Coordinates: 16.718, -97.315
+
+
+### Santiago Tilantongo
+
+Code: MX20492, Coordinates: 17.196, -97.371
+
+
+### Santiago Tillo
+
+Code: MX20493, Coordinates: 17.468, -97.317
+
+
+### Santiago Tlazoyaltepec
+
+Code: MX20494, Coordinates: 17.029, -96.976
+
+
+### Santiago Xanica
+
+Code: MX20495, Coordinates: 16.017, -96.253
+
+
+### Santiago Xiacuí (Santiago Xiacui)
+
+Code: MX20496, Coordinates: 17.272, -96.393
+
+
+### Santiago Yaitepec
+
+Code: MX20497, Coordinates: 16.212, -97.238
+
+
+### Santiago Yaveo
+
+Code: MX20498, Coordinates: 17.488, -95.48
+
+
+### Santiago Yolomécatl (Santiago Yolomecatl)
+
+Code: MX20499, Coordinates: 17.466, -97.571
+
+
+### Santiago Yosondúa (Santiago Yosondua)
+
+Code: MX20500, Coordinates: 16.847, -97.496
+
+
+### Santiago Yucuyachi
+
+Code: MX20501, Coordinates: 17.61, -98.245
+
+
+### Santiago Zacatepec
+
+Code: MX20502, Coordinates: 17.203, -95.902
+
+
+### Santiago Zoochila
+
+Code: MX20503, Coordinates: 17.213, -96.25
+
+
+### Santo Domingo Albarradas
+
+Code: MX20506, Coordinates: 17.064, -96.206
+
+
+### Santo Domingo Armenta
+
+Code: MX20507, Coordinates: 16.341, -98.359
+
+
+### Santo Domingo Chihuitán (Santo Domingo Chihuitan)
+
+Code: MX20508, Coordinates: 16.639, -95.176
+
+
+### Santo Domingo de Morelos
+
+Code: MX20509, Coordinates: 15.842, -96.644
+
+
+### Santo Domingo Ingenio
+
+Code: MX20505, Coordinates: 16.571, -94.742
+
+
+### Santo Domingo Ixcatlán (Santo Domingo Ixcatlan)
+
+Code: MX20510, Coordinates: 16.909, -97.524
+
+
+### Santo Domingo Nuxaá (Santo Domingo Nuxaa)
+
+Code: MX20511, Coordinates: 17.161, -97.039
+
+
+### Santo Domingo Ozolotepec
+
+Code: MX20512, Coordinates: 16.176, -96.322
+
+
+### Santo Domingo Petapa
+
+Code: MX20513, Coordinates: 16.851, -95.212
+
+
+### Santo Domingo Roayaga
+
+Code: MX20514, Coordinates: 17.333, -96.064
+
+
+### Santo Domingo Tehuantepec
+
+Code: MX20515, Coordinates: 16.189, -95.396
+
+
+### Santo Domingo Teojomulco
+
+Code: MX20516, Coordinates: 16.59, -97.281
+
+
+### Santo Domingo Tepuxtepec
+
+Code: MX20517, Coordinates: 16.934, -96.097
+
+
+### Santo Domingo Tlatayápam (Santo Domingo Tlatayapam)
+
+Code: MX20518, Coordinates: 17.402, -97.343
+
+
+### Santo Domingo Tomaltepec
+
+Code: MX20519, Coordinates: 17.07, -96.597
+
+
+### Santo Domingo Tonalá (Santo Domingo Tonala)
+
+Code: MX20520, Coordinates: 17.68, -97.976
+
+
+### Santo Domingo Tonaltepec
+
+Code: MX20521, Coordinates: 17.615, -97.351
+
+
+### Santo Domingo Xagacía (Santo Domingo Xagacia)
+
+Code: MX20522, Coordinates: 17.127, -96.297
+
+
+### Santo Domingo Yanhuitlán (Santo Domingo Yanhuitlan)
+
+Code: MX20523, Coordinates: 17.526, -97.336
+
+
+### Santo Domingo Yodohino
+
+Code: MX20524, Coordinates: 17.639, -97.7
+
+
+### Santo Domingo Zanatepec
+
+Code: MX20525, Coordinates: 16.441, -94.343
+
+
+### Santo Tomás Jalieza (Santo Tomas Jalieza)
+
+Code: MX20530, Coordinates: 16.875, -96.637
+
+
+### Santo Tomás Mazaltepec (Santo Tomas Mazaltepec)
+
+Code: MX20531, Coordinates: 17.147, -96.916
+
+
+### Santo Tomás Ocotepec (Santo Tomas Ocotepec)
+
+Code: MX20532, Coordinates: 17.12, -97.773
+
+
+### Santo Tomás Tamazulapan (Santo Tomas Tamazulapan)
+
+Code: MX20533, Coordinates: 16.24, -96.59
+
+
+### Santos Reyes Nopala
+
+Code: MX20526, Coordinates: 16.082, -97.179
+
+
+### Santos Reyes Pápalo (Santos Reyes Papalo)
+
+Code: MX20527, Coordinates: 17.792, -96.879
+
+
+### Santos Reyes Tepejillo
+
+Code: MX20528, Coordinates: 17.407, -97.956
+
+
+### Santos Reyes Yucuná (Santos Reyes Yucuna)
+
+Code: MX20529, Coordinates: 17.773, -98.01
+
+
+### Silacayoápam (Silacayoapam)
+
+Code: MX20537, Coordinates: 17.588, -98.072
+
+
+### Sitio de Xitlapehua
+
+Code: MX20538, Coordinates: 16.368, -96.547
+
+
+### Soledad Etla
+
+Code: MX20539, Coordinates: 17.158, -96.828
+
+
+### Tamazulápam del Espíritu Santo (Tamazulapam del Espiritu Santo)
+
+Code: MX20031, Coordinates: 17.033, -96.015
+
+
+### Tanetze de Zaragoza
+
+Code: MX20541, Coordinates: 17.384, -96.296
+
+
+### Taniche
+
+Code: MX20542, Coordinates: 16.568, -96.765
+
+
+### Tataltepec de Valdés (Tataltepec de Valdes)
+
+Code: MX20543, Coordinates: 16.313, -97.52
+
+
+### Teococuilco de Marcos Pérez (Teococuilco de Marcos Perez)
+
+Code: MX20544, Coordinates: 17.319, -96.672
+
+
+### Teotitlán de Flores Magón (Teotitlan de Flores Magon)
+
+Code: MX20545, Coordinates: 18.119, -97.087
+
+
+### Teotitlán del Valle (Teotitlan del Valle)
+
+Code: MX20546, Coordinates: 17.049, -96.503
+
+
+### Teotongo
+
+Code: MX20547, Coordinates: 17.746, -97.542
+
+
+### Tepelmeme Villa de Morelos
+
+Code: MX20548, Coordinates: 18.007, -97.289
+
+
+### Tlacolula de Matamoros
+
+Code: MX20551, Coordinates: 16.931, -96.461
+
+
+### Tlacotepec Plumas
+
+Code: MX20552, Coordinates: 17.872, -97.47
+
+
+### Tlalixtac de Cabrera
+
+Code: MX20553, Coordinates: 17.077, -96.636
+
+
+### Totontepec Villa de Morelos
+
+Code: MX20554, Coordinates: 17.236, -96.036
+
+
+### Trinidad Zaachila
+
+Code: MX20555, Coordinates: 16.924, -96.79
+
+
+### Unión Hidalgo (Union Hidalgo)
+
+Code: MX20557, Coordinates: 16.488, -94.812
+
+
+### Valerio Trujano
+
+Code: MX20558, Coordinates: 17.772, -96.988
+
+
+### Villa de Chilapa de Díaz (Villa de Chilapa de Diaz)
+
+Code: MX20405, Coordinates: 17.595, -97.65
+
+
+### Villa de Etla
+
+Code: MX20338, Coordinates: 17.197, -96.796
+
+
+### Villa de Tamazulápam del Progreso (Villa de Tamazulapam del Progreso)
+
+Code: MX20540, Coordinates: 17.695, -97.578
+
+
+### Villa de Tututepec de Melchor Ocampo
+
+Code: MX20334, Coordinates: 16.099, -97.564
+
+
+### Villa de Zaachila
+
+Code: MX20565, Coordinates: 16.953, -96.784
+
+
+### Villa Díaz Ordaz (Villa Diaz Ordaz)
+
+Code: MX20560, Coordinates: 17.054, -96.381
+
+
+### Villa Hidalgo
+
+Code: MX20038, Coordinates: 17.184, -96.155
+
+
+### Villa Sola de Vega
+
+Code: MX20277, Coordinates: 16.572, -97.104
+
+
+### Villa Talea de Castro
+
+Code: MX20280, Coordinates: 17.371, -96.229
+
+
+### Villa Tejúpam de la Unión (Villa Tejupam de la Union)
+
+Code: MX20486, Coordinates: 17.665, -97.456
+
+
+### Yaxe
+
+Code: MX20561, Coordinates: 16.707, -96.444
+
+
+### Yogana
+
+Code: MX20563, Coordinates: 16.439, -96.815
+
+
+### Yutanduchi de Guerrero
+
+Code: MX20564, Coordinates: 17.076, -97.292
+
+
+### Zapotitlán Lagunas (Zapotitlan Lagunas)
+
+Code: MX20567, Coordinates: 17.784, -98.392
+
+
+### Zapotitlán Palmas (Zapotitlan Palmas)
+
+Code: MX20568, Coordinates: 17.882, -97.836
+
+
+### Zimatlán de Álvarez (Zimatlan de Alvarez)
+
+Code: MX20570, Coordinates: 16.873, -96.801
+
+

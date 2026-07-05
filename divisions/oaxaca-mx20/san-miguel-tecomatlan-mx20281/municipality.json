@@ -1,0 +1,45 @@
+{
+  "id": "MX20281",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Tecomatlán",
+    "en": "San Miguel Tecomatlan",
+    "slug": "san-miguel-tecomatlan-mx20281"
+  },
+  "code": {
+    "id": "MX20281",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.371",
+    "lon": "-97.302"
+  },
+  "metadata": {},
+  "source": {}
+}

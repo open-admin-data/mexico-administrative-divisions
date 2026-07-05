@@ -1,0 +1,45 @@
+{
+  "id": "MX15054",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Metepec",
+    "en": "Metepec",
+    "slug": "metepec-mx15054"
+  },
+  "code": {
+    "id": "MX15054",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.251",
+    "lon": "-99.594"
+  },
+  "metadata": {},
+  "source": {}
+}

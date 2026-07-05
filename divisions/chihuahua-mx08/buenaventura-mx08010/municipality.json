@@ -1,0 +1,45 @@
+{
+  "id": "MX08010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buenaventura",
+    "en": "Buenaventura",
+    "slug": "buenaventura-mx08010"
+  },
+  "code": {
+    "id": "MX08010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.189",
+    "lon": "-107.096"
+  },
+  "metadata": {},
+  "source": {}
+}

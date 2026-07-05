@@ -1,0 +1,45 @@
+{
+  "id": "MX32008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuauhtémoc",
+    "en": "Cuauhtemoc",
+    "slug": "cuauhtemoc-mx32008"
+  },
+  "code": {
+    "id": "MX32008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX32",
+    "level": 1,
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.461",
+    "lon": "-102.353"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "MX32",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Zacatecas",
+    "en": "Zacatecas",
+    "slug": "zacatecas-mx32"
+  },
+  "code": {
+    "id": "MX32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 58
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.082",
+    "lon": "-103.209"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/zacatecas-mx32/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

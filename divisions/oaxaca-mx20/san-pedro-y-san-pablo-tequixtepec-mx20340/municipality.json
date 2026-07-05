@@ -1,0 +1,45 @@
+{
+  "id": "MX20340",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro y San Pablo Tequixtepec",
+    "en": "San Pedro y San Pablo Tequixtepec",
+    "slug": "san-pedro-y-san-pablo-tequixtepec-mx20340"
+  },
+  "code": {
+    "id": "MX20340",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.101",
+    "lon": "-97.727"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX13067",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tezontepec de Aldama",
+    "en": "Tezontepec de Aldama",
+    "slug": "tezontepec-de-aldama-mx13067"
+  },
+  "code": {
+    "id": "MX13067",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.174",
+    "lon": "-99.289"
+  },
+  "metadata": {},
+  "source": {}
+}

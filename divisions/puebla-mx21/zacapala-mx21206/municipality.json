@@ -1,0 +1,45 @@
+{
+  "id": "MX21206",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zacapala",
+    "en": "Zacapala",
+    "slug": "zacapala-mx21206"
+  },
+  "code": {
+    "id": "MX21206",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.596",
+    "lon": "-98.046"
+  },
+  "metadata": {},
+  "source": {}
+}

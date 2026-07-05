@@ -1,0 +1,33 @@
+{
+  "id": "MX09",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Distrito Federal",
+    "en": "Distrito Federal",
+    "slug": "distrito-federal-mx09"
+  },
+  "code": {
+    "id": "MX09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.321",
+    "lon": "-99.152"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/distrito-federal-mx09/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

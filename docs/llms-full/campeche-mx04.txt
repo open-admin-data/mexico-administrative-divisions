@@ -1,0 +1,64 @@
+# Campeche — Mexico Administrative Divisions
+
+> 11 municipalitys
+> Code: MX04
+> Coordinates: 19.331, -89.943
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Calakmul
+
+Code: MX04010, Coordinates: 18.486, -89.658
+
+
+### Calkiní (Calkini)
+
+Code: MX04001, Coordinates: 20.481, -90.367
+
+
+### Campeche
+
+Code: MX04002, Coordinates: 19.592, -90.254
+
+
+### Candelaria
+
+Code: MX04011, Coordinates: 18.161, -90.745
+
+
+### Carmen
+
+Code: MX04003, Coordinates: 18.453, -91.241
+
+
+### Champotón (Champoton)
+
+Code: MX04004, Coordinates: 19.131, -90.452
+
+
+### Escárcega (Escarcega)
+
+Code: MX04009, Coordinates: 18.58, -90.761
+
+
+### Hecelchakán (Hecelchakan)
+
+Code: MX04005, Coordinates: 20.091, -90.073
+
+
+### Hopelchén (Hopelchen)
+
+Code: MX04006, Coordinates: 19.539, -89.621
+
+
+### Palizada
+
+Code: MX04007, Coordinates: 18.262, -91.915
+
+
+### Tenabo
+
+Code: MX04008, Coordinates: 19.964, -90.187
+
+

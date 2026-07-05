@@ -1,0 +1,45 @@
+{
+  "id": "MX28040",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Valle Hermoso",
+    "en": "Valle Hermoso",
+    "slug": "valle-hermoso-mx28040"
+  },
+  "code": {
+    "id": "MX28040",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.782",
+    "lon": "-97.835"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX12041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Malinaltepec",
+    "en": "Malinaltepec",
+    "slug": "malinaltepec-mx12041"
+  },
+  "code": {
+    "id": "MX12041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.129",
+    "lon": "-98.715"
+  },
+  "metadata": {},
+  "source": {}
+}

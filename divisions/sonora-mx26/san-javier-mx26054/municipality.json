@@ -1,0 +1,45 @@
+{
+  "id": "MX26054",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Javier",
+    "en": "San Javier",
+    "slug": "san-javier-mx26054"
+  },
+  "code": {
+    "id": "MX26054",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.616",
+    "lon": "-109.752"
+  },
+  "metadata": {},
+  "source": {}
+}

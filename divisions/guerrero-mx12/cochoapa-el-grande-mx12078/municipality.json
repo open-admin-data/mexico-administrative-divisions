@@ -1,0 +1,45 @@
+{
+  "id": "MX12078",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cochoapa el Grande",
+    "en": "Cochoapa el Grande",
+    "slug": "cochoapa-el-grande-mx12078"
+  },
+  "code": {
+    "id": "MX12078",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.123",
+    "lon": "-98.42"
+  },
+  "metadata": {},
+  "source": {}
+}

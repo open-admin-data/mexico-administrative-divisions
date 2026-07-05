@@ -1,0 +1,45 @@
+{
+  "id": "MX20081",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Agustín Atenango",
+    "en": "San Agustin Atenango",
+    "slug": "san-agustin-atenango-mx20081"
+  },
+  "code": {
+    "id": "MX20081",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.586",
+    "lon": "-98.001"
+  },
+  "metadata": {},
+  "source": {}
+}

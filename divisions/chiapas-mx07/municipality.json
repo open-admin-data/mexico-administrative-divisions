@@ -1,0 +1,5312 @@
+[
+  {
+    "id": "MX07001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acacoyagua",
+      "en": "Acacoyagua",
+      "slug": "acacoyagua-mx07001"
+    },
+    "code": {
+      "id": "MX07001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.406",
+      "lon": "-92.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acala",
+      "en": "Acala",
+      "slug": "acala-mx07002"
+    },
+    "code": {
+      "id": "MX07002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.528",
+      "lon": "-92.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acapetahua",
+      "en": "Acapetahua",
+      "slug": "acapetahua-mx07003"
+    },
+    "code": {
+      "id": "MX07003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.222",
+      "lon": "-92.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07113",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aldama",
+      "en": "Aldama",
+      "slug": "aldama-mx07113"
+    },
+    "code": {
+      "id": "MX07113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.932",
+      "lon": "-92.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Altamirano",
+      "en": "Altamirano",
+      "slug": "altamirano-mx07004"
+    },
+    "code": {
+      "id": "MX07004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.668",
+      "lon": "-91.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amatán",
+      "en": "Amatan",
+      "slug": "amatan-mx07005"
+    },
+    "code": {
+      "id": "MX07005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.389",
+      "lon": "-92.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amatenango de la Frontera",
+      "en": "Amatenango de la Frontera",
+      "slug": "amatenango-de-la-frontera-mx07006"
+    },
+    "code": {
+      "id": "MX07006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.523",
+      "lon": "-92.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amatenango del Valle",
+      "en": "Amatenango del Valle",
+      "slug": "amatenango-del-valle-mx07007"
+    },
+    "code": {
+      "id": "MX07007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.516",
+      "lon": "-92.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angel Albino Corzo",
+      "en": "Angel Albino Corzo",
+      "slug": "angel-albino-corzo-mx07008"
+    },
+    "code": {
+      "id": "MX07008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.759",
+      "lon": "-92.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arriaga",
+      "en": "Arriaga",
+      "slug": "arriaga-mx07009"
+    },
+    "code": {
+      "id": "MX07009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.255",
+      "lon": "-93.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bejucal de Ocampo",
+      "en": "Bejucal de Ocampo",
+      "slug": "bejucal-de-ocampo-mx07010"
+    },
+    "code": {
+      "id": "MX07010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.486",
+      "lon": "-92.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bella Vista",
+      "en": "Bella Vista",
+      "slug": "bella-vista-mx07011"
+    },
+    "code": {
+      "id": "MX07011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.623",
+      "lon": "-92.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07114",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benemérito de las Américas",
+      "en": "Benemerito de las Americas",
+      "slug": "benemerito-de-las-americas-mx07114"
+    },
+    "code": {
+      "id": "MX07114",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.339",
+      "lon": "-90.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Berriozábal",
+      "en": "Berriozabal",
+      "slug": "berriozabal-mx07012"
+    },
+    "code": {
+      "id": "MX07012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.873",
+      "lon": "-93.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bochil",
+      "en": "Bochil",
+      "slug": "bochil-mx07013"
+    },
+    "code": {
+      "id": "MX07013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.023",
+      "lon": "-92.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacahoatán",
+      "en": "Cacahoatan",
+      "slug": "cacahoatan-mx07015"
+    },
+    "code": {
+      "id": "MX07015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.088",
+      "lon": "-92.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catazajá",
+      "en": "Catazaja",
+      "slug": "catazaja-mx07016"
+    },
+    "code": {
+      "id": "MX07016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.768",
+      "lon": "-92.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chalchihuitán",
+      "en": "Chalchihuitan",
+      "slug": "chalchihuitan-mx07022"
+    },
+    "code": {
+      "id": "MX07022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.033",
+      "lon": "-92.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chamula",
+      "en": "Chamula",
+      "slug": "chamula-mx07023"
+    },
+    "code": {
+      "id": "MX07023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.817",
+      "lon": "-92.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chanal",
+      "en": "Chanal",
+      "slug": "chanal-mx07024"
+    },
+    "code": {
+      "id": "MX07024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.603",
+      "lon": "-92.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapultenango",
+      "en": "Chapultenango",
+      "slug": "chapultenango-mx07025"
+    },
+    "code": {
+      "id": "MX07025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.336",
+      "lon": "-93.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chenalhó",
+      "en": "Chenalho",
+      "slug": "chenalho-mx07026"
+    },
+    "code": {
+      "id": "MX07026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.972",
+      "lon": "-92.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiapa de Corzo",
+      "en": "Chiapa de Corzo",
+      "slug": "chiapa-de-corzo-mx07027"
+    },
+    "code": {
+      "id": "MX07027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.601",
+      "lon": "-92.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiapilla",
+      "en": "Chiapilla",
+      "slug": "chiapilla-mx07028"
+    },
+    "code": {
+      "id": "MX07028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.558",
+      "lon": "-92.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chicoasén",
+      "en": "Chicoasen",
+      "slug": "chicoasen-mx07029"
+    },
+    "code": {
+      "id": "MX07029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.995",
+      "lon": "-93.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chicomuselo",
+      "en": "Chicomuselo",
+      "slug": "chicomuselo-mx07030"
+    },
+    "code": {
+      "id": "MX07030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.794",
+      "lon": "-92.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chilón",
+      "en": "Chilon",
+      "slug": "chilon-mx07031"
+    },
+    "code": {
+      "id": "MX07031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.107",
+      "lon": "-92.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cintalapa",
+      "en": "Cintalapa",
+      "slug": "cintalapa-mx07017"
+    },
+    "code": {
+      "id": "MX07017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.752",
+      "lon": "-93.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coapilla",
+      "en": "Coapilla",
+      "slug": "coapilla-mx07018"
+    },
+    "code": {
+      "id": "MX07018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.118",
+      "lon": "-93.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comitán de Domínguez",
+      "en": "Comitan de Dominguez",
+      "slug": "comitan-de-dominguez-mx07019"
+    },
+    "code": {
+      "id": "MX07019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.291",
+      "lon": "-92.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Copainalá",
+      "en": "Copainala",
+      "slug": "copainala-mx07021"
+    },
+    "code": {
+      "id": "MX07021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.116",
+      "lon": "-93.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Bosque",
+      "en": "El Bosque",
+      "slug": "el-bosque-mx07014"
+    },
+    "code": {
+      "id": "MX07014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.025",
+      "lon": "-92.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07070",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Porvenir",
+      "en": "El Porvenir",
+      "slug": "el-porvenir-mx07070"
+    },
+    "code": {
+      "id": "MX07070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.429",
+      "lon": "-92.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Escuintla",
+      "en": "Escuintla",
+      "slug": "escuintla-mx07032"
+    },
+    "code": {
+      "id": "MX07032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.351",
+      "lon": "-92.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Francisco León",
+      "en": "Francisco Leon",
+      "slug": "francisco-leon-mx07033"
+    },
+    "code": {
+      "id": "MX07033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.291",
+      "lon": "-93.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frontera Comalapa",
+      "en": "Frontera Comalapa",
+      "slug": "frontera-comalapa-mx07034"
+    },
+    "code": {
+      "id": "MX07034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.782",
+      "lon": "-92.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frontera Hidalgo",
+      "en": "Frontera Hidalgo",
+      "slug": "frontera-hidalgo-mx07035"
+    },
+    "code": {
+      "id": "MX07035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.753",
+      "lon": "-92.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huehuetán",
+      "en": "Huehuetan",
+      "slug": "huehuetan-mx07037"
+    },
+    "code": {
+      "id": "MX07037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.022",
+      "lon": "-92.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huitiupán",
+      "en": "Huitiupan",
+      "slug": "huitiupan-mx07039"
+    },
+    "code": {
+      "id": "MX07039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.241",
+      "lon": "-92.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huixtán",
+      "en": "Huixtan",
+      "slug": "huixtan-mx07038"
+    },
+    "code": {
+      "id": "MX07038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.683",
+      "lon": "-92.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huixtla",
+      "en": "Huixtla",
+      "slug": "huixtla-mx07040"
+    },
+    "code": {
+      "id": "MX07040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.122",
+      "lon": "-92.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixhuatán",
+      "en": "Ixhuatan",
+      "slug": "ixhuatan-mx07042"
+    },
+    "code": {
+      "id": "MX07042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.305",
+      "lon": "-93.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtacomitán",
+      "en": "Ixtacomitan",
+      "slug": "ixtacomitan-mx07043"
+    },
+    "code": {
+      "id": "MX07043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.427",
+      "lon": "-93.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtapa",
+      "en": "Ixtapa",
+      "slug": "ixtapa-mx07044"
+    },
+    "code": {
+      "id": "MX07044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.808",
+      "lon": "-92.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtapangajoya",
+      "en": "Ixtapangajoya",
+      "slug": "ixtapangajoya-mx07045"
+    },
+    "code": {
+      "id": "MX07045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.461",
+      "lon": "-92.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiquipilas",
+      "en": "Jiquipilas",
+      "slug": "jiquipilas-mx07046"
+    },
+    "code": {
+      "id": "MX07046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.575",
+      "lon": "-93.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jitotol",
+      "en": "Jitotol",
+      "slug": "jitotol-mx07047"
+    },
+    "code": {
+      "id": "MX07047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.089",
+      "lon": "-92.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juárez",
+      "en": "Juarez",
+      "slug": "juarez-mx07048"
+    },
+    "code": {
+      "id": "MX07048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.701",
+      "lon": "-93.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Concordia",
+      "en": "La Concordia",
+      "slug": "la-concordia-mx07020"
+    },
+    "code": {
+      "id": "MX07020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.96",
+      "lon": "-92.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Grandeza",
+      "en": "La Grandeza",
+      "slug": "la-grandeza-mx07036"
+    },
+    "code": {
+      "id": "MX07036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.51",
+      "lon": "-92.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Independencia",
+      "en": "La Independencia",
+      "slug": "la-independencia-mx07041"
+    },
+    "code": {
+      "id": "MX07041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.214",
+      "lon": "-91.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Libertad",
+      "en": "La Libertad",
+      "slug": "la-libertad-mx07050"
+    },
+    "code": {
+      "id": "MX07050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.601",
+      "lon": "-91.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07099",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Trinitaria",
+      "en": "La Trinitaria",
+      "slug": "la-trinitaria-mx07099"
+    },
+    "code": {
+      "id": "MX07099",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.98",
+      "lon": "-91.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Larráinzar",
+      "en": "Larrainzar",
+      "slug": "larrainzar-mx07049"
+    },
+    "code": {
+      "id": "MX07049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.928",
+      "lon": "-92.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Las Margaritas",
+      "en": "Las Margaritas",
+      "slug": "las-margaritas-mx07052"
+    },
+    "code": {
+      "id": "MX07052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.374",
+      "lon": "-91.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07075",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Las Rosas",
+      "en": "Las Rosas",
+      "slug": "las-rosas-mx07075"
+    },
+    "code": {
+      "id": "MX07075",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.369",
+      "lon": "-92.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mapastepec",
+      "en": "Mapastepec",
+      "slug": "mapastepec-mx07051"
+    },
+    "code": {
+      "id": "MX07051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.447",
+      "lon": "-92.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07115",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maravilla Tenejapa",
+      "en": "Maravilla Tenejapa",
+      "slug": "maravilla-tenejapa-mx07115"
+    },
+    "code": {
+      "id": "MX07115",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.212",
+      "lon": "-91.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07116",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marqués de Comillas",
+      "en": "Marques de Comillas",
+      "slug": "marques-de-comillas-mx07116"
+    },
+    "code": {
+      "id": "MX07116",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.273",
+      "lon": "-90.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazapa de Madero",
+      "en": "Mazapa de Madero",
+      "slug": "mazapa-de-madero-mx07053"
+    },
+    "code": {
+      "id": "MX07053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.358",
+      "lon": "-92.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazatán",
+      "en": "Mazatan",
+      "slug": "mazatan-mx07054"
+    },
+    "code": {
+      "id": "MX07054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.877",
+      "lon": "-92.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Metapa",
+      "en": "Metapa",
+      "slug": "metapa-mx07055"
+    },
+    "code": {
+      "id": "MX07055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.822",
+      "lon": "-92.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mitontic",
+      "en": "Mitontic",
+      "slug": "mitontic-mx07056"
+    },
+    "code": {
+      "id": "MX07056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.876",
+      "lon": "-92.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07117",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Montecristo de Guerrero",
+      "en": "Montecristo de Guerrero",
+      "slug": "montecristo-de-guerrero-mx07117"
+    },
+    "code": {
+      "id": "MX07117",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.678",
+      "lon": "-92.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Motozintla",
+      "en": "Motozintla",
+      "slug": "motozintla-mx07057"
+    },
+    "code": {
+      "id": "MX07057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.305",
+      "lon": "-92.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nicolás Ruíz",
+      "en": "Nicolas Ruiz",
+      "slug": "nicolas-ruiz-mx07058"
+    },
+    "code": {
+      "id": "MX07058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.437",
+      "lon": "-92.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocosingo",
+      "en": "Ocosingo",
+      "slug": "ocosingo-mx07059"
+    },
+    "code": {
+      "id": "MX07059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.657",
+      "lon": "-91.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocotepec",
+      "en": "Ocotepec",
+      "slug": "ocotepec-mx07060"
+    },
+    "code": {
+      "id": "MX07060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.226",
+      "lon": "-93.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocozocoautla de Espinosa",
+      "en": "Ocozocoautla de Espinosa",
+      "slug": "ocozocoautla-de-espinosa-mx07061"
+    },
+    "code": {
+      "id": "MX07061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.795",
+      "lon": "-93.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ostuacán",
+      "en": "Ostuacan",
+      "slug": "ostuacan-mx07062"
+    },
+    "code": {
+      "id": "MX07062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.444",
+      "lon": "-93.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Osumacinta",
+      "en": "Osumacinta",
+      "slug": "osumacinta-mx07063"
+    },
+    "code": {
+      "id": "MX07063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.896",
+      "lon": "-93.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oxchuc",
+      "en": "Oxchuc",
+      "slug": "oxchuc-mx07064"
+    },
+    "code": {
+      "id": "MX07064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.796",
+      "lon": "-92.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palenque",
+      "en": "Palenque",
+      "slug": "palenque-mx07065"
+    },
+    "code": {
+      "id": "MX07065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.453",
+      "lon": "-91.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pantelhó",
+      "en": "Pantelho",
+      "slug": "pantelho-mx07066"
+    },
+    "code": {
+      "id": "MX07066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.051",
+      "lon": "-92.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pantepec",
+      "en": "Pantepec",
+      "slug": "pantepec-mx07067"
+    },
+    "code": {
+      "id": "MX07067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.194",
+      "lon": "-93.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07068",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pichucalco",
+      "en": "Pichucalco",
+      "slug": "pichucalco-mx07068"
+    },
+    "code": {
+      "id": "MX07068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.509",
+      "lon": "-93.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07069",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pijijiapan",
+      "en": "Pijijiapan",
+      "slug": "pijijiapan-mx07069"
+    },
+    "code": {
+      "id": "MX07069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.653",
+      "lon": "-93.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07072",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pueblo Nuevo Solistahuacán",
+      "en": "Pueblo Nuevo Solistahuacan",
+      "slug": "pueblo-nuevo-solistahuacan-mx07072"
+    },
+    "code": {
+      "id": "MX07072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.225",
+      "lon": "-92.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07073",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rayón",
+      "en": "Rayon",
+      "slug": "rayon-mx07073"
+    },
+    "code": {
+      "id": "MX07073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.185",
+      "lon": "-92.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07074",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Reforma",
+      "en": "Reforma",
+      "slug": "reforma-mx07074"
+    },
+    "code": {
+      "id": "MX07074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.869",
+      "lon": "-93.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07076",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sabanilla",
+      "en": "Sabanilla",
+      "slug": "sabanilla-mx07076"
+    },
+    "code": {
+      "id": "MX07076",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.325",
+      "lon": "-92.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07077",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salto de Agua",
+      "en": "Salto de Agua",
+      "slug": "salto-de-agua-mx07077"
+    },
+    "code": {
+      "id": "MX07077",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.435",
+      "lon": "-92.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07118",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Andrés Duraznal",
+      "en": "San Andres Duraznal",
+      "slug": "san-andres-duraznal-mx07118"
+    },
+    "code": {
+      "id": "MX07118",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.162",
+      "lon": "-92.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07078",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal de las Casas",
+      "en": "San Cristobal de las Casas",
+      "slug": "san-cristobal-de-las-casas-mx07078"
+    },
+    "code": {
+      "id": "MX07078",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.684",
+      "lon": "-92.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07079",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Fernando",
+      "en": "San Fernando",
+      "slug": "san-fernando-mx07079"
+    },
+    "code": {
+      "id": "MX07079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.913",
+      "lon": "-93.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07112",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Cancuc",
+      "en": "San Juan Cancuc",
+      "slug": "san-juan-cancuc-mx07112"
+    },
+    "code": {
+      "id": "MX07112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.931",
+      "lon": "-92.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lucas",
+      "en": "San Lucas",
+      "slug": "san-lucas-mx07110"
+    },
+    "code": {
+      "id": "MX07110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.628",
+      "lon": "-92.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07119",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago el Pinar",
+      "en": "Santiago el Pinar",
+      "slug": "santiago-el-pinar-mx07119"
+    },
+    "code": {
+      "id": "MX07119",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.948",
+      "lon": "-92.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07080",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Siltepec",
+      "en": "Siltepec",
+      "slug": "siltepec-mx07080"
+    },
+    "code": {
+      "id": "MX07080",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.558",
+      "lon": "-92.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07081",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Simojovel",
+      "en": "Simojovel",
+      "slug": "simojovel-mx07081"
+    },
+    "code": {
+      "id": "MX07081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.147",
+      "lon": "-92.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07082",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sitalá",
+      "en": "Sitala",
+      "slug": "sitala-mx07082"
+    },
+    "code": {
+      "id": "MX07082",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.037",
+      "lon": "-92.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07083",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Socoltenango",
+      "en": "Socoltenango",
+      "slug": "socoltenango-mx07083"
+    },
+    "code": {
+      "id": "MX07083",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.101",
+      "lon": "-92.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07084",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Solosuchiapa",
+      "en": "Solosuchiapa",
+      "slug": "solosuchiapa-mx07084"
+    },
+    "code": {
+      "id": "MX07084",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.395",
+      "lon": "-93.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07085",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soyaló",
+      "en": "Soyalo",
+      "slug": "soyalo-mx07085"
+    },
+    "code": {
+      "id": "MX07085",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.926",
+      "lon": "-92.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07086",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Suchiapa",
+      "en": "Suchiapa",
+      "slug": "suchiapa-mx07086"
+    },
+    "code": {
+      "id": "MX07086",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.595",
+      "lon": "-93.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07087",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Suchiate",
+      "en": "Suchiate",
+      "slug": "suchiate-mx07087"
+    },
+    "code": {
+      "id": "MX07087",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.634",
+      "lon": "-92.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07088",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sunuapa",
+      "en": "Sunuapa",
+      "slug": "sunuapa-mx07088"
+    },
+    "code": {
+      "id": "MX07088",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.483",
+      "lon": "-93.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07089",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapachula",
+      "en": "Tapachula",
+      "slug": "tapachula-mx07089"
+    },
+    "code": {
+      "id": "MX07089",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.927",
+      "lon": "-92.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07090",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapalapa",
+      "en": "Tapalapa",
+      "slug": "tapalapa-mx07090"
+    },
+    "code": {
+      "id": "MX07090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.216",
+      "lon": "-93.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07091",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapilula",
+      "en": "Tapilula",
+      "slug": "tapilula-mx07091"
+    },
+    "code": {
+      "id": "MX07091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.25",
+      "lon": "-93.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07092",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecpatán",
+      "en": "Tecpatan",
+      "slug": "tecpatan-mx07092"
+    },
+    "code": {
+      "id": "MX07092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.199",
+      "lon": "-93.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07093",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenejapa",
+      "en": "Tenejapa",
+      "slug": "tenejapa-mx07093"
+    },
+    "code": {
+      "id": "MX07093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.848",
+      "lon": "-92.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07094",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teopisca",
+      "en": "Teopisca",
+      "slug": "teopisca-mx07094"
+    },
+    "code": {
+      "id": "MX07094",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.553",
+      "lon": "-92.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07096",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tila",
+      "en": "Tila",
+      "slug": "tila-mx07096"
+    },
+    "code": {
+      "id": "MX07096",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.37",
+      "lon": "-92.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07097",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tonalá",
+      "en": "Tonala",
+      "slug": "tonala-mx07097"
+    },
+    "code": {
+      "id": "MX07097",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.984",
+      "lon": "-93.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07098",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Totolapa",
+      "en": "Totolapa",
+      "slug": "totolapa-mx07098"
+    },
+    "code": {
+      "id": "MX07098",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.512",
+      "lon": "-92.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07100",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tumbalá",
+      "en": "Tumbala",
+      "slug": "tumbala-mx07100"
+    },
+    "code": {
+      "id": "MX07100",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.31",
+      "lon": "-92.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuxtla Chico",
+      "en": "Tuxtla Chico",
+      "slug": "tuxtla-chico-mx07102"
+    },
+    "code": {
+      "id": "MX07102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.877",
+      "lon": "-92.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuxtla Gutiérrez",
+      "en": "Tuxtla Gutierrez",
+      "slug": "tuxtla-gutierrez-mx07101"
+    },
+    "code": {
+      "id": "MX07101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.745",
+      "lon": "-93.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuzantán",
+      "en": "Tuzantan",
+      "slug": "tuzantan-mx07103"
+    },
+    "code": {
+      "id": "MX07103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.141",
+      "lon": "-92.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tzimol",
+      "en": "Tzimol",
+      "slug": "tzimol-mx07104"
+    },
+    "code": {
+      "id": "MX07104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.109",
+      "lon": "-92.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Unión Juárez",
+      "en": "Union Juarez",
+      "slug": "union-juarez-mx07105"
+    },
+    "code": {
+      "id": "MX07105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.071",
+      "lon": "-92.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venustiano Carranza",
+      "en": "Venustiano Carranza",
+      "slug": "venustiano-carranza-mx07106"
+    },
+    "code": {
+      "id": "MX07106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.309",
+      "lon": "-92.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07071",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Comaltitlán",
+      "en": "Villa Comaltitlan",
+      "slug": "villa-comaltitlan-mx07071"
+    },
+    "code": {
+      "id": "MX07071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.171",
+      "lon": "-92.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Corzo",
+      "en": "Villa Corzo",
+      "slug": "villa-corzo-mx07107"
+    },
+    "code": {
+      "id": "MX07107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.137",
+      "lon": "-93.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villaflores",
+      "en": "Villaflores",
+      "slug": "villaflores-mx07108"
+    },
+    "code": {
+      "id": "MX07108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.376",
+      "lon": "-93.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yajalón",
+      "en": "Yajalon",
+      "slug": "yajalon-mx07109"
+    },
+    "code": {
+      "id": "MX07109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.177",
+      "lon": "-92.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX07111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zinacantán",
+      "en": "Zinacantan",
+      "slug": "zinacantan-mx07111"
+    },
+    "code": {
+      "id": "MX07111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX07",
+        "level": 1,
+        "name": {
+          "local": "Chiapas",
+          "en": "Chiapas",
+          "slug": "chiapas-mx07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.712",
+      "lon": "-92.786"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "MX05003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Allende",
+    "en": "Allende",
+    "slug": "allende-mx05003"
+  },
+  "code": {
+    "id": "MX05003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX05",
+    "level": 1,
+    "name": {
+      "local": "Coahuila de Zaragoza",
+      "en": "Coahuila de Zaragoza",
+      "slug": "coahuila-de-zaragoza-mx05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.286",
+    "lon": "-100.932"
+  },
+  "metadata": {},
+  "source": {}
+}

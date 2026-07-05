@@ -1,0 +1,5627 @@
+[
+  {
+    "id": "MX15001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acambay de Ruíz Castañeda",
+      "en": "Acambay de Ruíz Castañeda",
+      "slug": "acambay-de-ruz-castaeda-mx15001"
+    },
+    "code": {
+      "id": "MX15001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.959",
+      "lon": "-99.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acolman",
+      "en": "Acolman",
+      "slug": "acolman-mx15002"
+    },
+    "code": {
+      "id": "MX15002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.637",
+      "lon": "-98.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aculco",
+      "en": "Aculco",
+      "slug": "aculco-mx15003"
+    },
+    "code": {
+      "id": "MX15003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.136",
+      "lon": "-99.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Almoloya de Alquisiras",
+      "en": "Almoloya de Alquisiras",
+      "slug": "almoloya-de-alquisiras-mx15004"
+    },
+    "code": {
+      "id": "MX15004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.851",
+      "lon": "-99.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Almoloya de Juárez",
+      "en": "Almoloya de Juarez",
+      "slug": "almoloya-de-juarez-mx15005"
+    },
+    "code": {
+      "id": "MX15005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.397",
+      "lon": "-99.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Almoloya del Río",
+      "en": "Almoloya del Rio",
+      "slug": "almoloya-del-rio-mx15006"
+    },
+    "code": {
+      "id": "MX15006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.16",
+      "lon": "-99.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amanalco",
+      "en": "Amanalco",
+      "slug": "amanalco-mx15007"
+    },
+    "code": {
+      "id": "MX15007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.256",
+      "lon": "-99.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amatepec",
+      "en": "Amatepec",
+      "slug": "amatepec-mx15008"
+    },
+    "code": {
+      "id": "MX15008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.699",
+      "lon": "-100.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amecameca",
+      "en": "Amecameca",
+      "slug": "amecameca-mx15009"
+    },
+    "code": {
+      "id": "MX15009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.12",
+      "lon": "-98.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apaxco",
+      "en": "Apaxco",
+      "slug": "apaxco-mx15010"
+    },
+    "code": {
+      "id": "MX15010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.981",
+      "lon": "-99.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atenco",
+      "en": "Atenco",
+      "slug": "atenco-mx15011"
+    },
+    "code": {
+      "id": "MX15011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.543",
+      "lon": "-98.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atizapán",
+      "en": "Atizapan",
+      "slug": "atizapan-mx15012"
+    },
+    "code": {
+      "id": "MX15012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.175",
+      "lon": "-99.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atizapán de Zaragoza",
+      "en": "Atizapan de Zaragoza",
+      "slug": "atizapan-de-zaragoza-mx15013"
+    },
+    "code": {
+      "id": "MX15013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.564",
+      "lon": "-99.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atlacomulco",
+      "en": "Atlacomulco",
+      "slug": "atlacomulco-mx15014"
+    },
+    "code": {
+      "id": "MX15014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.816",
+      "lon": "-99.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atlautla",
+      "en": "Atlautla",
+      "slug": "atlautla-mx15015"
+    },
+    "code": {
+      "id": "MX15015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.016",
+      "lon": "-98.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Axapusco",
+      "en": "Axapusco",
+      "slug": "axapusco-mx15016"
+    },
+    "code": {
+      "id": "MX15016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.766",
+      "lon": "-98.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayapango",
+      "en": "Ayapango",
+      "slug": "ayapango-mx15017"
+    },
+    "code": {
+      "id": "MX15017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.121",
+      "lon": "-98.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calimaya",
+      "en": "Calimaya",
+      "slug": "calimaya-mx15018"
+    },
+    "code": {
+      "id": "MX15018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.169",
+      "lon": "-99.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capulhuac",
+      "en": "Capulhuac",
+      "slug": "capulhuac-mx15019"
+    },
+    "code": {
+      "id": "MX15019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.211",
+      "lon": "-99.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chalco",
+      "en": "Chalco",
+      "slug": "chalco-mx15025"
+    },
+    "code": {
+      "id": "MX15025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.238",
+      "lon": "-98.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapa de Mota",
+      "en": "Chapa de Mota",
+      "slug": "chapa-de-mota-mx15026"
+    },
+    "code": {
+      "id": "MX15026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.819",
+      "lon": "-99.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapultepec",
+      "en": "Chapultepec",
+      "slug": "chapultepec-mx15027"
+    },
+    "code": {
+      "id": "MX15027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.204",
+      "lon": "-99.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiautla",
+      "en": "Chiautla",
+      "slug": "chiautla-mx15028"
+    },
+    "code": {
+      "id": "MX15028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.572",
+      "lon": "-98.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chicoloapan",
+      "en": "Chicoloapan",
+      "slug": "chicoloapan-mx15029"
+    },
+    "code": {
+      "id": "MX15029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.395",
+      "lon": "-98.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiconcuac",
+      "en": "Chiconcuac",
+      "slug": "chiconcuac-mx15030"
+    },
+    "code": {
+      "id": "MX15030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.553",
+      "lon": "-98.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chimalhuacán",
+      "en": "Chimalhuacan",
+      "slug": "chimalhuacan-mx15031"
+    },
+    "code": {
+      "id": "MX15031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.418",
+      "lon": "-98.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coacalco de Berriozábal",
+      "en": "Coacalco de Berriozabal",
+      "slug": "coacalco-de-berriozabal-mx15020"
+    },
+    "code": {
+      "id": "MX15020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.626",
+      "lon": "-99.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coatepec Harinas",
+      "en": "Coatepec Harinas",
+      "slug": "coatepec-harinas-mx15021"
+    },
+    "code": {
+      "id": "MX15021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.94",
+      "lon": "-99.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cocotitlán",
+      "en": "Cocotitlan",
+      "slug": "cocotitlan-mx15022"
+    },
+    "code": {
+      "id": "MX15022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.228",
+      "lon": "-98.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coyotepec",
+      "en": "Coyotepec",
+      "slug": "coyotepec-mx15023"
+    },
+    "code": {
+      "id": "MX15023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.786",
+      "lon": "-99.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuautitlán",
+      "en": "Cuautitlan",
+      "slug": "cuautitlan-mx15024"
+    },
+    "code": {
+      "id": "MX15024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.706",
+      "lon": "-99.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15121",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuautitlán Izcalli",
+      "en": "Cuautitlan Izcalli",
+      "slug": "cuautitlan-izcalli-mx15121"
+    },
+    "code": {
+      "id": "MX15121",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.658",
+      "lon": "-99.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Donato Guerra",
+      "en": "Donato Guerra",
+      "slug": "donato-guerra-mx15032"
+    },
+    "code": {
+      "id": "MX15032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.319",
+      "lon": "-100.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ecatepec de Morelos",
+      "en": "Ecatepec de Morelos",
+      "slug": "ecatepec-de-morelos-mx15033"
+    },
+    "code": {
+      "id": "MX15033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.572",
+      "lon": "-99.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ecatzingo",
+      "en": "Ecatzingo",
+      "slug": "ecatzingo-mx15034"
+    },
+    "code": {
+      "id": "MX15034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.968",
+      "lon": "-98.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Oro",
+      "en": "El Oro",
+      "slug": "el-oro-mx15064"
+    },
+    "code": {
+      "id": "MX15064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.796",
+      "lon": "-100.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huehuetoca",
+      "en": "Huehuetoca",
+      "slug": "huehuetoca-mx15035"
+    },
+    "code": {
+      "id": "MX15035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.822",
+      "lon": "-99.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hueypoxtla",
+      "en": "Hueypoxtla",
+      "slug": "hueypoxtla-mx15036"
+    },
+    "code": {
+      "id": "MX15036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.951",
+      "lon": "-99.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huixquilucan",
+      "en": "Huixquilucan",
+      "slug": "huixquilucan-mx15037"
+    },
+    "code": {
+      "id": "MX15037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.371",
+      "lon": "-99.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Isidro Fabela",
+      "en": "Isidro Fabela",
+      "slug": "isidro-fabela-mx15038"
+    },
+    "code": {
+      "id": "MX15038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.552",
+      "lon": "-99.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtapaluca",
+      "en": "Ixtapaluca",
+      "slug": "ixtapaluca-mx15039"
+    },
+    "code": {
+      "id": "MX15039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.329",
+      "lon": "-98.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtapan de la Sal",
+      "en": "Ixtapan de la Sal",
+      "slug": "ixtapan-de-la-sal-mx15040"
+    },
+    "code": {
+      "id": "MX15040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.841",
+      "lon": "-99.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtapan del Oro",
+      "en": "Ixtapan del Oro",
+      "slug": "ixtapan-del-oro-mx15041"
+    },
+    "code": {
+      "id": "MX15041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.262",
+      "lon": "-100.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtlahuaca",
+      "en": "Ixtlahuaca",
+      "slug": "ixtlahuaca-mx15042"
+    },
+    "code": {
+      "id": "MX15042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.601",
+      "lon": "-99.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaltenco",
+      "en": "Jaltenco",
+      "slug": "jaltenco-mx15044"
+    },
+    "code": {
+      "id": "MX15044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.754",
+      "lon": "-99.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jilotepec",
+      "en": "Jilotepec",
+      "slug": "jilotepec-mx15045"
+    },
+    "code": {
+      "id": "MX15045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.017",
+      "lon": "-99.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jilotzingo",
+      "en": "Jilotzingo",
+      "slug": "jilotzingo-mx15046"
+    },
+    "code": {
+      "id": "MX15046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.498",
+      "lon": "-99.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiquipilco",
+      "en": "Jiquipilco",
+      "slug": "jiquipilco-mx15047"
+    },
+    "code": {
+      "id": "MX15047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.592",
+      "lon": "-99.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jocotitlán",
+      "en": "Jocotitlan",
+      "slug": "jocotitlan-mx15048"
+    },
+    "code": {
+      "id": "MX15048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.716",
+      "lon": "-99.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joquicingo",
+      "en": "Joquicingo",
+      "slug": "joquicingo-mx15049"
+    },
+    "code": {
+      "id": "MX15049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.069",
+      "lon": "-99.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juchitepec",
+      "en": "Juchitepec",
+      "slug": "juchitepec-mx15050"
+    },
+    "code": {
+      "id": "MX15050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.099",
+      "lon": "-98.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15070",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-mx15070"
+    },
+    "code": {
+      "id": "MX15070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.364",
+      "lon": "-98.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lerma",
+      "en": "Lerma",
+      "slug": "lerma-mx15051"
+    },
+    "code": {
+      "id": "MX15051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.326",
+      "lon": "-99.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15123",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luvianos",
+      "en": "Luvianos",
+      "slug": "luvianos-mx15123"
+    },
+    "code": {
+      "id": "MX15123",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.947",
+      "lon": "-100.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malinalco",
+      "en": "Malinalco",
+      "slug": "malinalco-mx15052"
+    },
+    "code": {
+      "id": "MX15052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.894",
+      "lon": "-99.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Melchor Ocampo",
+      "en": "Melchor Ocampo",
+      "slug": "melchor-ocampo-mx15053"
+    },
+    "code": {
+      "id": "MX15053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.708",
+      "lon": "-99.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Metepec",
+      "en": "Metepec",
+      "slug": "metepec-mx15054"
+    },
+    "code": {
+      "id": "MX15054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.251",
+      "lon": "-99.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mexicaltzingo",
+      "en": "Mexicaltzingo",
+      "slug": "mexicaltzingo-mx15055"
+    },
+    "code": {
+      "id": "MX15055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.21",
+      "lon": "-99.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx15056"
+    },
+    "code": {
+      "id": "MX15056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.757",
+      "lon": "-99.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Naucalpan de Juárez",
+      "en": "Naucalpan de Juarez",
+      "slug": "naucalpan-de-juarez-mx15057"
+    },
+    "code": {
+      "id": "MX15057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.474",
+      "lon": "-99.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nextlalpan",
+      "en": "Nextlalpan",
+      "slug": "nextlalpan-mx15059"
+    },
+    "code": {
+      "id": "MX15059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.726",
+      "lon": "-99.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nezahualcóyotl",
+      "en": "Nezahualcoyotl",
+      "slug": "nezahualcoyotl-mx15058"
+    },
+    "code": {
+      "id": "MX15058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.433",
+      "lon": "-99.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nicolás Romero",
+      "en": "Nicolas Romero",
+      "slug": "nicolas-romero-mx15060"
+    },
+    "code": {
+      "id": "MX15060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.634",
+      "lon": "-99.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nopaltepec",
+      "en": "Nopaltepec",
+      "slug": "nopaltepec-mx15061"
+    },
+    "code": {
+      "id": "MX15061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.801",
+      "lon": "-98.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocoyoacac",
+      "en": "Ocoyoacac",
+      "slug": "ocoyoacac-mx15062"
+    },
+    "code": {
+      "id": "MX15062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.259",
+      "lon": "-99.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocuilan",
+      "en": "Ocuilan",
+      "slug": "ocuilan-mx15063"
+    },
+    "code": {
+      "id": "MX15063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.001",
+      "lon": "-99.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Otumba",
+      "en": "Otumba",
+      "slug": "otumba-mx15065"
+    },
+    "code": {
+      "id": "MX15065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.657",
+      "lon": "-98.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Otzoloapan",
+      "en": "Otzoloapan",
+      "slug": "otzoloapan-mx15066"
+    },
+    "code": {
+      "id": "MX15066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.099",
+      "lon": "-100.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Otzolotepec",
+      "en": "Otzolotepec",
+      "slug": "otzolotepec-mx15067"
+    },
+    "code": {
+      "id": "MX15067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.444",
+      "lon": "-99.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15068",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ozumba",
+      "en": "Ozumba",
+      "slug": "ozumba-mx15068"
+    },
+    "code": {
+      "id": "MX15068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.016",
+      "lon": "-98.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15069",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Papalotla",
+      "en": "Papalotla",
+      "slug": "papalotla-mx15069"
+    },
+    "code": {
+      "id": "MX15069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.559",
+      "lon": "-98.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15071",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Polotitlán",
+      "en": "Polotitlan",
+      "slug": "polotitlan-mx15071"
+    },
+    "code": {
+      "id": "MX15071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.212",
+      "lon": "-99.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15072",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rayón",
+      "en": "Rayon",
+      "slug": "rayon-mx15072"
+    },
+    "code": {
+      "id": "MX15072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.139",
+      "lon": "-99.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15073",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio la Isla",
+      "en": "San Antonio la Isla",
+      "slug": "san-antonio-la-isla-mx15073"
+    },
+    "code": {
+      "id": "MX15073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.169",
+      "lon": "-99.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15074",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Felipe del Progreso",
+      "en": "San Felipe del Progreso",
+      "slug": "san-felipe-del-progreso-mx15074"
+    },
+    "code": {
+      "id": "MX15074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.649",
+      "lon": "-99.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15124",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José del Rincón",
+      "en": "San Jose del Rincon",
+      "slug": "san-jose-del-rincon-mx15124"
+    },
+    "code": {
+      "id": "MX15124",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.636",
+      "lon": "-100.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15075",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Martín de las Pirámides",
+      "en": "San Martin de las Piramides",
+      "slug": "san-martin-de-las-piramides-mx15075"
+    },
+    "code": {
+      "id": "MX15075",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.716",
+      "lon": "-98.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15076",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Mateo Atenco",
+      "en": "San Mateo Atenco",
+      "slug": "san-mateo-atenco-mx15076"
+    },
+    "code": {
+      "id": "MX15076",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.262",
+      "lon": "-99.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15077",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Simón de Guerrero",
+      "en": "San Simon de Guerrero",
+      "slug": "san-simon-de-guerrero-mx15077"
+    },
+    "code": {
+      "id": "MX15077",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.972",
+      "lon": "-100.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15078",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Tomás",
+      "en": "Santo Tomas",
+      "slug": "santo-tomas-mx15078"
+    },
+    "code": {
+      "id": "MX15078",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.184",
+      "lon": "-100.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15079",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soyaniquilpan de Juárez",
+      "en": "Soyaniquilpan de Juarez",
+      "slug": "soyaniquilpan-de-juarez-mx15079"
+    },
+    "code": {
+      "id": "MX15079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.052",
+      "lon": "-99.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15080",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sultepec",
+      "en": "Sultepec",
+      "slug": "sultepec-mx15080"
+    },
+    "code": {
+      "id": "MX15080",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.721",
+      "lon": "-99.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15081",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecámac",
+      "en": "Tecamac",
+      "slug": "tecamac-mx15081"
+    },
+    "code": {
+      "id": "MX15081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.712",
+      "lon": "-98.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15082",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tejupilco",
+      "en": "Tejupilco",
+      "slug": "tejupilco-mx15082"
+    },
+    "code": {
+      "id": "MX15082",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.891",
+      "lon": "-100.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15083",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temamatla",
+      "en": "Temamatla",
+      "slug": "temamatla-mx15083"
+    },
+    "code": {
+      "id": "MX15083",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.192",
+      "lon": "-98.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15084",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temascalapa",
+      "en": "Temascalapa",
+      "slug": "temascalapa-mx15084"
+    },
+    "code": {
+      "id": "MX15084",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.816",
+      "lon": "-98.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15085",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temascalcingo",
+      "en": "Temascalcingo",
+      "slug": "temascalcingo-mx15085"
+    },
+    "code": {
+      "id": "MX15085",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.931",
+      "lon": "-100.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15086",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temascaltepec",
+      "en": "Temascaltepec",
+      "slug": "temascaltepec-mx15086"
+    },
+    "code": {
+      "id": "MX15086",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.108",
+      "lon": "-99.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15087",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temoaya",
+      "en": "Temoaya",
+      "slug": "temoaya-mx15087"
+    },
+    "code": {
+      "id": "MX15087",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.489",
+      "lon": "-99.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15088",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenancingo",
+      "en": "Tenancingo",
+      "slug": "tenancingo-mx15088"
+    },
+    "code": {
+      "id": "MX15088",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.965",
+      "lon": "-99.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15089",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenango del Aire",
+      "en": "Tenango del Aire",
+      "slug": "tenango-del-aire-mx15089"
+    },
+    "code": {
+      "id": "MX15089",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.149",
+      "lon": "-98.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15090",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenango del Valle",
+      "en": "Tenango del Valle",
+      "slug": "tenango-del-valle-mx15090"
+    },
+    "code": {
+      "id": "MX15090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.076",
+      "lon": "-99.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15091",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teoloyucan",
+      "en": "Teoloyucan",
+      "slug": "teoloyucan-mx15091"
+    },
+    "code": {
+      "id": "MX15091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.758",
+      "lon": "-99.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15092",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teotihuacán",
+      "en": "Teotihuacan",
+      "slug": "teotihuacan-mx15092"
+    },
+    "code": {
+      "id": "MX15092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.693",
+      "lon": "-98.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15093",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepetlaoxtoc",
+      "en": "Tepetlaoxtoc",
+      "slug": "tepetlaoxtoc-mx15093"
+    },
+    "code": {
+      "id": "MX15093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.549",
+      "lon": "-98.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15094",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepetlixpa",
+      "en": "Tepetlixpa",
+      "slug": "tepetlixpa-mx15094"
+    },
+    "code": {
+      "id": "MX15094",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.014",
+      "lon": "-98.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15095",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepotzotlán",
+      "en": "Tepotzotlan",
+      "slug": "tepotzotlan-mx15095"
+    },
+    "code": {
+      "id": "MX15095",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.719",
+      "lon": "-99.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15096",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tequixquiac",
+      "en": "Tequixquiac",
+      "slug": "tequixquiac-mx15096"
+    },
+    "code": {
+      "id": "MX15096",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.894",
+      "lon": "-99.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15097",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Texcaltitlán",
+      "en": "Texcaltitlan",
+      "slug": "texcaltitlan-mx15097"
+    },
+    "code": {
+      "id": "MX15097",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.941",
+      "lon": "-99.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15098",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Texcalyacac",
+      "en": "Texcalyacac",
+      "slug": "texcalyacac-mx15098"
+    },
+    "code": {
+      "id": "MX15098",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.123",
+      "lon": "-99.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15099",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Texcoco",
+      "en": "Texcoco",
+      "slug": "texcoco-mx15099"
+    },
+    "code": {
+      "id": "MX15099",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.476",
+      "lon": "-98.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15100",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tezoyuca",
+      "en": "Tezoyuca",
+      "slug": "tezoyuca-mx15100"
+    },
+    "code": {
+      "id": "MX15100",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.594",
+      "lon": "-98.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tianguistenco",
+      "en": "Tianguistenco",
+      "slug": "tianguistenco-mx15101"
+    },
+    "code": {
+      "id": "MX15101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.162",
+      "lon": "-99.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Timilpan",
+      "en": "Timilpan",
+      "slug": "timilpan-mx15102"
+    },
+    "code": {
+      "id": "MX15102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.922",
+      "lon": "-99.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlalmanalco",
+      "en": "Tlalmanalco",
+      "slug": "tlalmanalco-mx15103"
+    },
+    "code": {
+      "id": "MX15103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.207",
+      "lon": "-98.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlalnepantla de Baz",
+      "en": "Tlalnepantla de Baz",
+      "slug": "tlalnepantla-de-baz-mx15104"
+    },
+    "code": {
+      "id": "MX15104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.546",
+      "lon": "-99.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlatlaya",
+      "en": "Tlatlaya",
+      "slug": "tlatlaya-mx15105"
+    },
+    "code": {
+      "id": "MX15105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.522",
+      "lon": "-100.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Toluca",
+      "en": "Toluca",
+      "slug": "toluca-mx15106"
+    },
+    "code": {
+      "id": "MX15106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.284",
+      "lon": "-99.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15125",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tonanitla",
+      "en": "Tonanitla",
+      "slug": "tonanitla-mx15125"
+    },
+    "code": {
+      "id": "MX15125",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.68",
+      "lon": "-99.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tonatico",
+      "en": "Tonatico",
+      "slug": "tonatico-mx15107"
+    },
+    "code": {
+      "id": "MX15107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.777",
+      "lon": "-99.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tultepec",
+      "en": "Tultepec",
+      "slug": "tultepec-mx15108"
+    },
+    "code": {
+      "id": "MX15108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.678",
+      "lon": "-99.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tultitlán",
+      "en": "Tultitlan",
+      "slug": "tultitlan-mx15109"
+    },
+    "code": {
+      "id": "MX15109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.617",
+      "lon": "-99.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valle de Bravo",
+      "en": "Valle de Bravo",
+      "slug": "valle-de-bravo-mx15110"
+    },
+    "code": {
+      "id": "MX15110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.185",
+      "lon": "-100.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15122",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valle de Chalco Solidaridad",
+      "en": "Valle de Chalco Solidaridad",
+      "slug": "valle-de-chalco-solidaridad-mx15122"
+    },
+    "code": {
+      "id": "MX15122",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.283",
+      "lon": "-98.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Allende",
+      "en": "Villa de Allende",
+      "slug": "villa-de-allende-mx15111"
+    },
+    "code": {
+      "id": "MX15111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.395",
+      "lon": "-100.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15112",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa del Carbón",
+      "en": "Villa del Carbon",
+      "slug": "villa-del-carbon-mx15112"
+    },
+    "code": {
+      "id": "MX15112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.744",
+      "lon": "-99.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15113",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Guerrero",
+      "en": "Villa Guerrero",
+      "slug": "villa-guerrero-mx15113"
+    },
+    "code": {
+      "id": "MX15113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.941",
+      "lon": "-99.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15114",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Victoria",
+      "en": "Villa Victoria",
+      "slug": "villa-victoria-mx15114"
+    },
+    "code": {
+      "id": "MX15114",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.432",
+      "lon": "-99.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xalatlaco",
+      "en": "Xalatlaco",
+      "slug": "xalatlaco-mx15043"
+    },
+    "code": {
+      "id": "MX15043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.166",
+      "lon": "-99.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15115",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xonacatlán",
+      "en": "Xonacatlan",
+      "slug": "xonacatlan-mx15115"
+    },
+    "code": {
+      "id": "MX15115",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.442",
+      "lon": "-99.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15116",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacazonapan",
+      "en": "Zacazonapan",
+      "slug": "zacazonapan-mx15116"
+    },
+    "code": {
+      "id": "MX15116",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.063",
+      "lon": "-100.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15117",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacualpan",
+      "en": "Zacualpan",
+      "slug": "zacualpan-mx15117"
+    },
+    "code": {
+      "id": "MX15117",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.714",
+      "lon": "-99.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15118",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zinacantepec",
+      "en": "Zinacantepec",
+      "slug": "zinacantepec-mx15118"
+    },
+    "code": {
+      "id": "MX15118",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.204",
+      "lon": "-99.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15119",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zumpahuacán",
+      "en": "Zumpahuacan",
+      "slug": "zumpahuacan-mx15119"
+    },
+    "code": {
+      "id": "MX15119",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.809",
+      "lon": "-99.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX15120",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zumpango",
+      "en": "Zumpango",
+      "slug": "zumpango-mx15120"
+    },
+    "code": {
+      "id": "MX15120",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX15",
+        "level": 1,
+        "name": {
+          "local": "México",
+          "en": "Mexico",
+          "slug": "mexico-mx15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.813",
+      "lon": "-99.082"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

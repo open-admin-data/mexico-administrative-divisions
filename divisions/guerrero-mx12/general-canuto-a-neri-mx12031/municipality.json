@@ -1,0 +1,45 @@
+{
+  "id": "MX12031",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "General Canuto A. Neri",
+    "en": "General Canuto A. Neri",
+    "slug": "general-canuto-a-neri-mx12031"
+  },
+  "code": {
+    "id": "MX12031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.444",
+    "lon": "-100.12"
+  },
+  "metadata": {},
+  "source": {}
+}

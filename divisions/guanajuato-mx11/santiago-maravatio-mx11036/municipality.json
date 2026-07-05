@@ -1,0 +1,45 @@
+{
+  "id": "MX11036",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Maravatío",
+    "en": "Santiago Maravatio",
+    "slug": "santiago-maravatio-mx11036"
+  },
+  "code": {
+    "id": "MX11036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.157",
+    "lon": "-100.976"
+  },
+  "metadata": {},
+  "source": {}
+}

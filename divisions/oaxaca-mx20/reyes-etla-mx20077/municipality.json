@@ -1,0 +1,45 @@
+{
+  "id": "MX20077",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Reyes Etla",
+    "en": "Reyes Etla",
+    "slug": "reyes-etla-mx20077"
+  },
+  "code": {
+    "id": "MX20077",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.21",
+    "lon": "-96.824"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20349",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián Teitipac",
+    "en": "San Sebastian Teitipac",
+    "slug": "san-sebastian-teitipac-mx20349"
+  },
+  "code": {
+    "id": "MX20349",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.948",
+    "lon": "-96.631"
+  },
+  "metadata": {},
+  "source": {}
+}

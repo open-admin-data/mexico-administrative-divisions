@@ -1,0 +1,45 @@
+{
+  "id": "MX15112",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa del Carbón",
+    "en": "Villa del Carbon",
+    "slug": "villa-del-carbon-mx15112"
+  },
+  "code": {
+    "id": "MX15112",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.744",
+    "lon": "-99.452"
+  },
+  "metadata": {},
+  "source": {}
+}

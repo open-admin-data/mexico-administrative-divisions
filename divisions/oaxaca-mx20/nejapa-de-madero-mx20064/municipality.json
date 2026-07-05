@@ -1,0 +1,45 @@
+{
+  "id": "MX20064",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nejapa de Madero",
+    "en": "Nejapa de Madero",
+    "slug": "nejapa-de-madero-mx20064"
+  },
+  "code": {
+    "id": "MX20064",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.563",
+    "lon": "-95.993"
+  },
+  "metadata": {},
+  "source": {}
+}

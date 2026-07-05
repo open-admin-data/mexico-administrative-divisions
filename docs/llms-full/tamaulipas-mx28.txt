@@ -1,0 +1,224 @@
+# Tamaulipas — Mexico Administrative Divisions
+
+> 43 municipalitys
+> Code: MX28
+> Coordinates: 24.944, -98.402
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abasolo
+
+Code: MX28001, Coordinates: 24.128, -98.227
+
+
+### Aldama
+
+Code: MX28002, Coordinates: 22.965, -98.049
+
+
+### Altamira
+
+Code: MX28003, Coordinates: 22.563, -98.117
+
+
+### Antiguo Morelos
+
+Code: MX28004, Coordinates: 22.566, -99.087
+
+
+### Burgos
+
+Code: MX28005, Coordinates: 24.926, -98.858
+
+
+### Bustamante
+
+Code: MX28006, Coordinates: 23.325, -99.885
+
+
+### Camargo
+
+Code: MX28007, Coordinates: 26.181, -98.863
+
+
+### Casas
+
+Code: MX28008, Coordinates: 23.543, -98.668
+
+
+### Ciudad Madero
+
+Code: MX28009, Coordinates: 22.279, -97.825
+
+
+### Cruillas
+
+Code: MX28010, Coordinates: 24.653, -98.494
+
+
+### El Mante
+
+Code: MX28021, Coordinates: 22.608, -98.935
+
+
+### Gómez Farías (Gomez Farias)
+
+Code: MX28011, Coordinates: 22.992, -99.173
+
+
+### González (Gonzalez)
+
+Code: MX28012, Coordinates: 22.79, -98.576
+
+
+### Güémez (Guemez)
+
+Code: MX28013, Coordinates: 23.886, -99.001
+
+
+### Guerrero
+
+Code: MX28014, Coordinates: 26.921, -99.534
+
+
+### Gustavo Díaz Ordaz (Gustavo Diaz Ordaz)
+
+Code: MX28015, Coordinates: 26.138, -98.642
+
+
+### Hidalgo
+
+Code: MX28016, Coordinates: 24.164, -99.388
+
+
+### Jaumave
+
+Code: MX28017, Coordinates: 23.472, -99.426
+
+
+### Jiménez (Jimenez)
+
+Code: MX28018, Coordinates: 24.212, -98.514
+
+
+### Llera
+
+Code: MX28019, Coordinates: 23.298, -98.95
+
+
+### Mainero
+
+Code: MX28020, Coordinates: 24.6, -99.558
+
+
+### Matamoros
+
+Code: MX28022, Coordinates: 25.654, -97.512
+
+
+### Méndez (Mendez)
+
+Code: MX28023, Coordinates: 25.207, -98.487
+
+
+### Mier
+
+Code: MX28024, Coordinates: 26.417, -99.259
+
+
+### Miguel Alemán (Miguel Aleman)
+
+Code: MX28025, Coordinates: 26.23, -99.082
+
+
+### Miquihuana
+
+Code: MX28026, Coordinates: 23.586, -99.793
+
+
+### Nuevo Laredo
+
+Code: MX28027, Coordinates: 27.475, -99.677
+
+
+### Nuevo Morelos
+
+Code: MX28028, Coordinates: 22.515, -99.204
+
+
+### Ocampo
+
+Code: MX28029, Coordinates: 22.844, -99.33
+
+
+### Padilla
+
+Code: MX28030, Coordinates: 23.979, -98.811
+
+
+### Palmillas
+
+Code: MX28031, Coordinates: 23.263, -99.586
+
+
+### Reynosa
+
+Code: MX28032, Coordinates: 25.837, -98.371
+
+
+### Río Bravo (Rio Bravo)
+
+Code: MX28033, Coordinates: 25.727, -98.054
+
+
+### San Carlos
+
+Code: MX28034, Coordinates: 24.498, -99.008
+
+
+### San Fernando
+
+Code: MX28035, Coordinates: 24.872, -98.054
+
+
+### San Nicolás (San Nicolas)
+
+Code: MX28036, Coordinates: 24.624, -98.774
+
+
+### Soto la Marina
+
+Code: MX28037, Coordinates: 23.862, -98.075
+
+
+### Tampico
+
+Code: MX28038, Coordinates: 22.271, -97.895
+
+
+### Tula
+
+Code: MX28039, Coordinates: 22.948, -99.806
+
+
+### Valle Hermoso
+
+Code: MX28040, Coordinates: 25.782, -97.835
+
+
+### Victoria
+
+Code: MX28041, Coordinates: 23.689, -99.129
+
+
+### Villagrán (Villagran)
+
+Code: MX28042, Coordinates: 24.588, -99.311
+
+
+### Xicoténcatl (Xicotencatl)
+
+Code: MX28043, Coordinates: 22.986, -98.884
+
+

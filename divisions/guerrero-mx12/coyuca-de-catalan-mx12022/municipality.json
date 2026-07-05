@@ -1,0 +1,45 @@
+{
+  "id": "MX12022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coyuca de Catalán",
+    "en": "Coyuca de Catalan",
+    "slug": "coyuca-de-catalan-mx12022"
+  },
+  "code": {
+    "id": "MX12022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.091",
+    "lon": "-101.034"
+  },
+  "metadata": {},
+  "source": {}
+}

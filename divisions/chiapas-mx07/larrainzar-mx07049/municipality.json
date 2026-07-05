@@ -1,0 +1,45 @@
+{
+  "id": "MX07049",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Larráinzar",
+    "en": "Larrainzar",
+    "slug": "larrainzar-mx07049"
+  },
+  "code": {
+    "id": "MX07049",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.928",
+    "lon": "-92.787"
+  },
+  "metadata": {},
+  "source": {}
+}

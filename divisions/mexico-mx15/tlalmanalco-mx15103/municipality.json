@@ -1,0 +1,45 @@
+{
+  "id": "MX15103",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlalmanalco",
+    "en": "Tlalmanalco",
+    "slug": "tlalmanalco-mx15103"
+  },
+  "code": {
+    "id": "MX15103",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.207",
+    "lon": "-98.732"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20555",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Trinidad Zaachila",
+    "en": "Trinidad Zaachila",
+    "slug": "trinidad-zaachila-mx20555"
+  },
+  "code": {
+    "id": "MX20555",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.924",
+    "lon": "-96.79"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,59 @@
+# Colima — Mexico Administrative Divisions
+
+> 10 municipalitys
+> Code: MX06
+> Coordinates: 19.099, -103.922
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Armería (Armeria)
+
+Code: MX06001, Coordinates: 19.009, -103.981
+
+
+### Colima
+
+Code: MX06002, Coordinates: 19.099, -103.654
+
+
+### Comala
+
+Code: MX06003, Coordinates: 19.395, -103.784
+
+
+### Coquimatlán (Coquimatlan)
+
+Code: MX06004, Coordinates: 19.176, -103.924
+
+
+### Cuauhtémoc (Cuauhtemoc)
+
+Code: MX06005, Coordinates: 19.339, -103.582
+
+
+### Ixtlahuacán (Ixtlahuacan)
+
+Code: MX06006, Coordinates: 18.958, -103.686
+
+
+### Manzanillo
+
+Code: MX06007, Coordinates: 19.128, -104.285
+
+
+### Minatitlán (Minatitlan)
+
+Code: MX06008, Coordinates: 19.373, -104.001
+
+
+### Tecomán (Tecoman)
+
+Code: MX06009, Coordinates: 18.903, -103.845
+
+
+### Villa de Álvarez (Villa de Alvarez)
+
+Code: MX06010, Coordinates: 19.327, -103.926
+
+

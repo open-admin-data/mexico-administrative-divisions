@@ -1,0 +1,45 @@
+{
+  "id": "MX07003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acapetahua",
+    "en": "Acapetahua",
+    "slug": "acapetahua-mx07003"
+  },
+  "code": {
+    "id": "MX07003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.222",
+    "lon": "-92.767"
+  },
+  "metadata": {},
+  "source": {}
+}

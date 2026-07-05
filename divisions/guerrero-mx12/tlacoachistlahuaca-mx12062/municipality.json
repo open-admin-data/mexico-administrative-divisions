@@ -1,0 +1,45 @@
+{
+  "id": "MX12062",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlacoachistlahuaca",
+    "en": "Tlacoachistlahuaca",
+    "slug": "tlacoachistlahuaca-mx12062"
+  },
+  "code": {
+    "id": "MX12062",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.975",
+    "lon": "-98.271"
+  },
+  "metadata": {},
+  "source": {}
+}

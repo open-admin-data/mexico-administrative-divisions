@@ -1,0 +1,45 @@
+{
+  "id": "MX08034",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ignacio Zaragoza",
+    "en": "Ignacio Zaragoza",
+    "slug": "ignacio-zaragoza-mx08034"
+  },
+  "code": {
+    "id": "MX08034",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.733",
+    "lon": "-107.731"
+  },
+  "metadata": {},
+  "source": {}
+}

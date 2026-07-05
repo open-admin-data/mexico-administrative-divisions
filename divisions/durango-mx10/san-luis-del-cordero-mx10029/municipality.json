@@ -1,0 +1,45 @@
+{
+  "id": "MX10029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Luis del Cordero",
+    "en": "San Luis del Cordero",
+    "slug": "san-luis-del-cordero-mx10029"
+  },
+  "code": {
+    "id": "MX10029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.391",
+    "lon": "-104.335"
+  },
+  "metadata": {},
+  "source": {}
+}

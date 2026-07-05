@@ -1,0 +1,45 @@
+{
+  "id": "MX07098",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Totolapa",
+    "en": "Totolapa",
+    "slug": "totolapa-mx07098"
+  },
+  "code": {
+    "id": "MX07098",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.512",
+    "lon": "-92.666"
+  },
+  "metadata": {},
+  "source": {}
+}

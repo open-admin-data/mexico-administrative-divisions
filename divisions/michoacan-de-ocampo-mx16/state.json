@@ -1,0 +1,33 @@
+{
+  "id": "MX16",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Michoacán de Ocampo",
+    "en": "Michoacan de Ocampo",
+    "slug": "michoacan-de-ocampo-mx16"
+  },
+  "code": {
+    "id": "MX16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 113
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.156",
+    "lon": "-101.668"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/michoacan-de-ocampo-mx16/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

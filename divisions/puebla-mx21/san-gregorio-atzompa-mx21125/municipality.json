@@ -1,0 +1,45 @@
+{
+  "id": "MX21125",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Gregorio Atzompa",
+    "en": "San Gregorio Atzompa",
+    "slug": "san-gregorio-atzompa-mx21125"
+  },
+  "code": {
+    "id": "MX21125",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.013",
+    "lon": "-98.342"
+  },
+  "metadata": {},
+  "source": {}
+}

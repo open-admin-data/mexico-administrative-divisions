@@ -1,0 +1,45 @@
+{
+  "id": "MX20186",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Cieneguilla",
+    "en": "San Juan Cieneguilla",
+    "slug": "san-juan-cieneguilla-mx20186"
+  },
+  "code": {
+    "id": "MX20186",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.875",
+    "lon": "-98.31"
+  },
+  "metadata": {},
+  "source": {}
+}

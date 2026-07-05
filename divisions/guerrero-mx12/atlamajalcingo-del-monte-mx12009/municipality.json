@@ -1,0 +1,45 @@
+{
+  "id": "MX12009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atlamajalcingo del Monte",
+    "en": "Atlamajalcingo del Monte",
+    "slug": "atlamajalcingo-del-monte-mx12009"
+  },
+  "code": {
+    "id": "MX12009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.261",
+    "lon": "-98.582"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX15059",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nextlalpan",
+    "en": "Nextlalpan",
+    "slug": "nextlalpan-mx15059"
+  },
+  "code": {
+    "id": "MX15059",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.726",
+    "lon": "-99.079"
+  },
+  "metadata": {},
+  "source": {}
+}

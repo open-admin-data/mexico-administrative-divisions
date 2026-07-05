@@ -1,0 +1,33 @@
+{
+  "id": "MX30",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Veracruz de Ignacio de la Llave",
+    "en": "Veracruz de Ignacio de la Llave",
+    "slug": "veracruz-de-ignacio-de-la-llave-mx30"
+  },
+  "code": {
+    "id": "MX30",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 212
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.964",
+    "lon": "-95.179"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/veracruz-de-ignacio-de-la-llave-mx30/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

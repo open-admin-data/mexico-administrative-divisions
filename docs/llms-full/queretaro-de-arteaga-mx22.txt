@@ -1,0 +1,99 @@
+# Queretaro de Arteaga — Mexico Administrative Divisions
+
+> 18 municipalitys
+> Code: MX22
+> Coordinates: 20.843, -100.002
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Amealco de Bonfil
+
+Code: MX22001, Coordinates: 20.187, -100.069
+
+
+### Arroyo Seco
+
+Code: MX22003, Coordinates: 21.432, -99.667
+
+
+### Cadereyta de Montes
+
+Code: MX22004, Coordinates: 20.791, -99.666
+
+
+### Colón (Colon)
+
+Code: MX22005, Coordinates: 20.75, -100.08
+
+
+### Corregidora
+
+Code: MX22006, Coordinates: 20.478, -100.441
+
+
+### El Marqués (El Marques)
+
+Code: MX22011, Coordinates: 20.735, -100.284
+
+
+### Ezequiel Montes
+
+Code: MX22007, Coordinates: 20.653, -99.908
+
+
+### Huimilpan
+
+Code: MX22008, Coordinates: 20.419, -100.333
+
+
+### Jalpan de Serra
+
+Code: MX22009, Coordinates: 21.384, -99.326
+
+
+### Landa de Matamoros
+
+Code: MX22010, Coordinates: 21.282, -99.169
+
+
+### Pedro Escobedo
+
+Code: MX22012, Coordinates: 20.469, -100.172
+
+
+### Peñamiller (Penamiller)
+
+Code: MX22013, Coordinates: 21.091, -99.856
+
+
+### Pinal de Amoles
+
+Code: MX22002, Coordinates: 21.167, -99.623
+
+
+### Querétaro (Queretaro)
+
+Code: MX22014, Coordinates: 20.726, -100.486
+
+
+### San Joaquín (San Joaquin)
+
+Code: MX22015, Coordinates: 20.999, -99.491
+
+
+### San Juan del Río (San Juan del Rio)
+
+Code: MX22016, Coordinates: 20.387, -100.012
+
+
+### Tequisquiapan
+
+Code: MX22017, Coordinates: 20.542, -99.948
+
+
+### Tolimán (Toliman)
+
+Code: MX22018, Coordinates: 20.912, -99.981
+
+

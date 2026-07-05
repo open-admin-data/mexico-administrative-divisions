@@ -1,0 +1,45 @@
+{
+  "id": "MX26057",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro de la Cueva",
+    "en": "San Pedro de la Cueva",
+    "slug": "san-pedro-de-la-cueva-mx26057"
+  },
+  "code": {
+    "id": "MX26057",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.278",
+    "lon": "-109.686"
+  },
+  "metadata": {},
+  "source": {}
+}

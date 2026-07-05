@@ -1,0 +1,45 @@
+{
+  "id": "MX07060",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ocotepec",
+    "en": "Ocotepec",
+    "slug": "ocotepec-mx07060"
+  },
+  "code": {
+    "id": "MX07060",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.226",
+    "lon": "-93.173"
+  },
+  "metadata": {},
+  "source": {}
+}

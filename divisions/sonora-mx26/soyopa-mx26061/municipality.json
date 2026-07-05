@@ -1,0 +1,45 @@
+{
+  "id": "MX26061",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Soyopa",
+    "en": "Soyopa",
+    "slug": "soyopa-mx26061"
+  },
+  "code": {
+    "id": "MX26061",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.812",
+    "lon": "-109.63"
+  },
+  "metadata": {},
+  "source": {}
+}

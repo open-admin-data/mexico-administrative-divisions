@@ -1,0 +1,33 @@
+{
+  "id": "MX05",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Coahuila de Zaragoza",
+    "en": "Coahuila de Zaragoza",
+    "slug": "coahuila-de-zaragoza-mx05"
+  },
+  "code": {
+    "id": "MX05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.207",
+    "lon": "-102.31"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/coahuila-de-zaragoza-mx05/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

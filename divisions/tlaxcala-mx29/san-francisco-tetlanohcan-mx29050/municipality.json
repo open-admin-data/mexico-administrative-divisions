@@ -1,0 +1,45 @@
+{
+  "id": "MX29050",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco Tetlanohcan",
+    "en": "San Francisco Tetlanohcan",
+    "slug": "san-francisco-tetlanohcan-mx29050"
+  },
+  "code": {
+    "id": "MX29050",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.261",
+    "lon": "-98.159"
+  },
+  "metadata": {},
+  "source": {}
+}

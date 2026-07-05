@@ -1,0 +1,45 @@
+{
+  "id": "MX20187",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Coatzóspam",
+    "en": "San Juan Coatzospam",
+    "slug": "san-juan-coatzospam-mx20187"
+  },
+  "code": {
+    "id": "MX20187",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.066",
+    "lon": "-96.709"
+  },
+  "metadata": {},
+  "source": {}
+}

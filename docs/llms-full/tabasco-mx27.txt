@@ -1,0 +1,94 @@
+# Tabasco — Mexico Administrative Divisions
+
+> 17 municipalitys
+> Code: MX27
+> Coordinates: 17.923, -92.464
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Balancán (Balancan)
+
+Code: MX27001, Coordinates: 17.798, -91.346
+
+
+### Cárdenas (Cardenas)
+
+Code: MX27002, Coordinates: 18.164, -93.7
+
+
+### Centla
+
+Code: MX27003, Coordinates: 18.453, -92.507
+
+
+### Centro
+
+Code: MX27004, Coordinates: 18.009, -92.722
+
+
+### Comalcalco
+
+Code: MX27005, Coordinates: 18.29, -93.321
+
+
+### Cunduacán (Cunduacan)
+
+Code: MX27006, Coordinates: 18.104, -93.25
+
+
+### Emiliano Zapata
+
+Code: MX27007, Coordinates: 17.694, -91.639
+
+
+### Huimanguillo
+
+Code: MX27008, Coordinates: 17.762, -93.676
+
+
+### Jalapa
+
+Code: MX27009, Coordinates: 17.771, -92.802
+
+
+### Jalpa de Méndez (Jalpa de Mendez)
+
+Code: MX27010, Coordinates: 18.238, -93.079
+
+
+### Jonuta
+
+Code: MX27011, Coordinates: 18.028, -92.064
+
+
+### Macuspana
+
+Code: MX27012, Coordinates: 17.856, -92.422
+
+
+### Nacajuca
+
+Code: MX27013, Coordinates: 18.161, -92.909
+
+
+### Paraíso (Paraiso)
+
+Code: MX27014, Coordinates: 18.362, -93.201
+
+
+### Tacotalpa
+
+Code: MX27015, Coordinates: 17.516, -92.714
+
+
+### Teapa
+
+Code: MX27016, Coordinates: 17.62, -92.973
+
+
+### Tenosique
+
+Code: MX27017, Coordinates: 17.459, -91.313
+
+

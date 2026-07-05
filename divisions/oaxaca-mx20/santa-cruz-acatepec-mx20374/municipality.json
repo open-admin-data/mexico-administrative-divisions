@@ -1,0 +1,45 @@
+{
+  "id": "MX20374",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Acatepec",
+    "en": "Santa Cruz Acatepec",
+    "slug": "santa-cruz-acatepec-mx20374"
+  },
+  "code": {
+    "id": "MX20374",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.158",
+    "lon": "-96.882"
+  },
+  "metadata": {},
+  "source": {}
+}

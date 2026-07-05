@@ -1,0 +1,45 @@
+{
+  "id": "MX20418",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Jalapa del Marqués",
+    "en": "Santa Maria Jalapa del Marques",
+    "slug": "santa-maria-jalapa-del-marques-mx20418"
+  },
+  "code": {
+    "id": "MX20418",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.509",
+    "lon": "-95.466"
+  },
+  "metadata": {},
+  "source": {}
+}

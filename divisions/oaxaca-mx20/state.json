@@ -1,0 +1,33 @@
+{
+  "id": "MX20",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Oaxaca",
+    "en": "Oaxaca",
+    "slug": "oaxaca-mx20"
+  },
+  "code": {
+    "id": "MX20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 570
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.164",
+    "lon": "-96.283"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/oaxaca-mx20/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

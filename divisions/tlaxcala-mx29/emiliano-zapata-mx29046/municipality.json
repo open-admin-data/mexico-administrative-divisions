@@ -1,0 +1,45 @@
+{
+  "id": "MX29046",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Emiliano Zapata",
+    "en": "Emiliano Zapata",
+    "slug": "emiliano-zapata-mx29046"
+  },
+  "code": {
+    "id": "MX29046",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.566",
+    "lon": "-97.925"
+  },
+  "metadata": {},
+  "source": {}
+}

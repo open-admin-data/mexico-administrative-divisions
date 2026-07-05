@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MX01001,Aguascalientes,Aguascalientes,aguascalientes-mx01001,MX01001,21.848,-102.305
+MX01002,Asientos,Asientos,asientos-mx01002,MX01002,22.132,-102.095
+MX01003,Calvillo,Calvillo,calvillo-mx01003,MX01003,21.911,-102.714
+MX01004,Cosío,Cosio,cosio-mx01004,MX01004,22.371,-102.312
+MX01010,El Llano,El Llano,el-llano-mx01010,MX01010,21.929,-102.001
+MX01005,Jesús María,Jesus Maria,jesus-maria-mx01005,MX01005,21.935,-102.468
+MX01006,Pabellón de Arteaga,Pabellon de Arteaga,pabellon-de-arteaga-mx01006,MX01006,22.105,-102.302
+MX01007,Rincón de Romos,Rincon de Romos,rincon-de-romos-mx01007,MX01007,22.248,-102.349
+MX01011,San Francisco de los Romo,San Francisco de los Romo,san-francisco-de-los-romo-mx01011,MX01011,22.022,-102.252
+MX01008,San José de Gracia,San Jose de Gracia,san-jose-de-gracia-mx01008,MX01008,22.143,-102.53
+MX01009,Tepezalá,Tepezala,tepezala-mx01009,MX01009,22.244,-102.193

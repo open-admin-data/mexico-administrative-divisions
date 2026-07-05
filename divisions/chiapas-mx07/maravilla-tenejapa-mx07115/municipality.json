@@ -1,0 +1,45 @@
+{
+  "id": "MX07115",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maravilla Tenejapa",
+    "en": "Maravilla Tenejapa",
+    "slug": "maravilla-tenejapa-mx07115"
+  },
+  "code": {
+    "id": "MX07115",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.212",
+    "lon": "-91.269"
+  },
+  "metadata": {},
+  "source": {}
+}

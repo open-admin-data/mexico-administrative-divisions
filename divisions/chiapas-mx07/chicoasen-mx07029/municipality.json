@@ -1,0 +1,45 @@
+{
+  "id": "MX07029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chicoasén",
+    "en": "Chicoasen",
+    "slug": "chicoasen-mx07029"
+  },
+  "code": {
+    "id": "MX07029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.995",
+    "lon": "-93.12"
+  },
+  "metadata": {},
+  "source": {}
+}

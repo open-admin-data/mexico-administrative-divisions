@@ -1,0 +1,2297 @@
+[
+  {
+    "id": "MX19001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abasolo",
+      "en": "Abasolo",
+      "slug": "abasolo-mx19001"
+    },
+    "code": {
+      "id": "MX19001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.94",
+      "lon": "-100.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Agualeguas",
+      "en": "Agualeguas",
+      "slug": "agualeguas-mx19002"
+    },
+    "code": {
+      "id": "MX19002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.295",
+      "lon": "-99.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Allende",
+      "en": "Allende",
+      "slug": "allende-mx19004"
+    },
+    "code": {
+      "id": "MX19004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.299",
+      "lon": "-100.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anáhuac",
+      "en": "Anahuac",
+      "slug": "anahuac-mx19005"
+    },
+    "code": {
+      "id": "MX19005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.323",
+      "lon": "-100.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apodaca",
+      "en": "Apodaca",
+      "slug": "apodaca-mx19006"
+    },
+    "code": {
+      "id": "MX19006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.787",
+      "lon": "-100.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aramberri",
+      "en": "Aramberri",
+      "slug": "aramberri-mx19007"
+    },
+    "code": {
+      "id": "MX19007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.222",
+      "lon": "-99.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bustamante",
+      "en": "Bustamante",
+      "slug": "bustamante-mx19008"
+    },
+    "code": {
+      "id": "MX19008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.571",
+      "lon": "-100.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cadereyta Jiménez",
+      "en": "Cadereyta Jimenez",
+      "slug": "cadereyta-jimenez-mx19009"
+    },
+    "code": {
+      "id": "MX19009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.517",
+      "lon": "-99.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cerralvo",
+      "en": "Cerralvo",
+      "slug": "cerralvo-mx19011"
+    },
+    "code": {
+      "id": "MX19011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.06",
+      "lon": "-99.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "China",
+      "en": "China",
+      "slug": "china-mx19013"
+    },
+    "code": {
+      "id": "MX19013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.492",
+      "lon": "-98.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciénega de Flores",
+      "en": "Cienega de Flores",
+      "slug": "cienega-de-flores-mx19012"
+    },
+    "code": {
+      "id": "MX19012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.971",
+      "lon": "-100.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Doctor Arroyo",
+      "en": "Doctor Arroyo",
+      "slug": "doctor-arroyo-mx19014"
+    },
+    "code": {
+      "id": "MX19014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.804",
+      "lon": "-100.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Doctor Coss",
+      "en": "Doctor Coss",
+      "slug": "doctor-coss-mx19015"
+    },
+    "code": {
+      "id": "MX19015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.971",
+      "lon": "-99.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Doctor González",
+      "en": "Doctor Gonzalez",
+      "slug": "doctor-gonzalez-mx19016"
+    },
+    "code": {
+      "id": "MX19016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.845",
+      "lon": "-99.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Carmen",
+      "en": "El Carmen",
+      "slug": "el-carmen-mx19010"
+    },
+    "code": {
+      "id": "MX19010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.916",
+      "lon": "-100.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Galeana",
+      "en": "Galeana",
+      "slug": "galeana-mx19017"
+    },
+    "code": {
+      "id": "MX19017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.757",
+      "lon": "-100.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "García",
+      "en": "Garcia",
+      "slug": "garcia-mx19018"
+    },
+    "code": {
+      "id": "MX19018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.806",
+      "lon": "-100.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Bravo",
+      "en": "General Bravo",
+      "slug": "general-bravo-mx19020"
+    },
+    "code": {
+      "id": "MX19020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.824",
+      "lon": "-98.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Escobedo",
+      "en": "General Escobedo",
+      "slug": "general-escobedo-mx19021"
+    },
+    "code": {
+      "id": "MX19021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.83",
+      "lon": "-100.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Terán",
+      "en": "General Teran",
+      "slug": "general-teran-mx19022"
+    },
+    "code": {
+      "id": "MX19022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.271",
+      "lon": "-99.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Zaragoza",
+      "en": "General Zaragoza",
+      "slug": "general-zaragoza-mx19024"
+    },
+    "code": {
+      "id": "MX19024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.88",
+      "lon": "-99.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Zuazua",
+      "en": "General Zuazua",
+      "slug": "general-zuazua-mx19025"
+    },
+    "code": {
+      "id": "MX19025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.925",
+      "lon": "-100.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Treviño",
+      "en": "Gral. Trevino",
+      "slug": "gral-trevino-mx19023"
+    },
+    "code": {
+      "id": "MX19023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.214",
+      "lon": "-99.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guadalupe",
+      "en": "Guadalupe",
+      "slug": "guadalupe-mx19026"
+    },
+    "code": {
+      "id": "MX19026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.677",
+      "lon": "-100.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx19047"
+    },
+    "code": {
+      "id": "MX19047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.004",
+      "lon": "-100.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Higueras",
+      "en": "Higueras",
+      "slug": "higueras-mx19028"
+    },
+    "code": {
+      "id": "MX19028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.036",
+      "lon": "-100.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hualahuises",
+      "en": "Hualahuises",
+      "slug": "hualahuises-mx19029"
+    },
+    "code": {
+      "id": "MX19029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.882",
+      "lon": "-99.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iturbide",
+      "en": "Iturbide",
+      "slug": "iturbide-mx19030"
+    },
+    "code": {
+      "id": "MX19030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.642",
+      "lon": "-99.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juárez",
+      "en": "Juarez",
+      "slug": "juarez-mx19031"
+    },
+    "code": {
+      "id": "MX19031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.608",
+      "lon": "-100.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lampazos de Naranjo",
+      "en": "Lampazos de Naranjo",
+      "slug": "lampazos-de-naranjo-mx19032"
+    },
+    "code": {
+      "id": "MX19032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.012",
+      "lon": "-100.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Linares",
+      "en": "Linares",
+      "slug": "linares-mx19033"
+    },
+    "code": {
+      "id": "MX19033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.853",
+      "lon": "-99.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Aldamas",
+      "en": "Los Aldamas",
+      "slug": "los-aldamas-mx19003"
+    },
+    "code": {
+      "id": "MX19003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.096",
+      "lon": "-99.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Herreras",
+      "en": "Los Herreras",
+      "slug": "los-herreras-mx19027"
+    },
+    "code": {
+      "id": "MX19027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.941",
+      "lon": "-99.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Ramones",
+      "en": "Los Ramones",
+      "slug": "los-ramones-mx19042"
+    },
+    "code": {
+      "id": "MX19042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.654",
+      "lon": "-99.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marín",
+      "en": "Marin",
+      "slug": "marin-mx19034"
+    },
+    "code": {
+      "id": "MX19034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.886",
+      "lon": "-100.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Melchor Ocampo",
+      "en": "Melchor Ocampo",
+      "slug": "melchor-ocampo-mx19035"
+    },
+    "code": {
+      "id": "MX19035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.044",
+      "lon": "-99.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mier y Noriega",
+      "en": "Mier y Noriega",
+      "slug": "mier-y-noriega-mx19036"
+    },
+    "code": {
+      "id": "MX19036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.402",
+      "lon": "-100.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mina",
+      "en": "Mina",
+      "slug": "mina-mx19037"
+    },
+    "code": {
+      "id": "MX19037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.299",
+      "lon": "-100.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Montemorelos",
+      "en": "Montemorelos",
+      "slug": "montemorelos-mx19038"
+    },
+    "code": {
+      "id": "MX19038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.163",
+      "lon": "-99.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monterrey",
+      "en": "Monterrey",
+      "slug": "monterrey-mx19039"
+    },
+    "code": {
+      "id": "MX19039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.64",
+      "lon": "-100.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parás",
+      "en": "Paras",
+      "slug": "paras-mx19040"
+    },
+    "code": {
+      "id": "MX19040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.622",
+      "lon": "-99.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pesquería",
+      "en": "Pesqueria",
+      "slug": "pesqueria-mx19041"
+    },
+    "code": {
+      "id": "MX19041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.747",
+      "lon": "-100.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rayones",
+      "en": "Rayones",
+      "slug": "rayones-mx19043"
+    },
+    "code": {
+      "id": "MX19043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.075",
+      "lon": "-100.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sabinas Hidalgo",
+      "en": "Sabinas Hidalgo",
+      "slug": "sabinas-hidalgo-mx19044"
+    },
+    "code": {
+      "id": "MX19044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.575",
+      "lon": "-100.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salinas Victoria",
+      "en": "Salinas Victoria",
+      "slug": "salinas-victoria-mx19045"
+    },
+    "code": {
+      "id": "MX19045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.122",
+      "lon": "-100.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Nicolás de los Garza",
+      "en": "San Nicolas de los Garza",
+      "slug": "san-nicolas-de-los-garza-mx19046"
+    },
+    "code": {
+      "id": "MX19046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.736",
+      "lon": "-100.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Garza García",
+      "en": "San Pedro Garza Garcia",
+      "slug": "san-pedro-garza-garcia-mx19019"
+    },
+    "code": {
+      "id": "MX19019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.653",
+      "lon": "-100.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-mx19048"
+    },
+    "code": {
+      "id": "MX19048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.582",
+      "lon": "-100.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago",
+      "en": "Santiago",
+      "slug": "santiago-mx19049"
+    },
+    "code": {
+      "id": "MX19049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.372",
+      "lon": "-100.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vallecillo",
+      "en": "Vallecillo",
+      "slug": "vallecillo-mx19050"
+    },
+    "code": {
+      "id": "MX19050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.641",
+      "lon": "-99.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX19051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villaldama",
+      "en": "Villaldama",
+      "slug": "villaldama-mx19051"
+    },
+    "code": {
+      "id": "MX19051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX19",
+        "level": 1,
+        "name": {
+          "local": "Nuevo León",
+          "en": "Nuevo Leon",
+          "slug": "nuevo-leon-mx19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.471",
+      "lon": "-100.371"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

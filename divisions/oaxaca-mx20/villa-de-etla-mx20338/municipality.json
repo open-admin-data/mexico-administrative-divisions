@@ -1,0 +1,45 @@
+{
+  "id": "MX20338",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa de Etla",
+    "en": "Villa de Etla",
+    "slug": "villa-de-etla-mx20338"
+  },
+  "code": {
+    "id": "MX20338",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.197",
+    "lon": "-96.796"
+  },
+  "metadata": {},
+  "source": {}
+}

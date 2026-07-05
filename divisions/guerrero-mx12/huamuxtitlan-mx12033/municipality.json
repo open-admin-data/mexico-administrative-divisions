@@ -1,0 +1,45 @@
+{
+  "id": "MX12033",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huamuxtitlán",
+    "en": "Huamuxtitlan",
+    "slug": "huamuxtitlan-mx12033"
+  },
+  "code": {
+    "id": "MX12033",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.83",
+    "lon": "-98.565"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1069 @@
+# Veracruz de Ignacio de la Llave — Mexico Administrative Divisions
+
+> 212 municipalitys
+> Code: MX30
+> Coordinates: 17.964, -95.179
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acajete
+
+Code: MX30001, Coordinates: 19.566, -97.047
+
+
+### Acatlán (Acatlan)
+
+Code: MX30002, Coordinates: 19.689, -96.844
+
+
+### Acayucan
+
+Code: MX30003, Coordinates: 18.028, -95.036
+
+
+### Actopan
+
+Code: MX30004, Coordinates: 19.561, -96.529
+
+
+### Acula
+
+Code: MX30005, Coordinates: 18.562, -95.813
+
+
+### Acultzingo
+
+Code: MX30006, Coordinates: 18.708, -97.286
+
+
+### Agua Dulce
+
+Code: MX30204, Coordinates: 18.09, -94.163
+
+
+### Álamo Temapache (Alamo Temapache)
+
+Code: MX30160, Coordinates: 20.991, -97.749
+
+
+### Alpatláhuac (Alpatlahuac)
+
+Code: MX30008, Coordinates: 19.099, -97.136
+
+
+### Alto Lucero de Gutiérrez Barrios (Alto Lucero de Gutierrez Barrios)
+
+Code: MX30009, Coordinates: 19.728, -96.532
+
+
+### Altotonga
+
+Code: MX30010, Coordinates: 19.765, -97.128
+
+
+### Alvarado
+
+Code: MX30011, Coordinates: 18.917, -95.986
+
+
+### Amatitlán (Amatitlan)
+
+Code: MX30012, Coordinates: 18.429, -95.684
+
+
+### Amatlán de los Reyes (Amatlan de los Reyes)
+
+Code: MX30014, Coordinates: 18.873, -96.869
+
+
+### Angel R. Cabada
+
+Code: MX30015, Coordinates: 18.593, -95.386
+
+
+### Apazapan
+
+Code: MX30017, Coordinates: 19.343, -96.695
+
+
+### Aquila
+
+Code: MX30018, Coordinates: 18.788, -97.324
+
+
+### Astacinga
+
+Code: MX30019, Coordinates: 18.555, -97.106
+
+
+### Atlahuilco
+
+Code: MX30020, Coordinates: 18.686, -97.095
+
+
+### Atoyac
+
+Code: MX30021, Coordinates: 18.924, -96.799
+
+
+### Atzacan
+
+Code: MX30022, Coordinates: 18.934, -97.078
+
+
+### Atzalan
+
+Code: MX30023, Coordinates: 19.905, -97.098
+
+
+### Ayahualulco
+
+Code: MX30025, Coordinates: 19.399, -97.188
+
+
+### Banderilla
+
+Code: MX30026, Coordinates: 19.59, -96.936
+
+
+### Benito Juárez (Benito Juarez)
+
+Code: MX30027, Coordinates: 20.817, -98.178
+
+
+### Boca del Río (Boca del Rio)
+
+Code: MX30028, Coordinates: 19.135, -96.122
+
+
+### Calcahualco
+
+Code: MX30029, Coordinates: 19.101, -97.228
+
+
+### Camarón de Tejeda (Camaron de Tejeda)
+
+Code: MX30007, Coordinates: 19.003, -96.551
+
+
+### Camerino Z. Mendoza
+
+Code: MX30030, Coordinates: 18.79, -97.16
+
+
+### Carlos A. Carrillo
+
+Code: MX30208, Coordinates: 18.309, -95.715
+
+
+### Carrillo Puerto
+
+Code: MX30031, Coordinates: 18.822, -96.584
+
+
+### Castillo de Teayo
+
+Code: MX30157, Coordinates: 20.731, -97.677
+
+
+### Catemaco
+
+Code: MX30032, Coordinates: 18.435, -95.009
+
+
+### Cazones de Herrera
+
+Code: MX30033, Coordinates: 20.709, -97.334
+
+
+### Cerro Azul
+
+Code: MX30034, Coordinates: 21.185, -97.757
+
+
+### Chacaltianguis
+
+Code: MX30054, Coordinates: 18.21, -95.786
+
+
+### Chalma
+
+Code: MX30055, Coordinates: 21.21, -98.384
+
+
+### Chiconamel
+
+Code: MX30056, Coordinates: 21.17, -98.358
+
+
+### Chiconquiaco
+
+Code: MX30057, Coordinates: 19.758, -96.773
+
+
+### Chicontepec
+
+Code: MX30058, Coordinates: 21.007, -98.064
+
+
+### Chinameca
+
+Code: MX30059, Coordinates: 18.06, -94.705
+
+
+### Chinampa de Gorostiza
+
+Code: MX30060, Coordinates: 21.376, -97.661
+
+
+### Chocamán (Chocaman)
+
+Code: MX30062, Coordinates: 19, -97.037
+
+
+### Chontla
+
+Code: MX30063, Coordinates: 21.427, -98.009
+
+
+### Chumatlán (Chumatlan)
+
+Code: MX30064, Coordinates: 20.222, -97.587
+
+
+### Citlaltépetl (Citlaltepetl)
+
+Code: MX30035, Coordinates: 21.337, -97.884
+
+
+### Coacoatzintla
+
+Code: MX30036, Coordinates: 19.681, -96.953
+
+
+### Coahuitlán (Coahuitlan)
+
+Code: MX30037, Coordinates: 20.267, -97.711
+
+
+### Coatepec
+
+Code: MX30038, Coordinates: 19.445, -96.934
+
+
+### Coatzacoalcos
+
+Code: MX30039, Coordinates: 18.125, -94.315
+
+
+### Coatzintla
+
+Code: MX30040, Coordinates: 20.428, -97.54
+
+
+### Coetzala
+
+Code: MX30041, Coordinates: 18.775, -96.917
+
+
+### Colipa
+
+Code: MX30042, Coordinates: 19.935, -96.719
+
+
+### Comapa
+
+Code: MX30043, Coordinates: 19.142, -96.664
+
+
+### Córdoba (Cordoba)
+
+Code: MX30044, Coordinates: 18.924, -96.928
+
+
+### Cosamaloapan de Carpio
+
+Code: MX30045, Coordinates: 18.282, -95.965
+
+
+### Cosautlán de Carvajal (Cosautlan de Carvajal)
+
+Code: MX30046, Coordinates: 19.329, -96.969
+
+
+### Coscomatepec
+
+Code: MX30047, Coordinates: 19.059, -97.1
+
+
+### Cosoleacaque
+
+Code: MX30048, Coordinates: 18.006, -94.617
+
+
+### Cotaxtla
+
+Code: MX30049, Coordinates: 18.858, -96.351
+
+
+### Coxquihui
+
+Code: MX30050, Coordinates: 20.214, -97.556
+
+
+### Coyutla
+
+Code: MX30051, Coordinates: 20.334, -97.628
+
+
+### Cuichapa
+
+Code: MX30052, Coordinates: 18.77, -96.833
+
+
+### Cuitláhuac (Cuitlahuac)
+
+Code: MX30053, Coordinates: 18.79, -96.731
+
+
+### El Higo
+
+Code: MX30205, Coordinates: 21.767, -98.384
+
+
+### Emiliano Zapata
+
+Code: MX30065, Coordinates: 19.457, -96.791
+
+
+### Espinal
+
+Code: MX30066, Coordinates: 20.255, -97.431
+
+
+### Filomeno Mata
+
+Code: MX30067, Coordinates: 20.213, -97.716
+
+
+### Fortín (Fortin)
+
+Code: MX30068, Coordinates: 18.895, -96.997
+
+
+### Gutiérrez Zamora (Gutierrez Zamora)
+
+Code: MX30069, Coordinates: 20.472, -97.119
+
+
+### Hidalgotitlán (Hidalgotitlan)
+
+Code: MX30070, Coordinates: 17.582, -94.603
+
+
+### Huatusco
+
+Code: MX30071, Coordinates: 19.146, -96.966
+
+
+### Huayacocotla
+
+Code: MX30072, Coordinates: 20.524, -98.486
+
+
+### Hueyapan de Ocampo
+
+Code: MX30073, Coordinates: 18.195, -95.181
+
+
+### Huiloapan de Cuauhtémoc (Huiloapan de Cuauhtemoc)
+
+Code: MX30074, Coordinates: 18.816, -97.134
+
+
+### Ignacio de la Llave
+
+Code: MX30075, Coordinates: 18.658, -95.975
+
+
+### Ilamatlán (Ilamatlan)
+
+Code: MX30076, Coordinates: 20.764, -98.427
+
+
+### Isla
+
+Code: MX30077, Coordinates: 18.123, -95.584
+
+
+### Ixcatepec
+
+Code: MX30078, Coordinates: 21.249, -98.052
+
+
+### Ixhuacán de los Reyes (Ixhuacan de los Reyes)
+
+Code: MX30079, Coordinates: 19.373, -97.086
+
+
+### Ixhuatlán de Madero (Ixhuatlan de Madero)
+
+Code: MX30083, Coordinates: 20.705, -98.023
+
+
+### Ixhuatlán del Café (Ixhuatlán del Cafe)
+
+Code: MX30080, Coordinates: 19.027, -96.927
+
+
+### Ixhuatlán del Sureste (Ixhuatlan del Sureste)
+
+Code: MX30082, Coordinates: 17.981, -94.398
+
+
+### Ixhuatlancillo
+
+Code: MX30081, Coordinates: 18.893, -97.167
+
+
+### Ixmatlahuacan
+
+Code: MX30084, Coordinates: 18.497, -95.918
+
+
+### Ixtaczoquitlán (Ixtaczoquitlan)
+
+Code: MX30085, Coordinates: 18.851, -97.027
+
+
+### Jalacingo
+
+Code: MX30086, Coordinates: 19.774, -97.29
+
+
+### Jalcomulco
+
+Code: MX30088, Coordinates: 19.335, -96.753
+
+
+### Jáltipan (Jaltipan)
+
+Code: MX30089, Coordinates: 17.79, -94.714
+
+
+### Jamapa
+
+Code: MX30090, Coordinates: 18.991, -96.259
+
+
+### Jesús Carranza (Jesus Carranza)
+
+Code: MX30091, Coordinates: 17.388, -94.909
+
+
+### Jilotepec
+
+Code: MX30093, Coordinates: 19.611, -96.905
+
+
+### José Azueta (Jose Azueta)
+
+Code: MX30169, Coordinates: 18.138, -95.711
+
+
+### Juan Rodríguez Clara (Juan Rodriguez Clara)
+
+Code: MX30094, Coordinates: 17.973, -95.344
+
+
+### Juchique de Ferrer
+
+Code: MX30095, Coordinates: 19.824, -96.653
+
+
+### La Antigua
+
+Code: MX30016, Coordinates: 19.318, -96.307
+
+
+### La Perla
+
+Code: MX30127, Coordinates: 18.982, -97.186
+
+
+### Landero y Coss
+
+Code: MX30096, Coordinates: 19.743, -96.857
+
+
+### Las Choapas
+
+Code: MX30061, Coordinates: 17.563, -93.94
+
+
+### Las Minas
+
+Code: MX30107, Coordinates: 19.704, -97.156
+
+
+### Las Vigas de Ramírez (Las Vigas de Ramirez)
+
+Code: MX30132, Coordinates: 19.618, -97.1
+
+
+### Lerdo de Tejada
+
+Code: MX30097, Coordinates: 18.659, -95.49
+
+
+### Los Reyes
+
+Code: MX30137, Coordinates: 18.672, -97.041
+
+
+### Magdalena
+
+Code: MX30098, Coordinates: 18.769, -97.049
+
+
+### Maltrata
+
+Code: MX30099, Coordinates: 18.844, -97.267
+
+
+### Manlio Fabio Altamirano
+
+Code: MX30100, Coordinates: 19.087, -96.319
+
+
+### Mariano Escobedo
+
+Code: MX30101, Coordinates: 18.926, -97.217
+
+
+### Martínez de la Torre (Martinez de la Torre)
+
+Code: MX30102, Coordinates: 20.12, -97.046
+
+
+### Mecatlán (Mecatlan)
+
+Code: MX30103, Coordinates: 20.21, -97.666
+
+
+### Mecayapan
+
+Code: MX30104, Coordinates: 18.498, -94.852
+
+
+### Medellín (Medellin)
+
+Code: MX30105, Coordinates: 18.992, -96.138
+
+
+### Miahuatlán (Miahuatlan)
+
+Code: MX30106, Coordinates: 19.731, -96.883
+
+
+### Minatitlán (Minatitlan)
+
+Code: MX30108, Coordinates: 17.647, -94.326
+
+
+### Misantla
+
+Code: MX30109, Coordinates: 19.959, -96.858
+
+
+### Mixtla de Altamirano
+
+Code: MX30110, Coordinates: 18.602, -96.977
+
+
+### Moloacán (Moloacan)
+
+Code: MX30111, Coordinates: 17.993, -94.282
+
+
+### Nanchital de Lázaro Cárdenas del Río (Nanchital de Lazaro Cardenas del Rio)
+
+Code: MX30206, Coordinates: 18.065, -94.38
+
+
+### Naolinco
+
+Code: MX30112, Coordinates: 19.639, -96.856
+
+
+### Naranjal
+
+Code: MX30113, Coordinates: 18.798, -96.95
+
+
+### Naranjos Amatlán (Naranjos Amatlan)
+
+Code: MX30013, Coordinates: 21.309, -97.676
+
+
+### Nautla
+
+Code: MX30114, Coordinates: 20.12, -96.802
+
+
+### Nogales
+
+Code: MX30115, Coordinates: 18.835, -97.202
+
+
+### Oluta
+
+Code: MX30116, Coordinates: 17.896, -94.905
+
+
+### Omealca
+
+Code: MX30117, Coordinates: 18.709, -96.676
+
+
+### Orizaba
+
+Code: MX30118, Coordinates: 18.859, -97.111
+
+
+### Otatitlán (Otatitlan)
+
+Code: MX30119, Coordinates: 18.172, -96.028
+
+
+### Oteapan
+
+Code: MX30120, Coordinates: 17.987, -94.672
+
+
+### Ozuluama de Mascareñas (Ozuluama de Mascarenas)
+
+Code: MX30121, Coordinates: 21.699, -97.924
+
+
+### Pajapan
+
+Code: MX30122, Coordinates: 18.219, -94.664
+
+
+### Pánuco (Panuco)
+
+Code: MX30123, Coordinates: 22.081, -98.233
+
+
+### Papantla
+
+Code: MX30124, Coordinates: 20.413, -97.326
+
+
+### Paso de Ovejas
+
+Code: MX30126, Coordinates: 19.257, -96.438
+
+
+### Paso del Macho
+
+Code: MX30125, Coordinates: 18.948, -96.644
+
+
+### Perote
+
+Code: MX30128, Coordinates: 19.511, -97.269
+
+
+### Platón Sánchez (Platon Sanchez)
+
+Code: MX30129, Coordinates: 21.297, -98.422
+
+
+### Playa Vicente
+
+Code: MX30130, Coordinates: 17.758, -95.667
+
+
+### Poza Rica de Hidalgo
+
+Code: MX30131, Coordinates: 20.539, -97.445
+
+
+### Pueblo Viejo
+
+Code: MX30133, Coordinates: 22.162, -97.899
+
+
+### Puente Nacional
+
+Code: MX30134, Coordinates: 19.314, -96.536
+
+
+### Rafael Delgado
+
+Code: MX30135, Coordinates: 18.796, -97.123
+
+
+### Rafael Lucio
+
+Code: MX30136, Coordinates: 19.6, -96.985
+
+
+### Río Blanco (Rio Blanco)
+
+Code: MX30138, Coordinates: 18.845, -97.152
+
+
+### Saltabarranca
+
+Code: MX30139, Coordinates: 18.547, -95.523
+
+
+### San Andrés Tenejapan (San Andres Tenejapan)
+
+Code: MX30140, Coordinates: 18.772, -97.096
+
+
+### San Andrés Tuxtla (San Andres Tuxtla)
+
+Code: MX30141, Coordinates: 18.463, -95.198
+
+
+### San Juan Evangelista
+
+Code: MX30142, Coordinates: 17.763, -95.23
+
+
+### San Rafael
+
+Code: MX30211, Coordinates: 20.214, -96.9
+
+
+### Santiago Sochiapan
+
+Code: MX30212, Coordinates: 17.635, -95.66
+
+
+### Santiago Tuxtla
+
+Code: MX30143, Coordinates: 18.405, -95.398
+
+
+### Sayula de Alemán (Sayula de Aleman)
+
+Code: MX30144, Coordinates: 17.748, -94.954
+
+
+### Sochiapa
+
+Code: MX30146, Coordinates: 19.171, -96.923
+
+
+### Soconusco
+
+Code: MX30145, Coordinates: 18.007, -94.81
+
+
+### Soledad Atzompa
+
+Code: MX30147, Coordinates: 18.707, -97.184
+
+
+### Soledad de Doblado
+
+Code: MX30148, Coordinates: 19.061, -96.477
+
+
+### Soteapan
+
+Code: MX30149, Coordinates: 18.229, -94.908
+
+
+### Tamalín (Tamalin)
+
+Code: MX30150, Coordinates: 21.538, -97.683
+
+
+### Tamiahua
+
+Code: MX30151, Coordinates: 21.287, -97.529
+
+
+### Tampico Alto
+
+Code: MX30152, Coordinates: 22.034, -97.89
+
+
+### Tancoco
+
+Code: MX30153, Coordinates: 21.267, -97.802
+
+
+### Tantima
+
+Code: MX30154, Coordinates: 21.414, -97.854
+
+
+### Tantoyuca
+
+Code: MX30155, Coordinates: 21.39, -98.197
+
+
+### Tatahuicapan de Juárez (Tatahuicapan de Juarez)
+
+Code: MX30209, Coordinates: 18.349, -94.76
+
+
+### Tatatila
+
+Code: MX30156, Coordinates: 19.713, -97.078
+
+
+### Tecolutla
+
+Code: MX30158, Coordinates: 20.357, -97.022
+
+
+### Tehuipango
+
+Code: MX30159, Coordinates: 18.52, -97.064
+
+
+### Tempoal
+
+Code: MX30161, Coordinates: 21.55, -98.42
+
+
+### Tenampa
+
+Code: MX30162, Coordinates: 19.258, -96.843
+
+
+### Tenochtitlán (Tenochtitlan)
+
+Code: MX30163, Coordinates: 19.825, -96.942
+
+
+### Teocelo
+
+Code: MX30164, Coordinates: 19.373, -96.955
+
+
+### Tepatlaxco
+
+Code: MX30165, Coordinates: 19.048, -96.849
+
+
+### Tepetlán (Tepetlan)
+
+Code: MX30166, Coordinates: 19.664, -96.779
+
+
+### Tepetzintla
+
+Code: MX30167, Coordinates: 21.151, -97.859
+
+
+### Tequila
+
+Code: MX30168, Coordinates: 18.749, -96.998
+
+
+### Texcatepec
+
+Code: MX30170, Coordinates: 20.622, -98.301
+
+
+### Texhuacán (Texhuacan)
+
+Code: MX30171, Coordinates: 18.616, -97.031
+
+
+### Texistepec
+
+Code: MX30172, Coordinates: 17.777, -94.801
+
+
+### Tezonapa
+
+Code: MX30173, Coordinates: 18.559, -96.782
+
+
+### Tierra Blanca
+
+Code: MX30174, Coordinates: 18.527, -96.221
+
+
+### Tihuatlán (Tihuatlan)
+
+Code: MX30175, Coordinates: 20.675, -97.494
+
+
+### Tlachichilco
+
+Code: MX30180, Coordinates: 20.617, -98.173
+
+
+### Tlacojalpan
+
+Code: MX30176, Coordinates: 18.193, -95.929
+
+
+### Tlacolulan
+
+Code: MX30177, Coordinates: 19.702, -97.016
+
+
+### Tlacotalpan
+
+Code: MX30178, Coordinates: 18.52, -95.623
+
+
+### Tlacotepec de Mejía (Tlacotepec de Mejia)
+
+Code: MX30179, Coordinates: 19.183, -96.783
+
+
+### Tlalixcoyan
+
+Code: MX30181, Coordinates: 18.773, -96.206
+
+
+### Tlalnelhuayocan
+
+Code: MX30182, Coordinates: 19.542, -96.992
+
+
+### Tlaltetela
+
+Code: MX30024, Coordinates: 19.284, -96.933
+
+
+### Tlapacoyan
+
+Code: MX30183, Coordinates: 20.022, -97.157
+
+
+### Tlaquilpa
+
+Code: MX30184, Coordinates: 18.613, -97.104
+
+
+### Tlilapan
+
+Code: MX30185, Coordinates: 18.793, -97.104
+
+
+### Tomatlán (Tomatlan)
+
+Code: MX30186, Coordinates: 19.019, -96.99
+
+
+### Tonayán (Tonayan)
+
+Code: MX30187, Coordinates: 19.72, -96.938
+
+
+### Totutla
+
+Code: MX30188, Coordinates: 19.232, -96.94
+
+
+### Tres Valles
+
+Code: MX30207, Coordinates: 18.292, -96.166
+
+
+### Tuxpan
+
+Code: MX30189, Coordinates: 20.848, -97.349
+
+
+### Tuxtilla
+
+Code: MX30190, Coordinates: 18.191, -95.866
+
+
+### Ursulo Galván (Ursulo Galvan)
+
+Code: MX30191, Coordinates: 19.445, -96.398
+
+
+### Uxpanapa
+
+Code: MX30210, Coordinates: 17.306, -94.335
+
+
+### Vega de Alatorre
+
+Code: MX30192, Coordinates: 19.992, -96.72
+
+
+### Veracruz
+
+Code: MX30193, Coordinates: 19.184, -96.216
+
+
+### Villa Aldama
+
+Code: MX30194, Coordinates: 19.652, -97.198
+
+
+### Xalapa
+
+Code: MX30087, Coordinates: 19.542, -96.9
+
+
+### Xico
+
+Code: MX30092, Coordinates: 19.446, -97.071
+
+
+### Xoxocotla
+
+Code: MX30195, Coordinates: 18.63, -97.166
+
+
+### Yanga
+
+Code: MX30196, Coordinates: 18.823, -96.79
+
+
+### Yecuatla
+
+Code: MX30197, Coordinates: 19.847, -96.778
+
+
+### Zacualpan
+
+Code: MX30198, Coordinates: 20.505, -98.356
+
+
+### Zaragoza
+
+Code: MX30199, Coordinates: 17.948, -94.635
+
+
+### Zentla
+
+Code: MX30200, Coordinates: 19.078, -96.789
+
+
+### Zongolica
+
+Code: MX30201, Coordinates: 18.652, -96.946
+
+
+### Zontecomatlán de López y Fuentes (Zontecomatlan de Lopez y Fuentes)
+
+Code: MX30202, Coordinates: 20.736, -98.306
+
+
+### Zozocolco de Hidalgo
+
+Code: MX30203, Coordinates: 20.128, -97.557
+
+

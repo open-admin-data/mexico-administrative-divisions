@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "MX05001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abasolo",
+      "en": "Abasolo",
+      "slug": "abasolo-mx05001"
+    },
+    "code": {
+      "id": "MX05001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.143",
+      "lon": "-101.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acuña",
+      "en": "Acuna",
+      "slug": "acuna-mx05002"
+    },
+    "code": {
+      "id": "MX05002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.425",
+      "lon": "-101.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Allende",
+      "en": "Allende",
+      "slug": "allende-mx05003"
+    },
+    "code": {
+      "id": "MX05003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.286",
+      "lon": "-100.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arteaga",
+      "en": "Arteaga",
+      "slug": "arteaga-mx05004"
+    },
+    "code": {
+      "id": "MX05004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.345",
+      "lon": "-100.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Candela",
+      "en": "Candela",
+      "slug": "candela-mx05005"
+    },
+    "code": {
+      "id": "MX05005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.828",
+      "lon": "-100.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Castaños",
+      "en": "Castanos",
+      "slug": "castanos-mx05006"
+    },
+    "code": {
+      "id": "MX05006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.542",
+      "lon": "-101.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuatro Ciénegas",
+      "en": "Cuatro Cienegas",
+      "slug": "cuatro-cienegas-mx05007"
+    },
+    "code": {
+      "id": "MX05007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.667",
+      "lon": "-102.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Escobedo",
+      "en": "Escobedo",
+      "slug": "escobedo-mx05008"
+    },
+    "code": {
+      "id": "MX05008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.305",
+      "lon": "-101.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Francisco I. Madero",
+      "en": "Francisco I. Madero",
+      "slug": "francisco-i-madero-mx05009"
+    },
+    "code": {
+      "id": "MX05009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.238",
+      "lon": "-103.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Frontera",
+      "en": "Frontera",
+      "slug": "frontera-mx05010"
+    },
+    "code": {
+      "id": "MX05010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.954",
+      "lon": "-101.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Cepeda",
+      "en": "General Cepeda",
+      "slug": "general-cepeda-mx05011"
+    },
+    "code": {
+      "id": "MX05011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.544",
+      "lon": "-101.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx05012"
+    },
+    "code": {
+      "id": "MX05012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.152",
+      "lon": "-100.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx05013"
+    },
+    "code": {
+      "id": "MX05013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.853",
+      "lon": "-100.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiménez",
+      "en": "Jimenez",
+      "slug": "jimenez-mx05014"
+    },
+    "code": {
+      "id": "MX05014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.007",
+      "lon": "-100.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juárez",
+      "en": "Juarez",
+      "slug": "juarez-mx05015"
+    },
+    "code": {
+      "id": "MX05015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.658",
+      "lon": "-100.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lamadrid",
+      "en": "Lamadrid",
+      "slug": "lamadrid-mx05016"
+    },
+    "code": {
+      "id": "MX05016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.165",
+      "lon": "-101.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matamoros",
+      "en": "Matamoros",
+      "slug": "matamoros-mx05017"
+    },
+    "code": {
+      "id": "MX05017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.573",
+      "lon": "-103.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monclova",
+      "en": "Monclova",
+      "slug": "monclova-mx05018"
+    },
+    "code": {
+      "id": "MX05018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.879",
+      "lon": "-101.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx05019"
+    },
+    "code": {
+      "id": "MX05019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.337",
+      "lon": "-101.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Múzquiz",
+      "en": "Muzquiz",
+      "slug": "muzquiz-mx05020"
+    },
+    "code": {
+      "id": "MX05020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.349",
+      "lon": "-101.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nadadores",
+      "en": "Nadadores",
+      "slug": "nadadores-mx05021"
+    },
+    "code": {
+      "id": "MX05021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.231",
+      "lon": "-101.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nava",
+      "en": "Nava",
+      "slug": "nava-mx05022"
+    },
+    "code": {
+      "id": "MX05022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.493",
+      "lon": "-100.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocampo",
+      "en": "Ocampo",
+      "slug": "ocampo-mx05023"
+    },
+    "code": {
+      "id": "MX05023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.053",
+      "lon": "-102.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parras",
+      "en": "Parras",
+      "slug": "parras-mx05024"
+    },
+    "code": {
+      "id": "MX05024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.592",
+      "lon": "-102.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Piedras Negras",
+      "en": "Piedras Negras",
+      "slug": "piedras-negras-mx05025"
+    },
+    "code": {
+      "id": "MX05025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.774",
+      "lon": "-100.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Progreso",
+      "en": "Progreso",
+      "slug": "progreso-mx05026"
+    },
+    "code": {
+      "id": "MX05026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.374",
+      "lon": "-100.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ramos Arizpe",
+      "en": "Ramos Arizpe",
+      "slug": "ramos-arizpe-mx05027"
+    },
+    "code": {
+      "id": "MX05027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.923",
+      "lon": "-101.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sabinas",
+      "en": "Sabinas",
+      "slug": "sabinas-mx05028"
+    },
+    "code": {
+      "id": "MX05028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.942",
+      "lon": "-101.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sacramento",
+      "en": "Sacramento",
+      "slug": "sacramento-mx05029"
+    },
+    "code": {
+      "id": "MX05029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.919",
+      "lon": "-101.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Saltillo",
+      "en": "Saltillo",
+      "slug": "saltillo-mx05030"
+    },
+    "code": {
+      "id": "MX05030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.036",
+      "lon": "-101.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Buenaventura",
+      "en": "San Buenaventura",
+      "slug": "san-buenaventura-mx05031"
+    },
+    "code": {
+      "id": "MX05031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.842",
+      "lon": "-101.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan de Sabinas",
+      "en": "San Juan de Sabinas",
+      "slug": "san-juan-de-sabinas-mx05032"
+    },
+    "code": {
+      "id": "MX05032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.065",
+      "lon": "-101.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro",
+      "en": "San Pedro",
+      "slug": "san-pedro-mx05033"
+    },
+    "code": {
+      "id": "MX05033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.125",
+      "lon": "-102.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sierra Mojada",
+      "en": "Sierra Mojada",
+      "slug": "sierra-mojada-mx05034"
+    },
+    "code": {
+      "id": "MX05034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.584",
+      "lon": "-103.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Torreón",
+      "en": "Torreon",
+      "slug": "torreon-mx05035"
+    },
+    "code": {
+      "id": "MX05035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.057",
+      "lon": "-103.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viesca",
+      "en": "Viesca",
+      "slug": "viesca-mx05036"
+    },
+    "code": {
+      "id": "MX05036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.19",
+      "lon": "-102.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Unión",
+      "en": "Villa Union",
+      "slug": "villa-union-mx05037"
+    },
+    "code": {
+      "id": "MX05037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.096",
+      "lon": "-100.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX05038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zaragoza",
+      "en": "Zaragoza",
+      "slug": "zaragoza-mx05038"
+    },
+    "code": {
+      "id": "MX05038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX05",
+        "level": 1,
+        "name": {
+          "local": "Coahuila de Zaragoza",
+          "en": "Coahuila de Zaragoza",
+          "slug": "coahuila-de-zaragoza-mx05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.87",
+      "lon": "-101.525"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

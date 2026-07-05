@@ -1,0 +1,45 @@
+{
+  "id": "MX14116",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa Hidalgo",
+    "en": "Villa Hidalgo",
+    "slug": "villa-hidalgo-mx14116"
+  },
+  "code": {
+    "id": "MX14116",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.663",
+    "lon": "-102.583"
+  },
+  "metadata": {},
+  "source": {}
+}

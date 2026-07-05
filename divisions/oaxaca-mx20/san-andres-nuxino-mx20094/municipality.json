@@ -1,0 +1,45 @@
+{
+  "id": "MX20094",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Andrés Nuxiño",
+    "en": "San Andres Nuxino",
+    "slug": "san-andres-nuxino-mx20094"
+  },
+  "code": {
+    "id": "MX20094",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.229",
+    "lon": "-97.07"
+  },
+  "metadata": {},
+  "source": {}
+}

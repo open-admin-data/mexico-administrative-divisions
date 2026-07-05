@@ -1,0 +1,45 @@
+{
+  "id": "MX15024",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuautitlán",
+    "en": "Cuautitlan",
+    "slug": "cuautitlan-mx15024"
+  },
+  "code": {
+    "id": "MX15024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.706",
+    "lon": "-99.167"
+  },
+  "metadata": {},
+  "source": {}
+}

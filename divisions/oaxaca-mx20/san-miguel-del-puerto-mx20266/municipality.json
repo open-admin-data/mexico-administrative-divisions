@@ -1,0 +1,45 @@
+{
+  "id": "MX20266",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel del Puerto",
+    "en": "San Miguel del Puerto",
+    "slug": "san-miguel-del-puerto-mx20266"
+  },
+  "code": {
+    "id": "MX20266",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.952",
+    "lon": "-96.098"
+  },
+  "metadata": {},
+  "source": {}
+}

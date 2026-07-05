@@ -1,0 +1,45 @@
+{
+  "id": "MX29011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Muñoz de Domingo Arenas",
+    "en": "Munoz de Domingo Arenas",
+    "slug": "munoz-de-domingo-arenas-mx29011"
+  },
+  "code": {
+    "id": "MX29011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.501",
+    "lon": "-98.221"
+  },
+  "metadata": {},
+  "source": {}
+}

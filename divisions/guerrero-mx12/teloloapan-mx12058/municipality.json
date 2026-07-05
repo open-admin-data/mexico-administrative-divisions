@@ -1,0 +1,45 @@
+{
+  "id": "MX12058",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Teloloapan",
+    "en": "Teloloapan",
+    "slug": "teloloapan-mx12058"
+  },
+  "code": {
+    "id": "MX12058",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.387",
+    "lon": "-99.92"
+  },
+  "metadata": {},
+  "source": {}
+}

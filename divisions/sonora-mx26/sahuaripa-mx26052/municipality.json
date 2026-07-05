@@ -1,0 +1,45 @@
+{
+  "id": "MX26052",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sahuaripa",
+    "en": "Sahuaripa",
+    "slug": "sahuaripa-mx26052"
+  },
+  "code": {
+    "id": "MX26052",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.013",
+    "lon": "-109.009"
+  },
+  "metadata": {},
+  "source": {}
+}

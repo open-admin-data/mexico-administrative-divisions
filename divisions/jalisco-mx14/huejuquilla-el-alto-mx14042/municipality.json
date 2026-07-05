@@ -1,0 +1,45 @@
+{
+  "id": "MX14042",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huejuquilla el Alto",
+    "en": "Huejuquilla el Alto",
+    "slug": "huejuquilla-el-alto-mx14042"
+  },
+  "code": {
+    "id": "MX14042",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.528",
+    "lon": "-103.93"
+  },
+  "metadata": {},
+  "source": {}
+}

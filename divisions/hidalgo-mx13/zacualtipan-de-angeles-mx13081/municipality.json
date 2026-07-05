@@ -1,0 +1,45 @@
+{
+  "id": "MX13081",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zacualtipán de Ángeles",
+    "en": "Zacualtipan de Angeles",
+    "slug": "zacualtipan-de-angeles-mx13081"
+  },
+  "code": {
+    "id": "MX13081",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.652",
+    "lon": "-98.595"
+  },
+  "metadata": {},
+  "source": {}
+}

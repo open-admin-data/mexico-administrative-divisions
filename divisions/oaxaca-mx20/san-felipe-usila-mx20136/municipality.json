@@ -1,0 +1,45 @@
+{
+  "id": "MX20136",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Felipe Usila",
+    "en": "San Felipe Usila",
+    "slug": "san-felipe-usila-mx20136"
+  },
+  "code": {
+    "id": "MX20136",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.82",
+    "lon": "-96.509"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX01003",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Calvillo",
+    "en": "Calvillo",
+    "slug": "calvillo-mx01003"
+  },
+  "code": {
+    "id": "MX01003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.911",
+    "lon": "-102.714"
+  },
+  "metadata": {},
+  "source": {}
+}

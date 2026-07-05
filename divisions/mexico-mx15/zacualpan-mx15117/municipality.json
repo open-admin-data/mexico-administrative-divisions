@@ -1,0 +1,45 @@
+{
+  "id": "MX15117",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zacualpan",
+    "en": "Zacualpan",
+    "slug": "zacualpan-mx15117"
+  },
+  "code": {
+    "id": "MX15117",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.714",
+    "lon": "-99.793"
+  },
+  "metadata": {},
+  "source": {}
+}

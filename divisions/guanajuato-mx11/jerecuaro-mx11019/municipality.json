@@ -1,0 +1,45 @@
+{
+  "id": "MX11019",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jerécuaro",
+    "en": "Jerecuaro",
+    "slug": "jerecuaro-mx11019"
+  },
+  "code": {
+    "id": "MX11019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.185",
+    "lon": "-100.543"
+  },
+  "metadata": {},
+  "source": {}
+}

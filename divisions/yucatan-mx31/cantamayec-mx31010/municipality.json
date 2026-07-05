@@ -1,0 +1,45 @@
+{
+  "id": "MX31010",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cantamayec",
+    "en": "Cantamayec",
+    "slug": "cantamayec-mx31010"
+  },
+  "code": {
+    "id": "MX31010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.413",
+    "lon": "-89.057"
+  },
+  "metadata": {},
+  "source": {}
+}

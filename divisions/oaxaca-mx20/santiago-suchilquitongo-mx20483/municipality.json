@@ -1,0 +1,45 @@
+{
+  "id": "MX20483",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Suchilquitongo",
+    "en": "Santiago Suchilquitongo",
+    "slug": "santiago-suchilquitongo-mx20483"
+  },
+  "code": {
+    "id": "MX20483",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.232",
+    "lon": "-96.906"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,264 @@
+# Nuevo Leon — Mexico Administrative Divisions
+
+> 51 municipalitys
+> Code: MX19
+> Coordinates: 25.479, -99.503
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abasolo
+
+Code: MX19001, Coordinates: 25.94, -100.411
+
+
+### Agualeguas
+
+Code: MX19002, Coordinates: 26.295, -99.701
+
+
+### Allende
+
+Code: MX19004, Coordinates: 25.299, -100.045
+
+
+### Anáhuac (Anahuac)
+
+Code: MX19005, Coordinates: 27.323, -100.066
+
+
+### Apodaca
+
+Code: MX19006, Coordinates: 25.787, -100.185
+
+
+### Aramberri
+
+Code: MX19007, Coordinates: 24.222, -99.924
+
+
+### Bustamante
+
+Code: MX19008, Coordinates: 26.571, -100.57
+
+
+### Cadereyta Jiménez (Cadereyta Jimenez)
+
+Code: MX19009, Coordinates: 25.517, -99.871
+
+
+### Cerralvo
+
+Code: MX19011, Coordinates: 26.06, -99.757
+
+
+### China
+
+Code: MX19013, Coordinates: 25.492, -98.981
+
+
+### Ciénega de Flores (Cienega de Flores)
+
+Code: MX19012, Coordinates: 25.971, -100.179
+
+
+### Doctor Arroyo
+
+Code: MX19014, Coordinates: 23.804, -100.226
+
+
+### Doctor Coss
+
+Code: MX19015, Coordinates: 25.971, -99.042
+
+
+### Doctor González (Doctor Gonzalez)
+
+Code: MX19016, Coordinates: 25.845, -99.819
+
+
+### El Carmen
+
+Code: MX19010, Coordinates: 25.916, -100.358
+
+
+### Galeana
+
+Code: MX19017, Coordinates: 24.757, -100.382
+
+
+### García (Garcia)
+
+Code: MX19018, Coordinates: 25.806, -100.64
+
+
+### General Bravo
+
+Code: MX19020, Coordinates: 25.824, -98.884
+
+
+### General Escobedo
+
+Code: MX19021, Coordinates: 25.83, -100.352
+
+
+### General Terán (General Teran)
+
+Code: MX19022, Coordinates: 25.271, -99.409
+
+
+### General Zaragoza
+
+Code: MX19024, Coordinates: 23.88, -99.74
+
+
+### General Zuazua
+
+Code: MX19025, Coordinates: 25.925, -100.115
+
+
+### General Treviño (Gral. Trevino)
+
+Code: MX19023, Coordinates: 26.214, -99.472
+
+
+### Guadalupe
+
+Code: MX19026, Coordinates: 25.677, -100.2
+
+
+### Hidalgo
+
+Code: MX19047, Coordinates: 26.004, -100.427
+
+
+### Higueras
+
+Code: MX19028, Coordinates: 26.036, -100.007
+
+
+### Hualahuises
+
+Code: MX19029, Coordinates: 24.882, -99.679
+
+
+### Iturbide
+
+Code: MX19030, Coordinates: 24.642, -99.848
+
+
+### Juárez (Juarez)
+
+Code: MX19031, Coordinates: 25.608, -100.157
+
+
+### Lampazos de Naranjo
+
+Code: MX19032, Coordinates: 27.012, -100.316
+
+
+### Linares
+
+Code: MX19033, Coordinates: 24.853, -99.41
+
+
+### Los Aldamas
+
+Code: MX19003, Coordinates: 26.096, -99.276
+
+
+### Los Herreras
+
+Code: MX19027, Coordinates: 25.941, -99.434
+
+
+### Los Ramones
+
+Code: MX19042, Coordinates: 25.654, -99.597
+
+
+### Marín (Marin)
+
+Code: MX19034, Coordinates: 25.886, -100.023
+
+
+### Melchor Ocampo
+
+Code: MX19035, Coordinates: 26.044, -99.494
+
+
+### Mier y Noriega
+
+Code: MX19036, Coordinates: 23.402, -100.139
+
+
+### Mina
+
+Code: MX19037, Coordinates: 26.299, -100.803
+
+
+### Montemorelos
+
+Code: MX19038, Coordinates: 25.163, -99.904
+
+
+### Monterrey
+
+Code: MX19039, Coordinates: 25.64, -100.293
+
+
+### Parás (Paras)
+
+Code: MX19040, Coordinates: 26.622, -99.582
+
+
+### Pesquería (Pesqueria)
+
+Code: MX19041, Coordinates: 25.747, -100.004
+
+
+### Rayones
+
+Code: MX19043, Coordinates: 25.075, -100.144
+
+
+### Sabinas Hidalgo
+
+Code: MX19044, Coordinates: 26.575, -100.155
+
+
+### Salinas Victoria
+
+Code: MX19045, Coordinates: 26.122, -100.327
+
+
+### San Nicolás de los Garza (San Nicolas de los Garza)
+
+Code: MX19046, Coordinates: 25.736, -100.266
+
+
+### San Pedro Garza García (San Pedro Garza Garcia)
+
+Code: MX19019, Coordinates: 25.653, -100.372
+
+
+### Santa Catarina
+
+Code: MX19048, Coordinates: 25.582, -100.519
+
+
+### Santiago
+
+Code: MX19049, Coordinates: 25.372, -100.261
+
+
+### Vallecillo
+
+Code: MX19050, Coordinates: 26.641, -99.908
+
+
+### Villaldama
+
+Code: MX19051, Coordinates: 26.471, -100.371
+
+

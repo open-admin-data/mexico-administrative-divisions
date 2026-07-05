@@ -1,0 +1,45 @@
+{
+  "id": "MX07053",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mazapa de Madero",
+    "en": "Mazapa de Madero",
+    "slug": "mazapa-de-madero-mx07053"
+  },
+  "code": {
+    "id": "MX07053",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.358",
+    "lon": "-92.184"
+  },
+  "metadata": {},
+  "source": {}
+}

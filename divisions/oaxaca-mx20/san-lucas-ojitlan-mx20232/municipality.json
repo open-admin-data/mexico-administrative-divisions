@@ -1,0 +1,45 @@
+{
+  "id": "MX20232",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lucas Ojitlán",
+    "en": "San Lucas Ojitlan",
+    "slug": "san-lucas-ojitlan-mx20232"
+  },
+  "code": {
+    "id": "MX20232",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.035",
+    "lon": "-96.371"
+  },
+  "metadata": {},
+  "source": {}
+}

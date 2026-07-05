@@ -1,0 +1,45 @@
+{
+  "id": "MX20055",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mariscala de Juárez",
+    "en": "Mariscala de Juarez",
+    "slug": "mariscala-de-juarez-mx20055"
+  },
+  "code": {
+    "id": "MX20055",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.823",
+    "lon": "-98.12"
+  },
+  "metadata": {},
+  "source": {}
+}

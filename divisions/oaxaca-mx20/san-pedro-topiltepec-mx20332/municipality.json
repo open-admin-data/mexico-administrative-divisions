@@ -1,0 +1,45 @@
+{
+  "id": "MX20332",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Topiltepec",
+    "en": "San Pedro Topiltepec",
+    "slug": "san-pedro-topiltepec-mx20332"
+  },
+  "code": {
+    "id": "MX20332",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.457",
+    "lon": "-97.361"
+  },
+  "metadata": {},
+  "source": {}
+}

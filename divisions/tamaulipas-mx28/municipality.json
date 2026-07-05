@@ -1,0 +1,1937 @@
+[
+  {
+    "id": "MX28001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abasolo",
+      "en": "Abasolo",
+      "slug": "abasolo-mx28001"
+    },
+    "code": {
+      "id": "MX28001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.128",
+      "lon": "-98.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aldama",
+      "en": "Aldama",
+      "slug": "aldama-mx28002"
+    },
+    "code": {
+      "id": "MX28002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.965",
+      "lon": "-98.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Altamira",
+      "en": "Altamira",
+      "slug": "altamira-mx28003"
+    },
+    "code": {
+      "id": "MX28003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.563",
+      "lon": "-98.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antiguo Morelos",
+      "en": "Antiguo Morelos",
+      "slug": "antiguo-morelos-mx28004"
+    },
+    "code": {
+      "id": "MX28004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.566",
+      "lon": "-99.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Burgos",
+      "en": "Burgos",
+      "slug": "burgos-mx28005"
+    },
+    "code": {
+      "id": "MX28005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.926",
+      "lon": "-98.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bustamante",
+      "en": "Bustamante",
+      "slug": "bustamante-mx28006"
+    },
+    "code": {
+      "id": "MX28006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.325",
+      "lon": "-99.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camargo",
+      "en": "Camargo",
+      "slug": "camargo-mx28007"
+    },
+    "code": {
+      "id": "MX28007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.181",
+      "lon": "-98.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Casas",
+      "en": "Casas",
+      "slug": "casas-mx28008"
+    },
+    "code": {
+      "id": "MX28008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.543",
+      "lon": "-98.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciudad Madero",
+      "en": "Ciudad Madero",
+      "slug": "ciudad-madero-mx28009"
+    },
+    "code": {
+      "id": "MX28009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.279",
+      "lon": "-97.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cruillas",
+      "en": "Cruillas",
+      "slug": "cruillas-mx28010"
+    },
+    "code": {
+      "id": "MX28010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.653",
+      "lon": "-98.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Mante",
+      "en": "El Mante",
+      "slug": "el-mante-mx28021"
+    },
+    "code": {
+      "id": "MX28021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.608",
+      "lon": "-98.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gómez Farías",
+      "en": "Gomez Farias",
+      "slug": "gomez-farias-mx28011"
+    },
+    "code": {
+      "id": "MX28011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.992",
+      "lon": "-99.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "González",
+      "en": "Gonzalez",
+      "slug": "gonzalez-mx28012"
+    },
+    "code": {
+      "id": "MX28012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.79",
+      "lon": "-98.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Güémez",
+      "en": "Guemez",
+      "slug": "guemez-mx28013"
+    },
+    "code": {
+      "id": "MX28013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.886",
+      "lon": "-99.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx28014"
+    },
+    "code": {
+      "id": "MX28014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.921",
+      "lon": "-99.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gustavo Díaz Ordaz",
+      "en": "Gustavo Diaz Ordaz",
+      "slug": "gustavo-diaz-ordaz-mx28015"
+    },
+    "code": {
+      "id": "MX28015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.138",
+      "lon": "-98.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx28016"
+    },
+    "code": {
+      "id": "MX28016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.164",
+      "lon": "-99.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jaumave",
+      "en": "Jaumave",
+      "slug": "jaumave-mx28017"
+    },
+    "code": {
+      "id": "MX28017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.472",
+      "lon": "-99.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiménez",
+      "en": "Jimenez",
+      "slug": "jimenez-mx28018"
+    },
+    "code": {
+      "id": "MX28018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.212",
+      "lon": "-98.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Llera",
+      "en": "Llera",
+      "slug": "llera-mx28019"
+    },
+    "code": {
+      "id": "MX28019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.298",
+      "lon": "-98.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mainero",
+      "en": "Mainero",
+      "slug": "mainero-mx28020"
+    },
+    "code": {
+      "id": "MX28020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.6",
+      "lon": "-99.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matamoros",
+      "en": "Matamoros",
+      "slug": "matamoros-mx28022"
+    },
+    "code": {
+      "id": "MX28022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.654",
+      "lon": "-97.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Méndez",
+      "en": "Mendez",
+      "slug": "mendez-mx28023"
+    },
+    "code": {
+      "id": "MX28023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.207",
+      "lon": "-98.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mier",
+      "en": "Mier",
+      "slug": "mier-mx28024"
+    },
+    "code": {
+      "id": "MX28024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.417",
+      "lon": "-99.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miguel Alemán",
+      "en": "Miguel Aleman",
+      "slug": "miguel-aleman-mx28025"
+    },
+    "code": {
+      "id": "MX28025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.23",
+      "lon": "-99.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miquihuana",
+      "en": "Miquihuana",
+      "slug": "miquihuana-mx28026"
+    },
+    "code": {
+      "id": "MX28026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.586",
+      "lon": "-99.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Laredo",
+      "en": "Nuevo Laredo",
+      "slug": "nuevo-laredo-mx28027"
+    },
+    "code": {
+      "id": "MX28027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.475",
+      "lon": "-99.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Morelos",
+      "en": "Nuevo Morelos",
+      "slug": "nuevo-morelos-mx28028"
+    },
+    "code": {
+      "id": "MX28028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.515",
+      "lon": "-99.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocampo",
+      "en": "Ocampo",
+      "slug": "ocampo-mx28029"
+    },
+    "code": {
+      "id": "MX28029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.844",
+      "lon": "-99.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Padilla",
+      "en": "Padilla",
+      "slug": "padilla-mx28030"
+    },
+    "code": {
+      "id": "MX28030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.979",
+      "lon": "-98.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palmillas",
+      "en": "Palmillas",
+      "slug": "palmillas-mx28031"
+    },
+    "code": {
+      "id": "MX28031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.263",
+      "lon": "-99.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Reynosa",
+      "en": "Reynosa",
+      "slug": "reynosa-mx28032"
+    },
+    "code": {
+      "id": "MX28032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.837",
+      "lon": "-98.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Bravo",
+      "en": "Rio Bravo",
+      "slug": "rio-bravo-mx28033"
+    },
+    "code": {
+      "id": "MX28033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.727",
+      "lon": "-98.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Carlos",
+      "en": "San Carlos",
+      "slug": "san-carlos-mx28034"
+    },
+    "code": {
+      "id": "MX28034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.498",
+      "lon": "-99.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Fernando",
+      "en": "San Fernando",
+      "slug": "san-fernando-mx28035"
+    },
+    "code": {
+      "id": "MX28035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.872",
+      "lon": "-98.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Nicolás",
+      "en": "San Nicolas",
+      "slug": "san-nicolas-mx28036"
+    },
+    "code": {
+      "id": "MX28036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.624",
+      "lon": "-98.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soto la Marina",
+      "en": "Soto la Marina",
+      "slug": "soto-la-marina-mx28037"
+    },
+    "code": {
+      "id": "MX28037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.862",
+      "lon": "-98.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tampico",
+      "en": "Tampico",
+      "slug": "tampico-mx28038"
+    },
+    "code": {
+      "id": "MX28038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.271",
+      "lon": "-97.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tula",
+      "en": "Tula",
+      "slug": "tula-mx28039"
+    },
+    "code": {
+      "id": "MX28039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.948",
+      "lon": "-99.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valle Hermoso",
+      "en": "Valle Hermoso",
+      "slug": "valle-hermoso-mx28040"
+    },
+    "code": {
+      "id": "MX28040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.782",
+      "lon": "-97.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-mx28041"
+    },
+    "code": {
+      "id": "MX28041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.689",
+      "lon": "-99.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villagrán",
+      "en": "Villagran",
+      "slug": "villagran-mx28042"
+    },
+    "code": {
+      "id": "MX28042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.588",
+      "lon": "-99.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX28043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xicoténcatl",
+      "en": "Xicotencatl",
+      "slug": "xicotencatl-mx28043"
+    },
+    "code": {
+      "id": "MX28043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX28",
+        "level": 1,
+        "name": {
+          "local": "Tamaulipas",
+          "en": "Tamaulipas",
+          "slug": "tamaulipas-mx28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.986",
+      "lon": "-98.884"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

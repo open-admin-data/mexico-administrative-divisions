@@ -1,0 +1,45 @@
+{
+  "id": "MX15108",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tultepec",
+    "en": "Tultepec",
+    "slug": "tultepec-mx15108"
+  },
+  "code": {
+    "id": "MX15108",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.678",
+    "lon": "-99.128"
+  },
+  "metadata": {},
+  "source": {}
+}

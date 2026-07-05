@@ -1,0 +1,45 @@
+{
+  "id": "MX15068",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ozumba",
+    "en": "Ozumba",
+    "slug": "ozumba-mx15068"
+  },
+  "code": {
+    "id": "MX15068",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.016",
+    "lon": "-98.795"
+  },
+  "metadata": {},
+  "source": {}
+}

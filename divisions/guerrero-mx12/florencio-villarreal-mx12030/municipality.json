@@ -1,0 +1,45 @@
+{
+  "id": "MX12030",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Florencio Villarreal",
+    "en": "Florencio Villarreal",
+    "slug": "florencio-villarreal-mx12030"
+  },
+  "code": {
+    "id": "MX12030",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.699",
+    "lon": "-99.141"
+  },
+  "metadata": {},
+  "source": {}
+}

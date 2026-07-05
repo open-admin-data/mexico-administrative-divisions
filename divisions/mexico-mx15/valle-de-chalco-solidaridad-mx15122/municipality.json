@@ -1,0 +1,45 @@
+{
+  "id": "MX15122",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Valle de Chalco Solidaridad",
+    "en": "Valle de Chalco Solidaridad",
+    "slug": "valle-de-chalco-solidaridad-mx15122"
+  },
+  "code": {
+    "id": "MX15122",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.283",
+    "lon": "-98.942"
+  },
+  "metadata": {},
+  "source": {}
+}

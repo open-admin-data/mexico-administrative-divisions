@@ -1,0 +1,45 @@
+{
+  "id": "MX20482",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Pinotepa Nacional",
+    "en": "Santiago Pinotepa Nacional",
+    "slug": "santiago-pinotepa-nacional-mx20482"
+  },
+  "code": {
+    "id": "MX20482",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.296",
+    "lon": "-98.16"
+  },
+  "metadata": {},
+  "source": {}
+}

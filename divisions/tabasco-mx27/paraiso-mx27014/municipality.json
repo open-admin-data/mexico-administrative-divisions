@@ -1,0 +1,45 @@
+{
+  "id": "MX27014",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paraíso",
+    "en": "Paraiso",
+    "slug": "paraiso-mx27014"
+  },
+  "code": {
+    "id": "MX27014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX27",
+    "level": 1,
+    "name": {
+      "local": "Tabasco",
+      "en": "Tabasco",
+      "slug": "tabasco-mx27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX27",
+      "level": 1,
+      "name": {
+        "local": "Tabasco",
+        "en": "Tabasco",
+        "slug": "tabasco-mx27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.362",
+    "lon": "-93.201"
+  },
+  "metadata": {},
+  "source": {}
+}

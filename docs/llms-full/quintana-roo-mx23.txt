@@ -1,0 +1,59 @@
+# Quintana Roo — Mexico Administrative Divisions
+
+> 10 municipalitys
+> Code: MX23
+> Coordinates: 19.742, -88.323
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Bacalar
+
+Code: MX23010, Coordinates: 18.941, -88.616
+
+
+### Benito Juárez (Benito Juarez)
+
+Code: MX23005, Coordinates: 20.98, -87.075
+
+
+### Cozumel
+
+Code: MX23001, Coordinates: 20.432, -86.92
+
+
+### Felipe Carrillo Puerto
+
+Code: MX23002, Coordinates: 19.738, -88.08
+
+
+### Isla Mujeres
+
+Code: MX23003, Coordinates: 21.4, -87.007
+
+
+### José María Morelos (Jose Maria Morelos)
+
+Code: MX23006, Coordinates: 19.707, -88.778
+
+
+### Lázaro Cárdenas (Lazaro Cardenas)
+
+Code: MX23007, Coordinates: 21.037, -87.427
+
+
+### Othón P. Blanco (Othon P. Blanco)
+
+Code: MX23004, Coordinates: 18.438, -88.826
+
+
+### Solidaridad
+
+Code: MX23008, Coordinates: 20.584, -87.503
+
+
+### Tulum
+
+Code: MX23009, Coordinates: 20.262, -87.687
+
+

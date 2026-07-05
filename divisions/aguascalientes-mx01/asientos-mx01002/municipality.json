@@ -1,0 +1,45 @@
+{
+  "id": "MX01002",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Asientos",
+    "en": "Asientos",
+    "slug": "asientos-mx01002"
+  },
+  "code": {
+    "id": "MX01002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.132",
+    "lon": "-102.095"
+  },
+  "metadata": {},
+  "source": {}
+}

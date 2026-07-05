@@ -1,0 +1,45 @@
+{
+  "id": "MX10037",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Topia",
+    "en": "Topia",
+    "slug": "topia-mx10037"
+  },
+  "code": {
+    "id": "MX10037",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.251",
+    "lon": "-106.553"
+  },
+  "metadata": {},
+  "source": {}
+}

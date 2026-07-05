@@ -1,0 +1,45 @@
+{
+  "id": "MX20028",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Heroica Ciudad de Ejutla de Crespo",
+    "en": "Heroica Ciudad de Ejutla de Crespo",
+    "slug": "heroica-ciudad-de-ejutla-de-crespo-mx20028"
+  },
+  "code": {
+    "id": "MX20028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.598",
+    "lon": "-96.661"
+  },
+  "metadata": {},
+  "source": {}
+}

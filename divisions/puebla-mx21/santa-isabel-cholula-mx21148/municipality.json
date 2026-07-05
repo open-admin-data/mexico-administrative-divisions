@@ -1,0 +1,45 @@
+{
+  "id": "MX21148",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Isabel Cholula",
+    "en": "Santa Isabel Cholula",
+    "slug": "santa-isabel-cholula-mx21148"
+  },
+  "code": {
+    "id": "MX21148",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.968",
+    "lon": "-98.39"
+  },
+  "metadata": {},
+  "source": {}
+}

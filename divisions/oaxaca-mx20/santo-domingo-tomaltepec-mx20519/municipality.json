@@ -1,0 +1,45 @@
+{
+  "id": "MX20519",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Tomaltepec",
+    "en": "Santo Domingo Tomaltepec",
+    "slug": "santo-domingo-tomaltepec-mx20519"
+  },
+  "code": {
+    "id": "MX20519",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.07",
+    "lon": "-96.597"
+  },
+  "metadata": {},
+  "source": {}
+}

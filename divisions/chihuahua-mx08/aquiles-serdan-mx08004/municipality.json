@@ -1,0 +1,45 @@
+{
+  "id": "MX08004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aquiles Serdán",
+    "en": "Aquiles Serdan",
+    "slug": "aquiles-serdan-mx08004"
+  },
+  "code": {
+    "id": "MX08004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.58",
+    "lon": "-105.821"
+  },
+  "metadata": {},
+  "source": {}
+}

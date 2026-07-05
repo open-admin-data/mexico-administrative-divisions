@@ -1,0 +1,45 @@
+{
+  "id": "MX02004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tijuana",
+    "en": "Tijuana",
+    "slug": "tijuana-mx02004"
+  },
+  "code": {
+    "id": "MX02004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX02",
+    "level": 1,
+    "name": {
+      "local": "Baja California",
+      "en": "Baja California",
+      "slug": "baja-california-mx02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.378",
+    "lon": "-116.796"
+  },
+  "metadata": {},
+  "source": {}
+}

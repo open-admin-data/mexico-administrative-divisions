@@ -1,0 +1,45 @@
+{
+  "id": "MX14020",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cabo Corrientes",
+    "en": "Cabo Corrientes",
+    "slug": "cabo-corrientes-mx14020"
+  },
+  "code": {
+    "id": "MX14020",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.333",
+    "lon": "-105.424"
+  },
+  "metadata": {},
+  "source": {}
+}

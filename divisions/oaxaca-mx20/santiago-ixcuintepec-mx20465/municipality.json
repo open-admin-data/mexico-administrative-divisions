@@ -1,0 +1,45 @@
+{
+  "id": "MX20465",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Ixcuintepec",
+    "en": "Santiago Ixcuintepec",
+    "slug": "santiago-ixcuintepec-mx20465"
+  },
+  "code": {
+    "id": "MX20465",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.928",
+    "lon": "-95.579"
+  },
+  "metadata": {},
+  "source": {}
+}

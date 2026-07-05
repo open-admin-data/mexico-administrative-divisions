@@ -1,0 +1,45 @@
+{
+  "id": "MX20248",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Mateo del Mar",
+    "en": "San Mateo del Mar",
+    "slug": "san-mateo-del-mar-mx20248"
+  },
+  "code": {
+    "id": "MX20248",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.21",
+    "lon": "-95.057"
+  },
+  "metadata": {},
+  "source": {}
+}

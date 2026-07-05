@@ -1,0 +1,59 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MX24001,Ahualulco,Ahualulco,ahualulco-mx24001,MX24001,22.473,-101.199
+MX24002,Alaquines,Alaquines,alaquines-mx24002,MX24002,22.081,-99.6
+MX24003,Aquismón,Aquismon,aquismon-mx24003,MX24003,21.748,-99.064
+MX24004,Armadillo de los Infante,Armadillo de los Infante,armadillo-de-los-infante-mx24004,MX24004,22.261,-100.687
+MX24053,Axtla de Terrazas,Axtla de Terrazas,axtla-de-terrazas-mx24053,MX24053,21.424,-98.878
+MX24005,Cárdenas,Cardenas,cardenas-mx24005,MX24005,22.006,-99.649
+MX24006,Catorce,Catorce,catorce-mx24006,MX24006,23.644,-101.055
+MX24007,Cedral,Cedral,cedral-mx24007,MX24007,23.943,-100.685
+MX24008,Cerritos,Cerritos,cerritos-mx24008,MX24008,22.419,-100.298
+MX24009,Cerro de San Pedro,Cerro de San Pedro,cerro-de-san-pedro-mx24009,MX24009,22.2,-100.762
+MX24015,Charcas,Charcas,charcas-mx24015,MX24015,23.273,-101.109
+MX24010,Ciudad del Maíz,Ciudad del Maiz,ciudad-del-maiz-mx24010,MX24010,22.431,-99.705
+MX24011,Ciudad Fernández,Ciudad Fernandez,ciudad-fernandez-mx24011,MX24011,21.991,-100.049
+MX24013,Ciudad Valles,Ciudad Valles,ciudad-valles-mx24013,MX24013,22.076,-99.073
+MX24014,Coxcatlán,Coxcatlan,coxcatlan-mx24014,MX24014,21.515,-98.898
+MX24016,Ebano,Ebano,ebano-mx24016,MX24016,22.168,-98.444
+MX24058,El Naranjo,El Naranjo,el-naranjo-mx24058,MX24058,22.451,-99.34
+MX24017,Guadalcázar,Guadalcazar,guadalcazar-mx24017,MX24017,22.901,-100.296
+MX24018,Huehuetlán,Huehuetlan,huehuetlan-mx24018,MX24018,21.517,-98.992
+MX24019,Lagunillas,Lagunillas,lagunillas-mx24019,MX24019,21.598,-99.619
+MX24020,Matehuala,Matehuala,matehuala-mx24020,MX24020,23.523,-100.605
+MX24057,Matlapa,Matlapa,matlapa-mx24057,MX24057,21.333,-98.819
+MX24021,Mexquitic de Carmona,Mexquitic de Carmona,mexquitic-de-carmona-mx24021,MX24021,22.255,-101.18
+MX24022,Moctezuma,Moctezuma,moctezuma-mx24022,MX24022,22.707,-101.144
+MX24023,Rayón,Rayon,rayon-mx24023,MX24023,21.795,-99.649
+MX24024,Rioverde,Rioverde,rioverde-mx24024,MX24024,21.979,-100.248
+MX24025,Salinas,Salinas,salinas-mx24025,MX24025,22.823,-101.725
+MX24026,San Antonio,San Antonio,san-antonio-mx24026,MX24026,21.619,-98.877
+MX24027,San Ciro de Acosta,San Ciro de Acosta,san-ciro-de-acosta-mx24027,MX24027,21.589,-99.899
+MX24028,San Luis Potosí,San Luis Potosi,san-luis-potosi-mx24028,MX24028,22.309,-100.926
+MX24029,San Martín Chalchicuautla,San Martin Chalchicuautla,san-martin-chalchicuautla-mx24029,MX24029,21.363,-98.672
+MX24030,San Nicolás Tolentino,San Nicolas Tolentino,san-nicolas-tolentino-mx24030,MX24030,22.148,-100.443
+MX24034,San Vicente Tancuayalab,San Vicente Tancuayalab,san-vicente-tancuayalab-mx24034,MX24034,21.813,-98.596
+MX24031,Santa Catarina,Santa Catarina,santa-catarina-mx24031,MX24031,21.575,-99.389
+MX24032,Santa María del Río,Santa Maria del Rio,santa-maria-del-rio-mx24032,MX24032,21.735,-100.738
+MX24033,Santo Domingo,Santo Domingo,santo-domingo-mx24033,MX24033,23.412,-101.558
+MX24035,Soledad de Graciano Sánchez,Soledad de Graciano Sanchez,soledad-de-graciano-sanchez-mx24035,MX24035,22.297,-100.867
+MX24036,Tamasopo,Tamasopo,tamasopo-mx24036,MX24036,21.931,-99.347
+MX24037,Tamazunchale,Tamazunchale,tamazunchale-mx24037,MX24037,21.244,-98.797
+MX24038,Tampacán,Tampacan,tampacan-mx24038,MX24038,21.408,-98.75
+MX24039,Tampamolón Corona,Tampamolon Corona,tampamolon-corona-mx24039,MX24039,21.551,-98.784
+MX24040,Tamuín,Tamuin,tamuin-mx24040,MX24040,22.082,-98.693
+MX24012,Tancanhuitz,Tancanhuitz,tancanhuitz-mx24012,MX24012,21.641,-98.96
+MX24041,Tanlajás,Tanlajas,tanlajas-mx24041,MX24041,21.745,-98.83
+MX24042,Tanquián de Escobedo,Tanquian de Escobedo,tanquian-de-escobedo-mx24042,MX24042,21.611,-98.672
+MX24043,Tierra Nueva,Tierra Nueva,tierra-nueva-mx24043,MX24043,21.645,-100.528
+MX24044,Vanegas,Vanegas,vanegas-mx24044,MX24044,24.143,-100.948
+MX24045,Venado,Venado,venado-mx24045,MX24045,22.922,-101.099
+MX24056,Villa de Arista,Villa de Arista,villa-de-arista-mx24056,MX24056,22.668,-100.798
+MX24046,Villa de Arriaga,Villa de Arriaga,villa-de-arriaga-mx24046,MX24046,21.982,-101.214
+MX24047,Villa de Guadalupe,Villa de Guadalupe,villa-de-guadalupe-mx24047,MX24047,23.276,-100.776
+MX24048,Villa de la Paz,Villa de la Paz,villa-de-la-paz-mx24048,MX24048,23.655,-100.76
+MX24049,Villa de Ramos,Villa de Ramos,villa-de-ramos-mx24049,MX24049,22.915,-101.877
+MX24050,Villa de Reyes,Villa de Reyes,villa-de-reyes-mx24050,MX24050,21.835,-101.004
+MX24051,Villa Hidalgo,Villa Hidalgo,villa-hidalgo-mx24051,MX24051,22.682,-100.63
+MX24052,Villa Juárez,Villa Juarez,villa-juarez-mx24052,MX24052,22.292,-100.22
+MX24054,Xilitla,Xilitla,xilitla-mx24054,MX24054,21.394,-99.013
+MX24055,Zaragoza,Zaragoza,zaragoza-mx24055,MX24055,22.038,-100.672

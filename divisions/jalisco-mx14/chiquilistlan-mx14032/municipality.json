@@ -1,0 +1,45 @@
+{
+  "id": "MX14032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chiquilistlán",
+    "en": "Chiquilistlan",
+    "slug": "chiquilistlan-mx14032"
+  },
+  "code": {
+    "id": "MX14032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.08",
+    "lon": "-103.882"
+  },
+  "metadata": {},
+  "source": {}
+}

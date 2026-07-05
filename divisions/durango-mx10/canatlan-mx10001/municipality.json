@@ -1,0 +1,45 @@
+{
+  "id": "MX10001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Canatlán",
+    "en": "Canatlan",
+    "slug": "canatlan-mx10001"
+  },
+  "code": {
+    "id": "MX10001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.53",
+    "lon": "-104.98"
+  },
+  "metadata": {},
+  "source": {}
+}

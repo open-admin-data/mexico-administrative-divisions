@@ -1,0 +1,539 @@
+# Yucatan — Mexico Administrative Divisions
+
+> 106 municipalitys
+> Code: MX31
+> Coordinates: 20.61, -89.088
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abalá (Abala)
+
+Code: MX31001, Coordinates: 20.66, -89.655
+
+
+### Acanceh
+
+Code: MX31002, Coordinates: 20.818, -89.467
+
+
+### Akil
+
+Code: MX31003, Coordinates: 20.26, -89.344
+
+
+### Baca
+
+Code: MX31004, Coordinates: 21.134, -89.402
+
+
+### Bokobá (Bokoba)
+
+Code: MX31005, Coordinates: 20.995, -89.173
+
+
+### Buctzotz
+
+Code: MX31006, Coordinates: 21.213, -88.646
+
+
+### Cacalchén (Cacalchen)
+
+Code: MX31007, Coordinates: 20.984, -89.243
+
+
+### Calotmul
+
+Code: MX31008, Coordinates: 20.998, -88.145
+
+
+### Cansahcab
+
+Code: MX31009, Coordinates: 21.168, -89.066
+
+
+### Cantamayec
+
+Code: MX31010, Coordinates: 20.413, -89.057
+
+
+### Celestún (Celestun)
+
+Code: MX31011, Coordinates: 20.922, -90.28
+
+
+### Cenotillo
+
+Code: MX31012, Coordinates: 21.031, -88.595
+
+
+### Chacsinkín (Chacsinkin)
+
+Code: MX31016, Coordinates: 20.21, -89.015
+
+
+### Chankom
+
+Code: MX31017, Coordinates: 20.465, -88.576
+
+
+### Chapab
+
+Code: MX31018, Coordinates: 20.5, -89.508
+
+
+### Chemax
+
+Code: MX31019, Coordinates: 20.732, -87.841
+
+
+### Chichimilá (Chichimila)
+
+Code: MX31021, Coordinates: 20.466, -88.18
+
+
+### Chicxulub Pueblo
+
+Code: MX31020, Coordinates: 21.153, -89.526
+
+
+### Chikindzonot
+
+Code: MX31022, Coordinates: 20.253, -88.496
+
+
+### Chocholá (Chochola)
+
+Code: MX31023, Coordinates: 20.727, -89.856
+
+
+### Chumayel
+
+Code: MX31024, Coordinates: 20.47, -89.278
+
+
+### Conkal
+
+Code: MX31013, Coordinates: 21.075, -89.529
+
+
+### Cuncunul
+
+Code: MX31014, Coordinates: 20.622, -88.326
+
+
+### Cuzamá (Cuzama)
+
+Code: MX31015, Coordinates: 20.713, -89.357
+
+
+### Dzán (Dzan)
+
+Code: MX31025, Coordinates: 20.397, -89.471
+
+
+### Dzemul
+
+Code: MX31026, Coordinates: 21.252, -89.327
+
+
+### Dzidzantún (Dzidzantun)
+
+Code: MX31027, Coordinates: 21.289, -89.036
+
+
+### Dzilam de Bravo
+
+Code: MX31028, Coordinates: 21.441, -88.618
+
+
+### Dzilam González (Dzilam Gonzalez)
+
+Code: MX31029, Coordinates: 21.324, -88.799
+
+
+### Dzitás (Dzitas)
+
+Code: MX31030, Coordinates: 20.833, -88.528
+
+
+### Dzoncauich
+
+Code: MX31031, Coordinates: 21.095, -88.827
+
+
+### Espita
+
+Code: MX31032, Coordinates: 21.01, -88.362
+
+
+### Halachó (Halacho)
+
+Code: MX31033, Coordinates: 20.586, -90.283
+
+
+### Hocabá (Hocaba)
+
+Code: MX31034, Coordinates: 20.809, -89.255
+
+
+### Hoctún (Hoctun)
+
+Code: MX31035, Coordinates: 20.886, -89.183
+
+
+### Homún (Homun)
+
+Code: MX31036, Coordinates: 20.665, -89.237
+
+
+### Huhí (Huhi)
+
+Code: MX31037, Coordinates: 20.689, -89.137
+
+
+### Hunucmá (Hunucma)
+
+Code: MX31038, Coordinates: 21.076, -89.989
+
+
+### Ixil
+
+Code: MX31039, Coordinates: 21.229, -89.477
+
+
+### Izamal
+
+Code: MX31040, Coordinates: 20.884, -88.872
+
+
+### Kanasín (Kanasin)
+
+Code: MX31041, Coordinates: 20.915, -89.541
+
+
+### Kantunil
+
+Code: MX31042, Coordinates: 20.751, -88.968
+
+
+### Kaua
+
+Code: MX31043, Coordinates: 20.599, -88.403
+
+
+### Kinchil
+
+Code: MX31044, Coordinates: 20.843, -90.106
+
+
+### Kopomá (Kopoma)
+
+Code: MX31045, Coordinates: 20.643, -89.9
+
+
+### Mama
+
+Code: MX31046, Coordinates: 20.51, -89.385
+
+
+### Maní (Mani)
+
+Code: MX31047, Coordinates: 20.39, -89.375
+
+
+### Maxcanú (Maxcanu)
+
+Code: MX31048, Coordinates: 20.596, -90.077
+
+
+### Mayapán (Mayapan)
+
+Code: MX31049, Coordinates: 20.492, -89.192
+
+
+### Mérida (Merida)
+
+Code: MX31050, Coordinates: 20.944, -89.651
+
+
+### Mocochá (Mococha)
+
+Code: MX31051, Coordinates: 21.144, -89.447
+
+
+### Motul
+
+Code: MX31052, Coordinates: 21.165, -89.337
+
+
+### Muna
+
+Code: MX31053, Coordinates: 20.468, -89.732
+
+
+### Muxupip
+
+Code: MX31054, Coordinates: 21.056, -89.323
+
+
+### Opichén (Opichen)
+
+Code: MX31055, Coordinates: 20.55, -89.846
+
+
+### Oxkutzcab
+
+Code: MX31056, Coordinates: 20.139, -89.55
+
+
+### Panabá (Panaba)
+
+Code: MX31057, Coordinates: 21.34, -88.3
+
+
+### Peto
+
+Code: MX31058, Coordinates: 20.052, -88.829
+
+
+### Progreso
+
+Code: MX31059, Coordinates: 21.23, -89.673
+
+
+### Quintana Roo
+
+Code: MX31060, Coordinates: 20.839, -88.616
+
+
+### Río Lagartos (Rio Lagartos)
+
+Code: MX31061, Coordinates: 21.516, -88.133
+
+
+### Sacalum
+
+Code: MX31062, Coordinates: 20.505, -89.611
+
+
+### Samahil
+
+Code: MX31063, Coordinates: 20.848, -89.965
+
+
+### San Felipe
+
+Code: MX31065, Coordinates: 21.485, -88.312
+
+
+### Sanahcat
+
+Code: MX31064, Coordinates: 20.761, -89.2
+
+
+### Santa Elena
+
+Code: MX31066, Coordinates: 20.255, -89.737
+
+
+### Seyé (Seye)
+
+Code: MX31067, Coordinates: 20.849, -89.355
+
+
+### Sinanché (Sinanche)
+
+Code: MX31068, Coordinates: 21.268, -89.197
+
+
+### Sotuta
+
+Code: MX31069, Coordinates: 20.616, -88.969
+
+
+### Sucilá (Sucila)
+
+Code: MX31070, Coordinates: 21.21, -88.381
+
+
+### Sudzal
+
+Code: MX31071, Coordinates: 20.784, -88.832
+
+
+### Suma
+
+Code: MX31072, Coordinates: 21.109, -89.161
+
+
+### Tahdziú (Tahdziu)
+
+Code: MX31073, Coordinates: 20.246, -88.888
+
+
+### Tahmek
+
+Code: MX31074, Coordinates: 20.9, -89.28
+
+
+### Teabo
+
+Code: MX31075, Coordinates: 20.381, -89.213
+
+
+### Tecoh
+
+Code: MX31076, Coordinates: 20.666, -89.44
+
+
+### Tekal de Venegas
+
+Code: MX31077, Coordinates: 21.02, -88.86
+
+
+### Tekantó (Tekanto)
+
+Code: MX31078, Coordinates: 21.008, -89.098
+
+
+### Tekax
+
+Code: MX31079, Coordinates: 19.976, -89.342
+
+
+### Tekit
+
+Code: MX31080, Coordinates: 20.568, -89.275
+
+
+### Tekom
+
+Code: MX31081, Coordinates: 20.501, -88.392
+
+
+### Telchac Pueblo
+
+Code: MX31082, Coordinates: 21.219, -89.256
+
+
+### Telchac Puerto
+
+Code: MX31083, Coordinates: 21.308, -89.274
+
+
+### Temax
+
+Code: MX31084, Coordinates: 21.173, -88.892
+
+
+### Temozón (Temozon)
+
+Code: MX31085, Coordinates: 20.894, -88.073
+
+
+### Tepakán (Tepakan)
+
+Code: MX31086, Coordinates: 21.063, -89.015
+
+
+### Tetiz
+
+Code: MX31087, Coordinates: 20.956, -90.052
+
+
+### Teya
+
+Code: MX31088, Coordinates: 21.057, -89.079
+
+
+### Ticul
+
+Code: MX31089, Coordinates: 20.364, -89.554
+
+
+### Timucuy
+
+Code: MX31090, Coordinates: 20.741, -89.573
+
+
+### Tinum
+
+Code: MX31091, Coordinates: 20.741, -88.444
+
+
+### Tixcacalcupul
+
+Code: MX31092, Coordinates: 20.413, -88.322
+
+
+### Tixkokob
+
+Code: MX31093, Coordinates: 20.976, -89.349
+
+
+### Tixmehuac
+
+Code: MX31094, Coordinates: 20.248, -89.085
+
+
+### Tixpéhual (Tixpehual)
+
+Code: MX31095, Coordinates: 20.961, -89.439
+
+
+### Tizimín (Tizimin)
+
+Code: MX31096, Coordinates: 21.249, -87.873
+
+
+### Tunkás (Tunkas)
+
+Code: MX31097, Coordinates: 20.897, -88.746
+
+
+### Tzucacab
+
+Code: MX31098, Coordinates: 19.922, -89.009
+
+
+### Uayma
+
+Code: MX31099, Coordinates: 20.788, -88.318
+
+
+### Ucú (Ucu)
+
+Code: MX31100, Coordinates: 21.086, -89.78
+
+
+### Umán (Uman)
+
+Code: MX31101, Coordinates: 20.847, -89.768
+
+
+### Valladolid
+
+Code: MX31102, Coordinates: 20.614, -88.093
+
+
+### Xocchel
+
+Code: MX31103, Coordinates: 20.795, -89.109
+
+
+### Yaxcabá (Yaxcaba)
+
+Code: MX31104, Coordinates: 20.485, -88.787
+
+
+### Yaxkukul
+
+Code: MX31105, Coordinates: 21.057, -89.441
+
+
+### Yobaín (Yobain)
+
+Code: MX31106, Coordinates: 21.285, -89.121
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "MX20100",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Andrés Yaá",
+    "en": "San Andres Yaá",
+    "slug": "san-andres-ya-mx20100"
+  },
+  "code": {
+    "id": "MX20100",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.294",
+    "lon": "-96.126"
+  },
+  "metadata": {},
+  "source": {}
+}

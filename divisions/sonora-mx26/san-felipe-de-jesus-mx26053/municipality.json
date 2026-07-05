@@ -1,0 +1,45 @@
+{
+  "id": "MX26053",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Felipe de Jesús",
+    "en": "San Felipe de Jesus",
+    "slug": "san-felipe-de-jesus-mx26053"
+  },
+  "code": {
+    "id": "MX26053",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.87",
+    "lon": "-110.32"
+  },
+  "metadata": {},
+  "source": {}
+}

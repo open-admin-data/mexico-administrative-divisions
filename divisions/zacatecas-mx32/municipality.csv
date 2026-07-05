@@ -1,0 +1,59 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MX32001,Apozol,Apozol,apozol-mx32001,MX32001,21.463,-103.077
+MX32002,Apulco,Apulco,apulco-mx32002,MX32002,21.456,-102.676
+MX32003,Atolinga,Atolinga,atolinga-mx32003,MX32003,21.766,-103.466
+MX32004,Benito Juárez,Benito Juarez,benito-juarez-mx32004,MX32004,21.491,-103.59
+MX32005,Calera,Calera,calera-mx32005,MX32005,22.978,-102.856
+MX32006,Cañitas de Felipe Pescador,Canitas de Felipe Pescador,canitas-de-felipe-pescador-mx32006,MX32006,23.576,-102.717
+MX32009,Chalchihuites,Chalchihuites,chalchihuites-mx32009,MX32009,23.442,-103.943
+MX32007,Concepción del Oro,Concepcion del Oro,concepcion-del-oro-mx32007,MX32007,24.449,-101.187
+MX32008,Cuauhtémoc,Cuauhtemoc,cuauhtemoc-mx32008,MX32008,22.461,-102.353
+MX32015,El Plateado de Joaquín Amaro,El Plateado de Joaquin Amaro,el-plateado-de-joaquin-amaro-mx32015,MX32015,22.004,-103.065
+MX32041,El Salvador,El Salvador,el-salvador-mx32041,MX32041,24.441,-100.876
+MX32010,Fresnillo,Fresnillo,fresnillo-mx32010,MX32010,23.225,-103.016
+MX32012,Genaro Codina,Genaro Codina,genaro-codina-mx32012,MX32012,22.457,-102.584
+MX32013,General Enrique Estrada,General Enrique Estrada,general-enrique-estrada-mx32013,MX32013,23.015,-102.793
+MX32014,General Francisco R. Murguía,General Francisco R. Murguia,general-francisco-r-murguia-mx32014,MX32014,24.128,-102.761
+MX32016,General Pánfilo Natera,General Panfilo Natera,general-panfilo-natera-mx32016,MX32016,22.703,-102.097
+MX32017,Guadalupe,Guadalupe,guadalupe-mx32017,MX32017,22.782,-102.451
+MX32018,Huanusco,Huanusco,huanusco-mx32018,MX32018,21.768,-102.931
+MX32019,Jalpa,Jalpa,jalpa-mx32019,MX32019,21.631,-103.008
+MX32020,Jerez,Jerez,jerez-mx32020,MX32020,22.711,-103.001
+MX32021,Jiménez del Teul,Jimenez del Teul,jimenez-del-teul-mx32021,MX32021,23.148,-103.965
+MX32022,Juan Aldama,Juan Aldama,juan-aldama-mx32022,MX32022,24.256,-103.307
+MX32023,Juchipila,Juchipila,juchipila-mx32023,MX32023,21.378,-103.126
+MX32024,Loreto,Loreto,loreto-mx32024,MX32024,22.274,-101.913
+MX32025,Luis Moya,Luis Moya,luis-moya-mx32025,MX32025,22.435,-102.254
+MX32026,Mazapil,Mazapil,mazapil-mx32026,MX32026,24.381,-101.979
+MX32027,Melchor Ocampo,Melchor Ocampo,melchor-ocampo-mx32027,MX32027,24.9,-101.977
+MX32028,Mezquital del Oro,Mezquital del Oro,mezquital-del-oro-mx32028,MX32028,21.194,-103.36
+MX32029,Miguel Auza,Miguel Auza,miguel-auza-mx32029,MX32029,24.162,-103.463
+MX32030,Momax,Momax,momax-mx32030,MX32030,21.945,-103.237
+MX32031,Monte Escobedo,Monte Escobedo,monte-escobedo-mx32031,MX32031,22.38,-103.472
+MX32032,Morelos,Morelos,morelos-mx32032,MX32032,22.856,-102.683
+MX32033,Moyahua de Estrada,Moyahua de Estrada,moyahua-de-estrada-mx32033,MX32033,21.196,-103.183
+MX32034,Nochistlán de Mejía,Nochistlan de Mejia,nochistlan-de-mejia-mx32034,MX32034,21.436,-102.827
+MX32035,Noria de Ángeles,Noria de Angeles,noria-de-angeles-mx32035,MX32035,22.399,-101.956
+MX32036,Ojocaliente,Ojocaliente,ojocaliente-mx32036,MX32036,22.566,-102.232
+MX32037,Pánuco,Panuco,panuco-mx32037,MX32037,22.979,-102.475
+MX32038,Pinos,Pinos,pinos-mx32038,MX32038,22.273,-101.604
+MX32039,Río Grande,Rio Grande,rio-grande-mx32039,MX32039,23.813,-103.051
+MX32040,Sain Alto,Sain Alto,sain-alto-mx32040,MX32040,23.579,-103.219
+MX32058,Santa María de la Paz,Santa Maria de la Paz,santa-maria-de-la-paz-mx32058,MX32058,21.511,-103.371
+MX32042,Sombrerete,Sombrerete,sombrerete-mx32042,MX32042,23.575,-103.647
+MX32043,Susticacán,Susticacan,susticacan-mx32043,MX32043,22.63,-103.192
+MX32044,Tabasco,Tabasco,tabasco-mx32044,MX32044,21.94,-102.925
+MX32045,Tepechitlán,Tepechitlan,tepechitlan-mx32045,MX32045,21.615,-103.365
+MX32046,Tepetongo,Tepetongo,tepetongo-mx32046,MX32046,22.423,-103.158
+MX32047,Teúl de González Ortega,Teul de Gonzalez Ortega,teul-de-gonzalez-ortega-mx32047,MX32047,21.35,-103.405
+MX32048,Tlaltenango de Sánchez Román,Tlaltenango de Sanchez Roman,tlaltenango-de-sanchez-roman-mx32048,MX32048,21.775,-103.245
+MX32057,Trancoso,Trancoso,trancoso-mx32057,MX32057,22.757,-102.322
+MX32011,Trinidad García de la Cadena,Trinidad Garcia de la Cadena,trinidad-garcia-de-la-cadena-mx32011,MX32011,21.223,-103.494
+MX32049,Valparaíso,Valparaiso,valparaiso-mx32049,MX32049,22.665,-103.526
+MX32050,Vetagrande,Vetagrande,vetagrande-mx32050,MX32050,22.871,-102.444
+MX32051,Villa de Cos,Villa de Cos,villa-de-cos-mx32051,MX32051,23.529,-102.117
+MX32052,Villa García,Villa Garcia,villa-garcia-mx32052,MX32052,22.125,-101.902
+MX32053,Villa González Ortega,Villa Gonzalez Ortega,villa-gonzalez-ortega-mx32053,MX32053,22.544,-101.939
+MX32054,Villa Hidalgo,Villa Hidalgo,villa-hidalgo-mx32054,MX32054,22.407,-101.722
+MX32055,Villanueva,Villanueva,villanueva-mx32055,MX32055,22.335,-102.843
+MX32056,Zacatecas,Zacatecas,zacatecas-mx32056,MX32056,22.729,-102.669

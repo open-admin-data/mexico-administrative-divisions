@@ -1,0 +1,45 @@
+{
+  "id": "MX20175",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan Bautista Atatlahuca",
+    "en": "San Juan Bautista Atatlahuca",
+    "slug": "san-juan-bautista-atatlahuca-mx20175"
+  },
+  "code": {
+    "id": "MX20175",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.583",
+    "lon": "-96.765"
+  },
+  "metadata": {},
+  "source": {}
+}

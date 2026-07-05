@@ -1,0 +1,33 @@
+{
+  "id": "MX11",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Guanajuato",
+    "en": "Guanajuato",
+    "slug": "guanajuato-mx11"
+  },
+  "code": {
+    "id": "MX11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.877",
+    "lon": "-101.257"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/guanajuato-mx11/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

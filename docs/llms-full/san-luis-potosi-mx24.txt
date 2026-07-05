@@ -1,0 +1,299 @@
+# San Luis Potosi — Mexico Administrative Divisions
+
+> 58 municipalitys
+> Code: MX24
+> Coordinates: 22.827, -101.096
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ahualulco
+
+Code: MX24001, Coordinates: 22.473, -101.199
+
+
+### Alaquines
+
+Code: MX24002, Coordinates: 22.081, -99.6
+
+
+### Aquismón (Aquismon)
+
+Code: MX24003, Coordinates: 21.748, -99.064
+
+
+### Armadillo de los Infante
+
+Code: MX24004, Coordinates: 22.261, -100.687
+
+
+### Axtla de Terrazas
+
+Code: MX24053, Coordinates: 21.424, -98.878
+
+
+### Cárdenas (Cardenas)
+
+Code: MX24005, Coordinates: 22.006, -99.649
+
+
+### Catorce
+
+Code: MX24006, Coordinates: 23.644, -101.055
+
+
+### Cedral
+
+Code: MX24007, Coordinates: 23.943, -100.685
+
+
+### Cerritos
+
+Code: MX24008, Coordinates: 22.419, -100.298
+
+
+### Cerro de San Pedro
+
+Code: MX24009, Coordinates: 22.2, -100.762
+
+
+### Charcas
+
+Code: MX24015, Coordinates: 23.273, -101.109
+
+
+### Ciudad del Maíz (Ciudad del Maiz)
+
+Code: MX24010, Coordinates: 22.431, -99.705
+
+
+### Ciudad Fernández (Ciudad Fernandez)
+
+Code: MX24011, Coordinates: 21.991, -100.049
+
+
+### Ciudad Valles
+
+Code: MX24013, Coordinates: 22.076, -99.073
+
+
+### Coxcatlán (Coxcatlan)
+
+Code: MX24014, Coordinates: 21.515, -98.898
+
+
+### Ebano
+
+Code: MX24016, Coordinates: 22.168, -98.444
+
+
+### El Naranjo
+
+Code: MX24058, Coordinates: 22.451, -99.34
+
+
+### Guadalcázar (Guadalcazar)
+
+Code: MX24017, Coordinates: 22.901, -100.296
+
+
+### Huehuetlán (Huehuetlan)
+
+Code: MX24018, Coordinates: 21.517, -98.992
+
+
+### Lagunillas
+
+Code: MX24019, Coordinates: 21.598, -99.619
+
+
+### Matehuala
+
+Code: MX24020, Coordinates: 23.523, -100.605
+
+
+### Matlapa
+
+Code: MX24057, Coordinates: 21.333, -98.819
+
+
+### Mexquitic de Carmona
+
+Code: MX24021, Coordinates: 22.255, -101.18
+
+
+### Moctezuma
+
+Code: MX24022, Coordinates: 22.707, -101.144
+
+
+### Rayón (Rayon)
+
+Code: MX24023, Coordinates: 21.795, -99.649
+
+
+### Rioverde
+
+Code: MX24024, Coordinates: 21.979, -100.248
+
+
+### Salinas
+
+Code: MX24025, Coordinates: 22.823, -101.725
+
+
+### San Antonio
+
+Code: MX24026, Coordinates: 21.619, -98.877
+
+
+### San Ciro de Acosta
+
+Code: MX24027, Coordinates: 21.589, -99.899
+
+
+### San Luis Potosí (San Luis Potosi)
+
+Code: MX24028, Coordinates: 22.309, -100.926
+
+
+### San Martín Chalchicuautla (San Martin Chalchicuautla)
+
+Code: MX24029, Coordinates: 21.363, -98.672
+
+
+### San Nicolás Tolentino (San Nicolas Tolentino)
+
+Code: MX24030, Coordinates: 22.148, -100.443
+
+
+### San Vicente Tancuayalab
+
+Code: MX24034, Coordinates: 21.813, -98.596
+
+
+### Santa Catarina
+
+Code: MX24031, Coordinates: 21.575, -99.389
+
+
+### Santa María del Río (Santa Maria del Rio)
+
+Code: MX24032, Coordinates: 21.735, -100.738
+
+
+### Santo Domingo
+
+Code: MX24033, Coordinates: 23.412, -101.558
+
+
+### Soledad de Graciano Sánchez (Soledad de Graciano Sanchez)
+
+Code: MX24035, Coordinates: 22.297, -100.867
+
+
+### Tamasopo
+
+Code: MX24036, Coordinates: 21.931, -99.347
+
+
+### Tamazunchale
+
+Code: MX24037, Coordinates: 21.244, -98.797
+
+
+### Tampacán (Tampacan)
+
+Code: MX24038, Coordinates: 21.408, -98.75
+
+
+### Tampamolón Corona (Tampamolon Corona)
+
+Code: MX24039, Coordinates: 21.551, -98.784
+
+
+### Tamuín (Tamuin)
+
+Code: MX24040, Coordinates: 22.082, -98.693
+
+
+### Tancanhuitz
+
+Code: MX24012, Coordinates: 21.641, -98.96
+
+
+### Tanlajás (Tanlajas)
+
+Code: MX24041, Coordinates: 21.745, -98.83
+
+
+### Tanquián de Escobedo (Tanquian de Escobedo)
+
+Code: MX24042, Coordinates: 21.611, -98.672
+
+
+### Tierra Nueva
+
+Code: MX24043, Coordinates: 21.645, -100.528
+
+
+### Vanegas
+
+Code: MX24044, Coordinates: 24.143, -100.948
+
+
+### Venado
+
+Code: MX24045, Coordinates: 22.922, -101.099
+
+
+### Villa de Arista
+
+Code: MX24056, Coordinates: 22.668, -100.798
+
+
+### Villa de Arriaga
+
+Code: MX24046, Coordinates: 21.982, -101.214
+
+
+### Villa de Guadalupe
+
+Code: MX24047, Coordinates: 23.276, -100.776
+
+
+### Villa de la Paz
+
+Code: MX24048, Coordinates: 23.655, -100.76
+
+
+### Villa de Ramos
+
+Code: MX24049, Coordinates: 22.915, -101.877
+
+
+### Villa de Reyes
+
+Code: MX24050, Coordinates: 21.835, -101.004
+
+
+### Villa Hidalgo
+
+Code: MX24051, Coordinates: 22.682, -100.63
+
+
+### Villa Juárez (Villa Juarez)
+
+Code: MX24052, Coordinates: 22.292, -100.22
+
+
+### Xilitla
+
+Code: MX24054, Coordinates: 21.394, -99.013
+
+
+### Zaragoza
+
+Code: MX24055, Coordinates: 22.038, -100.672
+
+

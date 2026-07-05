@@ -1,0 +1,45 @@
+{
+  "id": "MX01001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aguascalientes",
+    "en": "Aguascalientes",
+    "slug": "aguascalientes-mx01001"
+  },
+  "code": {
+    "id": "MX01001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.848",
+    "lon": "-102.305"
+  },
+  "metadata": {},
+  "source": {}
+}

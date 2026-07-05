@@ -1,0 +1,497 @@
+[
+  {
+    "id": "MX04010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calakmul",
+      "en": "Calakmul",
+      "slug": "calakmul-mx04010"
+    },
+    "code": {
+      "id": "MX04010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.486",
+      "lon": "-89.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calkiní",
+      "en": "Calkini",
+      "slug": "calkini-mx04001"
+    },
+    "code": {
+      "id": "MX04001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.481",
+      "lon": "-90.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Campeche",
+      "en": "Campeche",
+      "slug": "campeche-mx04002"
+    },
+    "code": {
+      "id": "MX04002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.592",
+      "lon": "-90.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Candelaria",
+      "en": "Candelaria",
+      "slug": "candelaria-mx04011"
+    },
+    "code": {
+      "id": "MX04011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.161",
+      "lon": "-90.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carmen",
+      "en": "Carmen",
+      "slug": "carmen-mx04003"
+    },
+    "code": {
+      "id": "MX04003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.453",
+      "lon": "-91.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Champotón",
+      "en": "Champoton",
+      "slug": "champoton-mx04004"
+    },
+    "code": {
+      "id": "MX04004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.131",
+      "lon": "-90.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Escárcega",
+      "en": "Escarcega",
+      "slug": "escarcega-mx04009"
+    },
+    "code": {
+      "id": "MX04009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.58",
+      "lon": "-90.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hecelchakán",
+      "en": "Hecelchakan",
+      "slug": "hecelchakan-mx04005"
+    },
+    "code": {
+      "id": "MX04005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.091",
+      "lon": "-90.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hopelchén",
+      "en": "Hopelchen",
+      "slug": "hopelchen-mx04006"
+    },
+    "code": {
+      "id": "MX04006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.539",
+      "lon": "-89.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Palizada",
+      "en": "Palizada",
+      "slug": "palizada-mx04007"
+    },
+    "code": {
+      "id": "MX04007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.262",
+      "lon": "-91.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX04008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenabo",
+      "en": "Tenabo",
+      "slug": "tenabo-mx04008"
+    },
+    "code": {
+      "id": "MX04008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX04",
+        "level": 1,
+        "name": {
+          "local": "Campeche",
+          "en": "Campeche",
+          "slug": "campeche-mx04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.964",
+      "lon": "-90.187"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

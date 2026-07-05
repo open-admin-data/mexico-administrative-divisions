@@ -1,0 +1,45 @@
+{
+  "id": "MX17011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jiutepec",
+    "en": "Jiutepec",
+    "slug": "jiutepec-mx17011"
+  },
+  "code": {
+    "id": "MX17011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.886",
+    "lon": "-99.17"
+  },
+  "metadata": {},
+  "source": {}
+}

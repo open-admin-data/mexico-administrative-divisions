@@ -1,0 +1,45 @@
+{
+  "id": "MX07036",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Grandeza",
+    "en": "La Grandeza",
+    "slug": "la-grandeza-mx07036"
+  },
+  "code": {
+    "id": "MX07036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.51",
+    "lon": "-92.215"
+  },
+  "metadata": {},
+  "source": {}
+}

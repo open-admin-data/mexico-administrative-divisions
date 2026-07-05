@@ -1,0 +1,45 @@
+{
+  "id": "MX10018",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "El Oro",
+    "en": "El Oro",
+    "slug": "el-oro-mx10018"
+  },
+  "code": {
+    "id": "MX10018",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.642",
+    "lon": "-105.324"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX07116",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Marqués de Comillas",
+    "en": "Marques de Comillas",
+    "slug": "marques-de-comillas-mx07116"
+  },
+  "code": {
+    "id": "MX07116",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.273",
+    "lon": "-90.717"
+  },
+  "metadata": {},
+  "source": {}
+}

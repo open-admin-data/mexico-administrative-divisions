@@ -1,0 +1,45 @@
+{
+  "id": "MX12043",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Metlatónoc",
+    "en": "Metlatonoc",
+    "slug": "metlatonoc-mx12043"
+  },
+  "code": {
+    "id": "MX12043",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.124",
+    "lon": "-98.558"
+  },
+  "metadata": {},
+  "source": {}
+}

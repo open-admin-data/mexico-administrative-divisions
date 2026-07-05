@@ -1,0 +1,45 @@
+{
+  "id": "MX02005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Playas de Rosarito",
+    "en": "Playas de Rosarito",
+    "slug": "playas-de-rosarito-mx02005"
+  },
+  "code": {
+    "id": "MX02005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX02",
+    "level": 1,
+    "name": {
+      "local": "Baja California",
+      "en": "Baja California",
+      "slug": "baja-california-mx02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX02",
+      "level": 1,
+      "name": {
+        "local": "Baja California",
+        "en": "Baja California",
+        "slug": "baja-california-mx02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.258",
+    "lon": "-116.873"
+  },
+  "metadata": {},
+  "source": {}
+}

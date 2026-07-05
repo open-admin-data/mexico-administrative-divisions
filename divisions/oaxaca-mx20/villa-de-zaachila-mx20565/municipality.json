@@ -1,0 +1,45 @@
+{
+  "id": "MX20565",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa de Zaachila",
+    "en": "Villa de Zaachila",
+    "slug": "villa-de-zaachila-mx20565"
+  },
+  "code": {
+    "id": "MX20565",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.953",
+    "lon": "-96.784"
+  },
+  "metadata": {},
+  "source": {}
+}

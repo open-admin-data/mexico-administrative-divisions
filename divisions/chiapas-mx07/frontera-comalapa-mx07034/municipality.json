@@ -1,0 +1,45 @@
+{
+  "id": "MX07034",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Frontera Comalapa",
+    "en": "Frontera Comalapa",
+    "slug": "frontera-comalapa-mx07034"
+  },
+  "code": {
+    "id": "MX07034",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.782",
+    "lon": "-92.079"
+  },
+  "metadata": {},
+  "source": {}
+}

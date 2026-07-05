@@ -1,0 +1,45 @@
+{
+  "id": "MX29009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuaxomulco",
+    "en": "Cuaxomulco",
+    "slug": "cuaxomulco-mx29009"
+  },
+  "code": {
+    "id": "MX29009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.345",
+    "lon": "-98.095"
+  },
+  "metadata": {},
+  "source": {}
+}

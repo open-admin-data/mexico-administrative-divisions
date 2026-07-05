@@ -1,0 +1,45 @@
+{
+  "id": "MX12061",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tixtla de Guerrero",
+    "en": "Tixtla de Guerrero",
+    "slug": "tixtla-de-guerrero-mx12061"
+  },
+  "code": {
+    "id": "MX12061",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.609",
+    "lon": "-99.368"
+  },
+  "metadata": {},
+  "source": {}
+}

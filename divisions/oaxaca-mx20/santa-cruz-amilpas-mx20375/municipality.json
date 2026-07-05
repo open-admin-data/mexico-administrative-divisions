@@ -1,0 +1,45 @@
+{
+  "id": "MX20375",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Amilpas",
+    "en": "Santa Cruz Amilpas",
+    "slug": "santa-cruz-amilpas-mx20375"
+  },
+  "code": {
+    "id": "MX20375",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.048",
+    "lon": "-96.685"
+  },
+  "metadata": {},
+  "source": {}
+}

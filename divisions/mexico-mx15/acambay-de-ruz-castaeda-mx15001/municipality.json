@@ -1,0 +1,45 @@
+{
+  "id": "MX15001",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acambay de Ruíz Castañeda",
+    "en": "Acambay de Ruíz Castañeda",
+    "slug": "acambay-de-ruz-castaeda-mx15001"
+  },
+  "code": {
+    "id": "MX15001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.959",
+    "lon": "-99.848"
+  },
+  "metadata": {},
+  "source": {}
+}

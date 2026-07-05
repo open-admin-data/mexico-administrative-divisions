@@ -1,0 +1,45 @@
+{
+  "id": "MX12020",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Copanatoyac",
+    "en": "Copanatoyac",
+    "slug": "copanatoyac-mx12020"
+  },
+  "code": {
+    "id": "MX12020",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.438",
+    "lon": "-98.703"
+  },
+  "metadata": {},
+  "source": {}
+}

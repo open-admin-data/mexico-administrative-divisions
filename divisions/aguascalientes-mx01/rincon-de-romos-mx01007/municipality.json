@@ -1,0 +1,45 @@
+{
+  "id": "MX01007",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rincón de Romos",
+    "en": "Rincon de Romos",
+    "slug": "rincon-de-romos-mx01007"
+  },
+  "code": {
+    "id": "MX01007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.248",
+    "lon": "-102.349"
+  },
+  "metadata": {},
+  "source": {}
+}

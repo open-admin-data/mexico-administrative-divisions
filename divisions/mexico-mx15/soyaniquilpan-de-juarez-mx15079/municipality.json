@@ -1,0 +1,45 @@
+{
+  "id": "MX15079",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Soyaniquilpan de Juárez",
+    "en": "Soyaniquilpan de Juarez",
+    "slug": "soyaniquilpan-de-juarez-mx15079"
+  },
+  "code": {
+    "id": "MX15079",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.052",
+    "lon": "-99.516"
+  },
+  "metadata": {},
+  "source": {}
+}

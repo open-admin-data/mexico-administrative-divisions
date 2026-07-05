@@ -1,0 +1,33 @@
+{
+  "id": "MX10",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Durango",
+    "en": "Durango",
+    "slug": "durango-mx10"
+  },
+  "code": {
+    "id": "MX10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.594",
+    "lon": "-104.587"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/durango-mx10/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

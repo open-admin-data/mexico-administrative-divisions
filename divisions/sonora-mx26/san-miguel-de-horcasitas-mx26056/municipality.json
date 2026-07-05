@@ -1,0 +1,45 @@
+{
+  "id": "MX26056",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel de Horcasitas",
+    "en": "San Miguel de Horcasitas",
+    "slug": "san-miguel-de-horcasitas-mx26056"
+  },
+  "code": {
+    "id": "MX26056",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.479",
+    "lon": "-110.789"
+  },
+  "metadata": {},
+  "source": {}
+}

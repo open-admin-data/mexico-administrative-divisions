@@ -1,0 +1,45 @@
+{
+  "id": "MX25015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salvador Alvarado",
+    "en": "Salvador Alvarado",
+    "slug": "salvador-alvarado-mx25015"
+  },
+  "code": {
+    "id": "MX25015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX25",
+    "level": 1,
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.381",
+    "lon": "-107.992"
+  },
+  "metadata": {},
+  "source": {}
+}

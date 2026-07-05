@@ -1,0 +1,45 @@
+{
+  "id": "MX05021",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nadadores",
+    "en": "Nadadores",
+    "slug": "nadadores-mx05021"
+  },
+  "code": {
+    "id": "MX05021",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX05",
+    "level": 1,
+    "name": {
+      "local": "Coahuila de Zaragoza",
+      "en": "Coahuila de Zaragoza",
+      "slug": "coahuila-de-zaragoza-mx05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.231",
+    "lon": "-101.771"
+  },
+  "metadata": {},
+  "source": {}
+}

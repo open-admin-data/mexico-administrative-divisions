@@ -1,0 +1,45 @@
+{
+  "id": "MX17028",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xochitepec",
+    "en": "Xochitepec",
+    "slug": "xochitepec-mx17028"
+  },
+  "code": {
+    "id": "MX17028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.765",
+    "lon": "-99.234"
+  },
+  "metadata": {},
+  "source": {}
+}

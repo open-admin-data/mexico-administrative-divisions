@@ -1,0 +1,45 @@
+{
+  "id": "MX10019",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Otáez",
+    "en": "Otaez",
+    "slug": "otaez-mx10019"
+  },
+  "code": {
+    "id": "MX10019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.712",
+    "lon": "-105.918"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX04004",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Champotón",
+    "en": "Champoton",
+    "slug": "champoton-mx04004"
+  },
+  "code": {
+    "id": "MX04004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX04",
+    "level": 1,
+    "name": {
+      "local": "Campeche",
+      "en": "Campeche",
+      "slug": "campeche-mx04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.131",
+    "lon": "-90.452"
+  },
+  "metadata": {},
+  "source": {}
+}

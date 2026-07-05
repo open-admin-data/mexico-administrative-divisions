@@ -1,0 +1,5087 @@
+[
+  {
+    "id": "MX16001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acuitzio",
+      "en": "Acuitzio",
+      "slug": "acuitzio-mx16001"
+    },
+    "code": {
+      "id": "MX16001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.472",
+      "lon": "-101.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aguililla",
+      "en": "Aguililla",
+      "slug": "aguililla-mx16002"
+    },
+    "code": {
+      "id": "MX16002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.779",
+      "lon": "-102.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Álvaro Obregón",
+      "en": "Alvaro Obregon",
+      "slug": "alvaro-obregon-mx16003"
+    },
+    "code": {
+      "id": "MX16003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.878",
+      "lon": "-101.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angamacutiro",
+      "en": "Angamacutiro",
+      "slug": "angamacutiro-mx16004"
+    },
+    "code": {
+      "id": "MX16004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.14",
+      "lon": "-101.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Angangueo",
+      "en": "Angangueo",
+      "slug": "angangueo-mx16005"
+    },
+    "code": {
+      "id": "MX16005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.628",
+      "lon": "-100.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apatzingán",
+      "en": "Apatzingan",
+      "slug": "apatzingan-mx16006"
+    },
+    "code": {
+      "id": "MX16006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.968",
+      "lon": "-102.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aporo",
+      "en": "Aporo",
+      "slug": "aporo-mx16007"
+    },
+    "code": {
+      "id": "MX16007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.665",
+      "lon": "-100.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aquila",
+      "en": "Aquila",
+      "slug": "aquila-mx16008"
+    },
+    "code": {
+      "id": "MX16008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.386",
+      "lon": "-103.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ario",
+      "en": "Ario",
+      "slug": "ario-mx16009"
+    },
+    "code": {
+      "id": "MX16009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.13",
+      "lon": "-101.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arteaga",
+      "en": "Arteaga",
+      "slug": "arteaga-mx16010"
+    },
+    "code": {
+      "id": "MX16010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.388",
+      "lon": "-102.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Briseñas",
+      "en": "Brisenas",
+      "slug": "brisenas-mx16011"
+    },
+    "code": {
+      "id": "MX16011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.243",
+      "lon": "-102.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buenavista",
+      "en": "Buenavista",
+      "slug": "buenavista-mx16012"
+    },
+    "code": {
+      "id": "MX16012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.215",
+      "lon": "-102.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carácuaro",
+      "en": "Caracuaro",
+      "slug": "caracuaro-mx16013"
+    },
+    "code": {
+      "id": "MX16013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19",
+      "lon": "-101.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Charapan",
+      "en": "Charapan",
+      "slug": "charapan-mx16021"
+    },
+    "code": {
+      "id": "MX16021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.697",
+      "lon": "-102.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Charo",
+      "en": "Charo",
+      "slug": "charo-mx16022"
+    },
+    "code": {
+      "id": "MX16022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.669",
+      "lon": "-101.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chavinda",
+      "en": "Chavinda",
+      "slug": "chavinda-mx16023"
+    },
+    "code": {
+      "id": "MX16023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.047",
+      "lon": "-102.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cherán",
+      "en": "Cheran",
+      "slug": "cheran-mx16024"
+    },
+    "code": {
+      "id": "MX16024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.739",
+      "lon": "-101.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chilchota",
+      "en": "Chilchota",
+      "slug": "chilchota-mx16025"
+    },
+    "code": {
+      "id": "MX16025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.806",
+      "lon": "-102.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chinicuila",
+      "en": "Chinicuila",
+      "slug": "chinicuila-mx16026"
+    },
+    "code": {
+      "id": "MX16026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.747",
+      "lon": "-103.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chucándiro",
+      "en": "Chucandiro",
+      "slug": "chucandiro-mx16027"
+    },
+    "code": {
+      "id": "MX16027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.895",
+      "lon": "-101.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Churintzio",
+      "en": "Churintzio",
+      "slug": "churintzio-mx16028"
+    },
+    "code": {
+      "id": "MX16028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.14",
+      "lon": "-102.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Churumuco",
+      "en": "Churumuco",
+      "slug": "churumuco-mx16029"
+    },
+    "code": {
+      "id": "MX16029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.721",
+      "lon": "-101.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coahuayana",
+      "en": "Coahuayana",
+      "slug": "coahuayana-mx16014"
+    },
+    "code": {
+      "id": "MX16014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.759",
+      "lon": "-103.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coalcomán de Vázquez Pallares",
+      "en": "Coalcoman de Vazquez Pallares",
+      "slug": "coalcoman-de-vazquez-pallares-mx16015"
+    },
+    "code": {
+      "id": "MX16015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.673",
+      "lon": "-103.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coeneo",
+      "en": "Coeneo",
+      "slug": "coeneo-mx16016"
+    },
+    "code": {
+      "id": "MX16016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.787",
+      "lon": "-101.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16074",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cojumatlán de Régules",
+      "en": "Cojumatlán de Regules",
+      "slug": "cojumatln-de-regules-mx16074"
+    },
+    "code": {
+      "id": "MX16074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.109",
+      "lon": "-102.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Contepec",
+      "en": "Contepec",
+      "slug": "contepec-mx16017"
+    },
+    "code": {
+      "id": "MX16017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.961",
+      "lon": "-100.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Copándaro",
+      "en": "Copandaro",
+      "slug": "copandaro-mx16018"
+    },
+    "code": {
+      "id": "MX16018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.917",
+      "lon": "-101.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cotija",
+      "en": "Cotija",
+      "slug": "cotija-mx16019"
+    },
+    "code": {
+      "id": "MX16019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.751",
+      "lon": "-102.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuitzeo",
+      "en": "Cuitzeo",
+      "slug": "cuitzeo-mx16020"
+    },
+    "code": {
+      "id": "MX16020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.988",
+      "lon": "-101.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ecuandureo",
+      "en": "Ecuandureo",
+      "slug": "ecuandureo-mx16030"
+    },
+    "code": {
+      "id": "MX16030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.16",
+      "lon": "-102.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Epitacio Huerta",
+      "en": "Epitacio Huerta",
+      "slug": "epitacio-huerta-mx16031"
+    },
+    "code": {
+      "id": "MX16031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.143",
+      "lon": "-100.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Erongarícuaro",
+      "en": "Erongaricuaro",
+      "slug": "erongaricuaro-mx16032"
+    },
+    "code": {
+      "id": "MX16032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.615",
+      "lon": "-101.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gabriel Zamora",
+      "en": "Gabriel Zamora",
+      "slug": "gabriel-zamora-mx16033"
+    },
+    "code": {
+      "id": "MX16033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.155",
+      "lon": "-102.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx16034"
+    },
+    "code": {
+      "id": "MX16034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.626",
+      "lon": "-100.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huandacareo",
+      "en": "Huandacareo",
+      "slug": "huandacareo-mx16036"
+    },
+    "code": {
+      "id": "MX16036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.994",
+      "lon": "-101.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huaniqueo",
+      "en": "Huaniqueo",
+      "slug": "huaniqueo-mx16037"
+    },
+    "code": {
+      "id": "MX16037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.878",
+      "lon": "-101.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huetamo",
+      "en": "Huetamo",
+      "slug": "huetamo-mx16038"
+    },
+    "code": {
+      "id": "MX16038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.66",
+      "lon": "-101.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huiramba",
+      "en": "Huiramba",
+      "slug": "huiramba-mx16039"
+    },
+    "code": {
+      "id": "MX16039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.526",
+      "lon": "-101.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Indaparapeo",
+      "en": "Indaparapeo",
+      "slug": "indaparapeo-mx16040"
+    },
+    "code": {
+      "id": "MX16040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.76",
+      "lon": "-100.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Irimbo",
+      "en": "Irimbo",
+      "slug": "irimbo-mx16041"
+    },
+    "code": {
+      "id": "MX16041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.711",
+      "lon": "-100.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtlán",
+      "en": "Ixtlan",
+      "slug": "ixtlan-mx16042"
+    },
+    "code": {
+      "id": "MX16042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.148",
+      "lon": "-102.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jacona",
+      "en": "Jacona",
+      "slug": "jacona-mx16043"
+    },
+    "code": {
+      "id": "MX16043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.941",
+      "lon": "-102.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiménez",
+      "en": "Jimenez",
+      "slug": "jimenez-mx16044"
+    },
+    "code": {
+      "id": "MX16044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.934",
+      "lon": "-101.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiquilpan",
+      "en": "Jiquilpan",
+      "slug": "jiquilpan-mx16045"
+    },
+    "code": {
+      "id": "MX16045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.967",
+      "lon": "-102.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16113",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "José Sixto Verduzco",
+      "en": "Jose Sixto Verduzco",
+      "slug": "jose-sixto-verduzco-mx16113"
+    },
+    "code": {
+      "id": "MX16113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.242",
+      "lon": "-101.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juárez",
+      "en": "Juarez",
+      "slug": "juarez-mx16046"
+    },
+    "code": {
+      "id": "MX16046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.293",
+      "lon": "-100.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jungapeo",
+      "en": "Jungapeo",
+      "slug": "jungapeo-mx16047"
+    },
+    "code": {
+      "id": "MX16047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.412",
+      "lon": "-100.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Huacana",
+      "en": "La Huacana",
+      "slug": "la-huacana-mx16035"
+    },
+    "code": {
+      "id": "MX16035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.85",
+      "lon": "-101.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16069",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Piedad",
+      "en": "La Piedad",
+      "slug": "la-piedad-mx16069"
+    },
+    "code": {
+      "id": "MX16069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "-102.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagunillas",
+      "en": "Lagunillas",
+      "slug": "lagunillas-mx16048"
+    },
+    "code": {
+      "id": "MX16048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.573",
+      "lon": "-101.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lázaro Cárdenas",
+      "en": "Lazaro Cardenas",
+      "slug": "lazaro-cardenas-mx16052"
+    },
+    "code": {
+      "id": "MX16052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.083",
+      "lon": "-102.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16075",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Los Reyes",
+      "en": "Los Reyes",
+      "slug": "los-reyes-mx16075"
+    },
+    "code": {
+      "id": "MX16075",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.663",
+      "lon": "-102.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Madero",
+      "en": "Madero",
+      "slug": "madero-mx16049"
+    },
+    "code": {
+      "id": "MX16049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.354",
+      "lon": "-101.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maravatío",
+      "en": "Maravatio",
+      "slug": "maravatio-mx16050"
+    },
+    "code": {
+      "id": "MX16050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.89",
+      "lon": "-100.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marcos Castellanos",
+      "en": "Marcos Castellanos",
+      "slug": "marcos-castellanos-mx16051"
+    },
+    "code": {
+      "id": "MX16051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.05",
+      "lon": "-102.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morelia",
+      "en": "Morelia",
+      "slug": "morelia-mx16053"
+    },
+    "code": {
+      "id": "MX16053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.655",
+      "lon": "-101.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx16054"
+    },
+    "code": {
+      "id": "MX16054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.992",
+      "lon": "-101.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Múgica",
+      "en": "Mugica",
+      "slug": "mugica-mx16055"
+    },
+    "code": {
+      "id": "MX16055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.967",
+      "lon": "-102.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nahuatzen",
+      "en": "Nahuatzen",
+      "slug": "nahuatzen-mx16056"
+    },
+    "code": {
+      "id": "MX16056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.65",
+      "lon": "-101.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nocupétaro",
+      "en": "Nocupetaro",
+      "slug": "nocupetaro-mx16057"
+    },
+    "code": {
+      "id": "MX16057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.078",
+      "lon": "-101.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Parangaricutiro",
+      "en": "Nuevo Parangaricutiro",
+      "slug": "nuevo-parangaricutiro-mx16058"
+    },
+    "code": {
+      "id": "MX16058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.393",
+      "lon": "-102.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Urecho",
+      "en": "Nuevo Urecho",
+      "slug": "nuevo-urecho-mx16059"
+    },
+    "code": {
+      "id": "MX16059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.159",
+      "lon": "-101.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Numarán",
+      "en": "Numaran",
+      "slug": "numaran-mx16060"
+    },
+    "code": {
+      "id": "MX16060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.258",
+      "lon": "-101.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocampo",
+      "en": "Ocampo",
+      "slug": "ocampo-mx16061"
+    },
+    "code": {
+      "id": "MX16061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.586",
+      "lon": "-100.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pajacuarán",
+      "en": "Pajacuaran",
+      "slug": "pajacuaran-mx16062"
+    },
+    "code": {
+      "id": "MX16062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.15",
+      "lon": "-102.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panindícuaro",
+      "en": "Panindicuaro",
+      "slug": "panindicuaro-mx16063"
+    },
+    "code": {
+      "id": "MX16063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.018",
+      "lon": "-101.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paracho",
+      "en": "Paracho",
+      "slug": "paracho-mx16065"
+    },
+    "code": {
+      "id": "MX16065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.654",
+      "lon": "-102.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Parácuaro",
+      "en": "Paracuaro",
+      "slug": "paracuaro-mx16064"
+    },
+    "code": {
+      "id": "MX16064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.07",
+      "lon": "-102.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pátzcuaro",
+      "en": "Patzcuaro",
+      "slug": "patzcuaro-mx16066"
+    },
+    "code": {
+      "id": "MX16066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.502",
+      "lon": "-101.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Penjamillo",
+      "en": "Penjamillo",
+      "slug": "penjamillo-mx16067"
+    },
+    "code": {
+      "id": "MX16067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.095",
+      "lon": "-101.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16068",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peribán",
+      "en": "Periban",
+      "slug": "periban-mx16068"
+    },
+    "code": {
+      "id": "MX16068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.494",
+      "lon": "-102.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16070",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Purépero",
+      "en": "Purepero",
+      "slug": "purepero-mx16070"
+    },
+    "code": {
+      "id": "MX16070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.911",
+      "lon": "-102.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16071",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puruándiro",
+      "en": "Puruandiro",
+      "slug": "puruandiro-mx16071"
+    },
+    "code": {
+      "id": "MX16071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.121",
+      "lon": "-101.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16072",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Queréndaro",
+      "en": "Querendaro",
+      "slug": "querendaro-mx16072"
+    },
+    "code": {
+      "id": "MX16072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.726",
+      "lon": "-100.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16073",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quiroga",
+      "en": "Quiroga",
+      "slug": "quiroga-mx16073"
+    },
+    "code": {
+      "id": "MX16073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.708",
+      "lon": "-101.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16076",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sahuayo",
+      "en": "Sahuayo",
+      "slug": "sahuayo-mx16076"
+    },
+    "code": {
+      "id": "MX16076",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.048",
+      "lon": "-102.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16079",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salvador Escalante",
+      "en": "Salvador Escalante",
+      "slug": "salvador-escalante-mx16079"
+    },
+    "code": {
+      "id": "MX16079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.391",
+      "lon": "-101.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16077",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lucas",
+      "en": "San Lucas",
+      "slug": "san-lucas-mx16077"
+    },
+    "code": {
+      "id": "MX16077",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.588",
+      "lon": "-100.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16078",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Ana Maya",
+      "en": "Santa Ana Maya",
+      "slug": "santa-ana-maya-mx16078"
+    },
+    "code": {
+      "id": "MX16078",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.023",
+      "lon": "-101.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16080",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Senguio",
+      "en": "Senguio",
+      "slug": "senguio-mx16080"
+    },
+    "code": {
+      "id": "MX16080",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.746",
+      "lon": "-100.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16081",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Susupuato",
+      "en": "Susupuato",
+      "slug": "susupuato-mx16081"
+    },
+    "code": {
+      "id": "MX16081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.176",
+      "lon": "-100.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16082",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacámbaro",
+      "en": "Tacambaro",
+      "slug": "tacambaro-mx16082"
+    },
+    "code": {
+      "id": "MX16082",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.25",
+      "lon": "-101.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16083",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tancítaro",
+      "en": "Tancitaro",
+      "slug": "tancitaro-mx16083"
+    },
+    "code": {
+      "id": "MX16083",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.354",
+      "lon": "-102.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16084",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tangamandapio",
+      "en": "Tangamandapio",
+      "slug": "tangamandapio-mx16084"
+    },
+    "code": {
+      "id": "MX16084",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.89",
+      "lon": "-102.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16085",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tangancícuaro",
+      "en": "Tangancicuaro",
+      "slug": "tangancicuaro-mx16085"
+    },
+    "code": {
+      "id": "MX16085",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.873",
+      "lon": "-102.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16086",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tanhuato",
+      "en": "Tanhuato",
+      "slug": "tanhuato-mx16086"
+    },
+    "code": {
+      "id": "MX16086",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.272",
+      "lon": "-102.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16087",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Taretan",
+      "en": "Taretan",
+      "slug": "taretan-mx16087"
+    },
+    "code": {
+      "id": "MX16087",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.326",
+      "lon": "-101.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16088",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarímbaro",
+      "en": "Tarimbaro",
+      "slug": "tarimbaro-mx16088"
+    },
+    "code": {
+      "id": "MX16088",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.816",
+      "lon": "-101.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16089",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepalcatepec",
+      "en": "Tepalcatepec",
+      "slug": "tepalcatepec-mx16089"
+    },
+    "code": {
+      "id": "MX16089",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.079",
+      "lon": "-102.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16090",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tingambato",
+      "en": "Tingambato",
+      "slug": "tingambato-mx16090"
+    },
+    "code": {
+      "id": "MX16090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.506",
+      "lon": "-101.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16091",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tingüindín",
+      "en": "Tinguindin",
+      "slug": "tinguindin-mx16091"
+    },
+    "code": {
+      "id": "MX16091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.806",
+      "lon": "-102.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16092",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tiquicheo de Nicolás Romero",
+      "en": "Tiquicheo de Nicolas Romero",
+      "slug": "tiquicheo-de-nicolas-romero-mx16092"
+    },
+    "code": {
+      "id": "MX16092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.071",
+      "lon": "-100.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16093",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlalpujahua",
+      "en": "Tlalpujahua",
+      "slug": "tlalpujahua-mx16093"
+    },
+    "code": {
+      "id": "MX16093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.784",
+      "lon": "-100.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16094",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlazazalca",
+      "en": "Tlazazalca",
+      "slug": "tlazazalca-mx16094"
+    },
+    "code": {
+      "id": "MX16094",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.015",
+      "lon": "-102.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16095",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tocumbo",
+      "en": "Tocumbo",
+      "slug": "tocumbo-mx16095"
+    },
+    "code": {
+      "id": "MX16095",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.678",
+      "lon": "-102.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16096",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tumbiscatío",
+      "en": "Tumbiscatio",
+      "slug": "tumbiscatio-mx16096"
+    },
+    "code": {
+      "id": "MX16096",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.584",
+      "lon": "-102.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16097",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Turicato",
+      "en": "Turicato",
+      "slug": "turicato-mx16097"
+    },
+    "code": {
+      "id": "MX16097",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.943",
+      "lon": "-101.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16098",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuxpan",
+      "en": "Tuxpan",
+      "slug": "tuxpan-mx16098"
+    },
+    "code": {
+      "id": "MX16098",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.577",
+      "lon": "-100.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16099",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuzantla",
+      "en": "Tuzantla",
+      "slug": "tuzantla-mx16099"
+    },
+    "code": {
+      "id": "MX16099",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.224",
+      "lon": "-100.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16100",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tzintzuntzan",
+      "en": "Tzintzuntzan",
+      "slug": "tzintzuntzan-mx16100"
+    },
+    "code": {
+      "id": "MX16100",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.611",
+      "lon": "-101.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tzitzio",
+      "en": "Tzitzio",
+      "slug": "tzitzio-mx16101"
+    },
+    "code": {
+      "id": "MX16101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.426",
+      "lon": "-100.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uruapan",
+      "en": "Uruapan",
+      "slug": "uruapan-mx16102"
+    },
+    "code": {
+      "id": "MX16102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.406",
+      "lon": "-102.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venustiano Carranza",
+      "en": "Venustiano Carranza",
+      "slug": "venustiano-carranza-mx16103"
+    },
+    "code": {
+      "id": "MX16103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.146",
+      "lon": "-102.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villamar",
+      "en": "Villamar",
+      "slug": "villamar-mx16104"
+    },
+    "code": {
+      "id": "MX16104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.992",
+      "lon": "-102.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vista Hermosa",
+      "en": "Vista Hermosa",
+      "slug": "vista-hermosa-mx16105"
+    },
+    "code": {
+      "id": "MX16105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.263",
+      "lon": "-102.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yurécuaro",
+      "en": "Yurecuaro",
+      "slug": "yurecuaro-mx16106"
+    },
+    "code": {
+      "id": "MX16106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.295",
+      "lon": "-102.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacapu",
+      "en": "Zacapu",
+      "slug": "zacapu-mx16107"
+    },
+    "code": {
+      "id": "MX16107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.83",
+      "lon": "-101.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zamora",
+      "en": "Zamora",
+      "slug": "zamora-mx16108"
+    },
+    "code": {
+      "id": "MX16108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.029",
+      "lon": "-102.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zináparo",
+      "en": "Zinaparo",
+      "slug": "zinaparo-mx16109"
+    },
+    "code": {
+      "id": "MX16109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.178",
+      "lon": "-102.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zinapécuaro",
+      "en": "Zinapecuaro",
+      "slug": "zinapecuaro-mx16110"
+    },
+    "code": {
+      "id": "MX16110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.856",
+      "lon": "-100.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ziracuaretiro",
+      "en": "Ziracuaretiro",
+      "slug": "ziracuaretiro-mx16111"
+    },
+    "code": {
+      "id": "MX16111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.439",
+      "lon": "-101.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX16112",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zitácuaro",
+      "en": "Zitacuaro",
+      "slug": "zitacuaro-mx16112"
+    },
+    "code": {
+      "id": "MX16112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX16",
+      "level": 1,
+      "name": {
+        "local": "Michoacán de Ocampo",
+        "en": "Michoacan de Ocampo",
+        "slug": "michoacan-de-ocampo-mx16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX16",
+        "level": 1,
+        "name": {
+          "local": "Michoacán de Ocampo",
+          "en": "Michoacan de Ocampo",
+          "slug": "michoacan-de-ocampo-mx16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.436",
+      "lon": "-100.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

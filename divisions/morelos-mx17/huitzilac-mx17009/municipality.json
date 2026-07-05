@@ -1,0 +1,45 @@
+{
+  "id": "MX17009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huitzilac",
+    "en": "Huitzilac",
+    "slug": "huitzilac-mx17009"
+  },
+  "code": {
+    "id": "MX17009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.057",
+    "lon": "-99.232"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20267",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel del Río",
+    "en": "San Miguel del Rio",
+    "slug": "san-miguel-del-rio-mx20267"
+  },
+  "code": {
+    "id": "MX20267",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.33",
+    "lon": "-96.576"
+  },
+  "metadata": {},
+  "source": {}
+}

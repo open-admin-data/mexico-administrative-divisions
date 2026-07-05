@@ -1,0 +1,45 @@
+{
+  "id": "MX09015",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuauhtémoc",
+    "en": "Cuauhtemoc",
+    "slug": "cuauhtemoc-mx09015"
+  },
+  "code": {
+    "id": "MX09015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX09",
+    "level": 1,
+    "name": {
+      "local": "Distrito Federal",
+      "en": "Distrito Federal",
+      "slug": "distrito-federal-mx09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.433",
+    "lon": "-99.148"
+  },
+  "metadata": {},
+  "source": {}
+}

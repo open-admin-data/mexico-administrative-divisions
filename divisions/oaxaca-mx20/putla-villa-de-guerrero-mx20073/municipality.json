@@ -1,0 +1,45 @@
+{
+  "id": "MX20073",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Putla Villa de Guerrero",
+    "en": "Putla Villa de Guerrero",
+    "slug": "putla-villa-de-guerrero-mx20073"
+  },
+  "code": {
+    "id": "MX20073",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.787",
+    "lon": "-97.78"
+  },
+  "metadata": {},
+  "source": {}
+}

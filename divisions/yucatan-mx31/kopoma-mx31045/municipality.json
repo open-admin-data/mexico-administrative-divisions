@@ -1,0 +1,45 @@
+{
+  "id": "MX31045",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kopomá",
+    "en": "Kopoma",
+    "slug": "kopoma-mx31045"
+  },
+  "code": {
+    "id": "MX31045",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.643",
+    "lon": "-89.9"
+  },
+  "metadata": {},
+  "source": {}
+}

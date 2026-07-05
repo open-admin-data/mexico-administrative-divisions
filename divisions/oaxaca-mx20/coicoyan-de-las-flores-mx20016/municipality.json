@@ -1,0 +1,45 @@
+{
+  "id": "MX20016",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Coicoyán de las Flores",
+    "en": "Coicoyan de las Flores",
+    "slug": "coicoyan-de-las-flores-mx20016"
+  },
+  "code": {
+    "id": "MX20016",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.216",
+    "lon": "-98.184"
+  },
+  "metadata": {},
+  "source": {}
+}

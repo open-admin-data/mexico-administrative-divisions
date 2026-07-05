@@ -1,0 +1,45 @@
+{
+  "id": "MX31056",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Oxkutzcab",
+    "en": "Oxkutzcab",
+    "slug": "oxkutzcab-mx31056"
+  },
+  "code": {
+    "id": "MX31056",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.139",
+    "lon": "-89.55"
+  },
+  "metadata": {},
+  "source": {}
+}

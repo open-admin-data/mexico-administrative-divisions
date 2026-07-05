@@ -1,0 +1,45 @@
+{
+  "id": "MX07092",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tecpatán",
+    "en": "Tecpatan",
+    "slug": "tecpatan-mx07092"
+  },
+  "code": {
+    "id": "MX07092",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.199",
+    "lon": "-93.437"
+  },
+  "metadata": {},
+  "source": {}
+}

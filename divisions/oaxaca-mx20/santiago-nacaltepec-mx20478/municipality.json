@@ -1,0 +1,45 @@
+{
+  "id": "MX20478",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Nacaltepec",
+    "en": "Santiago Nacaltepec",
+    "slug": "santiago-nacaltepec-mx20478"
+  },
+  "code": {
+    "id": "MX20478",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.515",
+    "lon": "-96.895"
+  },
+  "metadata": {},
+  "source": {}
+}

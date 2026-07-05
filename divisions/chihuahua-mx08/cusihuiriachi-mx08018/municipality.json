@@ -1,0 +1,45 @@
+{
+  "id": "MX08018",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cusihuiriachi",
+    "en": "Cusihuiriachi",
+    "slug": "cusihuiriachi-mx08018"
+  },
+  "code": {
+    "id": "MX08018",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.208",
+    "lon": "-106.932"
+  },
+  "metadata": {},
+  "source": {}
+}

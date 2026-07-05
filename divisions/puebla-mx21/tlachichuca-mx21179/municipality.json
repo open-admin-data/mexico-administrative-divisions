@@ -1,0 +1,45 @@
+{
+  "id": "MX21179",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlachichuca",
+    "en": "Tlachichuca",
+    "slug": "tlachichuca-mx21179"
+  },
+  "code": {
+    "id": "MX21179",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.149",
+    "lon": "-97.337"
+  },
+  "metadata": {},
+  "source": {}
+}

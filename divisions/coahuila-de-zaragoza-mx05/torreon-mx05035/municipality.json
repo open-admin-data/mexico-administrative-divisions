@@ -1,0 +1,45 @@
+{
+  "id": "MX05035",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Torreón",
+    "en": "Torreon",
+    "slug": "torreon-mx05035"
+  },
+  "code": {
+    "id": "MX05035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX05",
+    "level": 1,
+    "name": {
+      "local": "Coahuila de Zaragoza",
+      "en": "Coahuila de Zaragoza",
+      "slug": "coahuila-de-zaragoza-mx05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX05",
+      "level": 1,
+      "name": {
+        "local": "Coahuila de Zaragoza",
+        "en": "Coahuila de Zaragoza",
+        "slug": "coahuila-de-zaragoza-mx05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.057",
+    "lon": "-103.18"
+  },
+  "metadata": {},
+  "source": {}
+}

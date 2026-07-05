@@ -1,0 +1,45 @@
+{
+  "id": "MX14109",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Unión de San Antonio",
+    "en": "Union de San Antonio",
+    "slug": "union-de-san-antonio-mx14109"
+  },
+  "code": {
+    "id": "MX14109",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.158",
+    "lon": "-102.001"
+  },
+  "metadata": {},
+  "source": {}
+}

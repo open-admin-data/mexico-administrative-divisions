@@ -1,0 +1,45 @@
+{
+  "id": "MX28025",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Miguel Alemán",
+    "en": "Miguel Aleman",
+    "slug": "miguel-aleman-mx28025"
+  },
+  "code": {
+    "id": "MX28025",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX28",
+    "level": 1,
+    "name": {
+      "local": "Tamaulipas",
+      "en": "Tamaulipas",
+      "slug": "tamaulipas-mx28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX28",
+      "level": 1,
+      "name": {
+        "local": "Tamaulipas",
+        "en": "Tamaulipas",
+        "slug": "tamaulipas-mx28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.23",
+    "lon": "-99.082"
+  },
+  "metadata": {},
+  "source": {}
+}

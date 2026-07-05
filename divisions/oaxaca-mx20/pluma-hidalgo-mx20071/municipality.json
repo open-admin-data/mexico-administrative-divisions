@@ -1,0 +1,45 @@
+{
+  "id": "MX20071",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pluma Hidalgo",
+    "en": "Pluma Hidalgo",
+    "slug": "pluma-hidalgo-mx20071"
+  },
+  "code": {
+    "id": "MX20071",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.922",
+    "lon": "-96.441"
+  },
+  "metadata": {},
+  "source": {}
+}

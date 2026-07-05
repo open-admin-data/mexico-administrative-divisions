@@ -1,0 +1,45 @@
+{
+  "id": "MX14121",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zapotiltic",
+    "en": "Zapotiltic",
+    "slug": "zapotiltic-mx14121"
+  },
+  "code": {
+    "id": "MX14121",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.618",
+    "lon": "-103.365"
+  },
+  "metadata": {},
+  "source": {}
+}

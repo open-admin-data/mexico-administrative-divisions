@@ -1,0 +1,33 @@
+{
+  "id": "MX22",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Querétaro de Arteaga",
+    "en": "Queretaro de Arteaga",
+    "slug": "queretaro-de-arteaga-mx22"
+  },
+  "code": {
+    "id": "MX22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.843",
+    "lon": "-100.002"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/queretaro-de-arteaga-mx22/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

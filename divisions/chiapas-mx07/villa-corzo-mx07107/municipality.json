@@ -1,0 +1,45 @@
+{
+  "id": "MX07107",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Villa Corzo",
+    "en": "Villa Corzo",
+    "slug": "villa-corzo-mx07107"
+  },
+  "code": {
+    "id": "MX07107",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.137",
+    "lon": "-93.261"
+  },
+  "metadata": {},
+  "source": {}
+}

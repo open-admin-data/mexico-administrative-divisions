@@ -1,0 +1,45 @@
+{
+  "id": "MX20384",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Xitla",
+    "en": "Santa Cruz Xitla",
+    "slug": "santa-cruz-xitla-mx20384"
+  },
+  "code": {
+    "id": "MX20384",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.338",
+    "lon": "-96.669"
+  },
+  "metadata": {},
+  "source": {}
+}

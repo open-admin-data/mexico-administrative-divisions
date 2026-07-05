@@ -1,0 +1,45 @@
+{
+  "id": "MX10013",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mapimí",
+    "en": "Mapimi",
+    "slug": "mapimi-mx10013"
+  },
+  "code": {
+    "id": "MX10013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.158",
+    "lon": "-104.141"
+  },
+  "metadata": {},
+  "source": {}
+}

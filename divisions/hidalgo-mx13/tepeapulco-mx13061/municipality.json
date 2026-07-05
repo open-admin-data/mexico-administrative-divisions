@@ -1,0 +1,45 @@
+{
+  "id": "MX13061",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tepeapulco",
+    "en": "Tepeapulco",
+    "slug": "tepeapulco-mx13061"
+  },
+  "code": {
+    "id": "MX13061",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX13",
+    "level": 1,
+    "name": {
+      "local": "Hidalgo",
+      "en": "Hidalgo",
+      "slug": "hidalgo-mx13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX13",
+      "level": 1,
+      "name": {
+        "local": "Hidalgo",
+        "en": "Hidalgo",
+        "slug": "hidalgo-mx13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.806",
+    "lon": "-98.506"
+  },
+  "metadata": {},
+  "source": {}
+}

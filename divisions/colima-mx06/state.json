@@ -1,0 +1,33 @@
+{
+  "id": "MX06",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Colima",
+    "en": "Colima",
+    "slug": "colima-mx06"
+  },
+  "code": {
+    "id": "MX06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.099",
+    "lon": "-103.922"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/colima-mx06/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

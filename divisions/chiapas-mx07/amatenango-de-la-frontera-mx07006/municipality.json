@@ -1,0 +1,45 @@
+{
+  "id": "MX07006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Amatenango de la Frontera",
+    "en": "Amatenango de la Frontera",
+    "slug": "amatenango-de-la-frontera-mx07006"
+  },
+  "code": {
+    "id": "MX07006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.523",
+    "lon": "-92.086"
+  },
+  "metadata": {},
+  "source": {}
+}

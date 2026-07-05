@@ -1,0 +1,45 @@
+{
+  "id": "MX20124",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Blas Atempa",
+    "en": "San Blas Atempa",
+    "slug": "san-blas-atempa-mx20124"
+  },
+  "code": {
+    "id": "MX20124",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.361",
+    "lon": "-95.141"
+  },
+  "metadata": {},
+  "source": {}
+}

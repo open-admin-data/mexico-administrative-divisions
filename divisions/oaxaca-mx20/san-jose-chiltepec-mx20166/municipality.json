@@ -1,0 +1,45 @@
+{
+  "id": "MX20166",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José Chiltepec",
+    "en": "San Jose Chiltepec",
+    "slug": "san-jose-chiltepec-mx20166"
+  },
+  "code": {
+    "id": "MX20166",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.914",
+    "lon": "-96.097"
+  },
+  "metadata": {},
+  "source": {}
+}

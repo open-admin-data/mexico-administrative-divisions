@@ -1,0 +1,45 @@
+{
+  "id": "MX08032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Hidalgo del Parral",
+    "en": "Hidalgo del Parral",
+    "slug": "hidalgo-del-parral-mx08032"
+  },
+  "code": {
+    "id": "MX08032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.115",
+    "lon": "-105.764"
+  },
+  "metadata": {},
+  "source": {}
+}

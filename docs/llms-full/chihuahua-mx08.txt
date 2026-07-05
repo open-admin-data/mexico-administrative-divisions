@@ -1,0 +1,344 @@
+# Chihuahua — Mexico Administrative Divisions
+
+> 67 municipalitys
+> Code: MX08
+> Coordinates: 28.693, -106.041
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ahumada
+
+Code: MX08001, Coordinates: 30.427, -106.389
+
+
+### Aldama
+
+Code: MX08002, Coordinates: 29.114, -105.65
+
+
+### Allende
+
+Code: MX08003, Coordinates: 27.035, -105.384
+
+
+### Aquiles Serdán (Aquiles Serdan)
+
+Code: MX08004, Coordinates: 28.58, -105.821
+
+
+### Ascensión (Ascension)
+
+Code: MX08005, Coordinates: 31.267, -107.57
+
+
+### Bachíniva (Bachiniva)
+
+Code: MX08006, Coordinates: 28.853, -107.273
+
+
+### Balleza
+
+Code: MX08007, Coordinates: 26.712, -106.479
+
+
+### Batopilas
+
+Code: MX08008, Coordinates: 26.925, -107.667
+
+
+### Bocoyna
+
+Code: MX08009, Coordinates: 27.815, -107.552
+
+
+### Buenaventura
+
+Code: MX08010, Coordinates: 30.189, -107.096
+
+
+### Camargo
+
+Code: MX08011, Coordinates: 28.058, -104.38
+
+
+### Carichí (Carichi)
+
+Code: MX08012, Coordinates: 27.8, -107.082
+
+
+### Casas Grandes
+
+Code: MX08013, Coordinates: 30.208, -108.228
+
+
+### Chihuahua
+
+Code: MX08019, Coordinates: 28.939, -106.384
+
+
+### Chínipas (Chinipas)
+
+Code: MX08020, Coordinates: 27.395, -108.496
+
+
+### Coronado
+
+Code: MX08014, Coordinates: 26.672, -104.871
+
+
+### Coyame del Sotol
+
+Code: MX08015, Coordinates: 29.735, -105.345
+
+
+### Cuauhtémoc (Cuauhtemoc)
+
+Code: MX08017, Coordinates: 28.766, -107.027
+
+
+### Cusihuiriachi
+
+Code: MX08018, Coordinates: 28.208, -106.932
+
+
+### Delicias
+
+Code: MX08021, Coordinates: 28.123, -105.468
+
+
+### Dr. Belisario Domínguez (Dr. Belisario Dominguez)
+
+Code: MX08022, Coordinates: 27.993, -106.537
+
+
+### El Tule
+
+Code: MX08064, Coordinates: 27.016, -106.288
+
+
+### Galeana
+
+Code: MX08023, Coordinates: 30.209, -107.587
+
+
+### Gómez Farías (Gomez Farias)
+
+Code: MX08025, Coordinates: 29.347, -107.736
+
+
+### Gran Morelos
+
+Code: MX08026, Coordinates: 28.304, -106.608
+
+
+### Guachochi
+
+Code: MX08027, Coordinates: 27.145, -107.205
+
+
+### Guadalupe
+
+Code: MX08028, Coordinates: 30.875, -105.724
+
+
+### Guadalupe y Calvo
+
+Code: MX08029, Coordinates: 26.124, -106.909
+
+
+### Guazapares
+
+Code: MX08030, Coordinates: 27.372, -108.213
+
+
+### Guerrero
+
+Code: MX08031, Coordinates: 28.455, -107.523
+
+
+### Hidalgo del Parral
+
+Code: MX08032, Coordinates: 27.115, -105.764
+
+
+### Huejotitán (Huejotitan)
+
+Code: MX08033, Coordinates: 27.075, -106.089
+
+
+### Ignacio Zaragoza
+
+Code: MX08034, Coordinates: 29.733, -107.731
+
+
+### Janos
+
+Code: MX08035, Coordinates: 30.759, -108.456
+
+
+### Jiménez (Jimenez)
+
+Code: MX08036, Coordinates: 26.966, -104.367
+
+
+### Juárez (Juarez)
+
+Code: MX08037, Coordinates: 31.452, -106.45
+
+
+### Julimes
+
+Code: MX08038, Coordinates: 28.528, -105.09
+
+
+### La Cruz
+
+Code: MX08016, Coordinates: 27.901, -105.052
+
+
+### López (Lopez)
+
+Code: MX08039, Coordinates: 26.935, -105.054
+
+
+### Madera
+
+Code: MX08040, Coordinates: 29.347, -108.295
+
+
+### Maguarichi
+
+Code: MX08041, Coordinates: 27.819, -107.959
+
+
+### Manuel Benavides
+
+Code: MX08042, Coordinates: 28.929, -103.742
+
+
+### Matachí (Matachi)
+
+Code: MX08043, Coordinates: 28.815, -107.721
+
+
+### Matamoros
+
+Code: MX08044, Coordinates: 26.712, -105.547
+
+
+### Meoqui
+
+Code: MX08045, Coordinates: 28.358, -105.522
+
+
+### Morelos
+
+Code: MX08046, Coordinates: 26.551, -107.755
+
+
+### Moris
+
+Code: MX08047, Coordinates: 28.165, -108.755
+
+
+### Namiquipa
+
+Code: MX08048, Coordinates: 29.163, -107.347
+
+
+### Nonoava
+
+Code: MX08049, Coordinates: 27.45, -106.673
+
+
+### Nuevo Casas Grandes
+
+Code: MX08050, Coordinates: 30.506, -107.665
+
+
+### Ocampo
+
+Code: MX08051, Coordinates: 28.145, -108.181
+
+
+### Ojinaga
+
+Code: MX08052, Coordinates: 29.545, -104.588
+
+
+### Praxedis G. Guerrero
+
+Code: MX08053, Coordinates: 31.249, -105.921
+
+
+### Riva Palacio
+
+Code: MX08054, Coordinates: 28.846, -106.699
+
+
+### Rosales
+
+Code: MX08055, Coordinates: 28.244, -105.718
+
+
+### Rosario
+
+Code: MX08056, Coordinates: 27.279, -106.337
+
+
+### San Francisco de Borja
+
+Code: MX08057, Coordinates: 27.891, -106.713
+
+
+### San Francisco de Conchos
+
+Code: MX08058, Coordinates: 27.581, -105.362
+
+
+### San Francisco del Oro
+
+Code: MX08059, Coordinates: 26.889, -105.897
+
+
+### Santa Bárbara (Santa Barbara)
+
+Code: MX08060, Coordinates: 26.798, -105.792
+
+
+### Santa Isabel
+
+Code: MX08024, Coordinates: 28.305, -106.342
+
+
+### Satevó (Satevo)
+
+Code: MX08061, Coordinates: 27.759, -106.152
+
+
+### Saucillo
+
+Code: MX08062, Coordinates: 28.012, -105.292
+
+
+### Temósachic (Temosachic)
+
+Code: MX08063, Coordinates: 28.78, -108.022
+
+
+### Urique
+
+Code: MX08065, Coordinates: 27.219, -107.983
+
+
+### Uruachi
+
+Code: MX08066, Coordinates: 27.835, -108.481
+
+
+### Valle de Zaragoza
+
+Code: MX08067, Coordinates: 27.481, -105.818
+
+

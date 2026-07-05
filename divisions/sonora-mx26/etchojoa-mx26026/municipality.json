@@ -1,0 +1,45 @@
+{
+  "id": "MX26026",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Etchojoa",
+    "en": "Etchojoa",
+    "slug": "etchojoa-mx26026"
+  },
+  "code": {
+    "id": "MX26026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.046",
+    "lon": "-109.678"
+  },
+  "metadata": {},
+  "source": {}
+}

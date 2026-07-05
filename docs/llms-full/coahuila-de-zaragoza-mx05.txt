@@ -1,0 +1,199 @@
+# Coahuila de Zaragoza — Mexico Administrative Divisions
+
+> 38 municipalitys
+> Code: MX05
+> Coordinates: 27.207, -102.31
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Abasolo
+
+Code: MX05001, Coordinates: 27.143, -101.327
+
+
+### Acuña (Acuna)
+
+Code: MX05002, Coordinates: 29.425, -101.935
+
+
+### Allende
+
+Code: MX05003, Coordinates: 28.286, -100.932
+
+
+### Arteaga
+
+Code: MX05004, Coordinates: 25.345, -100.683
+
+
+### Candela
+
+Code: MX05005, Coordinates: 26.828, -100.75
+
+
+### Castaños (Castanos)
+
+Code: MX05006, Coordinates: 26.542, -101.305
+
+
+### Cuatro Ciénegas (Cuatro Cienegas)
+
+Code: MX05007, Coordinates: 26.667, -102.379
+
+
+### Escobedo
+
+Code: MX05008, Coordinates: 27.305, -101.301
+
+
+### Francisco I. Madero
+
+Code: MX05009, Coordinates: 26.238, -103.1
+
+
+### Frontera
+
+Code: MX05010, Coordinates: 26.954, -101.554
+
+
+### General Cepeda
+
+Code: MX05011, Coordinates: 25.544, -101.524
+
+
+### Guerrero
+
+Code: MX05012, Coordinates: 28.152, -100.375
+
+
+### Hidalgo
+
+Code: MX05013, Coordinates: 27.853, -100.038
+
+
+### Jiménez (Jimenez)
+
+Code: MX05014, Coordinates: 29.007, -100.883
+
+
+### Juárez (Juarez)
+
+Code: MX05015, Coordinates: 27.658, -100.688
+
+
+### Lamadrid
+
+Code: MX05016, Coordinates: 27.165, -101.928
+
+
+### Matamoros
+
+Code: MX05017, Coordinates: 25.573, -103.195
+
+
+### Monclova
+
+Code: MX05018, Coordinates: 26.879, -101.199
+
+
+### Morelos
+
+Code: MX05019, Coordinates: 28.337, -101.118
+
+
+### Múzquiz (Muzquiz)
+
+Code: MX05020, Coordinates: 28.349, -101.674
+
+
+### Nadadores
+
+Code: MX05021, Coordinates: 27.231, -101.771
+
+
+### Nava
+
+Code: MX05022, Coordinates: 28.493, -100.643
+
+
+### Ocampo
+
+Code: MX05023, Coordinates: 28.053, -102.973
+
+
+### Parras
+
+Code: MX05024, Coordinates: 25.592, -102.384
+
+
+### Piedras Negras
+
+Code: MX05025, Coordinates: 28.774, -100.612
+
+
+### Progreso
+
+Code: MX05026, Coordinates: 27.374, -100.869
+
+
+### Ramos Arizpe
+
+Code: MX05027, Coordinates: 25.923, -101.313
+
+
+### Sabinas
+
+Code: MX05028, Coordinates: 27.942, -101.073
+
+
+### Sacramento
+
+Code: MX05029, Coordinates: 26.919, -101.761
+
+
+### Saltillo
+
+Code: MX05030, Coordinates: 25.036, -101.105
+
+
+### San Buenaventura
+
+Code: MX05031, Coordinates: 27.842, -101.937
+
+
+### San Juan de Sabinas
+
+Code: MX05032, Coordinates: 28.065, -101.39
+
+
+### San Pedro
+
+Code: MX05033, Coordinates: 26.125, -102.775
+
+
+### Sierra Mojada
+
+Code: MX05034, Coordinates: 27.584, -103.677
+
+
+### Torreón (Torreon)
+
+Code: MX05035, Coordinates: 25.057, -103.18
+
+
+### Viesca
+
+Code: MX05036, Coordinates: 25.19, -102.861
+
+
+### Villa Unión (Villa Union)
+
+Code: MX05037, Coordinates: 28.096, -100.798
+
+
+### Zaragoza
+
+Code: MX05038, Coordinates: 28.87, -101.525
+
+

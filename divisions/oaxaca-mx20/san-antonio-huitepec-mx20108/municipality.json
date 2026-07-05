@@ -1,0 +1,45 @@
+{
+  "id": "MX20108",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Antonio Huitepec",
+    "en": "San Antonio Huitepec",
+    "slug": "san-antonio-huitepec-mx20108"
+  },
+  "code": {
+    "id": "MX20108",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.922",
+    "lon": "-97.148"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "MX18001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acaponeta",
+      "en": "Acaponeta",
+      "slug": "acaponeta-mx18001"
+    },
+    "code": {
+      "id": "MX18001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.46",
+      "lon": "-105.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ahuacatlán",
+      "en": "Ahuacatlan",
+      "slug": "ahuacatlan-mx18002"
+    },
+    "code": {
+      "id": "MX18002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.051",
+      "lon": "-104.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amatlán de Cañas",
+      "en": "Amatlan de Canas",
+      "slug": "amatlan-de-canas-mx18003"
+    },
+    "code": {
+      "id": "MX18003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.799",
+      "lon": "-104.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bahía de Banderas",
+      "en": "Bahia de Banderas",
+      "slug": "bahia-de-banderas-mx18020"
+    },
+    "code": {
+      "id": "MX18020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.829",
+      "lon": "-105.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Compostela",
+      "en": "Compostela",
+      "slug": "compostela-mx18004"
+    },
+    "code": {
+      "id": "MX18004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.114",
+      "lon": "-105.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Del Nayar",
+      "en": "Del Nayar",
+      "slug": "del-nayar-mx18009"
+    },
+    "code": {
+      "id": "MX18009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.056",
+      "lon": "-104.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huajicori",
+      "en": "Huajicori",
+      "slug": "huajicori-mx18005"
+    },
+    "code": {
+      "id": "MX18005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.811",
+      "lon": "-105.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtlán del Río",
+      "en": "Ixtlan del Rio",
+      "slug": "ixtlan-del-rio-mx18006"
+    },
+    "code": {
+      "id": "MX18006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.029",
+      "lon": "-104.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jala",
+      "en": "Jala",
+      "slug": "jala-mx18007"
+    },
+    "code": {
+      "id": "MX18007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.203",
+      "lon": "-104.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Yesca",
+      "en": "La Yesca",
+      "slug": "la-yesca-mx18019"
+    },
+    "code": {
+      "id": "MX18019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.589",
+      "lon": "-104.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosamorada",
+      "en": "Rosamorada",
+      "slug": "rosamorada-mx18010"
+    },
+    "code": {
+      "id": "MX18010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.15",
+      "lon": "-105.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ruíz",
+      "en": "Ruiz",
+      "slug": "ruiz-mx18011"
+    },
+    "code": {
+      "id": "MX18011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.016",
+      "lon": "-104.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Blas",
+      "en": "San Blas",
+      "slug": "san-blas-mx18012"
+    },
+    "code": {
+      "id": "MX18012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.538",
+      "lon": "-105.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Lagunillas",
+      "en": "San Pedro Lagunillas",
+      "slug": "san-pedro-lagunillas-mx18013"
+    },
+    "code": {
+      "id": "MX18013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.167",
+      "lon": "-104.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María del Oro",
+      "en": "Santa Maria del Oro",
+      "slug": "santa-maria-del-oro-mx18014"
+    },
+    "code": {
+      "id": "MX18014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.347",
+      "lon": "-104.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago Ixcuintla",
+      "en": "Santiago Ixcuintla",
+      "slug": "santiago-ixcuintla-mx18015"
+    },
+    "code": {
+      "id": "MX18015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.91",
+      "lon": "-105.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecuala",
+      "en": "Tecuala",
+      "slug": "tecuala-mx18016"
+    },
+    "code": {
+      "id": "MX18016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.325",
+      "lon": "-105.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepic",
+      "en": "Tepic",
+      "slug": "tepic-mx18017"
+    },
+    "code": {
+      "id": "MX18017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.624",
+      "lon": "-104.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuxpan",
+      "en": "Tuxpan",
+      "slug": "tuxpan-mx18018"
+    },
+    "code": {
+      "id": "MX18018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.993",
+      "lon": "-105.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX18008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xalisco",
+      "en": "Xalisco",
+      "slug": "xalisco-mx18008"
+    },
+    "code": {
+      "id": "MX18008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX18",
+        "level": 1,
+        "name": {
+          "local": "Nayarit",
+          "en": "Nayarit",
+          "slug": "nayarit-mx18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.399",
+      "lon": "-104.942"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

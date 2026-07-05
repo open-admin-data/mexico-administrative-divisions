@@ -1,0 +1,45 @@
+{
+  "id": "MX11013",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Doctor Mora",
+    "en": "Doctor Mora",
+    "slug": "doctor-mora-mx11013"
+  },
+  "code": {
+    "id": "MX11013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.147",
+    "lon": "-100.368"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX20117",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Bartolomé Loxicha",
+    "en": "San Bartolome Loxicha",
+    "slug": "san-bartolome-loxicha-mx20117"
+  },
+  "code": {
+    "id": "MX20117",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.957",
+    "lon": "-96.764"
+  },
+  "metadata": {},
+  "source": {}
+}

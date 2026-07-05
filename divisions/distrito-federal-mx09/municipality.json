@@ -1,0 +1,722 @@
+[
+  {
+    "id": "MX09010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Álvaro Obregón",
+      "en": "Alvaro Obregon",
+      "slug": "alvaro-obregon-mx09010"
+    },
+    "code": {
+      "id": "MX09010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.318",
+      "lon": "-99.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Azcapotzalco",
+      "en": "Azcapotzalco",
+      "slug": "azcapotzalco-mx09002"
+    },
+    "code": {
+      "id": "MX09002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.486",
+      "lon": "-99.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benito Juárez",
+      "en": "Benito Juarez",
+      "slug": "benito-juarez-mx09014"
+    },
+    "code": {
+      "id": "MX09014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.38",
+      "lon": "-99.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coyoacán",
+      "en": "Coyoacan",
+      "slug": "coyoacan-mx09003"
+    },
+    "code": {
+      "id": "MX09003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.328",
+      "lon": "-99.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuajimalpa de Morelos",
+      "en": "Cuajimalpa de Morelos",
+      "slug": "cuajimalpa-de-morelos-mx09004"
+    },
+    "code": {
+      "id": "MX09004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.319",
+      "lon": "-99.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuauhtémoc",
+      "en": "Cuauhtemoc",
+      "slug": "cuauhtemoc-mx09015"
+    },
+    "code": {
+      "id": "MX09015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.433",
+      "lon": "-99.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gustavo A. Madero",
+      "en": "Gustavo A. Madero",
+      "slug": "gustavo-a-madero-mx09005"
+    },
+    "code": {
+      "id": "MX09005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.518",
+      "lon": "-99.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iztacalco",
+      "en": "Iztacalco",
+      "slug": "iztacalco-mx09006"
+    },
+    "code": {
+      "id": "MX09006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.399",
+      "lon": "-99.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Iztapalapa",
+      "en": "Iztapalapa",
+      "slug": "iztapalapa-mx09007"
+    },
+    "code": {
+      "id": "MX09007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.343",
+      "lon": "-99.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Magdalena Contreras",
+      "en": "La Magdalena Contreras",
+      "slug": "la-magdalena-contreras-mx09008"
+    },
+    "code": {
+      "id": "MX09008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.275",
+      "lon": "-99.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miguel Hidalgo",
+      "en": "Miguel Hidalgo",
+      "slug": "miguel-hidalgo-mx09016"
+    },
+    "code": {
+      "id": "MX09016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.43",
+      "lon": "-99.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Milpa Alta",
+      "en": "Milpa Alta",
+      "slug": "milpa-alta-mx09009"
+    },
+    "code": {
+      "id": "MX09009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.138",
+      "lon": "-99.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tláhuac",
+      "en": "Tlahuac",
+      "slug": "tlahuac-mx09011"
+    },
+    "code": {
+      "id": "MX09011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.27",
+      "lon": "-99.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlalpan",
+      "en": "Tlalpan",
+      "slug": "tlalpan-mx09012"
+    },
+    "code": {
+      "id": "MX09012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.201",
+      "lon": "-99.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venustiano Carranza",
+      "en": "Venustiano Carranza",
+      "slug": "venustiano-carranza-mx09017"
+    },
+    "code": {
+      "id": "MX09017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.432",
+      "lon": "-99.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX09013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xochimilco",
+      "en": "Xochimilco",
+      "slug": "xochimilco-mx09013"
+    },
+    "code": {
+      "id": "MX09013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX09",
+      "level": 1,
+      "name": {
+        "local": "Distrito Federal",
+        "en": "Distrito Federal",
+        "slug": "distrito-federal-mx09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX09",
+        "level": 1,
+        "name": {
+          "local": "Distrito Federal",
+          "en": "Distrito Federal",
+          "slug": "distrito-federal-mx09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.237",
+      "lon": "-99.082"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

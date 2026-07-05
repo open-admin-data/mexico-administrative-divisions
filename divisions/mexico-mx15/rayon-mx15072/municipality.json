@@ -1,0 +1,45 @@
+{
+  "id": "MX15072",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rayón",
+    "en": "Rayon",
+    "slug": "rayon-mx15072"
+  },
+  "code": {
+    "id": "MX15072",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.139",
+    "lon": "-99.568"
+  },
+  "metadata": {},
+  "source": {}
+}

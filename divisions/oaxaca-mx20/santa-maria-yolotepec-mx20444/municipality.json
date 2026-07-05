@@ -1,0 +1,45 @@
+{
+  "id": "MX20444",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Yolotepec",
+    "en": "Santa Maria Yolotepec",
+    "slug": "santa-maria-yolotepec-mx20444"
+  },
+  "code": {
+    "id": "MX20444",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.884",
+    "lon": "-97.464"
+  },
+  "metadata": {},
+  "source": {}
+}

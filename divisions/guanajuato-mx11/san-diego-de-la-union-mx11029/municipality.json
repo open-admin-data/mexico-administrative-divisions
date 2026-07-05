@@ -1,0 +1,45 @@
+{
+  "id": "MX11029",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Diego de la Unión",
+    "en": "San Diego de la Union",
+    "slug": "san-diego-de-la-union-mx11029"
+  },
+  "code": {
+    "id": "MX11029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.455",
+    "lon": "-100.87"
+  },
+  "metadata": {},
+  "source": {}
+}

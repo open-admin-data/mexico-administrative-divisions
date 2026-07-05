@@ -1,0 +1,45 @@
+{
+  "id": "MX21103",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nicolás Bravo",
+    "en": "Nicolas Bravo",
+    "slug": "nicolas-bravo-mx21103"
+  },
+  "code": {
+    "id": "MX21103",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.614",
+    "lon": "-97.317"
+  },
+  "metadata": {},
+  "source": {}
+}

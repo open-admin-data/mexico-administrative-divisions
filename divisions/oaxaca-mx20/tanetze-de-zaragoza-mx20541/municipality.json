@@ -1,0 +1,45 @@
+{
+  "id": "MX20541",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tanetze de Zaragoza",
+    "en": "Tanetze de Zaragoza",
+    "slug": "tanetze-de-zaragoza-mx20541"
+  },
+  "code": {
+    "id": "MX20541",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.384",
+    "lon": "-96.296"
+  },
+  "metadata": {},
+  "source": {}
+}

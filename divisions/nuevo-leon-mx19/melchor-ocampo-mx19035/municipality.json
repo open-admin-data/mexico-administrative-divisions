@@ -1,0 +1,45 @@
+{
+  "id": "MX19035",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Melchor Ocampo",
+    "en": "Melchor Ocampo",
+    "slug": "melchor-ocampo-mx19035"
+  },
+  "code": {
+    "id": "MX19035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.044",
+    "lon": "-99.494"
+  },
+  "metadata": {},
+  "source": {}
+}

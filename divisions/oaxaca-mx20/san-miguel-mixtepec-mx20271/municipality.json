@@ -1,0 +1,45 @@
+{
+  "id": "MX20271",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Mixtepec",
+    "en": "San Miguel Mixtepec",
+    "slug": "san-miguel-mixtepec-mx20271"
+  },
+  "code": {
+    "id": "MX20271",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.759",
+    "lon": "-96.96"
+  },
+  "metadata": {},
+  "source": {}
+}

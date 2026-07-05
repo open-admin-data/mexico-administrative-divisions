@@ -1,0 +1,174 @@
+# Morelos — Mexico Administrative Divisions
+
+> 33 municipalitys
+> Code: MX17
+> Coordinates: 18.732, -99.102
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Amacuzac
+
+Code: MX17001, Coordinates: 18.588, -99.377
+
+
+### Atlatlahucan
+
+Code: MX17002, Coordinates: 18.941, -98.887
+
+
+### Axochiapan
+
+Code: MX17003, Coordinates: 18.525, -98.76
+
+
+### Ayala
+
+Code: MX17004, Coordinates: 18.697, -98.98
+
+
+### Coatlán del Río (Coatlan del Rio)
+
+Code: MX17005, Coordinates: 18.734, -99.452
+
+
+### Cuautla
+
+Code: MX17006, Coordinates: 18.823, -98.972
+
+
+### Cuernavaca
+
+Code: MX17007, Coordinates: 18.933, -99.26
+
+
+### Emiliano Zapata
+
+Code: MX17008, Coordinates: 18.809, -99.186
+
+
+### Huitzilac
+
+Code: MX17009, Coordinates: 19.057, -99.232
+
+
+### Jantetelco
+
+Code: MX17010, Coordinates: 18.67, -98.757
+
+
+### Jiutepec
+
+Code: MX17011, Coordinates: 18.886, -99.17
+
+
+### Jojutla
+
+Code: MX17012, Coordinates: 18.6, -99.23
+
+
+### Jonacatepec
+
+Code: MX17013, Coordinates: 18.657, -98.789
+
+
+### Mazatepec
+
+Code: MX17014, Coordinates: 18.688, -99.358
+
+
+### Miacatlán (Miacatlan)
+
+Code: MX17015, Coordinates: 18.804, -99.361
+
+
+### Ocuituco
+
+Code: MX17016, Coordinates: 18.879, -98.777
+
+
+### Puente de Ixtla
+
+Code: MX17017, Coordinates: 18.588, -99.313
+
+
+### Temixco
+
+Code: MX17018, Coordinates: 18.848, -99.246
+
+
+### Temoac
+
+Code: MX17033, Coordinates: 18.76, -98.792
+
+
+### Tepalcingo
+
+Code: MX17019, Coordinates: 18.569, -98.908
+
+
+### Tepoztlán (Tepoztlan)
+
+Code: MX17020, Coordinates: 18.992, -99.103
+
+
+### Tetecala
+
+Code: MX17021, Coordinates: 18.688, -99.416
+
+
+### Tetela del Volcán (Tetela del Volcan)
+
+Code: MX17022, Coordinates: 18.918, -98.72
+
+
+### Tlalnepantla
+
+Code: MX17023, Coordinates: 19.03, -98.986
+
+
+### Tlaltizapán de Zapata (Tlaltizapan de Zapata)
+
+Code: MX17024, Coordinates: 18.705, -99.142
+
+
+### Tlaquiltenango
+
+Code: MX17025, Coordinates: 18.499, -99.102
+
+
+### Tlayacapan
+
+Code: MX17026, Coordinates: 18.944, -98.971
+
+
+### Totolapan
+
+Code: MX17027, Coordinates: 18.996, -98.932
+
+
+### Xochitepec
+
+Code: MX17028, Coordinates: 18.765, -99.234
+
+
+### Yautepec
+
+Code: MX17029, Coordinates: 18.865, -99.062
+
+
+### Yecapixtla
+
+Code: MX17030, Coordinates: 18.859, -98.874
+
+
+### Zacatepec
+
+Code: MX17031, Coordinates: 18.651, -99.203
+
+
+### Zacualpan
+
+Code: MX17032, Coordinates: 18.81, -98.763
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "MX20234",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Lucas Zoquiápam",
+    "en": "San Lucas Zoquiapam",
+    "slug": "san-lucas-zoquiapam-mx20234"
+  },
+  "code": {
+    "id": "MX20234",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.111",
+    "lon": "-96.918"
+  },
+  "metadata": {},
+  "source": {}
+}

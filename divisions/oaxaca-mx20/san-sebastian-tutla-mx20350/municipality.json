@@ -1,0 +1,45 @@
+{
+  "id": "MX20350",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Sebastián Tutla",
+    "en": "San Sebastian Tutla",
+    "slug": "san-sebastian-tutla-mx20350"
+  },
+  "code": {
+    "id": "MX20350",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.045",
+    "lon": "-96.678"
+  },
+  "metadata": {},
+  "source": {}
+}

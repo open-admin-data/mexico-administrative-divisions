@@ -1,0 +1,45 @@
+{
+  "id": "MX20020",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Constancia del Rosario",
+    "en": "Constancia del Rosario",
+    "slug": "constancia-del-rosario-mx20020"
+  },
+  "code": {
+    "id": "MX20020",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.046",
+    "lon": "-97.96"
+  },
+  "metadata": {},
+  "source": {}
+}

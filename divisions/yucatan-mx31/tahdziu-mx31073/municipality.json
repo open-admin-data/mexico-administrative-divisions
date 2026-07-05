@@ -1,0 +1,45 @@
+{
+  "id": "MX31073",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tahdziú",
+    "en": "Tahdziu",
+    "slug": "tahdziu-mx31073"
+  },
+  "code": {
+    "id": "MX31073",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.246",
+    "lon": "-88.888"
+  },
+  "metadata": {},
+  "source": {}
+}

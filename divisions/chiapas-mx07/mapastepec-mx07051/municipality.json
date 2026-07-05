@@ -1,0 +1,45 @@
+{
+  "id": "MX07051",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mapastepec",
+    "en": "Mapastepec",
+    "slug": "mapastepec-mx07051"
+  },
+  "code": {
+    "id": "MX07051",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.447",
+    "lon": "-92.915"
+  },
+  "metadata": {},
+  "source": {}
+}

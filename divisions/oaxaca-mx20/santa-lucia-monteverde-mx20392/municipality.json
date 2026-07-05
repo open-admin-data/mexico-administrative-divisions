@@ -1,0 +1,45 @@
+{
+  "id": "MX20392",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Lucía Monteverde",
+    "en": "Santa Lucia Monteverde",
+    "slug": "santa-lucia-monteverde-mx20392"
+  },
+  "code": {
+    "id": "MX20392",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.955",
+    "lon": "-97.721"
+  },
+  "metadata": {},
+  "source": {}
+}

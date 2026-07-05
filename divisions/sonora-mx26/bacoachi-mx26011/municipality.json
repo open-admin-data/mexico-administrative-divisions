@@ -1,0 +1,45 @@
+{
+  "id": "MX26011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bacoachi",
+    "en": "Bacoachi",
+    "slug": "bacoachi-mx26011"
+  },
+  "code": {
+    "id": "MX26011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.678",
+    "lon": "-110.012"
+  },
+  "metadata": {},
+  "source": {}
+}

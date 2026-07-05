@@ -1,0 +1,33 @@
+{
+  "id": "MX24",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "San Luis Potosí",
+    "en": "San Luis Potosi",
+    "slug": "san-luis-potosi-mx24"
+  },
+  "code": {
+    "id": "MX24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 58
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.827",
+    "lon": "-101.096"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/san-luis-potosi-mx24/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

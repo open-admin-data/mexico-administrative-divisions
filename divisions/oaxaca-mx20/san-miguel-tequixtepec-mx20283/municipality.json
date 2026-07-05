@@ -1,0 +1,45 @@
+{
+  "id": "MX20283",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Tequixtepec",
+    "en": "San Miguel Tequixtepec",
+    "slug": "san-miguel-tequixtepec-mx20283"
+  },
+  "code": {
+    "id": "MX20283",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.831",
+    "lon": "-97.313"
+  },
+  "metadata": {},
+  "source": {}
+}

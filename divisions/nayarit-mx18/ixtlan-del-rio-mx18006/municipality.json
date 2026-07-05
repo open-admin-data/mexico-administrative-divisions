@@ -1,0 +1,45 @@
+{
+  "id": "MX18006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixtlán del Río",
+    "en": "Ixtlan del Rio",
+    "slug": "ixtlan-del-rio-mx18006"
+  },
+  "code": {
+    "id": "MX18006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX18",
+    "level": 1,
+    "name": {
+      "local": "Nayarit",
+      "en": "Nayarit",
+      "slug": "nayarit-mx18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX18",
+      "level": 1,
+      "name": {
+        "local": "Nayarit",
+        "en": "Nayarit",
+        "slug": "nayarit-mx18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.029",
+    "lon": "-104.328"
+  },
+  "metadata": {},
+  "source": {}
+}

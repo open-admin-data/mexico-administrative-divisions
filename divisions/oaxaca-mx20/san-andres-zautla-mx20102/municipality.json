@@ -1,0 +1,45 @@
+{
+  "id": "MX20102",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Andrés Zautla",
+    "en": "San Andres Zautla",
+    "slug": "san-andres-zautla-mx20102"
+  },
+  "code": {
+    "id": "MX20102",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.183",
+    "lon": "-96.905"
+  },
+  "metadata": {},
+  "source": {}
+}

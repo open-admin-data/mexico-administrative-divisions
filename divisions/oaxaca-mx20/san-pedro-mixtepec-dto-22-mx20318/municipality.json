@@ -1,0 +1,45 @@
+{
+  "id": "MX20318",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Mixtepec -Dto. 22 -",
+    "en": "San Pedro Mixtepec -Dto. 22 -",
+    "slug": "san-pedro-mixtepec-dto-22-mx20318"
+  },
+  "code": {
+    "id": "MX20318",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.946",
+    "lon": "-97.071"
+  },
+  "metadata": {},
+  "source": {}
+}

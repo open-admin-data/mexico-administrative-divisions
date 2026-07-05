@@ -1,0 +1,45 @@
+{
+  "id": "MX14045",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixtlahuacán del Río",
+    "en": "Ixtlahuacan del Rio",
+    "slug": "ixtlahuacan-del-rio-mx14045"
+  },
+  "code": {
+    "id": "MX14045",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.904",
+    "lon": "-103.25"
+  },
+  "metadata": {},
+  "source": {}
+}

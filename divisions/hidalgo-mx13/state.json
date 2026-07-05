@@ -1,0 +1,33 @@
+{
+  "id": "MX13",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Hidalgo",
+    "en": "Hidalgo",
+    "slug": "hidalgo-mx13"
+  },
+  "code": {
+    "id": "MX13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 84
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.498",
+    "lon": "-99.213"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/hidalgo-mx13/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

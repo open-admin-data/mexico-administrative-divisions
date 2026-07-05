@@ -1,0 +1,45 @@
+{
+  "id": "MX29017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mazatecochco de José María Morelos",
+    "en": "Mazatecochco de Jose Maria Morelos",
+    "slug": "mazatecochco-de-jose-maria-morelos-mx29017"
+  },
+  "code": {
+    "id": "MX29017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.192",
+    "lon": "-98.165"
+  },
+  "metadata": {},
+  "source": {}
+}

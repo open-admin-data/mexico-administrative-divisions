@@ -1,0 +1,114 @@
+# Mexico Administrative Divisions
+
+> Open dataset of Mexico's administrative hierarchy:
+> 32 states, 2,457 municipalitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total states: 32
+- Total municipalitys: 2,457
+- Coordinates: included (all levels)
+- Last updated: 2026-07-05
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All states (JSON)](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/data/all-state.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/data/all-municipality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/data/schema.json)
+
+## Browse by State
+
+- [Aguascalientes](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/aguascalientes-mx01/) — 11 municipalitys
+- [Baja California](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/baja-california-mx02/) — 5 municipalitys
+- [Baja California Sur](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/baja-california-sur-mx03/) — 5 municipalitys
+- [Campeche](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/campeche-mx04/) — 11 municipalitys
+- [Chiapas](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/chiapas-mx07/) — 118 municipalitys
+- [Chihuahua](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/chihuahua-mx08/) — 67 municipalitys
+- [Coahuila de Zaragoza](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/coahuila-de-zaragoza-mx05/) — 38 municipalitys
+- [Colima](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/colima-mx06/) — 10 municipalitys
+- [Distrito Federal](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/distrito-federal-mx09/) — 16 municipalitys
+- [Durango](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/durango-mx10/) — 39 municipalitys
+- [Guanajuato](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/guanajuato-mx11/) — 46 municipalitys
+- [Guerrero](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/guerrero-mx12/) — 81 municipalitys
+- [Hidalgo](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/hidalgo-mx13/) — 84 municipalitys
+- [Jalisco](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/jalisco-mx14/) — 125 municipalitys
+- [Mexico](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/mexico-mx15/) — 125 municipalitys
+- [Michoacan de Ocampo](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/michoacan-de-ocampo-mx16/) — 113 municipalitys
+- [Morelos](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/morelos-mx17/) — 33 municipalitys
+- [Nayarit](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/nayarit-mx18/) — 20 municipalitys
+- [Nuevo Leon](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/nuevo-leon-mx19/) — 51 municipalitys
+- [Oaxaca](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/oaxaca-mx20/) — 570 municipalitys
+- [Puebla](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/puebla-mx21/) — 217 municipalitys
+- [Queretaro de Arteaga](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/queretaro-de-arteaga-mx22/) — 18 municipalitys
+- [Quintana Roo](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/quintana-roo-mx23/) — 10 municipalitys
+- [San Luis Potosi](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/san-luis-potosi-mx24/) — 58 municipalitys
+- [Sinaloa](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/sinaloa-mx25/) — 18 municipalitys
+- [Sonora](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/sonora-mx26/) — 72 municipalitys
+- [Tabasco](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/tabasco-mx27/) — 17 municipalitys
+- [Tamaulipas](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/tamaulipas-mx28/) — 43 municipalitys
+- [Tlaxcala](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/tlaxcala-mx29/) — 60 municipalitys
+- [Veracruz de Ignacio de la Llave](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/veracruz-de-ignacio-de-la-llave-mx30/) — 212 municipalitys
+- [Yucatan](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/yucatan-mx31/) — 106 municipalitys
+- [Zacatecas](https://github.com/open-admin-data/mexico-administrative-divisions/tree/main/divisions/zacatecas-mx32/) — 58 municipalitys
+
+## Per-State Full Data
+
+- [Aguascalientes](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/aguascalientes-mx01.txt)
+- [Baja California](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/baja-california-mx02.txt)
+- [Baja California Sur](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/baja-california-sur-mx03.txt)
+- [Campeche](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/campeche-mx04.txt)
+- [Chiapas](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/chiapas-mx07.txt)
+- [Chihuahua](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/chihuahua-mx08.txt)
+- [Coahuila de Zaragoza](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/coahuila-de-zaragoza-mx05.txt)
+- [Colima](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/colima-mx06.txt)
+- [Distrito Federal](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/distrito-federal-mx09.txt)
+- [Durango](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/durango-mx10.txt)
+- [Guanajuato](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/guanajuato-mx11.txt)
+- [Guerrero](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/guerrero-mx12.txt)
+- [Hidalgo](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/hidalgo-mx13.txt)
+- [Jalisco](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/jalisco-mx14.txt)
+- [Mexico](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/mexico-mx15.txt)
+- [Michoacan de Ocampo](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/michoacan-de-ocampo-mx16.txt)
+- [Morelos](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/morelos-mx17.txt)
+- [Nayarit](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/nayarit-mx18.txt)
+- [Nuevo Leon](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/nuevo-leon-mx19.txt)
+- [Oaxaca](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/oaxaca-mx20.txt)
+- [Puebla](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/puebla-mx21.txt)
+- [Queretaro de Arteaga](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/queretaro-de-arteaga-mx22.txt)
+- [Quintana Roo](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/quintana-roo-mx23.txt)
+- [San Luis Potosi](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/san-luis-potosi-mx24.txt)
+- [Sinaloa](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/sinaloa-mx25.txt)
+- [Sonora](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/sonora-mx26.txt)
+- [Tabasco](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/tabasco-mx27.txt)
+- [Tamaulipas](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/tamaulipas-mx28.txt)
+- [Tlaxcala](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/tlaxcala-mx29.txt)
+- [Veracruz de Ignacio de la Llave](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/veracruz-de-ignacio-de-la-llave-mx30.txt)
+- [Yucatan](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/yucatan-mx31.txt)
+- [Zacatecas](https://raw.githubusercontent.com/open-admin-data/mexico-administrative-divisions/main/docs/llms-full/zacatecas-mx32.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (state), 2 (municipality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Mexico Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/mexico-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

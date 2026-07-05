@@ -1,0 +1,45 @@
+{
+  "id": "MX12027",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cutzamala de Pinzón",
+    "en": "Cutzamala de Pinzon",
+    "slug": "cutzamala-de-pinzon-mx12027"
+  },
+  "code": {
+    "id": "MX12027",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.642",
+    "lon": "-100.623"
+  },
+  "metadata": {},
+  "source": {}
+}

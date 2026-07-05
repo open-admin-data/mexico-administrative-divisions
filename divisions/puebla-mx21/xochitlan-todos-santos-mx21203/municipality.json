@@ -1,0 +1,45 @@
+{
+  "id": "MX21203",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xochitlán Todos Santos",
+    "en": "Xochitlan Todos Santos",
+    "slug": "xochitlan-todos-santos-mx21203"
+  },
+  "code": {
+    "id": "MX21203",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.694",
+    "lon": "-97.782"
+  },
+  "metadata": {},
+  "source": {}
+}

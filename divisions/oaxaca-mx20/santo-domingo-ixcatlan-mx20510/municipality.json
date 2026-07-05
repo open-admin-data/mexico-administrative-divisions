@@ -1,0 +1,45 @@
+{
+  "id": "MX20510",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santo Domingo Ixcatlán",
+    "en": "Santo Domingo Ixcatlan",
+    "slug": "santo-domingo-ixcatlan-mx20510"
+  },
+  "code": {
+    "id": "MX20510",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.909",
+    "lon": "-97.524"
+  },
+  "metadata": {},
+  "source": {}
+}

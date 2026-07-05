@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "MX24001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ahualulco",
+      "en": "Ahualulco",
+      "slug": "ahualulco-mx24001"
+    },
+    "code": {
+      "id": "MX24001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.473",
+      "lon": "-101.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alaquines",
+      "en": "Alaquines",
+      "slug": "alaquines-mx24002"
+    },
+    "code": {
+      "id": "MX24002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.081",
+      "lon": "-99.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aquismón",
+      "en": "Aquismon",
+      "slug": "aquismon-mx24003"
+    },
+    "code": {
+      "id": "MX24003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.748",
+      "lon": "-99.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Armadillo de los Infante",
+      "en": "Armadillo de los Infante",
+      "slug": "armadillo-de-los-infante-mx24004"
+    },
+    "code": {
+      "id": "MX24004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.261",
+      "lon": "-100.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Axtla de Terrazas",
+      "en": "Axtla de Terrazas",
+      "slug": "axtla-de-terrazas-mx24053"
+    },
+    "code": {
+      "id": "MX24053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.424",
+      "lon": "-98.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cárdenas",
+      "en": "Cardenas",
+      "slug": "cardenas-mx24005"
+    },
+    "code": {
+      "id": "MX24005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.006",
+      "lon": "-99.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catorce",
+      "en": "Catorce",
+      "slug": "catorce-mx24006"
+    },
+    "code": {
+      "id": "MX24006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.644",
+      "lon": "-101.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cedral",
+      "en": "Cedral",
+      "slug": "cedral-mx24007"
+    },
+    "code": {
+      "id": "MX24007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.943",
+      "lon": "-100.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cerritos",
+      "en": "Cerritos",
+      "slug": "cerritos-mx24008"
+    },
+    "code": {
+      "id": "MX24008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.419",
+      "lon": "-100.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cerro de San Pedro",
+      "en": "Cerro de San Pedro",
+      "slug": "cerro-de-san-pedro-mx24009"
+    },
+    "code": {
+      "id": "MX24009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.2",
+      "lon": "-100.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Charcas",
+      "en": "Charcas",
+      "slug": "charcas-mx24015"
+    },
+    "code": {
+      "id": "MX24015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.273",
+      "lon": "-101.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciudad del Maíz",
+      "en": "Ciudad del Maiz",
+      "slug": "ciudad-del-maiz-mx24010"
+    },
+    "code": {
+      "id": "MX24010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.431",
+      "lon": "-99.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciudad Fernández",
+      "en": "Ciudad Fernandez",
+      "slug": "ciudad-fernandez-mx24011"
+    },
+    "code": {
+      "id": "MX24011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.991",
+      "lon": "-100.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciudad Valles",
+      "en": "Ciudad Valles",
+      "slug": "ciudad-valles-mx24013"
+    },
+    "code": {
+      "id": "MX24013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.076",
+      "lon": "-99.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coxcatlán",
+      "en": "Coxcatlan",
+      "slug": "coxcatlan-mx24014"
+    },
+    "code": {
+      "id": "MX24014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.515",
+      "lon": "-98.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ebano",
+      "en": "Ebano",
+      "slug": "ebano-mx24016"
+    },
+    "code": {
+      "id": "MX24016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.168",
+      "lon": "-98.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Naranjo",
+      "en": "El Naranjo",
+      "slug": "el-naranjo-mx24058"
+    },
+    "code": {
+      "id": "MX24058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.451",
+      "lon": "-99.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guadalcázar",
+      "en": "Guadalcazar",
+      "slug": "guadalcazar-mx24017"
+    },
+    "code": {
+      "id": "MX24017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.901",
+      "lon": "-100.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huehuetlán",
+      "en": "Huehuetlan",
+      "slug": "huehuetlan-mx24018"
+    },
+    "code": {
+      "id": "MX24018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.517",
+      "lon": "-98.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagunillas",
+      "en": "Lagunillas",
+      "slug": "lagunillas-mx24019"
+    },
+    "code": {
+      "id": "MX24019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.598",
+      "lon": "-99.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matehuala",
+      "en": "Matehuala",
+      "slug": "matehuala-mx24020"
+    },
+    "code": {
+      "id": "MX24020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.523",
+      "lon": "-100.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matlapa",
+      "en": "Matlapa",
+      "slug": "matlapa-mx24057"
+    },
+    "code": {
+      "id": "MX24057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.333",
+      "lon": "-98.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mexquitic de Carmona",
+      "en": "Mexquitic de Carmona",
+      "slug": "mexquitic-de-carmona-mx24021"
+    },
+    "code": {
+      "id": "MX24021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.255",
+      "lon": "-101.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moctezuma",
+      "en": "Moctezuma",
+      "slug": "moctezuma-mx24022"
+    },
+    "code": {
+      "id": "MX24022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.707",
+      "lon": "-101.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rayón",
+      "en": "Rayon",
+      "slug": "rayon-mx24023"
+    },
+    "code": {
+      "id": "MX24023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.795",
+      "lon": "-99.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rioverde",
+      "en": "Rioverde",
+      "slug": "rioverde-mx24024"
+    },
+    "code": {
+      "id": "MX24024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.979",
+      "lon": "-100.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salinas",
+      "en": "Salinas",
+      "slug": "salinas-mx24025"
+    },
+    "code": {
+      "id": "MX24025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.823",
+      "lon": "-101.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio",
+      "en": "San Antonio",
+      "slug": "san-antonio-mx24026"
+    },
+    "code": {
+      "id": "MX24026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.619",
+      "lon": "-98.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ciro de Acosta",
+      "en": "San Ciro de Acosta",
+      "slug": "san-ciro-de-acosta-mx24027"
+    },
+    "code": {
+      "id": "MX24027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.589",
+      "lon": "-99.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis Potosí",
+      "en": "San Luis Potosi",
+      "slug": "san-luis-potosi-mx24028"
+    },
+    "code": {
+      "id": "MX24028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.309",
+      "lon": "-100.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Martín Chalchicuautla",
+      "en": "San Martin Chalchicuautla",
+      "slug": "san-martin-chalchicuautla-mx24029"
+    },
+    "code": {
+      "id": "MX24029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.363",
+      "lon": "-98.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Nicolás Tolentino",
+      "en": "San Nicolas Tolentino",
+      "slug": "san-nicolas-tolentino-mx24030"
+    },
+    "code": {
+      "id": "MX24030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.148",
+      "lon": "-100.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Vicente Tancuayalab",
+      "en": "San Vicente Tancuayalab",
+      "slug": "san-vicente-tancuayalab-mx24034"
+    },
+    "code": {
+      "id": "MX24034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.813",
+      "lon": "-98.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-mx24031"
+    },
+    "code": {
+      "id": "MX24031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.575",
+      "lon": "-99.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María del Río",
+      "en": "Santa Maria del Rio",
+      "slug": "santa-maria-del-rio-mx24032"
+    },
+    "code": {
+      "id": "MX24032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.735",
+      "lon": "-100.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Domingo",
+      "en": "Santo Domingo",
+      "slug": "santo-domingo-mx24033"
+    },
+    "code": {
+      "id": "MX24033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.412",
+      "lon": "-101.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soledad de Graciano Sánchez",
+      "en": "Soledad de Graciano Sanchez",
+      "slug": "soledad-de-graciano-sanchez-mx24035"
+    },
+    "code": {
+      "id": "MX24035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.297",
+      "lon": "-100.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamasopo",
+      "en": "Tamasopo",
+      "slug": "tamasopo-mx24036"
+    },
+    "code": {
+      "id": "MX24036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.931",
+      "lon": "-99.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamazunchale",
+      "en": "Tamazunchale",
+      "slug": "tamazunchale-mx24037"
+    },
+    "code": {
+      "id": "MX24037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.244",
+      "lon": "-98.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tampacán",
+      "en": "Tampacan",
+      "slug": "tampacan-mx24038"
+    },
+    "code": {
+      "id": "MX24038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.408",
+      "lon": "-98.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tampamolón Corona",
+      "en": "Tampamolon Corona",
+      "slug": "tampamolon-corona-mx24039"
+    },
+    "code": {
+      "id": "MX24039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.551",
+      "lon": "-98.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamuín",
+      "en": "Tamuin",
+      "slug": "tamuin-mx24040"
+    },
+    "code": {
+      "id": "MX24040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.082",
+      "lon": "-98.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tancanhuitz",
+      "en": "Tancanhuitz",
+      "slug": "tancanhuitz-mx24012"
+    },
+    "code": {
+      "id": "MX24012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.641",
+      "lon": "-98.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tanlajás",
+      "en": "Tanlajas",
+      "slug": "tanlajas-mx24041"
+    },
+    "code": {
+      "id": "MX24041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.745",
+      "lon": "-98.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tanquián de Escobedo",
+      "en": "Tanquian de Escobedo",
+      "slug": "tanquian-de-escobedo-mx24042"
+    },
+    "code": {
+      "id": "MX24042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.611",
+      "lon": "-98.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tierra Nueva",
+      "en": "Tierra Nueva",
+      "slug": "tierra-nueva-mx24043"
+    },
+    "code": {
+      "id": "MX24043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.645",
+      "lon": "-100.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vanegas",
+      "en": "Vanegas",
+      "slug": "vanegas-mx24044"
+    },
+    "code": {
+      "id": "MX24044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.143",
+      "lon": "-100.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Venado",
+      "en": "Venado",
+      "slug": "venado-mx24045"
+    },
+    "code": {
+      "id": "MX24045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.922",
+      "lon": "-101.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Arista",
+      "en": "Villa de Arista",
+      "slug": "villa-de-arista-mx24056"
+    },
+    "code": {
+      "id": "MX24056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.668",
+      "lon": "-100.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Arriaga",
+      "en": "Villa de Arriaga",
+      "slug": "villa-de-arriaga-mx24046"
+    },
+    "code": {
+      "id": "MX24046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.982",
+      "lon": "-101.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Guadalupe",
+      "en": "Villa de Guadalupe",
+      "slug": "villa-de-guadalupe-mx24047"
+    },
+    "code": {
+      "id": "MX24047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.276",
+      "lon": "-100.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de la Paz",
+      "en": "Villa de la Paz",
+      "slug": "villa-de-la-paz-mx24048"
+    },
+    "code": {
+      "id": "MX24048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.655",
+      "lon": "-100.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Ramos",
+      "en": "Villa de Ramos",
+      "slug": "villa-de-ramos-mx24049"
+    },
+    "code": {
+      "id": "MX24049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.915",
+      "lon": "-101.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Reyes",
+      "en": "Villa de Reyes",
+      "slug": "villa-de-reyes-mx24050"
+    },
+    "code": {
+      "id": "MX24050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.835",
+      "lon": "-101.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Hidalgo",
+      "en": "Villa Hidalgo",
+      "slug": "villa-hidalgo-mx24051"
+    },
+    "code": {
+      "id": "MX24051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.682",
+      "lon": "-100.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Juárez",
+      "en": "Villa Juarez",
+      "slug": "villa-juarez-mx24052"
+    },
+    "code": {
+      "id": "MX24052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.292",
+      "lon": "-100.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xilitla",
+      "en": "Xilitla",
+      "slug": "xilitla-mx24054"
+    },
+    "code": {
+      "id": "MX24054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.394",
+      "lon": "-99.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX24055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zaragoza",
+      "en": "Zaragoza",
+      "slug": "zaragoza-mx24055"
+    },
+    "code": {
+      "id": "MX24055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX24",
+      "level": 1,
+      "name": {
+        "local": "San Luis Potosí",
+        "en": "San Luis Potosi",
+        "slug": "san-luis-potosi-mx24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX24",
+        "level": 1,
+        "name": {
+          "local": "San Luis Potosí",
+          "en": "San Luis Potosi",
+          "slug": "san-luis-potosi-mx24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.038",
+      "lon": "-100.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

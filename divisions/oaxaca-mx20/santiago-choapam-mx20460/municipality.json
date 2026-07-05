@@ -1,0 +1,45 @@
+{
+  "id": "MX20460",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Choápam",
+    "en": "Santiago Choapam",
+    "slug": "santiago-choapam-mx20460"
+  },
+  "code": {
+    "id": "MX20460",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.361",
+    "lon": "-95.886"
+  },
+  "metadata": {},
+  "source": {}
+}

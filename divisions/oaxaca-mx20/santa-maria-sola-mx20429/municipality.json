@@ -1,0 +1,45 @@
+{
+  "id": "MX20429",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Sola",
+    "en": "Santa Maria Sola",
+    "slug": "santa-maria-sola-mx20429"
+  },
+  "code": {
+    "id": "MX20429",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.567",
+    "lon": "-97.024"
+  },
+  "metadata": {},
+  "source": {}
+}

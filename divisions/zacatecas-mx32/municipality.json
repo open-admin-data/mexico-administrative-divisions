@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "MX32001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apozol",
+      "en": "Apozol",
+      "slug": "apozol-mx32001"
+    },
+    "code": {
+      "id": "MX32001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.463",
+      "lon": "-103.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apulco",
+      "en": "Apulco",
+      "slug": "apulco-mx32002"
+    },
+    "code": {
+      "id": "MX32002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.456",
+      "lon": "-102.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atolinga",
+      "en": "Atolinga",
+      "slug": "atolinga-mx32003"
+    },
+    "code": {
+      "id": "MX32003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.766",
+      "lon": "-103.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benito Juárez",
+      "en": "Benito Juarez",
+      "slug": "benito-juarez-mx32004"
+    },
+    "code": {
+      "id": "MX32004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.491",
+      "lon": "-103.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calera",
+      "en": "Calera",
+      "slug": "calera-mx32005"
+    },
+    "code": {
+      "id": "MX32005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.978",
+      "lon": "-102.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cañitas de Felipe Pescador",
+      "en": "Canitas de Felipe Pescador",
+      "slug": "canitas-de-felipe-pescador-mx32006"
+    },
+    "code": {
+      "id": "MX32006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.576",
+      "lon": "-102.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chalchihuites",
+      "en": "Chalchihuites",
+      "slug": "chalchihuites-mx32009"
+    },
+    "code": {
+      "id": "MX32009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.442",
+      "lon": "-103.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción del Oro",
+      "en": "Concepcion del Oro",
+      "slug": "concepcion-del-oro-mx32007"
+    },
+    "code": {
+      "id": "MX32007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.449",
+      "lon": "-101.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuauhtémoc",
+      "en": "Cuauhtemoc",
+      "slug": "cuauhtemoc-mx32008"
+    },
+    "code": {
+      "id": "MX32008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.461",
+      "lon": "-102.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Plateado de Joaquín Amaro",
+      "en": "El Plateado de Joaquin Amaro",
+      "slug": "el-plateado-de-joaquin-amaro-mx32015"
+    },
+    "code": {
+      "id": "MX32015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.004",
+      "lon": "-103.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Salvador",
+      "en": "El Salvador",
+      "slug": "el-salvador-mx32041"
+    },
+    "code": {
+      "id": "MX32041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.441",
+      "lon": "-100.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fresnillo",
+      "en": "Fresnillo",
+      "slug": "fresnillo-mx32010"
+    },
+    "code": {
+      "id": "MX32010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.225",
+      "lon": "-103.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Genaro Codina",
+      "en": "Genaro Codina",
+      "slug": "genaro-codina-mx32012"
+    },
+    "code": {
+      "id": "MX32012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.457",
+      "lon": "-102.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Enrique Estrada",
+      "en": "General Enrique Estrada",
+      "slug": "general-enrique-estrada-mx32013"
+    },
+    "code": {
+      "id": "MX32013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.015",
+      "lon": "-102.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Francisco R. Murguía",
+      "en": "General Francisco R. Murguia",
+      "slug": "general-francisco-r-murguia-mx32014"
+    },
+    "code": {
+      "id": "MX32014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.128",
+      "lon": "-102.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Pánfilo Natera",
+      "en": "General Panfilo Natera",
+      "slug": "general-panfilo-natera-mx32016"
+    },
+    "code": {
+      "id": "MX32016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.703",
+      "lon": "-102.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guadalupe",
+      "en": "Guadalupe",
+      "slug": "guadalupe-mx32017"
+    },
+    "code": {
+      "id": "MX32017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.782",
+      "lon": "-102.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huanusco",
+      "en": "Huanusco",
+      "slug": "huanusco-mx32018"
+    },
+    "code": {
+      "id": "MX32018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.768",
+      "lon": "-102.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jalpa",
+      "en": "Jalpa",
+      "slug": "jalpa-mx32019"
+    },
+    "code": {
+      "id": "MX32019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.631",
+      "lon": "-103.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jerez",
+      "en": "Jerez",
+      "slug": "jerez-mx32020"
+    },
+    "code": {
+      "id": "MX32020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.711",
+      "lon": "-103.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiménez del Teul",
+      "en": "Jimenez del Teul",
+      "slug": "jimenez-del-teul-mx32021"
+    },
+    "code": {
+      "id": "MX32021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.148",
+      "lon": "-103.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juan Aldama",
+      "en": "Juan Aldama",
+      "slug": "juan-aldama-mx32022"
+    },
+    "code": {
+      "id": "MX32022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.256",
+      "lon": "-103.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juchipila",
+      "en": "Juchipila",
+      "slug": "juchipila-mx32023"
+    },
+    "code": {
+      "id": "MX32023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.378",
+      "lon": "-103.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Loreto",
+      "en": "Loreto",
+      "slug": "loreto-mx32024"
+    },
+    "code": {
+      "id": "MX32024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.274",
+      "lon": "-101.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luis Moya",
+      "en": "Luis Moya",
+      "slug": "luis-moya-mx32025"
+    },
+    "code": {
+      "id": "MX32025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.435",
+      "lon": "-102.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazapil",
+      "en": "Mazapil",
+      "slug": "mazapil-mx32026"
+    },
+    "code": {
+      "id": "MX32026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.381",
+      "lon": "-101.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Melchor Ocampo",
+      "en": "Melchor Ocampo",
+      "slug": "melchor-ocampo-mx32027"
+    },
+    "code": {
+      "id": "MX32027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.9",
+      "lon": "-101.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mezquital del Oro",
+      "en": "Mezquital del Oro",
+      "slug": "mezquital-del-oro-mx32028"
+    },
+    "code": {
+      "id": "MX32028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.194",
+      "lon": "-103.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Miguel Auza",
+      "en": "Miguel Auza",
+      "slug": "miguel-auza-mx32029"
+    },
+    "code": {
+      "id": "MX32029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.162",
+      "lon": "-103.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Momax",
+      "en": "Momax",
+      "slug": "momax-mx32030"
+    },
+    "code": {
+      "id": "MX32030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.945",
+      "lon": "-103.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte Escobedo",
+      "en": "Monte Escobedo",
+      "slug": "monte-escobedo-mx32031"
+    },
+    "code": {
+      "id": "MX32031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.38",
+      "lon": "-103.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx32032"
+    },
+    "code": {
+      "id": "MX32032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.856",
+      "lon": "-102.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moyahua de Estrada",
+      "en": "Moyahua de Estrada",
+      "slug": "moyahua-de-estrada-mx32033"
+    },
+    "code": {
+      "id": "MX32033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.196",
+      "lon": "-103.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nochistlán de Mejía",
+      "en": "Nochistlan de Mejia",
+      "slug": "nochistlan-de-mejia-mx32034"
+    },
+    "code": {
+      "id": "MX32034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.436",
+      "lon": "-102.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Noria de Ángeles",
+      "en": "Noria de Angeles",
+      "slug": "noria-de-angeles-mx32035"
+    },
+    "code": {
+      "id": "MX32035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.399",
+      "lon": "-101.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ojocaliente",
+      "en": "Ojocaliente",
+      "slug": "ojocaliente-mx32036"
+    },
+    "code": {
+      "id": "MX32036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.566",
+      "lon": "-102.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pánuco",
+      "en": "Panuco",
+      "slug": "panuco-mx32037"
+    },
+    "code": {
+      "id": "MX32037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.979",
+      "lon": "-102.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pinos",
+      "en": "Pinos",
+      "slug": "pinos-mx32038"
+    },
+    "code": {
+      "id": "MX32038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.273",
+      "lon": "-101.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Grande",
+      "en": "Rio Grande",
+      "slug": "rio-grande-mx32039"
+    },
+    "code": {
+      "id": "MX32039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.813",
+      "lon": "-103.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sain Alto",
+      "en": "Sain Alto",
+      "slug": "sain-alto-mx32040"
+    },
+    "code": {
+      "id": "MX32040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.579",
+      "lon": "-103.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María de la Paz",
+      "en": "Santa Maria de la Paz",
+      "slug": "santa-maria-de-la-paz-mx32058"
+    },
+    "code": {
+      "id": "MX32058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.511",
+      "lon": "-103.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sombrerete",
+      "en": "Sombrerete",
+      "slug": "sombrerete-mx32042"
+    },
+    "code": {
+      "id": "MX32042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.575",
+      "lon": "-103.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Susticacán",
+      "en": "Susticacan",
+      "slug": "susticacan-mx32043"
+    },
+    "code": {
+      "id": "MX32043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.63",
+      "lon": "-103.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tabasco",
+      "en": "Tabasco",
+      "slug": "tabasco-mx32044"
+    },
+    "code": {
+      "id": "MX32044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.94",
+      "lon": "-102.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepechitlán",
+      "en": "Tepechitlan",
+      "slug": "tepechitlan-mx32045"
+    },
+    "code": {
+      "id": "MX32045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.615",
+      "lon": "-103.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepetongo",
+      "en": "Tepetongo",
+      "slug": "tepetongo-mx32046"
+    },
+    "code": {
+      "id": "MX32046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.423",
+      "lon": "-103.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teúl de González Ortega",
+      "en": "Teul de Gonzalez Ortega",
+      "slug": "teul-de-gonzalez-ortega-mx32047"
+    },
+    "code": {
+      "id": "MX32047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.35",
+      "lon": "-103.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlaltenango de Sánchez Román",
+      "en": "Tlaltenango de Sanchez Roman",
+      "slug": "tlaltenango-de-sanchez-roman-mx32048"
+    },
+    "code": {
+      "id": "MX32048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.775",
+      "lon": "-103.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trancoso",
+      "en": "Trancoso",
+      "slug": "trancoso-mx32057"
+    },
+    "code": {
+      "id": "MX32057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.757",
+      "lon": "-102.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trinidad García de la Cadena",
+      "en": "Trinidad Garcia de la Cadena",
+      "slug": "trinidad-garcia-de-la-cadena-mx32011"
+    },
+    "code": {
+      "id": "MX32011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.223",
+      "lon": "-103.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valparaíso",
+      "en": "Valparaiso",
+      "slug": "valparaiso-mx32049"
+    },
+    "code": {
+      "id": "MX32049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.665",
+      "lon": "-103.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Vetagrande",
+      "en": "Vetagrande",
+      "slug": "vetagrande-mx32050"
+    },
+    "code": {
+      "id": "MX32050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.871",
+      "lon": "-102.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa de Cos",
+      "en": "Villa de Cos",
+      "slug": "villa-de-cos-mx32051"
+    },
+    "code": {
+      "id": "MX32051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.529",
+      "lon": "-102.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa García",
+      "en": "Villa Garcia",
+      "slug": "villa-garcia-mx32052"
+    },
+    "code": {
+      "id": "MX32052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.125",
+      "lon": "-101.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa González Ortega",
+      "en": "Villa Gonzalez Ortega",
+      "slug": "villa-gonzalez-ortega-mx32053"
+    },
+    "code": {
+      "id": "MX32053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.544",
+      "lon": "-101.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Hidalgo",
+      "en": "Villa Hidalgo",
+      "slug": "villa-hidalgo-mx32054"
+    },
+    "code": {
+      "id": "MX32054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.407",
+      "lon": "-101.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villanueva",
+      "en": "Villanueva",
+      "slug": "villanueva-mx32055"
+    },
+    "code": {
+      "id": "MX32055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.335",
+      "lon": "-102.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX32056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacatecas",
+      "en": "Zacatecas",
+      "slug": "zacatecas-mx32056"
+    },
+    "code": {
+      "id": "MX32056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX32",
+      "level": 1,
+      "name": {
+        "local": "Zacatecas",
+        "en": "Zacatecas",
+        "slug": "zacatecas-mx32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX32",
+        "level": 1,
+        "name": {
+          "local": "Zacatecas",
+          "en": "Zacatecas",
+          "slug": "zacatecas-mx32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.729",
+      "lon": "-102.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,89 @@
+# Distrito Federal — Mexico Administrative Divisions
+
+> 16 municipalitys
+> Code: MX09
+> Coordinates: 19.321, -99.152
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Álvaro Obregón (Alvaro Obregon)
+
+Code: MX09010, Coordinates: 19.318, -99.278
+
+
+### Azcapotzalco
+
+Code: MX09002, Coordinates: 19.486, -99.184
+
+
+### Benito Juárez (Benito Juarez)
+
+Code: MX09014, Coordinates: 19.38, -99.163
+
+
+### Coyoacán (Coyoacan)
+
+Code: MX09003, Coordinates: 19.328, -99.151
+
+
+### Cuajimalpa de Morelos
+
+Code: MX09004, Coordinates: 19.319, -99.323
+
+
+### Cuauhtémoc (Cuauhtemoc)
+
+Code: MX09015, Coordinates: 19.433, -99.148
+
+
+### Gustavo A. Madero
+
+Code: MX09005, Coordinates: 19.518, -99.144
+
+
+### Iztacalco
+
+Code: MX09006, Coordinates: 19.399, -99.095
+
+
+### Iztapalapa
+
+Code: MX09007, Coordinates: 19.343, -99.047
+
+
+### La Magdalena Contreras
+
+Code: MX09008, Coordinates: 19.275, -99.263
+
+
+### Miguel Hidalgo
+
+Code: MX09016, Coordinates: 19.43, -99.199
+
+
+### Milpa Alta
+
+Code: MX09009, Coordinates: 19.138, -99.059
+
+
+### Tláhuac (Tlahuac)
+
+Code: MX09011, Coordinates: 19.27, -99.004
+
+
+### Tlalpan
+
+Code: MX09012, Coordinates: 19.201, -99.217
+
+
+### Venustiano Carranza
+
+Code: MX09017, Coordinates: 19.432, -99.088
+
+
+### Xochimilco
+
+Code: MX09013, Coordinates: 19.237, -99.082
+
+

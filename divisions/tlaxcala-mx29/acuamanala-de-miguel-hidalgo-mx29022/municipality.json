@@ -1,0 +1,45 @@
+{
+  "id": "MX29022",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Acuamanala de Miguel Hidalgo",
+    "en": "Acuamanala de Miguel Hidalgo",
+    "slug": "acuamanala-de-miguel-hidalgo-mx29022"
+  },
+  "code": {
+    "id": "MX29022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.216",
+    "lon": "-98.161"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX11028",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salvatierra",
+    "en": "Salvatierra",
+    "slug": "salvatierra-mx11028"
+  },
+  "code": {
+    "id": "MX11028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX11",
+    "level": 1,
+    "name": {
+      "local": "Guanajuato",
+      "en": "Guanajuato",
+      "slug": "guanajuato-mx11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX11",
+      "level": 1,
+      "name": {
+        "local": "Guanajuato",
+        "en": "Guanajuato",
+        "slug": "guanajuato-mx11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.193",
+    "lon": "-100.866"
+  },
+  "metadata": {},
+  "source": {}
+}

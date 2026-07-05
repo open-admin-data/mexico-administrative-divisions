@@ -1,0 +1,45 @@
+{
+  "id": "MX26014",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baviácora",
+    "en": "Baviacora",
+    "slug": "baviacora-mx26014"
+  },
+  "code": {
+    "id": "MX26014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.615",
+    "lon": "-110.129"
+  },
+  "metadata": {},
+  "source": {}
+}

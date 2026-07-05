@@ -1,0 +1,45 @@
+{
+  "id": "MX20462",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Huajolotitlán",
+    "en": "Santiago Huajolotitlan",
+    "slug": "santiago-huajolotitlan-mx20462"
+  },
+  "code": {
+    "id": "MX20462",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.814",
+    "lon": "-97.68"
+  },
+  "metadata": {},
+  "source": {}
+}

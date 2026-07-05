@@ -1,0 +1,45 @@
+{
+  "id": "MX12072",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zapotitlán Tablas",
+    "en": "Zapotitlan Tablas",
+    "slug": "zapotitlan-tablas-mx12072"
+  },
+  "code": {
+    "id": "MX12072",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.322",
+    "lon": "-98.817"
+  },
+  "metadata": {},
+  "source": {}
+}

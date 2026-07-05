@@ -1,0 +1,45 @@
+{
+  "id": "MX21070",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Huatlatlauca",
+    "en": "Huatlatlauca",
+    "slug": "huatlatlauca-mx21070"
+  },
+  "code": {
+    "id": "MX21070",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.679",
+    "lon": "-98.073"
+  },
+  "metadata": {},
+  "source": {}
+}

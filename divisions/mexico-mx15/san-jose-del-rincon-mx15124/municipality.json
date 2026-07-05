@@ -1,0 +1,45 @@
+{
+  "id": "MX15124",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José del Rincón",
+    "en": "San Jose del Rincon",
+    "slug": "san-jose-del-rincon-mx15124"
+  },
+  "code": {
+    "id": "MX15124",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.636",
+    "lon": "-100.16"
+  },
+  "metadata": {},
+  "source": {}
+}

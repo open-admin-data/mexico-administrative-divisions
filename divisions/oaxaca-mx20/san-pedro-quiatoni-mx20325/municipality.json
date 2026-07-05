@@ -1,0 +1,45 @@
+{
+  "id": "MX20325",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Quiatoni",
+    "en": "San Pedro Quiatoni",
+    "slug": "san-pedro-quiatoni-mx20325"
+  },
+  "code": {
+    "id": "MX20325",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.763",
+    "lon": "-96.028"
+  },
+  "metadata": {},
+  "source": {}
+}

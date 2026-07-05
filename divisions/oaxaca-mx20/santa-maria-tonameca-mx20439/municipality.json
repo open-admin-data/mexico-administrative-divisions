@@ -1,0 +1,45 @@
+{
+  "id": "MX20439",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa María Tonameca",
+    "en": "Santa Maria Tonameca",
+    "slug": "santa-maria-tonameca-mx20439"
+  },
+  "code": {
+    "id": "MX20439",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.782",
+    "lon": "-96.683"
+  },
+  "metadata": {},
+  "source": {}
+}

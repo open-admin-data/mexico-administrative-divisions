@@ -1,0 +1,21 @@
+# Ixmatlahuacan
+
+[Home](../../../) &gt; [Veracruz de Ignacio de la Llave](../) > **Ixmatlahuacan**
+
+Ixmatlahuacan is a municipality in Mexico, under Veracruz de Ignacio de la Llave.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | MX30084 |
+| Coordinates | 18.497, -95.918 |
+| Parent | Veracruz de Ignacio de la Llave |
+
+## Data Files
+
+- [municipality.json](municipality.json) — Municipality metadata
+
+---
+
+<- Back to [Veracruz de Ignacio de la Llave](../)

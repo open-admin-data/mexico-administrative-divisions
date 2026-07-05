@@ -1,0 +1,45 @@
+{
+  "id": "MX14117",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cañadas de Obregón",
+    "en": "Canadas de Obregon",
+    "slug": "canadas-de-obregon-mx14117"
+  },
+  "code": {
+    "id": "MX14117",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.168",
+    "lon": "-102.707"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX29052",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José Teacalco",
+    "en": "San Jose Teacalco",
+    "slug": "san-jose-teacalco-mx29052"
+  },
+  "code": {
+    "id": "MX29052",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.323",
+    "lon": "-98.053"
+  },
+  "metadata": {},
+  "source": {}
+}

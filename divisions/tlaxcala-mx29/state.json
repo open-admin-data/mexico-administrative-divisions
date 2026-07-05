@@ -1,0 +1,33 @@
+{
+  "id": "MX29",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Tlaxcala",
+    "en": "Tlaxcala",
+    "slug": "tlaxcala-mx29"
+  },
+  "code": {
+    "id": "MX29",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.417",
+    "lon": "-98.11"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/tlaxcala-mx29/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

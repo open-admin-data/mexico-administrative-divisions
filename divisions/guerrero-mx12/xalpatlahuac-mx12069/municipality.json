@@ -1,0 +1,45 @@
+{
+  "id": "MX12069",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xalpatláhuac",
+    "en": "Xalpatlahuac",
+    "slug": "xalpatlahuac-mx12069"
+  },
+  "code": {
+    "id": "MX12069",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.429",
+    "lon": "-98.482"
+  },
+  "metadata": {},
+  "source": {}
+}

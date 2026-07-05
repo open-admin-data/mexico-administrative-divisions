@@ -1,0 +1,3017 @@
+[
+  {
+    "id": "MX08001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ahumada",
+      "en": "Ahumada",
+      "slug": "ahumada-mx08001"
+    },
+    "code": {
+      "id": "MX08001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.427",
+      "lon": "-106.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aldama",
+      "en": "Aldama",
+      "slug": "aldama-mx08002"
+    },
+    "code": {
+      "id": "MX08002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.114",
+      "lon": "-105.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Allende",
+      "en": "Allende",
+      "slug": "allende-mx08003"
+    },
+    "code": {
+      "id": "MX08003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.035",
+      "lon": "-105.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aquiles Serdán",
+      "en": "Aquiles Serdan",
+      "slug": "aquiles-serdan-mx08004"
+    },
+    "code": {
+      "id": "MX08004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.58",
+      "lon": "-105.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ascensión",
+      "en": "Ascension",
+      "slug": "ascension-mx08005"
+    },
+    "code": {
+      "id": "MX08005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.267",
+      "lon": "-107.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bachíniva",
+      "en": "Bachiniva",
+      "slug": "bachiniva-mx08006"
+    },
+    "code": {
+      "id": "MX08006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.853",
+      "lon": "-107.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Balleza",
+      "en": "Balleza",
+      "slug": "balleza-mx08007"
+    },
+    "code": {
+      "id": "MX08007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.712",
+      "lon": "-106.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Batopilas",
+      "en": "Batopilas",
+      "slug": "batopilas-mx08008"
+    },
+    "code": {
+      "id": "MX08008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.925",
+      "lon": "-107.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bocoyna",
+      "en": "Bocoyna",
+      "slug": "bocoyna-mx08009"
+    },
+    "code": {
+      "id": "MX08009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.815",
+      "lon": "-107.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buenaventura",
+      "en": "Buenaventura",
+      "slug": "buenaventura-mx08010"
+    },
+    "code": {
+      "id": "MX08010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.189",
+      "lon": "-107.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camargo",
+      "en": "Camargo",
+      "slug": "camargo-mx08011"
+    },
+    "code": {
+      "id": "MX08011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.058",
+      "lon": "-104.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carichí",
+      "en": "Carichi",
+      "slug": "carichi-mx08012"
+    },
+    "code": {
+      "id": "MX08012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.8",
+      "lon": "-107.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Casas Grandes",
+      "en": "Casas Grandes",
+      "slug": "casas-grandes-mx08013"
+    },
+    "code": {
+      "id": "MX08013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.208",
+      "lon": "-108.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08019"
+    },
+    "code": {
+      "id": "MX08019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.939",
+      "lon": "-106.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chínipas",
+      "en": "Chinipas",
+      "slug": "chinipas-mx08020"
+    },
+    "code": {
+      "id": "MX08020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.395",
+      "lon": "-108.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coronado",
+      "en": "Coronado",
+      "slug": "coronado-mx08014"
+    },
+    "code": {
+      "id": "MX08014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.672",
+      "lon": "-104.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coyame del Sotol",
+      "en": "Coyame del Sotol",
+      "slug": "coyame-del-sotol-mx08015"
+    },
+    "code": {
+      "id": "MX08015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.735",
+      "lon": "-105.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuauhtémoc",
+      "en": "Cuauhtemoc",
+      "slug": "cuauhtemoc-mx08017"
+    },
+    "code": {
+      "id": "MX08017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.766",
+      "lon": "-107.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cusihuiriachi",
+      "en": "Cusihuiriachi",
+      "slug": "cusihuiriachi-mx08018"
+    },
+    "code": {
+      "id": "MX08018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.208",
+      "lon": "-106.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Delicias",
+      "en": "Delicias",
+      "slug": "delicias-mx08021"
+    },
+    "code": {
+      "id": "MX08021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.123",
+      "lon": "-105.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dr. Belisario Domínguez",
+      "en": "Dr. Belisario Dominguez",
+      "slug": "dr-belisario-dominguez-mx08022"
+    },
+    "code": {
+      "id": "MX08022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.993",
+      "lon": "-106.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Tule",
+      "en": "El Tule",
+      "slug": "el-tule-mx08064"
+    },
+    "code": {
+      "id": "MX08064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.016",
+      "lon": "-106.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Galeana",
+      "en": "Galeana",
+      "slug": "galeana-mx08023"
+    },
+    "code": {
+      "id": "MX08023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.209",
+      "lon": "-107.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gómez Farías",
+      "en": "Gomez Farias",
+      "slug": "gomez-farias-mx08025"
+    },
+    "code": {
+      "id": "MX08025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.347",
+      "lon": "-107.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gran Morelos",
+      "en": "Gran Morelos",
+      "slug": "gran-morelos-mx08026"
+    },
+    "code": {
+      "id": "MX08026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.304",
+      "lon": "-106.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guachochi",
+      "en": "Guachochi",
+      "slug": "guachochi-mx08027"
+    },
+    "code": {
+      "id": "MX08027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.145",
+      "lon": "-107.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guadalupe",
+      "en": "Guadalupe",
+      "slug": "guadalupe-mx08028"
+    },
+    "code": {
+      "id": "MX08028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.875",
+      "lon": "-105.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guadalupe y Calvo",
+      "en": "Guadalupe y Calvo",
+      "slug": "guadalupe-y-calvo-mx08029"
+    },
+    "code": {
+      "id": "MX08029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.124",
+      "lon": "-106.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guazapares",
+      "en": "Guazapares",
+      "slug": "guazapares-mx08030"
+    },
+    "code": {
+      "id": "MX08030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.372",
+      "lon": "-108.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx08031"
+    },
+    "code": {
+      "id": "MX08031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.455",
+      "lon": "-107.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hidalgo del Parral",
+      "en": "Hidalgo del Parral",
+      "slug": "hidalgo-del-parral-mx08032"
+    },
+    "code": {
+      "id": "MX08032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.115",
+      "lon": "-105.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huejotitán",
+      "en": "Huejotitan",
+      "slug": "huejotitan-mx08033"
+    },
+    "code": {
+      "id": "MX08033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.075",
+      "lon": "-106.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ignacio Zaragoza",
+      "en": "Ignacio Zaragoza",
+      "slug": "ignacio-zaragoza-mx08034"
+    },
+    "code": {
+      "id": "MX08034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.733",
+      "lon": "-107.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Janos",
+      "en": "Janos",
+      "slug": "janos-mx08035"
+    },
+    "code": {
+      "id": "MX08035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.759",
+      "lon": "-108.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiménez",
+      "en": "Jimenez",
+      "slug": "jimenez-mx08036"
+    },
+    "code": {
+      "id": "MX08036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.966",
+      "lon": "-104.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juárez",
+      "en": "Juarez",
+      "slug": "juarez-mx08037"
+    },
+    "code": {
+      "id": "MX08037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.452",
+      "lon": "-106.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Julimes",
+      "en": "Julimes",
+      "slug": "julimes-mx08038"
+    },
+    "code": {
+      "id": "MX08038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.528",
+      "lon": "-105.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Cruz",
+      "en": "La Cruz",
+      "slug": "la-cruz-mx08016"
+    },
+    "code": {
+      "id": "MX08016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.901",
+      "lon": "-105.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "López",
+      "en": "Lopez",
+      "slug": "lopez-mx08039"
+    },
+    "code": {
+      "id": "MX08039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.935",
+      "lon": "-105.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Madera",
+      "en": "Madera",
+      "slug": "madera-mx08040"
+    },
+    "code": {
+      "id": "MX08040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.347",
+      "lon": "-108.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maguarichi",
+      "en": "Maguarichi",
+      "slug": "maguarichi-mx08041"
+    },
+    "code": {
+      "id": "MX08041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.819",
+      "lon": "-107.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Manuel Benavides",
+      "en": "Manuel Benavides",
+      "slug": "manuel-benavides-mx08042"
+    },
+    "code": {
+      "id": "MX08042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.929",
+      "lon": "-103.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matachí",
+      "en": "Matachi",
+      "slug": "matachi-mx08043"
+    },
+    "code": {
+      "id": "MX08043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.815",
+      "lon": "-107.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matamoros",
+      "en": "Matamoros",
+      "slug": "matamoros-mx08044"
+    },
+    "code": {
+      "id": "MX08044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.712",
+      "lon": "-105.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Meoqui",
+      "en": "Meoqui",
+      "slug": "meoqui-mx08045"
+    },
+    "code": {
+      "id": "MX08045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.358",
+      "lon": "-105.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx08046"
+    },
+    "code": {
+      "id": "MX08046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.551",
+      "lon": "-107.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moris",
+      "en": "Moris",
+      "slug": "moris-mx08047"
+    },
+    "code": {
+      "id": "MX08047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.165",
+      "lon": "-108.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Namiquipa",
+      "en": "Namiquipa",
+      "slug": "namiquipa-mx08048"
+    },
+    "code": {
+      "id": "MX08048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.163",
+      "lon": "-107.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nonoava",
+      "en": "Nonoava",
+      "slug": "nonoava-mx08049"
+    },
+    "code": {
+      "id": "MX08049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.45",
+      "lon": "-106.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Casas Grandes",
+      "en": "Nuevo Casas Grandes",
+      "slug": "nuevo-casas-grandes-mx08050"
+    },
+    "code": {
+      "id": "MX08050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.506",
+      "lon": "-107.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocampo",
+      "en": "Ocampo",
+      "slug": "ocampo-mx08051"
+    },
+    "code": {
+      "id": "MX08051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.145",
+      "lon": "-108.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ojinaga",
+      "en": "Ojinaga",
+      "slug": "ojinaga-mx08052"
+    },
+    "code": {
+      "id": "MX08052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.545",
+      "lon": "-104.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Praxedis G. Guerrero",
+      "en": "Praxedis G. Guerrero",
+      "slug": "praxedis-g-guerrero-mx08053"
+    },
+    "code": {
+      "id": "MX08053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.249",
+      "lon": "-105.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Riva Palacio",
+      "en": "Riva Palacio",
+      "slug": "riva-palacio-mx08054"
+    },
+    "code": {
+      "id": "MX08054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.846",
+      "lon": "-106.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosales",
+      "en": "Rosales",
+      "slug": "rosales-mx08055"
+    },
+    "code": {
+      "id": "MX08055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.244",
+      "lon": "-105.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosario",
+      "en": "Rosario",
+      "slug": "rosario-mx08056"
+    },
+    "code": {
+      "id": "MX08056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.279",
+      "lon": "-106.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco de Borja",
+      "en": "San Francisco de Borja",
+      "slug": "san-francisco-de-borja-mx08057"
+    },
+    "code": {
+      "id": "MX08057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.891",
+      "lon": "-106.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco de Conchos",
+      "en": "San Francisco de Conchos",
+      "slug": "san-francisco-de-conchos-mx08058"
+    },
+    "code": {
+      "id": "MX08058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.581",
+      "lon": "-105.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco del Oro",
+      "en": "San Francisco del Oro",
+      "slug": "san-francisco-del-oro-mx08059"
+    },
+    "code": {
+      "id": "MX08059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.889",
+      "lon": "-105.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Bárbara",
+      "en": "Santa Barbara",
+      "slug": "santa-barbara-mx08060"
+    },
+    "code": {
+      "id": "MX08060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.798",
+      "lon": "-105.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Isabel",
+      "en": "Santa Isabel",
+      "slug": "santa-isabel-mx08024"
+    },
+    "code": {
+      "id": "MX08024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.305",
+      "lon": "-106.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Satevó",
+      "en": "Satevo",
+      "slug": "satevo-mx08061"
+    },
+    "code": {
+      "id": "MX08061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.759",
+      "lon": "-106.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Saucillo",
+      "en": "Saucillo",
+      "slug": "saucillo-mx08062"
+    },
+    "code": {
+      "id": "MX08062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.012",
+      "lon": "-105.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temósachic",
+      "en": "Temosachic",
+      "slug": "temosachic-mx08063"
+    },
+    "code": {
+      "id": "MX08063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.78",
+      "lon": "-108.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Urique",
+      "en": "Urique",
+      "slug": "urique-mx08065"
+    },
+    "code": {
+      "id": "MX08065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.219",
+      "lon": "-107.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uruachi",
+      "en": "Uruachi",
+      "slug": "uruachi-mx08066"
+    },
+    "code": {
+      "id": "MX08066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.835",
+      "lon": "-108.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX08067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valle de Zaragoza",
+      "en": "Valle de Zaragoza",
+      "slug": "valle-de-zaragoza-mx08067"
+    },
+    "code": {
+      "id": "MX08067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX08",
+        "level": 1,
+        "name": {
+          "local": "Chihuahua",
+          "en": "Chihuahua",
+          "slug": "chihuahua-mx08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.481",
+      "lon": "-105.818"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

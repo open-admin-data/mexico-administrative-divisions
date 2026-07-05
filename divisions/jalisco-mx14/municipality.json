@@ -1,0 +1,5627 @@
+[
+  {
+    "id": "MX14001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acatic",
+      "en": "Acatic",
+      "slug": "acatic-mx14001"
+    },
+    "code": {
+      "id": "MX14001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.769",
+      "lon": "-102.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acatlán de Juárez",
+      "en": "Acatlan de Juarez",
+      "slug": "acatlan-de-juarez-mx14002"
+    },
+    "code": {
+      "id": "MX14002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.424",
+      "lon": "-103.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ahualulco de Mercado",
+      "en": "Ahualulco de Mercado",
+      "slug": "ahualulco-de-mercado-mx14003"
+    },
+    "code": {
+      "id": "MX14003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.71",
+      "lon": "-103.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amacueca",
+      "en": "Amacueca",
+      "slug": "amacueca-mx14004"
+    },
+    "code": {
+      "id": "MX14004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.988",
+      "lon": "-103.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amatitán",
+      "en": "Amatitan",
+      "slug": "amatitan-mx14005"
+    },
+    "code": {
+      "id": "MX14005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.844",
+      "lon": "-103.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ameca",
+      "en": "Ameca",
+      "slug": "ameca-mx14006"
+    },
+    "code": {
+      "id": "MX14006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.535",
+      "lon": "-104.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arandas",
+      "en": "Arandas",
+      "slug": "arandas-mx14008"
+    },
+    "code": {
+      "id": "MX14008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.749",
+      "lon": "-102.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atemajac de Brizuela",
+      "en": "Atemajac de Brizuela",
+      "slug": "atemajac-de-brizuela-mx14010"
+    },
+    "code": {
+      "id": "MX14010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.18",
+      "lon": "-103.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atengo",
+      "en": "Atengo",
+      "slug": "atengo-mx14011"
+    },
+    "code": {
+      "id": "MX14011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.32",
+      "lon": "-104.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atenguillo",
+      "en": "Atenguillo",
+      "slug": "atenguillo-mx14012"
+    },
+    "code": {
+      "id": "MX14012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.339",
+      "lon": "-104.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atotonilco el Alto",
+      "en": "Atotonilco el Alto",
+      "slug": "atotonilco-el-alto-mx14013"
+    },
+    "code": {
+      "id": "MX14013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.541",
+      "lon": "-102.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atoyac",
+      "en": "Atoyac",
+      "slug": "atoyac-mx14014"
+    },
+    "code": {
+      "id": "MX14014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.007",
+      "lon": "-103.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Autlán de Navarro",
+      "en": "Autlan de Navarro",
+      "slug": "autlan-de-navarro-mx14015"
+    },
+    "code": {
+      "id": "MX14015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.757",
+      "lon": "-104.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayotlán",
+      "en": "Ayotlan",
+      "slug": "ayotlan-mx14016"
+    },
+    "code": {
+      "id": "MX14016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.472",
+      "lon": "-102.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayutla",
+      "en": "Ayutla",
+      "slug": "ayutla-mx14017"
+    },
+    "code": {
+      "id": "MX14017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.041",
+      "lon": "-104.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bolaños",
+      "en": "Bolanos",
+      "slug": "bolanos-mx14019"
+    },
+    "code": {
+      "id": "MX14019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.899",
+      "lon": "-103.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabo Corrientes",
+      "en": "Cabo Corrientes",
+      "slug": "cabo-corrientes-mx14020"
+    },
+    "code": {
+      "id": "MX14020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.333",
+      "lon": "-105.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14117",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cañadas de Obregón",
+      "en": "Canadas de Obregon",
+      "slug": "canadas-de-obregon-mx14117"
+    },
+    "code": {
+      "id": "MX14117",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.168",
+      "lon": "-102.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Casimiro Castillo",
+      "en": "Casimiro Castillo",
+      "slug": "casimiro-castillo-mx14021"
+    },
+    "code": {
+      "id": "MX14021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.614",
+      "lon": "-104.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapala",
+      "en": "Chapala",
+      "slug": "chapala-mx14030"
+    },
+    "code": {
+      "id": "MX14030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.28",
+      "lon": "-103.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chimaltitán",
+      "en": "Chimaltitan",
+      "slug": "chimaltitan-mx14031"
+    },
+    "code": {
+      "id": "MX14031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.741",
+      "lon": "-103.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiquilistlán",
+      "en": "Chiquilistlan",
+      "slug": "chiquilistlan-mx14032"
+    },
+    "code": {
+      "id": "MX14032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.08",
+      "lon": "-103.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cihuatlán",
+      "en": "Cihuatlan",
+      "slug": "cihuatlan-mx14022"
+    },
+    "code": {
+      "id": "MX14022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.263",
+      "lon": "-104.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cocula",
+      "en": "Cocula",
+      "slug": "cocula-mx14024"
+    },
+    "code": {
+      "id": "MX14024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.404",
+      "lon": "-103.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colotlán",
+      "en": "Colotlan",
+      "slug": "colotlan-mx14025"
+    },
+    "code": {
+      "id": "MX14025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.098",
+      "lon": "-103.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción de Buenos Aires",
+      "en": "Concepcion de Buenos Aires",
+      "slug": "concepcion-de-buenos-aires-mx14026"
+    },
+    "code": {
+      "id": "MX14026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.979",
+      "lon": "-103.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuautitlán de García Barragán",
+      "en": "Cuautitlan de Garcia Barragan",
+      "slug": "cuautitlan-de-garcia-barragan-mx14027"
+    },
+    "code": {
+      "id": "MX14027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.461",
+      "lon": "-104.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuautla",
+      "en": "Cuautla",
+      "slug": "cuautla-mx14028"
+    },
+    "code": {
+      "id": "MX14028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.204",
+      "lon": "-104.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuquío",
+      "en": "Cuquio",
+      "slug": "cuquio-mx14029"
+    },
+    "code": {
+      "id": "MX14029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.949",
+      "lon": "-103.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Degollado",
+      "en": "Degollado",
+      "slug": "degollado-mx14033"
+    },
+    "code": {
+      "id": "MX14033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.456",
+      "lon": "-102.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ejutla",
+      "en": "Ejutla",
+      "slug": "ejutla-mx14034"
+    },
+    "code": {
+      "id": "MX14034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.901",
+      "lon": "-104.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Arenal",
+      "en": "El Arenal",
+      "slug": "el-arenal-mx14009"
+    },
+    "code": {
+      "id": "MX14009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.759",
+      "lon": "-103.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Grullo",
+      "en": "El Grullo",
+      "slug": "el-grullo-mx14037"
+    },
+    "code": {
+      "id": "MX14037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.796",
+      "lon": "-104.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Limón",
+      "en": "El Limon",
+      "slug": "el-limon-mx14054"
+    },
+    "code": {
+      "id": "MX14054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.851",
+      "lon": "-104.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14070",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Salto",
+      "en": "El Salto",
+      "slug": "el-salto-mx14070"
+    },
+    "code": {
+      "id": "MX14070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.538",
+      "lon": "-103.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Encarnación de Díaz",
+      "en": "Encarnacion de Diaz",
+      "slug": "encarnacion-de-diaz-mx14035"
+    },
+    "code": {
+      "id": "MX14035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.568",
+      "lon": "-102.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Etzatlán",
+      "en": "Etzatlan",
+      "slug": "etzatlan-mx14036"
+    },
+    "code": {
+      "id": "MX14036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.761",
+      "lon": "-104.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14079",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gómez Farías",
+      "en": "Gomez Farias",
+      "slug": "gomez-farias-mx14079"
+    },
+    "code": {
+      "id": "MX14079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.86",
+      "lon": "-103.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guachinango",
+      "en": "Guachinango",
+      "slug": "guachinango-mx14038"
+    },
+    "code": {
+      "id": "MX14038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.697",
+      "lon": "-104.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guadalajara",
+      "en": "Guadalajara",
+      "slug": "guadalajara-mx14039"
+    },
+    "code": {
+      "id": "MX14039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.678",
+      "lon": "-103.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hostotipaquillo",
+      "en": "Hostotipaquillo",
+      "slug": "hostotipaquillo-mx14040"
+    },
+    "code": {
+      "id": "MX14040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.071",
+      "lon": "-104.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huejúcar",
+      "en": "Huejucar",
+      "slug": "huejucar-mx14041"
+    },
+    "code": {
+      "id": "MX14041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.31",
+      "lon": "-103.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huejuquilla el Alto",
+      "en": "Huejuquilla el Alto",
+      "slug": "huejuquilla-el-alto-mx14042"
+    },
+    "code": {
+      "id": "MX14042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.528",
+      "lon": "-103.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtlahuacán de los Membrillos",
+      "en": "Ixtlahuacan de los Membrillos",
+      "slug": "ixtlahuacan-de-los-membrillos-mx14044"
+    },
+    "code": {
+      "id": "MX14044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.403",
+      "lon": "-103.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixtlahuacán del Río",
+      "en": "Ixtlahuacan del Rio",
+      "slug": "ixtlahuacan-del-rio-mx14045"
+    },
+    "code": {
+      "id": "MX14045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.904",
+      "lon": "-103.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jalostotitlán",
+      "en": "Jalostotitlan",
+      "slug": "jalostotitlan-mx14046"
+    },
+    "code": {
+      "id": "MX14046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.201",
+      "lon": "-102.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jamay",
+      "en": "Jamay",
+      "slug": "jamay-mx14047"
+    },
+    "code": {
+      "id": "MX14047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.293",
+      "lon": "-102.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jesús María",
+      "en": "Jesus Maria",
+      "slug": "jesus-maria-mx14048"
+    },
+    "code": {
+      "id": "MX14048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.648",
+      "lon": "-102.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jilotlán de los Dolores",
+      "en": "Jilotlan de los Dolores",
+      "slug": "jilotlan-de-los-dolores-mx14049"
+    },
+    "code": {
+      "id": "MX14049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.317",
+      "lon": "-102.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jocotepec",
+      "en": "Jocotepec",
+      "slug": "jocotepec-mx14050"
+    },
+    "code": {
+      "id": "MX14050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.289",
+      "lon": "-103.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juanacatlán",
+      "en": "Juanacatlan",
+      "slug": "juanacatlan-mx14051"
+    },
+    "code": {
+      "id": "MX14051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.486",
+      "lon": "-103.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juchitlán",
+      "en": "Juchitlan",
+      "slug": "juchitlan-mx14052"
+    },
+    "code": {
+      "id": "MX14052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.063",
+      "lon": "-104.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Barca",
+      "en": "La Barca",
+      "slug": "la-barca-mx14018"
+    },
+    "code": {
+      "id": "MX14018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.357",
+      "lon": "-102.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Huerta",
+      "en": "La Huerta",
+      "slug": "la-huerta-mx14043"
+    },
+    "code": {
+      "id": "MX14043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.497",
+      "lon": "-104.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Manzanilla de la Paz",
+      "en": "La Manzanilla de la Paz",
+      "slug": "la-manzanilla-de-la-paz-mx14057"
+    },
+    "code": {
+      "id": "MX14057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.026",
+      "lon": "-103.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lagos de Moreno",
+      "en": "Lagos de Moreno",
+      "slug": "lagos-de-moreno-mx14053"
+    },
+    "code": {
+      "id": "MX14053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.533",
+      "lon": "-101.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Magdalena",
+      "en": "Magdalena",
+      "slug": "magdalena-mx14055"
+    },
+    "code": {
+      "id": "MX14055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.911",
+      "lon": "-104.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mascota",
+      "en": "Mascota",
+      "slug": "mascota-mx14058"
+    },
+    "code": {
+      "id": "MX14058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.553",
+      "lon": "-104.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazamitla",
+      "en": "Mazamitla",
+      "slug": "mazamitla-mx14059"
+    },
+    "code": {
+      "id": "MX14059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.891",
+      "lon": "-103.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mexticacán",
+      "en": "Mexticacan",
+      "slug": "mexticacan-mx14060"
+    },
+    "code": {
+      "id": "MX14060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.278",
+      "lon": "-102.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mezquitic",
+      "en": "Mezquitic",
+      "slug": "mezquitic-mx14061"
+    },
+    "code": {
+      "id": "MX14061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.231",
+      "lon": "-104.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mixtlán",
+      "en": "Mixtlan",
+      "slug": "mixtlan-mx14062"
+    },
+    "code": {
+      "id": "MX14062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.522",
+      "lon": "-104.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ocotlán",
+      "en": "Ocotlan",
+      "slug": "ocotlan-mx14063"
+    },
+    "code": {
+      "id": "MX14063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.387",
+      "lon": "-102.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ojuelos de Jalisco",
+      "en": "Ojuelos de Jalisco",
+      "slug": "ojuelos-de-jalisco-mx14064"
+    },
+    "code": {
+      "id": "MX14064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.786",
+      "lon": "-101.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pihuamo",
+      "en": "Pihuamo",
+      "slug": "pihuamo-mx14065"
+    },
+    "code": {
+      "id": "MX14065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.169",
+      "lon": "-103.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Poncitlán",
+      "en": "Poncitlan",
+      "slug": "poncitlan-mx14066"
+    },
+    "code": {
+      "id": "MX14066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.264",
+      "lon": "-102.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Vallarta",
+      "en": "Puerto Vallarta",
+      "slug": "puerto-vallarta-mx14067"
+    },
+    "code": {
+      "id": "MX14067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.698",
+      "lon": "-105.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14069",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quitupan",
+      "en": "Quitupan",
+      "slug": "quitupan-mx14069"
+    },
+    "code": {
+      "id": "MX14069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.794",
+      "lon": "-102.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14071",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal de la Barranca",
+      "en": "San Cristobal de la Barranca",
+      "slug": "san-cristobal-de-la-barranca-mx14071"
+    },
+    "code": {
+      "id": "MX14071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.046",
+      "lon": "-103.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14072",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Diego de Alejandría",
+      "en": "San Diego de Alejandria",
+      "slug": "san-diego-de-alejandria-mx14072"
+    },
+    "code": {
+      "id": "MX14072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "-102.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14113",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Gabriel",
+      "en": "San Gabriel",
+      "slug": "san-gabriel-mx14113"
+    },
+    "code": {
+      "id": "MX14113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.704",
+      "lon": "-103.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14125",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ignacio Cerro Gordo",
+      "en": "San Ignacio Cerro Gordo",
+      "slug": "san-ignacio-cerro-gordo-mx14125"
+    },
+    "code": {
+      "id": "MX14125",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.769",
+      "lon": "-102.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14073",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan de los Lagos",
+      "en": "San Juan de los Lagos",
+      "slug": "san-juan-de-los-lagos-mx14073"
+    },
+    "code": {
+      "id": "MX14073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.254",
+      "lon": "-102.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juanito de Escobedo",
+      "en": "San Juanito de Escobedo",
+      "slug": "san-juanito-de-escobedo-mx14007"
+    },
+    "code": {
+      "id": "MX14007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.814",
+      "lon": "-103.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14074",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Julián",
+      "en": "San Julian",
+      "slug": "san-julian-mx14074"
+    },
+    "code": {
+      "id": "MX14074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.994",
+      "lon": "-102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14075",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-mx14075"
+    },
+    "code": {
+      "id": "MX14075",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.823",
+      "lon": "-104.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14076",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Martín de Bolaños",
+      "en": "San Martin de Bolanos",
+      "slug": "san-martin-de-bolanos-mx14076"
+    },
+    "code": {
+      "id": "MX14076",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.572",
+      "lon": "-103.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14077",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Martín Hidalgo",
+      "en": "San Martin Hidalgo",
+      "slug": "san-martin-hidalgo-mx14077"
+    },
+    "code": {
+      "id": "MX14077",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.459",
+      "lon": "-103.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14078",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel el Alto",
+      "en": "San Miguel el Alto",
+      "slug": "san-miguel-el-alto-mx14078"
+    },
+    "code": {
+      "id": "MX14078",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.993",
+      "lon": "-102.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14098",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Tlaquepaque",
+      "en": "San Pedro Tlaquepaque",
+      "slug": "san-pedro-tlaquepaque-mx14098"
+    },
+    "code": {
+      "id": "MX14098",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.593",
+      "lon": "-103.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14080",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Sebastián del Oeste",
+      "en": "San Sebastian del Oeste",
+      "slug": "san-sebastian-del-oeste-mx14080"
+    },
+    "code": {
+      "id": "MX14080",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.855",
+      "lon": "-104.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14081",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María de los Ángeles",
+      "en": "Santa Maria de los Angeles",
+      "slug": "santa-maria-de-los-angeles-mx14081"
+    },
+    "code": {
+      "id": "MX14081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.191",
+      "lon": "-103.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María del Oro",
+      "en": "Santa Maria del Oro",
+      "slug": "santa-maria-del-oro-mx14056"
+    },
+    "code": {
+      "id": "MX14056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.525",
+      "lon": "-102.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14082",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sayula",
+      "en": "Sayula",
+      "slug": "sayula-mx14082"
+    },
+    "code": {
+      "id": "MX14082",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.857",
+      "lon": "-103.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14083",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tala",
+      "en": "Tala",
+      "slug": "tala-mx14083"
+    },
+    "code": {
+      "id": "MX14083",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.61",
+      "lon": "-103.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14084",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Talpa de Allende",
+      "en": "Talpa de Allende",
+      "slug": "talpa-de-allende-mx14084"
+    },
+    "code": {
+      "id": "MX14084",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "-104.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14085",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamazula de Gordiano",
+      "en": "Tamazula de Gordiano",
+      "slug": "tamazula-de-gordiano-mx14085"
+    },
+    "code": {
+      "id": "MX14085",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.685",
+      "lon": "-103.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14086",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapalpa",
+      "en": "Tapalpa",
+      "slug": "tapalpa-mx14086"
+    },
+    "code": {
+      "id": "MX14086",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.947",
+      "lon": "-103.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14087",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecalitlán",
+      "en": "Tecalitlan",
+      "slug": "tecalitlan-mx14087"
+    },
+    "code": {
+      "id": "MX14087",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.239",
+      "lon": "-103.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14089",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Techaluta de Montenegro",
+      "en": "Techaluta de Montenegro",
+      "slug": "techaluta-de-montenegro-mx14089"
+    },
+    "code": {
+      "id": "MX14089",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.094",
+      "lon": "-103.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14088",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecolotlán",
+      "en": "Tecolotlan",
+      "slug": "tecolotlan-mx14088"
+    },
+    "code": {
+      "id": "MX14088",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.276",
+      "lon": "-103.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14090",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenamaxtlán",
+      "en": "Tenamaxtlan",
+      "slug": "tenamaxtlan-mx14090"
+    },
+    "code": {
+      "id": "MX14090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.135",
+      "lon": "-104.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14091",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teocaltiche",
+      "en": "Teocaltiche",
+      "slug": "teocaltiche-mx14091"
+    },
+    "code": {
+      "id": "MX14091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.481",
+      "lon": "-102.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14092",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teocuitatlán de Corona",
+      "en": "Teocuitatlan de Corona",
+      "slug": "teocuitatlan-de-corona-mx14092"
+    },
+    "code": {
+      "id": "MX14092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.111",
+      "lon": "-103.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14093",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepatitlán de Morelos",
+      "en": "Tepatitlan de Morelos",
+      "slug": "tepatitlan-de-morelos-mx14093"
+    },
+    "code": {
+      "id": "MX14093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.817",
+      "lon": "-102.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14094",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tequila",
+      "en": "Tequila",
+      "slug": "tequila-mx14094"
+    },
+    "code": {
+      "id": "MX14094",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.116",
+      "lon": "-103.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14095",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teuchitlán",
+      "en": "Teuchitlan",
+      "slug": "teuchitlan-mx14095"
+    },
+    "code": {
+      "id": "MX14095",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.681",
+      "lon": "-103.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14096",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tizapán el Alto",
+      "en": "Tizapan el Alto",
+      "slug": "tizapan-el-alto-mx14096"
+    },
+    "code": {
+      "id": "MX14096",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.107",
+      "lon": "-103.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14097",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tlajomulco de Zúñiga",
+      "en": "Tlajomulco de Zuniga",
+      "slug": "tlajomulco-de-zuniga-mx14097"
+    },
+    "code": {
+      "id": "MX14097",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.488",
+      "lon": "-103.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14099",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tolimán",
+      "en": "Toliman",
+      "slug": "toliman-mx14099"
+    },
+    "code": {
+      "id": "MX14099",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.545",
+      "lon": "-103.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14100",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tomatlán",
+      "en": "Tomatlan",
+      "slug": "tomatlan-mx14100"
+    },
+    "code": {
+      "id": "MX14100",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.938",
+      "lon": "-105.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tonalá",
+      "en": "Tonala",
+      "slug": "tonala-mx14101"
+    },
+    "code": {
+      "id": "MX14101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.62",
+      "lon": "-103.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tonaya",
+      "en": "Tonaya",
+      "slug": "tonaya-mx14102"
+    },
+    "code": {
+      "id": "MX14102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.867",
+      "lon": "-103.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tonila",
+      "en": "Tonila",
+      "slug": "tonila-mx14103"
+    },
+    "code": {
+      "id": "MX14103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.429",
+      "lon": "-103.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Totatiche",
+      "en": "Totatiche",
+      "slug": "totatiche-mx14104"
+    },
+    "code": {
+      "id": "MX14104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.965",
+      "lon": "-103.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tototlán",
+      "en": "Tototlan",
+      "slug": "tototlan-mx14105"
+    },
+    "code": {
+      "id": "MX14105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.537",
+      "lon": "-102.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuxcacuesco",
+      "en": "Tuxcacuesco",
+      "slug": "tuxcacuesco-mx14106"
+    },
+    "code": {
+      "id": "MX14106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.687",
+      "lon": "-104.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14107",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuxcueca",
+      "en": "Tuxcueca",
+      "slug": "tuxcueca-mx14107"
+    },
+    "code": {
+      "id": "MX14107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.139",
+      "lon": "-103.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14108",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tuxpan",
+      "en": "Tuxpan",
+      "slug": "tuxpan-mx14108"
+    },
+    "code": {
+      "id": "MX14108",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.437",
+      "lon": "-103.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14109",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Unión de San Antonio",
+      "en": "Union de San Antonio",
+      "slug": "union-de-san-antonio-mx14109"
+    },
+    "code": {
+      "id": "MX14109",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.158",
+      "lon": "-102.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14110",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Unión de Tula",
+      "en": "Union de Tula",
+      "slug": "union-de-tula-mx14110"
+    },
+    "code": {
+      "id": "MX14110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.005",
+      "lon": "-104.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14111",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valle de Guadalupe",
+      "en": "Valle de Guadalupe",
+      "slug": "valle-de-guadalupe-mx14111"
+    },
+    "code": {
+      "id": "MX14111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.043",
+      "lon": "-102.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14112",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valle de Juárez",
+      "en": "Valle de Juarez",
+      "slug": "valle-de-juarez-mx14112"
+    },
+    "code": {
+      "id": "MX14112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.815",
+      "lon": "-102.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14114",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Corona",
+      "en": "Villa Corona",
+      "slug": "villa-corona-mx14114"
+    },
+    "code": {
+      "id": "MX14114",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.389",
+      "lon": "-103.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14115",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Guerrero",
+      "en": "Villa Guerrero",
+      "slug": "villa-guerrero-mx14115"
+    },
+    "code": {
+      "id": "MX14115",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.019",
+      "lon": "-103.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14116",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Hidalgo",
+      "en": "Villa Hidalgo",
+      "slug": "villa-hidalgo-mx14116"
+    },
+    "code": {
+      "id": "MX14116",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.663",
+      "lon": "-102.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14068",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Purificación",
+      "en": "Villa Purificacion",
+      "slug": "villa-purificacion-mx14068"
+    },
+    "code": {
+      "id": "MX14068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.823",
+      "lon": "-104.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14118",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yahualica de González Gallo",
+      "en": "Yahualica de Gonzalez Gallo",
+      "slug": "yahualica-de-gonzalez-gallo-mx14118"
+    },
+    "code": {
+      "id": "MX14118",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.123",
+      "lon": "-102.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14119",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacoalco de Torres",
+      "en": "Zacoalco de Torres",
+      "slug": "zacoalco-de-torres-mx14119"
+    },
+    "code": {
+      "id": "MX14119",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.244",
+      "lon": "-103.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14120",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapopan",
+      "en": "Zapopan",
+      "slug": "zapopan-mx14120"
+    },
+    "code": {
+      "id": "MX14120",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.791",
+      "lon": "-103.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14121",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapotiltic",
+      "en": "Zapotiltic",
+      "slug": "zapotiltic-mx14121"
+    },
+    "code": {
+      "id": "MX14121",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.618",
+      "lon": "-103.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14122",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapotitlán de Vadillo",
+      "en": "Zapotitlan de Vadillo",
+      "slug": "zapotitlan-de-vadillo-mx14122"
+    },
+    "code": {
+      "id": "MX14122",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.503",
+      "lon": "-103.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14123",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapotlán del Rey",
+      "en": "Zapotlan del Rey",
+      "slug": "zapotlan-del-rey-mx14123"
+    },
+    "code": {
+      "id": "MX14123",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.467",
+      "lon": "-102.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapotlán el Grande",
+      "en": "Zapotlan el Grande",
+      "slug": "zapotlan-el-grande-mx14023"
+    },
+    "code": {
+      "id": "MX14023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.697",
+      "lon": "-103.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX14124",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zapotlanejo",
+      "en": "Zapotlanejo",
+      "slug": "zapotlanejo-mx14124"
+    },
+    "code": {
+      "id": "MX14124",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX14",
+        "level": 1,
+        "name": {
+          "local": "Jalisco",
+          "en": "Jalisco",
+          "slug": "jalisco-mx14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.64",
+      "lon": "-103.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

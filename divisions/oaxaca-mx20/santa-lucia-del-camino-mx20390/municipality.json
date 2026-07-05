@@ -1,0 +1,45 @@
+{
+  "id": "MX20390",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Lucía del Camino",
+    "en": "Santa Lucia del Camino",
+    "slug": "santa-lucia-del-camino-mx20390"
+  },
+  "code": {
+    "id": "MX20390",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.068",
+    "lon": "-96.673"
+  },
+  "metadata": {},
+  "source": {}
+}

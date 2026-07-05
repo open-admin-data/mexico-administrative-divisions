@@ -1,0 +1,45 @@
+{
+  "id": "MX08041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maguarichi",
+    "en": "Maguarichi",
+    "slug": "maguarichi-mx08041"
+  },
+  "code": {
+    "id": "MX08041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX08",
+    "level": 1,
+    "name": {
+      "local": "Chihuahua",
+      "en": "Chihuahua",
+      "slug": "chihuahua-mx08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX08",
+      "level": 1,
+      "name": {
+        "local": "Chihuahua",
+        "en": "Chihuahua",
+        "slug": "chihuahua-mx08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.819",
+    "lon": "-107.959"
+  },
+  "metadata": {},
+  "source": {}
+}

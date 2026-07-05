@@ -1,0 +1,45 @@
+{
+  "id": "MX20377",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz Itundujia",
+    "en": "Santa Cruz Itundujia",
+    "slug": "santa-cruz-itundujia-mx20377"
+  },
+  "code": {
+    "id": "MX20377",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.757",
+    "lon": "-97.674"
+  },
+  "metadata": {},
+  "source": {}
+}

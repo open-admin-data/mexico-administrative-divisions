@@ -1,0 +1,452 @@
+[
+  {
+    "id": "MX23010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacalar",
+      "en": "Bacalar",
+      "slug": "bacalar-mx23010"
+    },
+    "code": {
+      "id": "MX23010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.941",
+      "lon": "-88.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benito Juárez",
+      "en": "Benito Juarez",
+      "slug": "benito-juarez-mx23005"
+    },
+    "code": {
+      "id": "MX23005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.98",
+      "lon": "-87.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cozumel",
+      "en": "Cozumel",
+      "slug": "cozumel-mx23001"
+    },
+    "code": {
+      "id": "MX23001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.432",
+      "lon": "-86.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Felipe Carrillo Puerto",
+      "en": "Felipe Carrillo Puerto",
+      "slug": "felipe-carrillo-puerto-mx23002"
+    },
+    "code": {
+      "id": "MX23002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.738",
+      "lon": "-88.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Isla Mujeres",
+      "en": "Isla Mujeres",
+      "slug": "isla-mujeres-mx23003"
+    },
+    "code": {
+      "id": "MX23003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.4",
+      "lon": "-87.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "José María Morelos",
+      "en": "Jose Maria Morelos",
+      "slug": "jose-maria-morelos-mx23006"
+    },
+    "code": {
+      "id": "MX23006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.707",
+      "lon": "-88.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lázaro Cárdenas",
+      "en": "Lazaro Cardenas",
+      "slug": "lazaro-cardenas-mx23007"
+    },
+    "code": {
+      "id": "MX23007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.037",
+      "lon": "-87.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Othón P. Blanco",
+      "en": "Othon P. Blanco",
+      "slug": "othon-p-blanco-mx23004"
+    },
+    "code": {
+      "id": "MX23004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.438",
+      "lon": "-88.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Solidaridad",
+      "en": "Solidaridad",
+      "slug": "solidaridad-mx23008"
+    },
+    "code": {
+      "id": "MX23008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.584",
+      "lon": "-87.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX23009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tulum",
+      "en": "Tulum",
+      "slug": "tulum-mx23009"
+    },
+    "code": {
+      "id": "MX23009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX23",
+      "level": 1,
+      "name": {
+        "local": "Quintana Roo",
+        "en": "Quintana Roo",
+        "slug": "quintana-roo-mx23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX23",
+        "level": 1,
+        "name": {
+          "local": "Quintana Roo",
+          "en": "Quintana Roo",
+          "slug": "quintana-roo-mx23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.262",
+      "lon": "-87.687"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

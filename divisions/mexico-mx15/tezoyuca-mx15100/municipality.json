@@ -1,0 +1,45 @@
+{
+  "id": "MX15100",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tezoyuca",
+    "en": "Tezoyuca",
+    "slug": "tezoyuca-mx15100"
+  },
+  "code": {
+    "id": "MX15100",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.594",
+    "lon": "-98.926"
+  },
+  "metadata": {},
+  "source": {}
+}

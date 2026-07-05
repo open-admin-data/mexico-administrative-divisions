@@ -1,0 +1,4772 @@
+[
+  {
+    "id": "MX31001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Abalá",
+      "en": "Abala",
+      "slug": "abala-mx31001"
+    },
+    "code": {
+      "id": "MX31001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.66",
+      "lon": "-89.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acanceh",
+      "en": "Acanceh",
+      "slug": "acanceh-mx31002"
+    },
+    "code": {
+      "id": "MX31002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.818",
+      "lon": "-89.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Akil",
+      "en": "Akil",
+      "slug": "akil-mx31003"
+    },
+    "code": {
+      "id": "MX31003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.26",
+      "lon": "-89.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baca",
+      "en": "Baca",
+      "slug": "baca-mx31004"
+    },
+    "code": {
+      "id": "MX31004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.134",
+      "lon": "-89.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bokobá",
+      "en": "Bokoba",
+      "slug": "bokoba-mx31005"
+    },
+    "code": {
+      "id": "MX31005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.995",
+      "lon": "-89.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buctzotz",
+      "en": "Buctzotz",
+      "slug": "buctzotz-mx31006"
+    },
+    "code": {
+      "id": "MX31006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.213",
+      "lon": "-88.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacalchén",
+      "en": "Cacalchen",
+      "slug": "cacalchen-mx31007"
+    },
+    "code": {
+      "id": "MX31007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.984",
+      "lon": "-89.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calotmul",
+      "en": "Calotmul",
+      "slug": "calotmul-mx31008"
+    },
+    "code": {
+      "id": "MX31008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.998",
+      "lon": "-88.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cansahcab",
+      "en": "Cansahcab",
+      "slug": "cansahcab-mx31009"
+    },
+    "code": {
+      "id": "MX31009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.168",
+      "lon": "-89.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cantamayec",
+      "en": "Cantamayec",
+      "slug": "cantamayec-mx31010"
+    },
+    "code": {
+      "id": "MX31010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.413",
+      "lon": "-89.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Celestún",
+      "en": "Celestun",
+      "slug": "celestun-mx31011"
+    },
+    "code": {
+      "id": "MX31011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.922",
+      "lon": "-90.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cenotillo",
+      "en": "Cenotillo",
+      "slug": "cenotillo-mx31012"
+    },
+    "code": {
+      "id": "MX31012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.031",
+      "lon": "-88.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chacsinkín",
+      "en": "Chacsinkin",
+      "slug": "chacsinkin-mx31016"
+    },
+    "code": {
+      "id": "MX31016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.21",
+      "lon": "-89.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chankom",
+      "en": "Chankom",
+      "slug": "chankom-mx31017"
+    },
+    "code": {
+      "id": "MX31017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.465",
+      "lon": "-88.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapab",
+      "en": "Chapab",
+      "slug": "chapab-mx31018"
+    },
+    "code": {
+      "id": "MX31018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.5",
+      "lon": "-89.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chemax",
+      "en": "Chemax",
+      "slug": "chemax-mx31019"
+    },
+    "code": {
+      "id": "MX31019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.732",
+      "lon": "-87.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chichimilá",
+      "en": "Chichimila",
+      "slug": "chichimila-mx31021"
+    },
+    "code": {
+      "id": "MX31021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.466",
+      "lon": "-88.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chicxulub Pueblo",
+      "en": "Chicxulub Pueblo",
+      "slug": "chicxulub-pueblo-mx31020"
+    },
+    "code": {
+      "id": "MX31020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.153",
+      "lon": "-89.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chikindzonot",
+      "en": "Chikindzonot",
+      "slug": "chikindzonot-mx31022"
+    },
+    "code": {
+      "id": "MX31022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.253",
+      "lon": "-88.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chocholá",
+      "en": "Chochola",
+      "slug": "chochola-mx31023"
+    },
+    "code": {
+      "id": "MX31023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.727",
+      "lon": "-89.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chumayel",
+      "en": "Chumayel",
+      "slug": "chumayel-mx31024"
+    },
+    "code": {
+      "id": "MX31024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.47",
+      "lon": "-89.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conkal",
+      "en": "Conkal",
+      "slug": "conkal-mx31013"
+    },
+    "code": {
+      "id": "MX31013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.075",
+      "lon": "-89.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuncunul",
+      "en": "Cuncunul",
+      "slug": "cuncunul-mx31014"
+    },
+    "code": {
+      "id": "MX31014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.622",
+      "lon": "-88.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuzamá",
+      "en": "Cuzama",
+      "slug": "cuzama-mx31015"
+    },
+    "code": {
+      "id": "MX31015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.713",
+      "lon": "-89.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dzán",
+      "en": "Dzan",
+      "slug": "dzan-mx31025"
+    },
+    "code": {
+      "id": "MX31025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.397",
+      "lon": "-89.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dzemul",
+      "en": "Dzemul",
+      "slug": "dzemul-mx31026"
+    },
+    "code": {
+      "id": "MX31026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.252",
+      "lon": "-89.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dzidzantún",
+      "en": "Dzidzantun",
+      "slug": "dzidzantun-mx31027"
+    },
+    "code": {
+      "id": "MX31027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.289",
+      "lon": "-89.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dzilam de Bravo",
+      "en": "Dzilam de Bravo",
+      "slug": "dzilam-de-bravo-mx31028"
+    },
+    "code": {
+      "id": "MX31028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.441",
+      "lon": "-88.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dzilam González",
+      "en": "Dzilam Gonzalez",
+      "slug": "dzilam-gonzalez-mx31029"
+    },
+    "code": {
+      "id": "MX31029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.324",
+      "lon": "-88.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dzitás",
+      "en": "Dzitas",
+      "slug": "dzitas-mx31030"
+    },
+    "code": {
+      "id": "MX31030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.833",
+      "lon": "-88.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dzoncauich",
+      "en": "Dzoncauich",
+      "slug": "dzoncauich-mx31031"
+    },
+    "code": {
+      "id": "MX31031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.095",
+      "lon": "-88.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Espita",
+      "en": "Espita",
+      "slug": "espita-mx31032"
+    },
+    "code": {
+      "id": "MX31032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.01",
+      "lon": "-88.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Halachó",
+      "en": "Halacho",
+      "slug": "halacho-mx31033"
+    },
+    "code": {
+      "id": "MX31033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.586",
+      "lon": "-90.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hocabá",
+      "en": "Hocaba",
+      "slug": "hocaba-mx31034"
+    },
+    "code": {
+      "id": "MX31034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.809",
+      "lon": "-89.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hoctún",
+      "en": "Hoctun",
+      "slug": "hoctun-mx31035"
+    },
+    "code": {
+      "id": "MX31035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.886",
+      "lon": "-89.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Homún",
+      "en": "Homun",
+      "slug": "homun-mx31036"
+    },
+    "code": {
+      "id": "MX31036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.665",
+      "lon": "-89.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huhí",
+      "en": "Huhi",
+      "slug": "huhi-mx31037"
+    },
+    "code": {
+      "id": "MX31037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.689",
+      "lon": "-89.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hunucmá",
+      "en": "Hunucma",
+      "slug": "hunucma-mx31038"
+    },
+    "code": {
+      "id": "MX31038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.076",
+      "lon": "-89.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ixil",
+      "en": "Ixil",
+      "slug": "ixil-mx31039"
+    },
+    "code": {
+      "id": "MX31039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.229",
+      "lon": "-89.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Izamal",
+      "en": "Izamal",
+      "slug": "izamal-mx31040"
+    },
+    "code": {
+      "id": "MX31040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.884",
+      "lon": "-88.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kanasín",
+      "en": "Kanasin",
+      "slug": "kanasin-mx31041"
+    },
+    "code": {
+      "id": "MX31041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.915",
+      "lon": "-89.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kantunil",
+      "en": "Kantunil",
+      "slug": "kantunil-mx31042"
+    },
+    "code": {
+      "id": "MX31042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.751",
+      "lon": "-88.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kaua",
+      "en": "Kaua",
+      "slug": "kaua-mx31043"
+    },
+    "code": {
+      "id": "MX31043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.599",
+      "lon": "-88.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kinchil",
+      "en": "Kinchil",
+      "slug": "kinchil-mx31044"
+    },
+    "code": {
+      "id": "MX31044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.843",
+      "lon": "-90.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kopomá",
+      "en": "Kopoma",
+      "slug": "kopoma-mx31045"
+    },
+    "code": {
+      "id": "MX31045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.643",
+      "lon": "-89.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mama",
+      "en": "Mama",
+      "slug": "mama-mx31046"
+    },
+    "code": {
+      "id": "MX31046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.51",
+      "lon": "-89.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maní",
+      "en": "Mani",
+      "slug": "mani-mx31047"
+    },
+    "code": {
+      "id": "MX31047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.39",
+      "lon": "-89.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maxcanú",
+      "en": "Maxcanu",
+      "slug": "maxcanu-mx31048"
+    },
+    "code": {
+      "id": "MX31048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.596",
+      "lon": "-90.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mayapán",
+      "en": "Mayapan",
+      "slug": "mayapan-mx31049"
+    },
+    "code": {
+      "id": "MX31049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.492",
+      "lon": "-89.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mérida",
+      "en": "Merida",
+      "slug": "merida-mx31050"
+    },
+    "code": {
+      "id": "MX31050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.944",
+      "lon": "-89.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mocochá",
+      "en": "Mococha",
+      "slug": "mococha-mx31051"
+    },
+    "code": {
+      "id": "MX31051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.144",
+      "lon": "-89.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Motul",
+      "en": "Motul",
+      "slug": "motul-mx31052"
+    },
+    "code": {
+      "id": "MX31052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.165",
+      "lon": "-89.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Muna",
+      "en": "Muna",
+      "slug": "muna-mx31053"
+    },
+    "code": {
+      "id": "MX31053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.468",
+      "lon": "-89.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Muxupip",
+      "en": "Muxupip",
+      "slug": "muxupip-mx31054"
+    },
+    "code": {
+      "id": "MX31054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.056",
+      "lon": "-89.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Opichén",
+      "en": "Opichen",
+      "slug": "opichen-mx31055"
+    },
+    "code": {
+      "id": "MX31055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.55",
+      "lon": "-89.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oxkutzcab",
+      "en": "Oxkutzcab",
+      "slug": "oxkutzcab-mx31056"
+    },
+    "code": {
+      "id": "MX31056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.139",
+      "lon": "-89.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panabá",
+      "en": "Panaba",
+      "slug": "panaba-mx31057"
+    },
+    "code": {
+      "id": "MX31057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.34",
+      "lon": "-88.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Peto",
+      "en": "Peto",
+      "slug": "peto-mx31058"
+    },
+    "code": {
+      "id": "MX31058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.052",
+      "lon": "-88.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Progreso",
+      "en": "Progreso",
+      "slug": "progreso-mx31059"
+    },
+    "code": {
+      "id": "MX31059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.23",
+      "lon": "-89.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quintana Roo",
+      "en": "Quintana Roo",
+      "slug": "quintana-roo-mx31060"
+    },
+    "code": {
+      "id": "MX31060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.839",
+      "lon": "-88.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Río Lagartos",
+      "en": "Rio Lagartos",
+      "slug": "rio-lagartos-mx31061"
+    },
+    "code": {
+      "id": "MX31061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.516",
+      "lon": "-88.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sacalum",
+      "en": "Sacalum",
+      "slug": "sacalum-mx31062"
+    },
+    "code": {
+      "id": "MX31062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.505",
+      "lon": "-89.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Samahil",
+      "en": "Samahil",
+      "slug": "samahil-mx31063"
+    },
+    "code": {
+      "id": "MX31063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.848",
+      "lon": "-89.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Felipe",
+      "en": "San Felipe",
+      "slug": "san-felipe-mx31065"
+    },
+    "code": {
+      "id": "MX31065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.485",
+      "lon": "-88.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sanahcat",
+      "en": "Sanahcat",
+      "slug": "sanahcat-mx31064"
+    },
+    "code": {
+      "id": "MX31064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.761",
+      "lon": "-89.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Elena",
+      "en": "Santa Elena",
+      "slug": "santa-elena-mx31066"
+    },
+    "code": {
+      "id": "MX31066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.255",
+      "lon": "-89.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Seyé",
+      "en": "Seye",
+      "slug": "seye-mx31067"
+    },
+    "code": {
+      "id": "MX31067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.849",
+      "lon": "-89.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31068",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sinanché",
+      "en": "Sinanche",
+      "slug": "sinanche-mx31068"
+    },
+    "code": {
+      "id": "MX31068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.268",
+      "lon": "-89.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31069",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sotuta",
+      "en": "Sotuta",
+      "slug": "sotuta-mx31069"
+    },
+    "code": {
+      "id": "MX31069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.616",
+      "lon": "-88.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31070",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sucilá",
+      "en": "Sucila",
+      "slug": "sucila-mx31070"
+    },
+    "code": {
+      "id": "MX31070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.21",
+      "lon": "-88.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31071",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sudzal",
+      "en": "Sudzal",
+      "slug": "sudzal-mx31071"
+    },
+    "code": {
+      "id": "MX31071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.784",
+      "lon": "-88.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31072",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Suma",
+      "en": "Suma",
+      "slug": "suma-mx31072"
+    },
+    "code": {
+      "id": "MX31072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.109",
+      "lon": "-89.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31073",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tahdziú",
+      "en": "Tahdziu",
+      "slug": "tahdziu-mx31073"
+    },
+    "code": {
+      "id": "MX31073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.246",
+      "lon": "-88.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31074",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tahmek",
+      "en": "Tahmek",
+      "slug": "tahmek-mx31074"
+    },
+    "code": {
+      "id": "MX31074",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9",
+      "lon": "-89.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31075",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teabo",
+      "en": "Teabo",
+      "slug": "teabo-mx31075"
+    },
+    "code": {
+      "id": "MX31075",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.381",
+      "lon": "-89.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31076",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecoh",
+      "en": "Tecoh",
+      "slug": "tecoh-mx31076"
+    },
+    "code": {
+      "id": "MX31076",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.666",
+      "lon": "-89.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31077",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tekal de Venegas",
+      "en": "Tekal de Venegas",
+      "slug": "tekal-de-venegas-mx31077"
+    },
+    "code": {
+      "id": "MX31077",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.02",
+      "lon": "-88.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31078",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tekantó",
+      "en": "Tekanto",
+      "slug": "tekanto-mx31078"
+    },
+    "code": {
+      "id": "MX31078",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.008",
+      "lon": "-89.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31079",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tekax",
+      "en": "Tekax",
+      "slug": "tekax-mx31079"
+    },
+    "code": {
+      "id": "MX31079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.976",
+      "lon": "-89.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31080",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tekit",
+      "en": "Tekit",
+      "slug": "tekit-mx31080"
+    },
+    "code": {
+      "id": "MX31080",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.568",
+      "lon": "-89.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31081",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tekom",
+      "en": "Tekom",
+      "slug": "tekom-mx31081"
+    },
+    "code": {
+      "id": "MX31081",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.501",
+      "lon": "-88.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31082",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Telchac Pueblo",
+      "en": "Telchac Pueblo",
+      "slug": "telchac-pueblo-mx31082"
+    },
+    "code": {
+      "id": "MX31082",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.219",
+      "lon": "-89.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31083",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Telchac Puerto",
+      "en": "Telchac Puerto",
+      "slug": "telchac-puerto-mx31083"
+    },
+    "code": {
+      "id": "MX31083",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.308",
+      "lon": "-89.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31084",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temax",
+      "en": "Temax",
+      "slug": "temax-mx31084"
+    },
+    "code": {
+      "id": "MX31084",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.173",
+      "lon": "-88.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31085",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Temozón",
+      "en": "Temozon",
+      "slug": "temozon-mx31085"
+    },
+    "code": {
+      "id": "MX31085",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.894",
+      "lon": "-88.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31086",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepakán",
+      "en": "Tepakan",
+      "slug": "tepakan-mx31086"
+    },
+    "code": {
+      "id": "MX31086",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.063",
+      "lon": "-89.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31087",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tetiz",
+      "en": "Tetiz",
+      "slug": "tetiz-mx31087"
+    },
+    "code": {
+      "id": "MX31087",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.956",
+      "lon": "-90.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31088",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teya",
+      "en": "Teya",
+      "slug": "teya-mx31088"
+    },
+    "code": {
+      "id": "MX31088",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.057",
+      "lon": "-89.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31089",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ticul",
+      "en": "Ticul",
+      "slug": "ticul-mx31089"
+    },
+    "code": {
+      "id": "MX31089",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.364",
+      "lon": "-89.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31090",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Timucuy",
+      "en": "Timucuy",
+      "slug": "timucuy-mx31090"
+    },
+    "code": {
+      "id": "MX31090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.741",
+      "lon": "-89.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31091",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tinum",
+      "en": "Tinum",
+      "slug": "tinum-mx31091"
+    },
+    "code": {
+      "id": "MX31091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.741",
+      "lon": "-88.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31092",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tixcacalcupul",
+      "en": "Tixcacalcupul",
+      "slug": "tixcacalcupul-mx31092"
+    },
+    "code": {
+      "id": "MX31092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.413",
+      "lon": "-88.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31093",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tixkokob",
+      "en": "Tixkokob",
+      "slug": "tixkokob-mx31093"
+    },
+    "code": {
+      "id": "MX31093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.976",
+      "lon": "-89.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31094",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tixmehuac",
+      "en": "Tixmehuac",
+      "slug": "tixmehuac-mx31094"
+    },
+    "code": {
+      "id": "MX31094",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.248",
+      "lon": "-89.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31095",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tixpéhual",
+      "en": "Tixpehual",
+      "slug": "tixpehual-mx31095"
+    },
+    "code": {
+      "id": "MX31095",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.961",
+      "lon": "-89.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31096",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tizimín",
+      "en": "Tizimin",
+      "slug": "tizimin-mx31096"
+    },
+    "code": {
+      "id": "MX31096",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.249",
+      "lon": "-87.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31097",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tunkás",
+      "en": "Tunkas",
+      "slug": "tunkas-mx31097"
+    },
+    "code": {
+      "id": "MX31097",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.897",
+      "lon": "-88.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31098",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tzucacab",
+      "en": "Tzucacab",
+      "slug": "tzucacab-mx31098"
+    },
+    "code": {
+      "id": "MX31098",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.922",
+      "lon": "-89.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31099",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uayma",
+      "en": "Uayma",
+      "slug": "uayma-mx31099"
+    },
+    "code": {
+      "id": "MX31099",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.788",
+      "lon": "-88.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31100",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ucú",
+      "en": "Ucu",
+      "slug": "ucu-mx31100"
+    },
+    "code": {
+      "id": "MX31100",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.086",
+      "lon": "-89.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31101",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Umán",
+      "en": "Uman",
+      "slug": "uman-mx31101"
+    },
+    "code": {
+      "id": "MX31101",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.847",
+      "lon": "-89.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31102",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Valladolid",
+      "en": "Valladolid",
+      "slug": "valladolid-mx31102"
+    },
+    "code": {
+      "id": "MX31102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.614",
+      "lon": "-88.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31103",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xocchel",
+      "en": "Xocchel",
+      "slug": "xocchel-mx31103"
+    },
+    "code": {
+      "id": "MX31103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.795",
+      "lon": "-89.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31104",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yaxcabá",
+      "en": "Yaxcaba",
+      "slug": "yaxcaba-mx31104"
+    },
+    "code": {
+      "id": "MX31104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.485",
+      "lon": "-88.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31105",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yaxkukul",
+      "en": "Yaxkukul",
+      "slug": "yaxkukul-mx31105"
+    },
+    "code": {
+      "id": "MX31105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.057",
+      "lon": "-89.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX31106",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yobaín",
+      "en": "Yobain",
+      "slug": "yobain-mx31106"
+    },
+    "code": {
+      "id": "MX31106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX31",
+        "level": 1,
+        "name": {
+          "local": "Yucatán",
+          "en": "Yucatan",
+          "slug": "yucatan-mx31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.285",
+      "lon": "-89.121"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

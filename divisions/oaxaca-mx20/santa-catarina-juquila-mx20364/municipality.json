@@ -1,0 +1,45 @@
+{
+  "id": "MX20364",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Catarina Juquila",
+    "en": "Santa Catarina Juquila",
+    "slug": "santa-catarina-juquila-mx20364"
+  },
+  "code": {
+    "id": "MX20364",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.18",
+    "lon": "-97.33"
+  },
+  "metadata": {},
+  "source": {}
+}

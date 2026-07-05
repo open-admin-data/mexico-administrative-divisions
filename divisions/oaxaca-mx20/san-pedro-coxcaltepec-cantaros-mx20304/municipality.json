@@ -1,0 +1,45 @@
+{
+  "id": "MX20304",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Coxcaltepec Cántaros",
+    "en": "San Pedro Coxcaltepec Cantaros",
+    "slug": "san-pedro-coxcaltepec-cantaros-mx20304"
+  },
+  "code": {
+    "id": "MX20304",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.531",
+    "lon": "-97.145"
+  },
+  "metadata": {},
+  "source": {}
+}

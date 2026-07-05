@@ -1,0 +1,599 @@
+# Chiapas — Mexico Administrative Divisions
+
+> 118 municipalitys
+> Code: MX07
+> Coordinates: 16.26, -92.245
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acacoyagua
+
+Code: MX07001, Coordinates: 15.406, -92.697
+
+
+### Acala
+
+Code: MX07002, Coordinates: 16.528, -92.846
+
+
+### Acapetahua
+
+Code: MX07003, Coordinates: 15.222, -92.767
+
+
+### Aldama
+
+Code: MX07113, Coordinates: 16.932, -92.7
+
+
+### Altamirano
+
+Code: MX07004, Coordinates: 16.668, -91.877
+
+
+### Amatán (Amatan)
+
+Code: MX07005, Coordinates: 17.389, -92.85
+
+
+### Amatenango de la Frontera
+
+Code: MX07006, Coordinates: 15.523, -92.086
+
+
+### Amatenango del Valle
+
+Code: MX07007, Coordinates: 16.516, -92.401
+
+
+### Angel Albino Corzo
+
+Code: MX07008, Coordinates: 15.759, -92.69
+
+
+### Arriaga
+
+Code: MX07009, Coordinates: 16.255, -93.895
+
+
+### Bejucal de Ocampo
+
+Code: MX07010, Coordinates: 15.486, -92.161
+
+
+### Bella Vista
+
+Code: MX07011, Coordinates: 15.623, -92.232
+
+
+### Benemérito de las Américas (Benemerito de las Americas)
+
+Code: MX07114, Coordinates: 16.339, -90.503
+
+
+### Berriozábal (Berriozabal)
+
+Code: MX07012, Coordinates: 16.873, -93.337
+
+
+### Bochil
+
+Code: MX07013, Coordinates: 17.023, -92.961
+
+
+### Cacahoatán (Cacahoatan)
+
+Code: MX07015, Coordinates: 15.088, -92.165
+
+
+### Catazajá (Catazaja)
+
+Code: MX07016, Coordinates: 17.768, -92.038
+
+
+### Chalchihuitán (Chalchihuitan)
+
+Code: MX07022, Coordinates: 17.033, -92.614
+
+
+### Chamula
+
+Code: MX07023, Coordinates: 16.817, -92.678
+
+
+### Chanal
+
+Code: MX07024, Coordinates: 16.603, -92.257
+
+
+### Chapultenango
+
+Code: MX07025, Coordinates: 17.336, -93.132
+
+
+### Chenalhó (Chenalho)
+
+Code: MX07026, Coordinates: 16.972, -92.519
+
+
+### Chiapa de Corzo
+
+Code: MX07027, Coordinates: 16.601, -92.997
+
+
+### Chiapilla
+
+Code: MX07028, Coordinates: 16.558, -92.723
+
+
+### Chicoasén (Chicoasen)
+
+Code: MX07029, Coordinates: 16.995, -93.12
+
+
+### Chicomuselo
+
+Code: MX07030, Coordinates: 15.794, -92.419
+
+
+### Chilón (Chilon)
+
+Code: MX07031, Coordinates: 17.107, -92.064
+
+
+### Cintalapa
+
+Code: MX07017, Coordinates: 16.752, -93.833
+
+
+### Coapilla
+
+Code: MX07018, Coordinates: 17.118, -93.11
+
+
+### Comitán de Domínguez (Comitan de Dominguez)
+
+Code: MX07019, Coordinates: 16.291, -92.175
+
+
+### Copainalá (Copainala)
+
+Code: MX07021, Coordinates: 17.116, -93.242
+
+
+### El Bosque
+
+Code: MX07014, Coordinates: 17.025, -92.747
+
+
+### El Porvenir
+
+Code: MX07070, Coordinates: 15.429, -92.274
+
+
+### Escuintla
+
+Code: MX07032, Coordinates: 15.351, -92.556
+
+
+### Francisco León (Francisco Leon)
+
+Code: MX07033, Coordinates: 17.291, -93.29
+
+
+### Frontera Comalapa
+
+Code: MX07034, Coordinates: 15.782, -92.079
+
+
+### Frontera Hidalgo
+
+Code: MX07035, Coordinates: 14.753, -92.217
+
+
+### Huehuetán (Huehuetan)
+
+Code: MX07037, Coordinates: 15.022, -92.429
+
+
+### Huitiupán (Huitiupan)
+
+Code: MX07039, Coordinates: 17.241, -92.703
+
+
+### Huixtán (Huixtan)
+
+Code: MX07038, Coordinates: 16.683, -92.394
+
+
+### Huixtla
+
+Code: MX07040, Coordinates: 15.122, -92.504
+
+
+### Ixhuatán (Ixhuatan)
+
+Code: MX07042, Coordinates: 17.305, -93.02
+
+
+### Ixtacomitán (Ixtacomitan)
+
+Code: MX07043, Coordinates: 17.427, -93.1
+
+
+### Ixtapa
+
+Code: MX07044, Coordinates: 16.808, -92.899
+
+
+### Ixtapangajoya
+
+Code: MX07045, Coordinates: 17.461, -92.979
+
+
+### Jiquipilas
+
+Code: MX07046, Coordinates: 16.575, -93.606
+
+
+### Jitotol
+
+Code: MX07047, Coordinates: 17.089, -92.846
+
+
+### Juárez (Juarez)
+
+Code: MX07048, Coordinates: 17.701, -93.198
+
+
+### La Concordia
+
+Code: MX07020, Coordinates: 15.96, -92.67
+
+
+### La Grandeza
+
+Code: MX07036, Coordinates: 15.51, -92.215
+
+
+### La Independencia
+
+Code: MX07041, Coordinates: 16.214, -91.905
+
+
+### La Libertad
+
+Code: MX07050, Coordinates: 17.601, -91.756
+
+
+### La Trinitaria
+
+Code: MX07099, Coordinates: 15.98, -91.992
+
+
+### Larráinzar (Larrainzar)
+
+Code: MX07049, Coordinates: 16.928, -92.787
+
+
+### Las Margaritas
+
+Code: MX07052, Coordinates: 16.374, -91.709
+
+
+### Las Rosas
+
+Code: MX07075, Coordinates: 16.369, -92.378
+
+
+### Mapastepec
+
+Code: MX07051, Coordinates: 15.447, -92.915
+
+
+### Maravilla Tenejapa
+
+Code: MX07115, Coordinates: 16.212, -91.269
+
+
+### Marqués de Comillas (Marques de Comillas)
+
+Code: MX07116, Coordinates: 16.273, -90.717
+
+
+### Mazapa de Madero
+
+Code: MX07053, Coordinates: 15.358, -92.184
+
+
+### Mazatán (Mazatan)
+
+Code: MX07054, Coordinates: 14.877, -92.486
+
+
+### Metapa
+
+Code: MX07055, Coordinates: 14.822, -92.201
+
+
+### Mitontic
+
+Code: MX07056, Coordinates: 16.876, -92.559
+
+
+### Montecristo de Guerrero
+
+Code: MX07117, Coordinates: 15.678, -92.662
+
+
+### Motozintla
+
+Code: MX07057, Coordinates: 15.305, -92.349
+
+
+### Nicolás Ruíz (Nicolas Ruiz)
+
+Code: MX07058, Coordinates: 16.437, -92.595
+
+
+### Ocosingo
+
+Code: MX07059, Coordinates: 16.657, -91.192
+
+
+### Ocotepec
+
+Code: MX07060, Coordinates: 17.226, -93.173
+
+
+### Ocozocoautla de Espinosa
+
+Code: MX07061, Coordinates: 16.795, -93.458
+
+
+### Ostuacán (Ostuacan)
+
+Code: MX07062, Coordinates: 17.444, -93.349
+
+
+### Osumacinta
+
+Code: MX07063, Coordinates: 16.896, -93.092
+
+
+### Oxchuc
+
+Code: MX07064, Coordinates: 16.796, -92.307
+
+
+### Palenque
+
+Code: MX07065, Coordinates: 17.453, -91.812
+
+
+### Pantelhó (Pantelho)
+
+Code: MX07066, Coordinates: 17.051, -92.455
+
+
+### Pantepec
+
+Code: MX07067, Coordinates: 17.194, -93.052
+
+
+### Pichucalco
+
+Code: MX07068, Coordinates: 17.509, -93.129
+
+
+### Pijijiapan
+
+Code: MX07069, Coordinates: 15.653, -93.134
+
+
+### Pueblo Nuevo Solistahuacán (Pueblo Nuevo Solistahuacan)
+
+Code: MX07072, Coordinates: 17.225, -92.867
+
+
+### Rayón (Rayon)
+
+Code: MX07073, Coordinates: 17.185, -92.999
+
+
+### Reforma
+
+Code: MX07074, Coordinates: 17.869, -93.237
+
+
+### Sabanilla
+
+Code: MX07076, Coordinates: 17.325, -92.634
+
+
+### Salto de Agua
+
+Code: MX07077, Coordinates: 17.435, -92.225
+
+
+### San Andrés Duraznal (San Andres Duraznal)
+
+Code: MX07118, Coordinates: 17.162, -92.81
+
+
+### San Cristóbal de las Casas (San Cristobal de las Casas)
+
+Code: MX07078, Coordinates: 16.684, -92.616
+
+
+### San Fernando
+
+Code: MX07079, Coordinates: 16.913, -93.22
+
+
+### San Juan Cancuc
+
+Code: MX07112, Coordinates: 16.931, -92.39
+
+
+### San Lucas
+
+Code: MX07110, Coordinates: 16.628, -92.742
+
+
+### Santiago el Pinar
+
+Code: MX07119, Coordinates: 16.948, -92.723
+
+
+### Siltepec
+
+Code: MX07080, Coordinates: 15.558, -92.49
+
+
+### Simojovel
+
+Code: MX07081, Coordinates: 17.147, -92.539
+
+
+### Sitalá (Sitala)
+
+Code: MX07082, Coordinates: 17.037, -92.346
+
+
+### Socoltenango
+
+Code: MX07083, Coordinates: 16.101, -92.434
+
+
+### Solosuchiapa
+
+Code: MX07084, Coordinates: 17.395, -93.003
+
+
+### Soyaló (Soyalo)
+
+Code: MX07085, Coordinates: 16.926, -92.996
+
+
+### Suchiapa
+
+Code: MX07086, Coordinates: 16.595, -93.127
+
+
+### Suchiate
+
+Code: MX07087, Coordinates: 14.634, -92.241
+
+
+### Sunuapa
+
+Code: MX07088, Coordinates: 17.483, -93.242
+
+
+### Tapachula
+
+Code: MX07089, Coordinates: 14.927, -92.322
+
+
+### Tapalapa
+
+Code: MX07090, Coordinates: 17.216, -93.103
+
+
+### Tapilula
+
+Code: MX07091, Coordinates: 17.25, -93.006
+
+
+### Tecpatán (Tecpatan)
+
+Code: MX07092, Coordinates: 17.199, -93.437
+
+
+### Tenejapa
+
+Code: MX07093, Coordinates: 16.848, -92.497
+
+
+### Teopisca
+
+Code: MX07094, Coordinates: 16.553, -92.523
+
+
+### Tila
+
+Code: MX07096, Coordinates: 17.37, -92.496
+
+
+### Tonalá (Tonala)
+
+Code: MX07097, Coordinates: 15.984, -93.699
+
+
+### Totolapa
+
+Code: MX07098, Coordinates: 16.512, -92.666
+
+
+### Tumbalá (Tumbala)
+
+Code: MX07100, Coordinates: 17.31, -92.282
+
+
+### Tuxtla Chico
+
+Code: MX07102, Coordinates: 14.877, -92.197
+
+
+### Tuxtla Gutiérrez (Tuxtla Gutierrez)
+
+Code: MX07101, Coordinates: 16.745, -93.142
+
+
+### Tuzantán (Tuzantan)
+
+Code: MX07103, Coordinates: 15.141, -92.406
+
+
+### Tzimol
+
+Code: MX07104, Coordinates: 16.109, -92.244
+
+
+### Unión Juárez (Union Juarez)
+
+Code: MX07105, Coordinates: 15.071, -92.098
+
+
+### Venustiano Carranza
+
+Code: MX07106, Coordinates: 16.309, -92.638
+
+
+### Villa Comaltitlán (Villa Comaltitlan)
+
+Code: MX07071, Coordinates: 15.171, -92.613
+
+
+### Villa Corzo
+
+Code: MX07107, Coordinates: 16.137, -93.261
+
+
+### Villaflores
+
+Code: MX07108, Coordinates: 16.376, -93.359
+
+
+### Yajalón (Yajalon)
+
+Code: MX07109, Coordinates: 17.177, -92.352
+
+
+### Zinacantán (Zinacantan)
+
+Code: MX07111, Coordinates: 16.712, -92.786
+
+

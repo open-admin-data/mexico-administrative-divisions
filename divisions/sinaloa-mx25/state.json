@@ -1,0 +1,33 @@
+{
+  "id": "MX25",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Sinaloa",
+    "en": "Sinaloa",
+    "slug": "sinaloa-mx25"
+  },
+  "code": {
+    "id": "MX25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.757",
+    "lon": "-107.386"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/sinaloa-mx25/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

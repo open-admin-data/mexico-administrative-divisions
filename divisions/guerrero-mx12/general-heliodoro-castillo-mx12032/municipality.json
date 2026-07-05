@@ -1,0 +1,45 @@
+{
+  "id": "MX12032",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "General Heliodoro Castillo",
+    "en": "General Heliodoro Castillo",
+    "slug": "general-heliodoro-castillo-mx12032"
+  },
+  "code": {
+    "id": "MX12032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.72",
+    "lon": "-100.023"
+  },
+  "metadata": {},
+  "source": {}
+}

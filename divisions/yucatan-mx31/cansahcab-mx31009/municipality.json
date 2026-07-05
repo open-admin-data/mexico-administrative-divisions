@@ -1,0 +1,45 @@
+{
+  "id": "MX31009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cansahcab",
+    "en": "Cansahcab",
+    "slug": "cansahcab-mx31009"
+  },
+  "code": {
+    "id": "MX31009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.168",
+    "lon": "-89.066"
+  },
+  "metadata": {},
+  "source": {}
+}

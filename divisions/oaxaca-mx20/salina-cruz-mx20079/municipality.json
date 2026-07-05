@@ -1,0 +1,45 @@
+{
+  "id": "MX20079",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salina Cruz",
+    "en": "Salina Cruz",
+    "slug": "salina-cruz-mx20079"
+  },
+  "code": {
+    "id": "MX20079",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.19",
+    "lon": "-95.229"
+  },
+  "metadata": {},
+  "source": {}
+}

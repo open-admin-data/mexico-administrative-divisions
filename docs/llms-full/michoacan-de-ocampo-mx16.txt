@@ -1,0 +1,574 @@
+# Michoacan de Ocampo — Mexico Administrative Divisions
+
+> 113 municipalitys
+> Code: MX16
+> Coordinates: 19.156, -101.668
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acuitzio
+
+Code: MX16001, Coordinates: 19.472, -101.326
+
+
+### Aguililla
+
+Code: MX16002, Coordinates: 18.779, -102.753
+
+
+### Álvaro Obregón (Alvaro Obregon)
+
+Code: MX16003, Coordinates: 19.878, -101.027
+
+
+### Angamacutiro
+
+Code: MX16004, Coordinates: 20.14, -101.732
+
+
+### Angangueo
+
+Code: MX16005, Coordinates: 19.628, -100.301
+
+
+### Apatzingán (Apatzingan)
+
+Code: MX16006, Coordinates: 18.968, -102.469
+
+
+### Aporo
+
+Code: MX16007, Coordinates: 19.665, -100.383
+
+
+### Aquila
+
+Code: MX16008, Coordinates: 18.386, -103.318
+
+
+### Ario
+
+Code: MX16009, Coordinates: 19.13, -101.705
+
+
+### Arteaga
+
+Code: MX16010, Coordinates: 18.388, -102.179
+
+
+### Briseñas (Brisenas)
+
+Code: MX16011, Coordinates: 20.243, -102.577
+
+
+### Buenavista
+
+Code: MX16012, Coordinates: 19.215, -102.555
+
+
+### Carácuaro (Caracuaro)
+
+Code: MX16013, Coordinates: 19, -101.028
+
+
+### Charapan
+
+Code: MX16021, Coordinates: 19.697, -102.227
+
+
+### Charo
+
+Code: MX16022, Coordinates: 19.669, -101.003
+
+
+### Chavinda
+
+Code: MX16023, Coordinates: 20.047, -102.435
+
+
+### Cherán (Cheran)
+
+Code: MX16024, Coordinates: 19.739, -101.976
+
+
+### Chilchota
+
+Code: MX16025, Coordinates: 19.806, -102.111
+
+
+### Chinicuila
+
+Code: MX16026, Coordinates: 18.747, -103.39
+
+
+### Chucándiro (Chucandiro)
+
+Code: MX16027, Coordinates: 19.895, -101.344
+
+
+### Churintzio
+
+Code: MX16028, Coordinates: 20.14, -102.094
+
+
+### Churumuco
+
+Code: MX16029, Coordinates: 18.721, -101.613
+
+
+### Coahuayana
+
+Code: MX16014, Coordinates: 18.759, -103.597
+
+
+### Coalcomán de Vázquez Pallares (Coalcoman de Vazquez Pallares)
+
+Code: MX16015, Coordinates: 18.673, -103.08
+
+
+### Coeneo
+
+Code: MX16016, Coordinates: 19.787, -101.613
+
+
+### Cojumatlán de Régules (Cojumatlán de Regules)
+
+Code: MX16074, Coordinates: 20.109, -102.886
+
+
+### Contepec
+
+Code: MX16017, Coordinates: 19.961, -100.205
+
+
+### Copándaro (Copandaro)
+
+Code: MX16018, Coordinates: 19.917, -101.218
+
+
+### Cotija
+
+Code: MX16019, Coordinates: 19.751, -102.693
+
+
+### Cuitzeo
+
+Code: MX16020, Coordinates: 19.988, -101.114
+
+
+### Ecuandureo
+
+Code: MX16030, Coordinates: 20.16, -102.265
+
+
+### Epitacio Huerta
+
+Code: MX16031, Coordinates: 20.143, -100.302
+
+
+### Erongarícuaro (Erongaricuaro)
+
+Code: MX16032, Coordinates: 19.615, -101.728
+
+
+### Gabriel Zamora
+
+Code: MX16033, Coordinates: 19.155, -102.011
+
+
+### Hidalgo
+
+Code: MX16034, Coordinates: 19.626, -100.637
+
+
+### Huandacareo
+
+Code: MX16036, Coordinates: 19.994, -101.269
+
+
+### Huaniqueo
+
+Code: MX16037, Coordinates: 19.878, -101.511
+
+
+### Huetamo
+
+Code: MX16038, Coordinates: 18.66, -101.14
+
+
+### Huiramba
+
+Code: MX16039, Coordinates: 19.526, -101.449
+
+
+### Indaparapeo
+
+Code: MX16040, Coordinates: 19.76, -100.943
+
+
+### Irimbo
+
+Code: MX16041, Coordinates: 19.711, -100.453
+
+
+### Ixtlán (Ixtlan)
+
+Code: MX16042, Coordinates: 20.148, -102.418
+
+
+### Jacona
+
+Code: MX16043, Coordinates: 19.941, -102.317
+
+
+### Jiménez (Jimenez)
+
+Code: MX16044, Coordinates: 19.934, -101.686
+
+
+### Jiquilpan
+
+Code: MX16045, Coordinates: 19.967, -102.752
+
+
+### José Sixto Verduzco (Jose Sixto Verduzco)
+
+Code: MX16113, Coordinates: 20.242, -101.59
+
+
+### Juárez (Juarez)
+
+Code: MX16046, Coordinates: 19.293, -100.465
+
+
+### Jungapeo
+
+Code: MX16047, Coordinates: 19.412, -100.529
+
+
+### La Huacana
+
+Code: MX16035, Coordinates: 18.85, -101.854
+
+
+### La Piedad
+
+Code: MX16069, Coordinates: 20.299, -102.048
+
+
+### Lagunillas
+
+Code: MX16048, Coordinates: 19.573, -101.421
+
+
+### Lázaro Cárdenas (Lazaro Cardenas)
+
+Code: MX16052, Coordinates: 18.083, -102.48
+
+
+### Los Reyes
+
+Code: MX16075, Coordinates: 19.663, -102.37
+
+
+### Madero
+
+Code: MX16049, Coordinates: 19.354, -101.175
+
+
+### Maravatío (Maravatio)
+
+Code: MX16050, Coordinates: 19.89, -100.453
+
+
+### Marcos Castellanos
+
+Code: MX16051, Coordinates: 20.05, -102.951
+
+
+### Morelia
+
+Code: MX16053, Coordinates: 19.655, -101.262
+
+
+### Morelos
+
+Code: MX16054, Coordinates: 19.992, -101.442
+
+
+### Múgica (Mugica)
+
+Code: MX16055, Coordinates: 18.967, -102.131
+
+
+### Nahuatzen
+
+Code: MX16056, Coordinates: 19.65, -101.877
+
+
+### Nocupétaro (Nocupetaro)
+
+Code: MX16057, Coordinates: 19.078, -101.21
+
+
+### Nuevo Parangaricutiro
+
+Code: MX16058, Coordinates: 19.393, -102.184
+
+
+### Nuevo Urecho
+
+Code: MX16059, Coordinates: 19.159, -101.866
+
+
+### Numarán (Numaran)
+
+Code: MX16060, Coordinates: 20.258, -101.968
+
+
+### Ocampo
+
+Code: MX16061, Coordinates: 19.586, -100.324
+
+
+### Pajacuarán (Pajacuaran)
+
+Code: MX16062, Coordinates: 20.15, -102.519
+
+
+### Panindícuaro (Panindicuaro)
+
+Code: MX16063, Coordinates: 20.018, -101.768
+
+
+### Paracho
+
+Code: MX16065, Coordinates: 19.654, -102.06
+
+
+### Parácuaro (Paracuaro)
+
+Code: MX16064, Coordinates: 19.07, -102.22
+
+
+### Pátzcuaro (Patzcuaro)
+
+Code: MX16066, Coordinates: 19.502, -101.66
+
+
+### Penjamillo
+
+Code: MX16067, Coordinates: 20.095, -101.899
+
+
+### Peribán (Periban)
+
+Code: MX16068, Coordinates: 19.494, -102.456
+
+
+### Purépero (Purepero)
+
+Code: MX16070, Coordinates: 19.911, -102.011
+
+
+### Puruándiro (Puruandiro)
+
+Code: MX16071, Coordinates: 20.121, -101.54
+
+
+### Queréndaro (Querendaro)
+
+Code: MX16072, Coordinates: 19.726, -100.839
+
+
+### Quiroga
+
+Code: MX16073, Coordinates: 19.708, -101.569
+
+
+### Sahuayo
+
+Code: MX16076, Coordinates: 20.048, -102.782
+
+
+### Salvador Escalante
+
+Code: MX16079, Coordinates: 19.391, -101.664
+
+
+### San Lucas
+
+Code: MX16077, Coordinates: 18.588, -100.798
+
+
+### Santa Ana Maya
+
+Code: MX16078, Coordinates: 20.023, -101.02
+
+
+### Senguio
+
+Code: MX16080, Coordinates: 19.746, -100.347
+
+
+### Susupuato
+
+Code: MX16081, Coordinates: 19.176, -100.411
+
+
+### Tacámbaro (Tacambaro)
+
+Code: MX16082, Coordinates: 19.25, -101.452
+
+
+### Tancítaro (Tancitaro)
+
+Code: MX16083, Coordinates: 19.354, -102.37
+
+
+### Tangamandapio
+
+Code: MX16084, Coordinates: 19.89, -102.466
+
+
+### Tangancícuaro (Tangancicuaro)
+
+Code: MX16085, Coordinates: 19.873, -102.294
+
+
+### Tanhuato
+
+Code: MX16086, Coordinates: 20.272, -102.344
+
+
+### Taretan
+
+Code: MX16087, Coordinates: 19.326, -101.897
+
+
+### Tarímbaro (Tarimbaro)
+
+Code: MX16088, Coordinates: 19.816, -101.164
+
+
+### Tepalcatepec
+
+Code: MX16089, Coordinates: 19.079, -102.85
+
+
+### Tingambato
+
+Code: MX16090, Coordinates: 19.506, -101.853
+
+
+### Tingüindín (Tinguindin)
+
+Code: MX16091, Coordinates: 19.806, -102.535
+
+
+### Tiquicheo de Nicolás Romero (Tiquicheo de Nicolas Romero)
+
+Code: MX16092, Coordinates: 19.071, -100.817
+
+
+### Tlalpujahua
+
+Code: MX16093, Coordinates: 19.784, -100.215
+
+
+### Tlazazalca
+
+Code: MX16094, Coordinates: 20.015, -102.048
+
+
+### Tocumbo
+
+Code: MX16095, Coordinates: 19.678, -102.557
+
+
+### Tumbiscatío (Tumbiscatio)
+
+Code: MX16096, Coordinates: 18.584, -102.495
+
+
+### Turicato
+
+Code: MX16097, Coordinates: 18.943, -101.403
+
+
+### Tuxpan
+
+Code: MX16098, Coordinates: 19.577, -100.488
+
+
+### Tuzantla
+
+Code: MX16099, Coordinates: 19.224, -100.605
+
+
+### Tzintzuntzan
+
+Code: MX16100, Coordinates: 19.611, -101.541
+
+
+### Tzitzio
+
+Code: MX16101, Coordinates: 19.426, -100.912
+
+
+### Uruapan
+
+Code: MX16102, Coordinates: 19.406, -102.034
+
+
+### Venustiano Carranza
+
+Code: MX16103, Coordinates: 20.146, -102.684
+
+
+### Villamar
+
+Code: MX16104, Coordinates: 19.992, -102.579
+
+
+### Vista Hermosa
+
+Code: MX16105, Coordinates: 20.263, -102.483
+
+
+### Yurécuaro (Yurecuaro)
+
+Code: MX16106, Coordinates: 20.295, -102.216
+
+
+### Zacapu
+
+Code: MX16107, Coordinates: 19.83, -101.844
+
+
+### Zamora
+
+Code: MX16108, Coordinates: 20.029, -102.271
+
+
+### Zináparo (Zinaparo)
+
+Code: MX16109, Coordinates: 20.178, -102.011
+
+
+### Zinapécuaro (Zinapecuaro)
+
+Code: MX16110, Coordinates: 19.856, -100.771
+
+
+### Ziracuaretiro
+
+Code: MX16111, Coordinates: 19.439, -101.929
+
+
+### Zitácuaro (Zitacuaro)
+
+Code: MX16112, Coordinates: 19.436, -100.318
+
+

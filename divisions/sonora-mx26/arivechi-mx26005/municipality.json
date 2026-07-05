@@ -1,0 +1,45 @@
+{
+  "id": "MX26005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Arivechi",
+    "en": "Arivechi",
+    "slug": "arivechi-mx26005"
+  },
+  "code": {
+    "id": "MX26005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.855",
+    "lon": "-109.059"
+  },
+  "metadata": {},
+  "source": {}
+}

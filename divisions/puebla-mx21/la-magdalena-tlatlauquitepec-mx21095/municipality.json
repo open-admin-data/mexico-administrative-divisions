@@ -1,0 +1,45 @@
+{
+  "id": "MX21095",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "La Magdalena Tlatlauquitepec",
+    "en": "La Magdalena Tlatlauquitepec",
+    "slug": "la-magdalena-tlatlauquitepec-mx21095"
+  },
+  "code": {
+    "id": "MX21095",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX21",
+    "level": 1,
+    "name": {
+      "local": "Puebla",
+      "en": "Puebla",
+      "slug": "puebla-mx21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX21",
+      "level": 1,
+      "name": {
+        "local": "Puebla",
+        "en": "Puebla",
+        "slug": "puebla-mx21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.743",
+    "lon": "-98.094"
+  },
+  "metadata": {},
+  "source": {}
+}

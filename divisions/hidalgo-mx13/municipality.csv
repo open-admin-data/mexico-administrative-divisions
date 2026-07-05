@@ -1,0 +1,85 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MX13001,Acatlán,Acatlan,acatlan-mx13001,MX13001,20.205,-98.419
+MX13002,Acaxochitlán,Acaxochitlan,acaxochitlan-mx13002,MX13002,20.165,-98.202
+MX13003,Actopan,Actopan,actopan-mx13003,MX13003,20.309,-98.875
+MX13004,Agua Blanca de Iturbide,Agua Blanca de Iturbide,agua-blanca-de-iturbide-mx13004,MX13004,20.365,-98.373
+MX13005,Ajacuba,Ajacuba,ajacuba-mx13005,MX13005,20.107,-99.071
+MX13006,Alfajayucan,Alfajayucan,alfajayucan-mx13006,MX13006,20.41,-99.403
+MX13007,Almoloya,Almoloya,almoloya-mx13007,MX13007,19.738,-98.316
+MX13008,Apan,Apan,apan-mx13008,MX13008,19.732,-98.482
+MX13010,Atitalaquia,Atitalaquia,atitalaquia-mx13010,MX13010,20.06,-99.213
+MX13011,Atlapexco,Atlapexco,atlapexco-mx13011,MX13011,21.021,-98.378
+MX13013,Atotonilco de Tula,Atotonilco de Tula,atotonilco-de-tula-mx13013,MX13013,19.96,-99.237
+MX13012,Atotonilco el Grande,Atotonilco el Grande,atotonilco-el-grande-mx13012,MX13012,20.341,-98.671
+MX13014,Calnali,Calnali,calnali-mx13014,MX13014,20.904,-98.534
+MX13015,Cardonal,Cardonal,cardonal-mx13015,MX13015,20.596,-99.05
+MX13017,Chapantongo,Chapantongo,chapantongo-mx13017,MX13017,20.245,-99.52
+MX13018,Chapulhuacán,Chapulhuacan,chapulhuacan-mx13018,MX13018,21.126,-98.952
+MX13019,Chilcuautla,Chilcuautla,chilcuautla-mx13019,MX13019,20.328,-99.262
+MX13016,Cuautepec de Hinojosa,Cuautepec de Hinojosa,cuautepec-de-hinojosa-mx13016,MX13016,19.97,-98.268
+MX13009,El Arenal,El Arenal,el-arenal-mx13009,MX13009,20.225,-98.88
+MX13020,Eloxochitlán,Eloxochitlan,eloxochitlan-mx13020,MX13020,20.743,-98.867
+MX13021,Emiliano Zapata,Emiliano Zapata,emiliano-zapata-mx13021,MX13021,19.664,-98.578
+MX13022,Epazoyucan,Epazoyucan,epazoyucan-mx13022,MX13022,20.038,-98.644
+MX13023,Francisco I. Madero,Francisco I. Madero,francisco-i-madero-mx13023,MX13023,20.241,-99.068
+MX13024,Huasca de Ocampo,Huasca de Ocampo,huasca-de-ocampo-mx13024,MX13024,20.223,-98.555
+MX13025,Huautla,Huautla,huautla-mx13025,MX13025,21.039,-98.237
+MX13026,Huazalingo,Huazalingo,huazalingo-mx13026,MX13026,20.994,-98.487
+MX13027,Huehuetla,Huehuetla,huehuetla-mx13027,MX13027,20.532,-98.033
+MX13028,Huejutla de Reyes,Huejutla de Reyes,huejutla-de-reyes-mx13028,MX13028,21.143,-98.388
+MX13029,Huichapan,Huichapan,huichapan-mx13029,MX13029,20.391,-99.682
+MX13030,Ixmiquilpan,Ixmiquilpan,ixmiquilpan-mx13030,MX13030,20.539,-99.201
+MX13031,Jacala de Ledezma,Jacala de Ledezma,jacala-de-ledezma-mx13031,MX13031,20.965,-99.152
+MX13032,Jaltocán,Jaltocan,jaltocan-mx13032,MX13032,21.154,-98.526
+MX13033,Juárez Hidalgo,Juarez Hidalgo,juarez-hidalgo-mx13033,MX13033,20.836,-98.835
+MX13040,La Misión,La Mision,la-mision-mx13040,MX13040,21.066,-99.069
+MX13034,Lolotla,Lolotla,lolotla-mx13034,MX13034,21.009,-98.731
+MX13035,Metepec,Metepec,metepec-mx13035,MX13035,20.259,-98.345
+MX13037,Metztitlán,Metztitlan,metztitlan-mx13037,MX13037,20.565,-98.829
+MX13051,Mineral de la Reforma,Mineral de la Reforma,mineral-de-la-reforma-mx13051,MX13051,20.061,-98.731
+MX13038,Mineral del Chico,Mineral del Chico,mineral-del-chico-mx13038,MX13038,20.221,-98.745
+MX13039,Mineral del Monte,Mineral del Monte,mineral-del-monte-mx13039,MX13039,20.148,-98.674
+MX13041,Mixquiahuala de Juárez,Mixquiahuala de Juarez,mixquiahuala-de-juarez-mx13041,MX13041,20.234,-99.156
+MX13042,Molango de Escamilla,Molango de Escamilla,molango-de-escamilla-mx13042,MX13042,20.849,-98.763
+MX13043,Nicolás Flores,Nicolas Flores,nicolas-flores-mx13043,MX13043,20.795,-99.169
+MX13044,Nopala de Villagrán,Nopala de Villagran,nopala-de-villagran-mx13044,MX13044,20.233,-99.675
+MX13045,Omitlán de Juárez,Omitlan de Juarez,omitlan-de-juarez-mx13045,MX13045,20.184,-98.638
+MX13048,Pachuca de Soto,Pachuca de Soto,pachuca-de-soto-mx13048,MX13048,20.104,-98.789
+MX13047,Pacula,Pacula,pacula-mx13047,MX13047,21.003,-99.313
+MX13049,Pisaflores,Pisaflores,pisaflores-mx13049,MX13049,21.231,-98.992
+MX13050,Progreso de Obregón,Progreso de Obregon,progreso-de-obregon-mx13050,MX13050,20.304,-99.181
+MX13036,San Agustín Metzquititlán,San Agustin Metzquititlan,san-agustin-metzquititlan-mx13036,MX13036,20.521,-98.618
+MX13052,San Agustín Tlaxiaca,San Agustin Tlaxiaca,san-agustin-tlaxiaca-mx13052,MX13052,20.076,-98.933
+MX13053,San Bartolo Tutotepec,San Bartolo Tutotepec,san-bartolo-tutotepec-mx13053,MX13053,20.469,-98.196
+MX13046,San Felipe Orizatlán,San Felipe Orizatlan,san-felipe-orizatlan-mx13046,MX13046,21.246,-98.559
+MX13054,San Salvador,San Salvador,san-salvador-mx13054,MX13054,20.296,-99.035
+MX13055,Santiago de Anaya,Santiago de Anaya,santiago-de-anaya-mx13055,MX13055,20.428,-98.976
+MX13056,Santiago Tulantepec de Lugo Guerrero,Santiago Tulantepec de Lugo Guerrero,santiago-tulantepec-de-lugo-guerrero-mx13056,MX13056,20.035,-98.385
+MX13057,Singuilucan,Singuilucan,singuilucan-mx13057,MX13057,19.998,-98.491
+MX13058,Tasquillo,Tasquillo,tasquillo-mx13058,MX13058,20.531,-99.368
+MX13059,Tecozautla,Tecozautla,tecozautla-mx13059,MX13059,20.54,-99.653
+MX13060,Tenango de Doria,Tenango de Doria,tenango-de-doria-mx13060,MX13060,20.337,-98.21
+MX13061,Tepeapulco,Tepeapulco,tepeapulco-mx13061,MX13061,19.806,-98.506
+MX13062,Tepehuacán de Guerrero,Tepehuacan de Guerrero,tepehuacan-de-guerrero-mx13062,MX13062,21.069,-98.86
+MX13063,Tepeji del Río de Ocampo,Tepeji del Rio de Ocampo,tepeji-del-rio-de-ocampo-mx13063,MX13063,19.894,-99.349
+MX13064,Tepetitlán,Tepetitlan,tepetitlan-mx13064,MX13064,20.189,-99.401
+MX13065,Tetepango,Tetepango,tetepango-mx13065,MX13065,20.109,-99.158
+MX13067,Tezontepec de Aldama,Tezontepec de Aldama,tezontepec-de-aldama-mx13067,MX13067,20.174,-99.289
+MX13068,Tianguistengo,Tianguistengo,tianguistengo-mx13068,MX13068,20.781,-98.52
+MX13069,Tizayuca,Tizayuca,tizayuca-mx13069,MX13069,19.853,-98.959
+MX13070,Tlahuelilpan,Tlahuelilpan,tlahuelilpan-mx13070,MX13070,20.134,-99.208
+MX13071,Tlahuiltepa,Tlahuiltepa,tlahuiltepa-mx13071,MX13071,20.833,-98.963
+MX13072,Tlanalapa,Tlanalapa,tlanalapa-mx13072,MX13072,19.829,-98.613
+MX13073,Tlanchinol,Tlanchinol,tlanchinol-mx13073,MX13073,21.045,-98.635
+MX13074,Tlaxcoapan,Tlaxcoapan,tlaxcoapan-mx13074,MX13074,20.096,-99.233
+MX13075,Tolcayuca,Tolcayuca,tolcayuca-mx13075,MX13075,19.964,-98.94
+MX13076,Tula de Allende,Tula de Allende,tula-de-allende-mx13076,MX13076,20.049,-99.373
+MX13077,Tulancingo de Bravo,Tulancingo de Bravo,tulancingo-de-bravo-mx13077,MX13077,20.132,-98.317
+MX13066,Villa de Tezontepec,Villa de Tezontepec,villa-de-tezontepec-mx13066,MX13066,19.914,-98.8
+MX13078,Xochiatipan,Xochiatipan,xochiatipan-mx13078,MX13078,20.863,-98.303
+MX13079,Xochicoatlán,Xochicoatlan,xochicoatlan-mx13079,MX13079,20.789,-98.639
+MX13080,Yahualica,Yahualica,yahualica-mx13080,MX13080,20.92,-98.367
+MX13081,Zacualtipán de Ángeles,Zacualtipan de Angeles,zacualtipan-de-angeles-mx13081,MX13081,20.652,-98.595
+MX13082,Zapotlán de Juárez,Zapotlan de Juarez,zapotlan-de-juarez-mx13082,MX13082,19.988,-98.848
+MX13083,Zempoala,Zempoala,zempoala-mx13083,MX13083,19.926,-98.643
+MX13084,Zimapán,Zimapan,zimapan-mx13084,MX13084,20.762,-99.383

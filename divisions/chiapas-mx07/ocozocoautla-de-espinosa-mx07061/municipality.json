@@ -1,0 +1,45 @@
+{
+  "id": "MX07061",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ocozocoautla de Espinosa",
+    "en": "Ocozocoautla de Espinosa",
+    "slug": "ocozocoautla-de-espinosa-mx07061"
+  },
+  "code": {
+    "id": "MX07061",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.795",
+    "lon": "-93.458"
+  },
+  "metadata": {},
+  "source": {}
+}

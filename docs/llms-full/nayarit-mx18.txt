@@ -1,0 +1,109 @@
+# Nayarit — Mexico Administrative Divisions
+
+> 20 municipalitys
+> Code: MX18
+> Coordinates: 21.844, -104.828
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acaponeta
+
+Code: MX18001, Coordinates: 22.46, -105.249
+
+
+### Ahuacatlán (Ahuacatlan)
+
+Code: MX18002, Coordinates: 21.051, -104.561
+
+
+### Amatlán de Cañas (Amatlan de Canas)
+
+Code: MX18003, Coordinates: 20.799, -104.397
+
+
+### Bahía de Banderas (Bahia de Banderas)
+
+Code: MX18020, Coordinates: 20.829, -105.317
+
+
+### Compostela
+
+Code: MX18004, Coordinates: 21.114, -105.039
+
+
+### Del Nayar
+
+Code: MX18009, Coordinates: 22.056, -104.593
+
+
+### Huajicori
+
+Code: MX18005, Coordinates: 22.811, -105.203
+
+
+### Ixtlán del Río (Ixtlan del Rio)
+
+Code: MX18006, Coordinates: 21.029, -104.328
+
+
+### Jala
+
+Code: MX18007, Coordinates: 21.203, -104.445
+
+
+### La Yesca
+
+Code: MX18019, Coordinates: 21.589, -104.195
+
+
+### Rosamorada
+
+Code: MX18010, Coordinates: 22.15, -105.239
+
+
+### Ruíz (Ruiz)
+
+Code: MX18011, Coordinates: 22.016, -104.877
+
+
+### San Blas
+
+Code: MX18012, Coordinates: 21.538, -105.165
+
+
+### San Pedro Lagunillas
+
+Code: MX18013, Coordinates: 21.167, -104.718
+
+
+### Santa María del Oro (Santa Maria del Oro)
+
+Code: MX18014, Coordinates: 21.347, -104.599
+
+
+### Santiago Ixcuintla
+
+Code: MX18015, Coordinates: 21.91, -105.506
+
+
+### Tecuala
+
+Code: MX18016, Coordinates: 22.325, -105.465
+
+
+### Tepic
+
+Code: MX18017, Coordinates: 21.624, -104.841
+
+
+### Tuxpan
+
+Code: MX18018, Coordinates: 21.993, -105.42
+
+
+### Xalisco
+
+Code: MX18008, Coordinates: 21.399, -104.942
+
+

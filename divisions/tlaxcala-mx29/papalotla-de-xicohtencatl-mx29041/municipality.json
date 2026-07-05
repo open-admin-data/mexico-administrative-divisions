@@ -1,0 +1,45 @@
+{
+  "id": "MX29041",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Papalotla de Xicohténcatl",
+    "en": "Papalotla de Xicohtencatl",
+    "slug": "papalotla-de-xicohtencatl-mx29041"
+  },
+  "code": {
+    "id": "MX29041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX29",
+    "level": 1,
+    "name": {
+      "local": "Tlaxcala",
+      "en": "Tlaxcala",
+      "slug": "tlaxcala-mx29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX29",
+      "level": 1,
+      "name": {
+        "local": "Tlaxcala",
+        "en": "Tlaxcala",
+        "slug": "tlaxcala-mx29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.172",
+    "lon": "-98.189"
+  },
+  "metadata": {},
+  "source": {}
+}

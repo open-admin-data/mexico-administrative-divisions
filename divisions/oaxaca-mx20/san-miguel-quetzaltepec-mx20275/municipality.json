@@ -1,0 +1,45 @@
+{
+  "id": "MX20275",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Miguel Quetzaltepec",
+    "en": "San Miguel Quetzaltepec",
+    "slug": "san-miguel-quetzaltepec-mx20275"
+  },
+  "code": {
+    "id": "MX20275",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.979",
+    "lon": "-95.767"
+  },
+  "metadata": {},
+  "source": {}
+}

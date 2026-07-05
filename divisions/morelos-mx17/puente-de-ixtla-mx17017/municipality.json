@@ -1,0 +1,45 @@
+{
+  "id": "MX17017",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Puente de Ixtla",
+    "en": "Puente de Ixtla",
+    "slug": "puente-de-ixtla-mx17017"
+  },
+  "code": {
+    "id": "MX17017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX17",
+    "level": 1,
+    "name": {
+      "local": "Morelos",
+      "en": "Morelos",
+      "slug": "morelos-mx17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX17",
+      "level": 1,
+      "name": {
+        "local": "Morelos",
+        "en": "Morelos",
+        "slug": "morelos-mx17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.588",
+    "lon": "-99.313"
+  },
+  "metadata": {},
+  "source": {}
+}

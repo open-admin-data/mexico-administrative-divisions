@@ -1,0 +1,33 @@
+{
+  "id": "MX26",
+  "level": 1,
+  "level_name": {
+    "local": "Estado",
+    "en": "State"
+  },
+  "name": {
+    "local": "Sonora",
+    "en": "Sonora",
+    "slug": "sonora-mx26"
+  },
+  "code": {
+    "id": "MX26",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.397",
+    "lon": "-110.554"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mx/states/sonora-mx26/",
+    "api": "https://openadmindata.org/api/mx/"
+  }
+}

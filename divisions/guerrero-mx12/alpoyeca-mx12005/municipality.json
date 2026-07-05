@@ -1,0 +1,45 @@
+{
+  "id": "MX12005",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alpoyeca",
+    "en": "Alpoyeca",
+    "slug": "alpoyeca-mx12005"
+  },
+  "code": {
+    "id": "MX12005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.634",
+    "lon": "-98.509"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MX26045",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Opodepe",
+    "en": "Opodepe",
+    "slug": "opodepe-mx26045"
+  },
+  "code": {
+    "id": "MX26045",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX26",
+    "level": 1,
+    "name": {
+      "local": "Sonora",
+      "en": "Sonora",
+      "slug": "sonora-mx26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.035",
+    "lon": "-110.874"
+  },
+  "metadata": {},
+  "source": {}
+}

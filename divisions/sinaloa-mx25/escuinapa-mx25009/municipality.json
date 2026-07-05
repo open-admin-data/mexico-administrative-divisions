@@ -1,0 +1,45 @@
+{
+  "id": "MX25009",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Escuinapa",
+    "en": "Escuinapa",
+    "slug": "escuinapa-mx25009"
+  },
+  "code": {
+    "id": "MX25009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX25",
+    "level": 1,
+    "name": {
+      "local": "Sinaloa",
+      "en": "Sinaloa",
+      "slug": "sinaloa-mx25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX25",
+      "level": 1,
+      "name": {
+        "local": "Sinaloa",
+        "en": "Sinaloa",
+        "slug": "sinaloa-mx25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.718",
+    "lon": "-105.601"
+  },
+  "metadata": {},
+  "source": {}
+}

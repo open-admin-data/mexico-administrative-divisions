@@ -1,0 +1,45 @@
+{
+  "id": "MX01006",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pabellón de Arteaga",
+    "en": "Pabellon de Arteaga",
+    "slug": "pabellon-de-arteaga-mx01006"
+  },
+  "code": {
+    "id": "MX01006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.105",
+    "lon": "-102.302"
+  },
+  "metadata": {},
+  "source": {}
+}

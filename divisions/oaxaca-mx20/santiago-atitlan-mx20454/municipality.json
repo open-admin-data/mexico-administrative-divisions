@@ -1,0 +1,45 @@
+{
+  "id": "MX20454",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Atitlán",
+    "en": "Santiago Atitlan",
+    "slug": "santiago-atitlan-mx20454"
+  },
+  "code": {
+    "id": "MX20454",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.09",
+    "lon": "-95.927"
+  },
+  "metadata": {},
+  "source": {}
+}

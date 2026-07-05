@@ -1,0 +1,45 @@
+{
+  "id": "MX20342",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Raymundo Jalpan",
+    "en": "San Raymundo Jalpan",
+    "slug": "san-raymundo-jalpan-mx20342"
+  },
+  "code": {
+    "id": "MX20342",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.98",
+    "lon": "-96.755"
+  },
+  "metadata": {},
+  "source": {}
+}

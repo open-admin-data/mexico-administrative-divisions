@@ -1,0 +1,45 @@
+{
+  "id": "MX01008",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San José de Gracia",
+    "en": "San Jose de Gracia",
+    "slug": "san-jose-de-gracia-mx01008"
+  },
+  "code": {
+    "id": "MX01008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX01",
+    "level": 1,
+    "name": {
+      "local": "Aguascalientes",
+      "en": "Aguascalientes",
+      "slug": "aguascalientes-mx01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX01",
+      "level": 1,
+      "name": {
+        "local": "Aguascalientes",
+        "en": "Aguascalientes",
+        "slug": "aguascalientes-mx01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.143",
+    "lon": "-102.53"
+  },
+  "metadata": {},
+  "source": {}
+}

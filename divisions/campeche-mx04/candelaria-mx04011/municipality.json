@@ -1,0 +1,45 @@
+{
+  "id": "MX04011",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Candelaria",
+    "en": "Candelaria",
+    "slug": "candelaria-mx04011"
+  },
+  "code": {
+    "id": "MX04011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX04",
+    "level": 1,
+    "name": {
+      "local": "Campeche",
+      "en": "Campeche",
+      "slug": "campeche-mx04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX04",
+      "level": 1,
+      "name": {
+        "local": "Campeche",
+        "en": "Campeche",
+        "slug": "campeche-mx04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.161",
+    "lon": "-90.745"
+  },
+  "metadata": {},
+  "source": {}
+}

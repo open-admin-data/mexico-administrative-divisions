@@ -1,0 +1,45 @@
+{
+  "id": "MX20058",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mazatlán Villa de Flores",
+    "en": "Mazatlan Villa de Flores",
+    "slug": "mazatlan-villa-de-flores-mx20058"
+  },
+  "code": {
+    "id": "MX20058",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.015",
+    "lon": "-96.907"
+  },
+  "metadata": {},
+  "source": {}
+}

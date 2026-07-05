@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "MX26001",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Aconchi",
+      "en": "Aconchi",
+      "slug": "aconchi-mx26001"
+    },
+    "code": {
+      "id": "MX26001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.784",
+      "lon": "-110.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26002",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Agua Prieta",
+      "en": "Agua Prieta",
+      "slug": "agua-prieta-mx26002"
+    },
+    "code": {
+      "id": "MX26002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.021",
+      "lon": "-109.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26003",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alamos",
+      "en": "Alamos",
+      "slug": "alamos-mx26003"
+    },
+    "code": {
+      "id": "MX26003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.083",
+      "lon": "-108.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26004",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Altar",
+      "en": "Altar",
+      "slug": "altar-mx26004"
+    },
+    "code": {
+      "id": "MX26004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.094",
+      "lon": "-111.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26005",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arivechi",
+      "en": "Arivechi",
+      "slug": "arivechi-mx26005"
+    },
+    "code": {
+      "id": "MX26005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.855",
+      "lon": "-109.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26006",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arizpe",
+      "en": "Arizpe",
+      "slug": "arizpe-mx26006"
+    },
+    "code": {
+      "id": "MX26006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.438",
+      "lon": "-110.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26007",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atil",
+      "en": "Atil",
+      "slug": "atil-mx26007"
+    },
+    "code": {
+      "id": "MX26007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.834",
+      "lon": "-111.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26008",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacadéhuachi",
+      "en": "Bacadehuachi",
+      "slug": "bacadehuachi-mx26008"
+    },
+    "code": {
+      "id": "MX26008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.783",
+      "lon": "-109.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26009",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacanora",
+      "en": "Bacanora",
+      "slug": "bacanora-mx26009"
+    },
+    "code": {
+      "id": "MX26009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.862",
+      "lon": "-109.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26010",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacerac",
+      "en": "Bacerac",
+      "slug": "bacerac-mx26010"
+    },
+    "code": {
+      "id": "MX26010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.253",
+      "lon": "-108.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26011",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bacoachi",
+      "en": "Bacoachi",
+      "slug": "bacoachi-mx26011"
+    },
+    "code": {
+      "id": "MX26011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.678",
+      "lon": "-110.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26012",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bácum",
+      "en": "Bacum",
+      "slug": "bacum-mx26012"
+    },
+    "code": {
+      "id": "MX26012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.664",
+      "lon": "-110.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26013",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Banámichi",
+      "en": "Banamichi",
+      "slug": "banamichi-mx26013"
+    },
+    "code": {
+      "id": "MX26013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.063",
+      "lon": "-110.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26014",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baviácora",
+      "en": "Baviacora",
+      "slug": "baviacora-mx26014"
+    },
+    "code": {
+      "id": "MX26014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.615",
+      "lon": "-110.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26015",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bavispe",
+      "en": "Bavispe",
+      "slug": "bavispe-mx26015"
+    },
+    "code": {
+      "id": "MX26015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.65",
+      "lon": "-109.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26071",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benito Juárez",
+      "en": "Benito Juarez",
+      "slug": "benito-juarez-mx26071"
+    },
+    "code": {
+      "id": "MX26071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.099",
+      "lon": "-109.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26016",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benjamín Hill",
+      "en": "Benjamin Hill",
+      "slug": "benjamin-hill-mx26016"
+    },
+    "code": {
+      "id": "MX26016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.152",
+      "lon": "-111.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26017",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caborca",
+      "en": "Caborca",
+      "slug": "caborca-mx26017"
+    },
+    "code": {
+      "id": "MX26017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.897",
+      "lon": "-112.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26018",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cajeme",
+      "en": "Cajeme",
+      "slug": "cajeme-mx26018"
+    },
+    "code": {
+      "id": "MX26018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.744",
+      "lon": "-109.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26019",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cananea",
+      "en": "Cananea",
+      "slug": "cananea-mx26019"
+    },
+    "code": {
+      "id": "MX26019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.983",
+      "lon": "-110.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26020",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carbó",
+      "en": "Carbo",
+      "slug": "carbo-mx26020"
+    },
+    "code": {
+      "id": "MX26020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.739",
+      "lon": "-111.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26022",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cucurpe",
+      "en": "Cucurpe",
+      "slug": "cucurpe-mx26022"
+    },
+    "code": {
+      "id": "MX26022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.43",
+      "lon": "-110.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26023",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cumpas",
+      "en": "Cumpas",
+      "slug": "cumpas-mx26023"
+    },
+    "code": {
+      "id": "MX26023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.069",
+      "lon": "-109.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26024",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Divisaderos",
+      "en": "Divisaderos",
+      "slug": "divisaderos-mx26024"
+    },
+    "code": {
+      "id": "MX26024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.625",
+      "lon": "-109.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26025",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Empalme",
+      "en": "Empalme",
+      "slug": "empalme-mx26025"
+    },
+    "code": {
+      "id": "MX26025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.003",
+      "lon": "-110.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26026",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Etchojoa",
+      "en": "Etchojoa",
+      "slug": "etchojoa-mx26026"
+    },
+    "code": {
+      "id": "MX26026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.046",
+      "lon": "-109.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26027",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Fronteras",
+      "en": "Fronteras",
+      "slug": "fronteras-mx26027"
+    },
+    "code": {
+      "id": "MX26027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.83",
+      "lon": "-109.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26070",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "General Plutarco Elías Calles",
+      "en": "General Plutarco Elias Calles",
+      "slug": "general-plutarco-elias-calles-mx26070"
+    },
+    "code": {
+      "id": "MX26070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.695",
+      "lon": "-112.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26028",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Granados",
+      "en": "Granados",
+      "slug": "granados-mx26028"
+    },
+    "code": {
+      "id": "MX26028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.752",
+      "lon": "-109.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26029",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guaymas",
+      "en": "Guaymas",
+      "slug": "guaymas-mx26029"
+    },
+    "code": {
+      "id": "MX26029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.074",
+      "lon": "-111.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26030",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Hermosillo",
+      "en": "Hermosillo",
+      "slug": "hermosillo-mx26030"
+    },
+    "code": {
+      "id": "MX26030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.969",
+      "lon": "-111.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26031",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huachinera",
+      "en": "Huachinera",
+      "slug": "huachinera-mx26031"
+    },
+    "code": {
+      "id": "MX26031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.147",
+      "lon": "-108.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26032",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huásabas",
+      "en": "Huasabas",
+      "slug": "huasabas-mx26032"
+    },
+    "code": {
+      "id": "MX26032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.972",
+      "lon": "-109.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26033",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huatabampo",
+      "en": "Huatabampo",
+      "slug": "huatabampo-mx26033"
+    },
+    "code": {
+      "id": "MX26033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.609",
+      "lon": "-109.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26034",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huépac",
+      "en": "Huepac",
+      "slug": "huepac-mx26034"
+    },
+    "code": {
+      "id": "MX26034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.931",
+      "lon": "-110.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26035",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Imuris",
+      "en": "Imuris",
+      "slug": "imuris-mx26035"
+    },
+    "code": {
+      "id": "MX26035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.838",
+      "lon": "-110.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26021",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Colorada",
+      "en": "La Colorada",
+      "slug": "la-colorada-mx26021"
+    },
+    "code": {
+      "id": "MX26021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.726",
+      "lon": "-110.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26036",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Magdalena",
+      "en": "Magdalena",
+      "slug": "magdalena-mx26036"
+    },
+    "code": {
+      "id": "MX26036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.772",
+      "lon": "-111.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26037",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mazatán",
+      "en": "Mazatan",
+      "slug": "mazatan-mx26037"
+    },
+    "code": {
+      "id": "MX26037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.931",
+      "lon": "-110.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26038",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moctezuma",
+      "en": "Moctezuma",
+      "slug": "moctezuma-mx26038"
+    },
+    "code": {
+      "id": "MX26038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.749",
+      "lon": "-109.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26039",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Naco",
+      "en": "Naco",
+      "slug": "naco-mx26039"
+    },
+    "code": {
+      "id": "MX26039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.178",
+      "lon": "-109.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26040",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nácori Chico",
+      "en": "Nacori Chico",
+      "slug": "nacori-chico-mx26040"
+    },
+    "code": {
+      "id": "MX26040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.621",
+      "lon": "-108.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26041",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nacozari de García",
+      "en": "Nacozari de Garcia",
+      "slug": "nacozari-de-garcia-mx26041"
+    },
+    "code": {
+      "id": "MX26041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.485",
+      "lon": "-109.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26042",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Navojoa",
+      "en": "Navojoa",
+      "slug": "navojoa-mx26042"
+    },
+    "code": {
+      "id": "MX26042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.027",
+      "lon": "-109.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26043",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nogales",
+      "en": "Nogales",
+      "slug": "nogales-mx26043"
+    },
+    "code": {
+      "id": "MX26043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.196",
+      "lon": "-111.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26044",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Onavas",
+      "en": "Onavas",
+      "slug": "onavas-mx26044"
+    },
+    "code": {
+      "id": "MX26044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.457",
+      "lon": "-109.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26045",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Opodepe",
+      "en": "Opodepe",
+      "slug": "opodepe-mx26045"
+    },
+    "code": {
+      "id": "MX26045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.035",
+      "lon": "-110.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26046",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oquitoa",
+      "en": "Oquitoa",
+      "slug": "oquitoa-mx26046"
+    },
+    "code": {
+      "id": "MX26046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.793",
+      "lon": "-111.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26047",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pitiquito",
+      "en": "Pitiquito",
+      "slug": "pitiquito-mx26047"
+    },
+    "code": {
+      "id": "MX26047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.096",
+      "lon": "-112.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26048",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto Peñasco",
+      "en": "Puerto Penasco",
+      "slug": "puerto-penasco-mx26048"
+    },
+    "code": {
+      "id": "MX26048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.53",
+      "lon": "-113.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26049",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quiriego",
+      "en": "Quiriego",
+      "slug": "quiriego-mx26049"
+    },
+    "code": {
+      "id": "MX26049",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.592",
+      "lon": "-109.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26050",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rayón",
+      "en": "Rayon",
+      "slug": "rayon-mx26050"
+    },
+    "code": {
+      "id": "MX26050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.75",
+      "lon": "-110.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26051",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosario",
+      "en": "Rosario",
+      "slug": "rosario-mx26051"
+    },
+    "code": {
+      "id": "MX26051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.041",
+      "lon": "-109.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26052",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sahuaripa",
+      "en": "Sahuaripa",
+      "slug": "sahuaripa-mx26052"
+    },
+    "code": {
+      "id": "MX26052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.013",
+      "lon": "-109.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26053",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Felipe de Jesús",
+      "en": "San Felipe de Jesus",
+      "slug": "san-felipe-de-jesus-mx26053"
+    },
+    "code": {
+      "id": "MX26053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.87",
+      "lon": "-110.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26072",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ignacio Río Muerto",
+      "en": "San Ignacio Rio Muerto",
+      "slug": "san-ignacio-rio-muerto-mx26072"
+    },
+    "code": {
+      "id": "MX26072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.326",
+      "lon": "-110.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26054",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Javier",
+      "en": "San Javier",
+      "slug": "san-javier-mx26054"
+    },
+    "code": {
+      "id": "MX26054",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.616",
+      "lon": "-109.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26055",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis Río Colorado",
+      "en": "San Luis Rio Colorado",
+      "slug": "san-luis-rio-colorado-mx26055"
+    },
+    "code": {
+      "id": "MX26055",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.994",
+      "lon": "-114.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26056",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel de Horcasitas",
+      "en": "San Miguel de Horcasitas",
+      "slug": "san-miguel-de-horcasitas-mx26056"
+    },
+    "code": {
+      "id": "MX26056",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.479",
+      "lon": "-110.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26057",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro de la Cueva",
+      "en": "San Pedro de la Cueva",
+      "slug": "san-pedro-de-la-cueva-mx26057"
+    },
+    "code": {
+      "id": "MX26057",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.278",
+      "lon": "-109.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26058",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Ana",
+      "en": "Santa Ana",
+      "slug": "santa-ana-mx26058"
+    },
+    "code": {
+      "id": "MX26058",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.458",
+      "lon": "-111.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26059",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-mx26059"
+    },
+    "code": {
+      "id": "MX26059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.149",
+      "lon": "-110.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26060",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sáric",
+      "en": "Saric",
+      "slug": "saric-mx26060"
+    },
+    "code": {
+      "id": "MX26060",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.244",
+      "lon": "-111.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26061",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soyopa",
+      "en": "Soyopa",
+      "slug": "soyopa-mx26061"
+    },
+    "code": {
+      "id": "MX26061",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.812",
+      "lon": "-109.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26062",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Suaqui Grande",
+      "en": "Suaqui Grande",
+      "slug": "suaqui-grande-mx26062"
+    },
+    "code": {
+      "id": "MX26062",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.379",
+      "lon": "-109.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26063",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepache",
+      "en": "Tepache",
+      "slug": "tepache-mx26063"
+    },
+    "code": {
+      "id": "MX26063",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.486",
+      "lon": "-109.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26064",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Trincheras",
+      "en": "Trincheras",
+      "slug": "trincheras-mx26064"
+    },
+    "code": {
+      "id": "MX26064",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.287",
+      "lon": "-111.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26065",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tubutama",
+      "en": "Tubutama",
+      "slug": "tubutama-mx26065"
+    },
+    "code": {
+      "id": "MX26065",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.939",
+      "lon": "-111.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26066",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ures",
+      "en": "Ures",
+      "slug": "ures-mx26066"
+    },
+    "code": {
+      "id": "MX26066",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.358",
+      "lon": "-110.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26067",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Hidalgo",
+      "en": "Villa Hidalgo",
+      "slug": "villa-hidalgo-mx26067"
+    },
+    "code": {
+      "id": "MX26067",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.258",
+      "lon": "-109.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26068",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Villa Pesqueira",
+      "en": "Villa Pesqueira",
+      "slug": "villa-pesqueira-mx26068"
+    },
+    "code": {
+      "id": "MX26068",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.137",
+      "lon": "-109.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MX26069",
+    "level": 2,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yécora",
+      "en": "Yecora",
+      "slug": "yecora-mx26069"
+    },
+    "code": {
+      "id": "MX26069",
+      "iso": null
+    },
+    "parent": {
+      "id": "MX26",
+      "level": 1,
+      "name": {
+        "local": "Sonora",
+        "en": "Sonora",
+        "slug": "sonora-mx26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MX26",
+        "level": 1,
+        "name": {
+          "local": "Sonora",
+          "en": "Sonora",
+          "slug": "sonora-mx26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.416",
+      "lon": "-108.925"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,414 @@
+# Guerrero — Mexico Administrative Divisions
+
+> 81 municipalitys
+> Code: MX12
+> Coordinates: 17.602, -99.946
+> Last updated: 2026-07-05. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Acapulco de Juárez (Acapulco de Juarez)
+
+Code: MX12001, Coordinates: 16.959, -99.771
+
+
+### Acatepec
+
+Code: MX12076, Coordinates: 17.177, -99.055
+
+
+### Ahuacuotzingo
+
+Code: MX12002, Coordinates: 17.77, -98.966
+
+
+### Ajuchitlán del Progreso (Ajuchitlan del Progreso)
+
+Code: MX12003, Coordinates: 17.931, -100.616
+
+
+### Alcozauca de Guerrero
+
+Code: MX12004, Coordinates: 17.368, -98.382
+
+
+### Alpoyeca
+
+Code: MX12005, Coordinates: 17.634, -98.509
+
+
+### Apaxtla
+
+Code: MX12006, Coordinates: 18.094, -99.994
+
+
+### Arcelia
+
+Code: MX12007, Coordinates: 18.254, -100.194
+
+
+### Atenango del Río (Atenango del Rio)
+
+Code: MX12008, Coordinates: 18.135, -99.034
+
+
+### Atlamajalcingo del Monte
+
+Code: MX12009, Coordinates: 17.261, -98.582
+
+
+### Atlixtac
+
+Code: MX12010, Coordinates: 17.475, -98.841
+
+
+### Atoyac de Álvarez (Atoyac de Alvarez)
+
+Code: MX12011, Coordinates: 17.311, -100.343
+
+
+### Ayutla de los Libres
+
+Code: MX12012, Coordinates: 16.972, -99.035
+
+
+### Azoyú (Azoyu)
+
+Code: MX12013, Coordinates: 16.677, -98.59
+
+
+### Benito Juárez (Benito Juarez)
+
+Code: MX12014, Coordinates: 17.086, -100.427
+
+
+### Buenavista de Cuéllar (Buenavista de Cuellar)
+
+Code: MX12015, Coordinates: 18.469, -99.425
+
+
+### Chilapa de Álvarez (Chilapa de Alvarez)
+
+Code: MX12028, Coordinates: 17.491, -99.132
+
+
+### Chilpancingo de los Bravo
+
+Code: MX12029, Coordinates: 17.392, -99.743
+
+
+### Coahuayutla de José María Izazaga (Coahuayutla de Jose Maria Izazaga)
+
+Code: MX12016, Coordinates: 18.294, -101.663
+
+
+### Cochoapa el Grande
+
+Code: MX12078, Coordinates: 17.123, -98.42
+
+
+### Cocula
+
+Code: MX12017, Coordinates: 18.14, -99.723
+
+
+### Copala
+
+Code: MX12018, Coordinates: 16.624, -98.941
+
+
+### Copalillo
+
+Code: MX12019, Coordinates: 17.981, -99.048
+
+
+### Copanatoyac
+
+Code: MX12020, Coordinates: 17.438, -98.703
+
+
+### Coyuca de Benítez (Coyuca de Benitez)
+
+Code: MX12021, Coordinates: 17.178, -100.026
+
+
+### Coyuca de Catalán (Coyuca de Catalan)
+
+Code: MX12022, Coordinates: 18.091, -101.034
+
+
+### Cuajinicuilapa
+
+Code: MX12023, Coordinates: 16.455, -98.521
+
+
+### Cualác (Cualac)
+
+Code: MX12024, Coordinates: 17.735, -98.662
+
+
+### Cuautepec
+
+Code: MX12025, Coordinates: 16.72, -98.973
+
+
+### Cuetzala del Progreso
+
+Code: MX12026, Coordinates: 18.107, -99.832
+
+
+### Cutzamala de Pinzón (Cutzamala de Pinzon)
+
+Code: MX12027, Coordinates: 18.642, -100.623
+
+
+### Eduardo Neri
+
+Code: MX12075, Coordinates: 17.814, -99.609
+
+
+### Florencio Villarreal
+
+Code: MX12030, Coordinates: 16.699, -99.141
+
+
+### General Canuto A. Neri
+
+Code: MX12031, Coordinates: 18.444, -100.12
+
+
+### General Heliodoro Castillo
+
+Code: MX12032, Coordinates: 17.72, -100.023
+
+
+### Huamuxtitlán (Huamuxtitlan)
+
+Code: MX12033, Coordinates: 17.83, -98.565
+
+
+### Huitzuco de los Figueroa
+
+Code: MX12034, Coordinates: 18.191, -99.282
+
+
+### Iguala de la Independencia
+
+Code: MX12035, Coordinates: 18.192, -99.602
+
+
+### Igualapa
+
+Code: MX12036, Coordinates: 16.781, -98.465
+
+
+### Iliatenco
+
+Code: MX12081, Coordinates: 17.052, -98.641
+
+
+### Ixcateopan de Cuauhtémoc (Ixcateopan de Cuauhtemoc)
+
+Code: MX12037, Coordinates: 18.463, -99.766
+
+
+### José Joaquín de Herrera (Jose Joaquin de Herrera)
+
+Code: MX12079, Coordinates: 17.441, -98.993
+
+
+### Juan R. Escudero
+
+Code: MX12039, Coordinates: 17.137, -99.383
+
+
+### Juchitán (Juchitan)
+
+Code: MX12080, Coordinates: 16.594, -98.684
+
+
+### La Unión de Isidoro Montes de Oca (La Union de Isidoro Montes de Oca)
+
+Code: MX12068, Coordinates: 18.009, -101.91
+
+
+### Leonardo Bravo
+
+Code: MX12040, Coordinates: 17.63, -99.781
+
+
+### Malinaltepec
+
+Code: MX12041, Coordinates: 17.129, -98.715
+
+
+### Marquelia
+
+Code: MX12077, Coordinates: 16.628, -98.801
+
+
+### Mártir de Cuilapan (Martir de Cuilapan)
+
+Code: MX12042, Coordinates: 17.808, -99.317
+
+
+### Metlatónoc (Metlatonoc)
+
+Code: MX12043, Coordinates: 17.124, -98.558
+
+
+### Mochitlán (Mochitlan)
+
+Code: MX12044, Coordinates: 17.343, -99.39
+
+
+### Olinalá (Olinala)
+
+Code: MX12045, Coordinates: 17.883, -98.775
+
+
+### Ometepec
+
+Code: MX12046, Coordinates: 16.673, -98.413
+
+
+### Pedro Ascencio Alquisiras
+
+Code: MX12047, Coordinates: 18.526, -99.881
+
+
+### Petatlán (Petatlan)
+
+Code: MX12048, Coordinates: 17.633, -101.134
+
+
+### Pilcaya
+
+Code: MX12049, Coordinates: 18.716, -99.624
+
+
+### Pungarabato
+
+Code: MX12050, Coordinates: 18.344, -100.612
+
+
+### Quechultenango
+
+Code: MX12051, Coordinates: 17.32, -99.169
+
+
+### San Luis Acatlán (San Luis Acatlan)
+
+Code: MX12052, Coordinates: 16.87, -98.722
+
+
+### San Marcos
+
+Code: MX12053, Coordinates: 16.846, -99.391
+
+
+### San Miguel Totolapan
+
+Code: MX12054, Coordinates: 17.847, -100.319
+
+
+### Taxco de Alarcón (Taxco de Alarcon)
+
+Code: MX12055, Coordinates: 18.522, -99.607
+
+
+### Tecoanapa
+
+Code: MX12056, Coordinates: 16.971, -99.283
+
+
+### Técpan de Galeana (Tecpan de Galeana)
+
+Code: MX12057, Coordinates: 17.401, -100.751
+
+
+### Teloloapan
+
+Code: MX12058, Coordinates: 18.387, -99.92
+
+
+### Tepecoacuilco de Trujano
+
+Code: MX12059, Coordinates: 18.124, -99.456
+
+
+### Tetipac
+
+Code: MX12060, Coordinates: 18.659, -99.7
+
+
+### Tixtla de Guerrero
+
+Code: MX12061, Coordinates: 17.609, -99.368
+
+
+### Tlacoachistlahuaca
+
+Code: MX12062, Coordinates: 16.975, -98.271
+
+
+### Tlacoapa
+
+Code: MX12063, Coordinates: 17.209, -98.798
+
+
+### Tlalchapa
+
+Code: MX12064, Coordinates: 18.461, -100.442
+
+
+### Tlalixtaquilla de Maldonado
+
+Code: MX12065, Coordinates: 17.568, -98.378
+
+
+### Tlapa de Comonfort
+
+Code: MX12066, Coordinates: 17.527, -98.586
+
+
+### Tlapehuala
+
+Code: MX12067, Coordinates: 18.277, -100.443
+
+
+### Xalpatláhuac (Xalpatlahuac)
+
+Code: MX12069, Coordinates: 17.429, -98.482
+
+
+### Xochihuehuetlán (Xochihuehuetlan)
+
+Code: MX12070, Coordinates: 17.893, -98.479
+
+
+### Xochistlahuaca
+
+Code: MX12071, Coordinates: 16.882, -98.116
+
+
+### Zapotitlán Tablas (Zapotitlan Tablas)
+
+Code: MX12072, Coordinates: 17.322, -98.817
+
+
+### Zihuatanejo de Azueta
+
+Code: MX12038, Coordinates: 17.808, -101.497
+
+
+### Zirándaro (Zirandaro)
+
+Code: MX12073, Coordinates: 18.328, -101.204
+
+
+### Zitlala
+
+Code: MX12074, Coordinates: 17.748, -99.187
+
+

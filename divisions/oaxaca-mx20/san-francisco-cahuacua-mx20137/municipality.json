@@ -1,0 +1,45 @@
+{
+  "id": "MX20137",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Francisco Cahuacuá",
+    "en": "San Francisco Cahuacua",
+    "slug": "san-francisco-cahuacua-mx20137"
+  },
+  "code": {
+    "id": "MX20137",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.831",
+    "lon": "-97.34"
+  },
+  "metadata": {},
+  "source": {}
+}

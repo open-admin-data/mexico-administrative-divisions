@@ -1,0 +1,571 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+MX20001,Abejones,Abejones,abejones-mx20001,MX20001,17.489,-96.62
+MX20002,Acatlán de Pérez Figueroa,Acatlán de Perez Figueroa,acatln-de-perez-figueroa-mx20002,MX20002,18.451,-96.553
+MX20174,Ánimas Trujano,Animas Trujano,animas-trujano-mx20174,MX20174,16.988,-96.715
+MX20003,Asunción Cacalotepec,Asuncion Cacalotepec,asuncion-cacalotepec-mx20003,MX20003,17.038,-95.929
+MX20004,Asunción Cuyotepeji,Asuncion Cuyotepeji,asuncion-cuyotepeji-mx20004,MX20004,17.931,-97.654
+MX20005,Asunción Ixtaltepec,Asuncion Ixtaltepec,asuncion-ixtaltepec-mx20005,MX20005,16.644,-94.929
+MX20006,Asunción Nochixtlán,Asuncion Nochixtlan,asuncion-nochixtlan-mx20006,MX20006,17.452,-97.184
+MX20007,Asunción Ocotlán,Asuncion Ocotlan,asuncion-ocotlan-mx20007,MX20007,16.762,-96.726
+MX20008,Asunción Tlacolulita,Asuncion Tlacolulita,asuncion-tlacolulita-mx20008,MX20008,16.21,-95.765
+MX20398,Ayoquezco de Aldama,Ayoquezco de Aldama,ayoquezco-de-aldama-mx20398,MX20398,16.668,-96.89
+MX20009,Ayotzintepec,Ayotzintepec,ayotzintepec-mx20009,MX20009,17.726,-96.143
+MX20011,Calihualá,Calihuala,calihuala-mx20011,MX20011,17.557,-98.253
+MX20012,Candelaria Loxicha,Candelaria Loxicha,candelaria-loxicha-mx20012,MX20012,15.9,-96.537
+MX20247,Capulálpam de Méndez,Capulálpam de Mendez,capullpam-de-mendez-mx20247,MX20247,17.315,-96.417
+MX20025,Chahuites,Chahuites,chahuites-mx20025,MX20025,16.276,-94.205
+MX20026,Chalcatongo de Hidalgo,Chalcatongo de Hidalgo,chalcatongo-de-hidalgo-mx20026,MX20026,16.998,-97.57
+MX20027,Chiquihuitlán de Benito Juárez,Chiquihuitlan de Benito Juarez,chiquihuitlan-de-benito-juarez-mx20027,MX20027,17.99,-96.749
+MX20013,Ciénega de Zimatlán,Cienega de Zimatlán,cienega-de-zimatln-mx20013,MX20013,16.893,-96.766
+MX20014,Ciudad Ixtepec,Ciudad Ixtepec,ciudad-ixtepec-mx20014,MX20014,16.617,-95.078
+MX20015,Coatecas Altas,Coatecas Altas,coatecas-altas-mx20015,MX20015,16.522,-96.628
+MX20016,Coicoyán de las Flores,Coicoyan de las Flores,coicoyan-de-las-flores-mx20016,MX20016,17.216,-98.184
+MX20018,Concepción Buenavista,Concepcion Buenavista,concepcion-buenavista-mx20018,MX20018,17.986,-97.438
+MX20019,Concepción Pápalo,Concepcion Papalo,concepcion-papalo-mx20019,MX20019,17.874,-96.865
+MX20020,Constancia del Rosario,Constancia del Rosario,constancia-del-rosario-mx20020,MX20020,17.046,-97.96
+MX20021,Cosolapa,Cosolapa,cosolapa-mx20021,MX20021,18.581,-96.653
+MX20022,Cosoltepec,Cosoltepec,cosoltepec-mx20022,MX20022,18.143,-97.813
+MX20023,Cuilápam de Guerrero,Cuilapam de Guerrero,cuilapam-de-guerrero-mx20023,MX20023,17.003,-96.787
+MX20024,Cuyamecalco Villa de Zaragoza,Cuyamecalco Villa de Zaragoza,cuyamecalco-villa-de-zaragoza-mx20024,MX20024,17.971,-96.866
+MX20010,El Barrio de la Soledad,El Barrio de la Soledad,el-barrio-de-la-soledad-mx20010,MX20010,16.802,-95.054
+MX20030,El Espinal,El Espinal,el-espinal-mx20030,MX20030,16.461,-95.058
+MX20029,Eloxochitlán de Flores Magón,Eloxochitlan de Flores Magon,eloxochitlan-de-flores-magon-mx20029,MX20029,18.197,-96.872
+MX20032,Fresnillo de Trujano,Fresnillo de Trujano,fresnillo-de-trujano-mx20032,MX20032,17.929,-98.134
+MX20034,Guadalupe de Ramírez,Guadalupe de Ramirez,guadalupe-de-ramirez-mx20034,MX20034,17.755,-98.147
+MX20033,Guadalupe Etla,Guadalupe Etla,guadalupe-etla-mx20033,MX20033,17.176,-96.809
+MX20035,Guelatao de Juárez,Guelatao de Juarez,guelatao-de-juarez-mx20035,MX20035,17.314,-96.499
+MX20036,Guevea de Humboldt,Guevea de Humboldt,guevea-de-humboldt-mx20036,MX20036,16.852,-95.372
+MX20028,Heroica Ciudad de Ejutla de Crespo,Heroica Ciudad de Ejutla de Crespo,heroica-ciudad-de-ejutla-de-crespo-mx20028,MX20028,16.598,-96.661
+MX20039,Heroica Ciudad de Huajuapan de León,Heroica Ciudad de Huajuapan de Leon,heroica-ciudad-de-huajuapan-de-leon-mx20039,MX20039,17.847,-97.878
+MX20043,Heroica Ciudad de Juchitán de Zaragoza,Heroica Ciudad de Juchitan de Zaragoza,heroica-ciudad-de-juchitan-de-zaragoza-mx20043,MX20043,16.222,-94.851
+MX20397,Heroica Ciudad de Tlaxiaco,Heroica Ciudad de Tlaxiaco,heroica-ciudad-de-tlaxiaco-mx20397,MX20397,17.236,-97.699
+MX20549,Heroica Villa Tezoatlán de Segura y Luna,Heroica Villa Tezoatlan de Segura y Luna,heroica-villa-tezoatlan-de-segura-y-luna-mx20549,MX20549,17.573,-97.86
+MX20040,Huautepec,Huautepec,huautepec-mx20040,MX20040,18.07,-96.775
+MX20041,Huautla de Jiménez,Huautla de Jimenez,huautla-de-jimenez-mx20041,MX20041,18.148,-96.801
+MX20065,Ixpantepec Nieves,Ixpantepec Nieves,ixpantepec-nieves-mx20065,MX20065,17.504,-98.018
+MX20042,Ixtlán de Juárez,Ixtlan de Juarez,ixtlan-de-juarez-mx20042,MX20042,17.477,-96.346
+MX20017,La Compañía,La Compania,la-compania-mx20017,MX20017,16.58,-96.858
+MX20069,La Pe,La Pe,la-pe-mx20069,MX20069,16.623,-96.794
+MX20076,La Reforma,La Reforma,la-reforma-mx20076,MX20076,16.659,-97.864
+MX20556,La Trinidad Vista Hermosa,La Trinidad Vista Hermosa,la-trinidad-vista-hermosa-mx20556,MX20556,17.774,-97.496
+MX20044,Loma Bonita,Loma Bonita,loma-bonita-mx20044,MX20044,18.001,-95.888
+MX20045,Magdalena Apasco,Magdalena Apasco,magdalena-apasco-mx20045,MX20045,17.249,-96.808
+MX20046,Magdalena Jaltepec,Magdalena Jaltepec,magdalena-jaltepec-mx20046,MX20046,17.245,-97.25
+MX20048,Magdalena Mixtepec,Magdalena Mixtepec,magdalena-mixtepec-mx20048,MX20048,16.904,-96.905
+MX20049,Magdalena Ocotlán,Magdalena Ocotlan,magdalena-ocotlan-mx20049,MX20049,16.71,-96.715
+MX20050,Magdalena Peñasco,Magdalena Penasco,magdalena-penasco-mx20050,MX20050,17.235,-97.564
+MX20051,Magdalena Teitipac,Magdalena Teitipac,magdalena-teitipac-mx20051,MX20051,16.886,-96.558
+MX20052,Magdalena Tequisistlán,Magdalena Tequisistlan,magdalena-tequisistlan-mx20052,MX20052,16.367,-95.637
+MX20053,Magdalena Tlacotepec,Magdalena Tlacotepec,magdalena-tlacotepec-mx20053,MX20053,16.515,-95.252
+MX20562,Magdalena Yodocono de Porfirio Díaz,Magdalena Yodocono de Porfirio Diaz,magdalena-yodocono-de-porfirio-diaz-mx20562,MX20562,17.379,-97.392
+MX20054,Magdalena Zahuatlán,Magdalena Zahuatlan,magdalena-zahuatlan-mx20054,MX20054,17.391,-97.226
+MX20055,Mariscala de Juárez,Mariscala de Juarez,mariscala-de-juarez-mx20055,MX20055,17.823,-98.12
+MX20056,Mártires de Tacubaya,Martires de Tacubaya,martires-de-tacubaya-mx20056,MX20056,16.55,-98.238
+MX20057,Matías Romero Avendaño,Matias Romero Avendano,matias-romero-avendano-mx20057,MX20057,17.132,-94.879
+MX20058,Mazatlán Villa de Flores,Mazatlan Villa de Flores,mazatlan-villa-de-flores-mx20058,MX20058,18.015,-96.907
+MX20037,Mesones Hidalgo,Mesones Hidalgo,mesones-hidalgo-mx20037,MX20037,16.918,-98.019
+MX20059,Miahuatlán de Porfirio Díaz,Miahuatlan de Porfirio Diaz,miahuatlan-de-porfirio-diaz-mx20059,MX20059,16.361,-96.585
+MX20060,Mixistlán de la Reforma,Mixistlan de la Reforma,mixistlan-de-la-reforma-mx20060,MX20060,17.173,-96.092
+MX20061,Monjas,Monjas,monjas-mx20061,MX20061,16.374,-96.633
+MX20062,Natividad,Natividad,natividad-mx20062,MX20062,17.302,-96.425
+MX20063,Nazareno Etla,Nazareno Etla,nazareno-etla-mx20063,MX20063,17.182,-96.829
+MX20064,Nejapa de Madero,Nejapa de Madero,nejapa-de-madero-mx20064,MX20064,16.563,-95.993
+MX20504,Nuevo Zoquiápam,Nuevo Zoquiapam,nuevo-zoquiapam-mx20504,MX20504,17.249,-96.656
+MX20067,Oaxaca de Juárez,Oaxaca de Juarez,oaxaca-de-juarez-mx20067,MX20067,17.097,-96.721
+MX20068,Ocotlán de Morelos,Ocotlan de Morelos,ocotlan-de-morelos-mx20068,MX20068,16.785,-96.668
+MX20070,Pinotepa de Don Luis,Pinotepa de Don Luis,pinotepa-de-don-luis-mx20070,MX20070,16.403,-97.961
+MX20071,Pluma Hidalgo,Pluma Hidalgo,pluma-hidalgo-mx20071,MX20071,15.922,-96.441
+MX20073,Putla Villa de Guerrero,Putla Villa de Guerrero,putla-villa-de-guerrero-mx20073,MX20073,16.787,-97.78
+MX20075,Reforma de Pineda,Reforma de Pineda,reforma-de-pineda-mx20075,MX20075,16.394,-94.455
+MX20077,Reyes Etla,Reyes Etla,reyes-etla-mx20077,MX20077,17.21,-96.824
+MX20078,Rojas de Cuauhtémoc,Rojas de Cuauhtemoc,rojas-de-cuauhtemoc-mx20078,MX20078,17.005,-96.639
+MX20079,Salina Cruz,Salina Cruz,salina-cruz-mx20079,MX20079,16.19,-95.229
+MX20080,San Agustín Amatengo,San Agustin Amatengo,san-agustin-amatengo-mx20080,MX20080,16.519,-96.797
+MX20081,San Agustín Atenango,San Agustin Atenango,san-agustin-atenango-mx20081,MX20081,17.586,-98.001
+MX20082,San Agustín Chayuco,San Agustin Chayuco,san-agustin-chayuco-mx20082,MX20082,16.456,-97.8
+MX20083,San Agustín de las Juntas,San Agustin de las Juntas,san-agustin-de-las-juntas-mx20083,MX20083,16.991,-96.684
+MX20084,San Agustín Etla,San Agustin Etla,san-agustin-etla-mx20084,MX20084,17.204,-96.718
+MX20085,San Agustín Loxicha,San Agustin Loxicha,san-agustin-loxicha-mx20085,MX20085,15.968,-96.612
+MX20086,San Agustín Tlacotepec,San Agustin Tlacotepec,san-agustin-tlacotepec-mx20086,MX20086,17.201,-97.52
+MX20087,San Agustín Yatareni,San Agustin Yatareni,san-agustin-yatareni-mx20087,MX20087,17.08,-96.678
+MX20088,San Andrés Cabecera Nueva,San Andres Cabecera Nueva,san-andres-cabecera-nueva-mx20088,MX20088,16.825,-97.795
+MX20089,San Andrés Dinicuiti,San Andres Dinicuiti,san-andres-dinicuiti-mx20089,MX20089,17.699,-97.692
+MX20090,San Andrés Huaxpaltepec,San Andres Huaxpaltepec,san-andres-huaxpaltepec-mx20090,MX20090,16.341,-97.935
+MX20091,San Andrés Huayápam,San Andres Huayápam,san-andres-huaypam-mx20091,MX20091,17.129,-96.667
+MX20092,San Andrés Ixtlahuaca,San Andres Ixtlahuaca,san-andres-ixtlahuaca-mx20092,MX20092,17.059,-96.858
+MX20093,San Andrés Lagunas,San Andres Lagunas,san-andres-lagunas-mx20093,MX20093,17.59,-97.528
+MX20094,San Andrés Nuxiño,San Andres Nuxino,san-andres-nuxino-mx20094,MX20094,17.229,-97.07
+MX20095,San Andrés Paxtlán,San Andres Paxtlán,san-andres-paxtln-mx20095,MX20095,16.212,-96.516
+MX20096,San Andrés Sinaxtla,San Andres Sinaxtla,san-andres-sinaxtla-mx20096,MX20096,17.485,-97.273
+MX20097,San Andrés Solaga,San Andres Solaga,san-andres-solaga-mx20097,MX20097,17.275,-96.221
+MX20098,San Andrés Teotilálpam,San Andres Teotilálpam,san-andres-teotillpam-mx20098,MX20098,17.951,-96.648
+MX20099,San Andrés Tepetlapa,San Andres Tepetlapa,san-andres-tepetlapa-mx20099,MX20099,17.662,-98.389
+MX20100,San Andrés Yaá,San Andres Yaá,san-andres-ya-mx20100,MX20100,17.294,-96.126
+MX20101,San Andrés Zabache,San Andres Zabache,san-andres-zabache-mx20101,MX20101,16.605,-96.864
+MX20102,San Andrés Zautla,San Andres Zautla,san-andres-zautla-mx20102,MX20102,17.183,-96.905
+MX20103,San Antonino Castillo Velasco,San Antonino Castillo Velasco,san-antonino-castillo-velasco-mx20103,MX20103,16.816,-96.695
+MX20104,San Antonino el Alto,San Antonino el Alto,san-antonino-el-alto-mx20104,MX20104,16.822,-97.001
+MX20105,San Antonino Monte Verde,San Antonino Monte Verde,san-antonino-monte-verde-mx20105,MX20105,17.524,-97.751
+MX20106,San Antonio Acutla,San Antonio Acutla,san-antonio-acutla-mx20106,MX20106,17.745,-97.5
+MX20107,San Antonio de la Cal,San Antonio de la Cal,san-antonio-de-la-cal-mx20107,MX20107,17.028,-96.696
+MX20108,San Antonio Huitepec,San Antonio Huitepec,san-antonio-huitepec-mx20108,MX20108,16.922,-97.148
+MX20109,San Antonio Nanahuatípam,San Antonio Nanahuatipam,san-antonio-nanahuatipam-mx20109,MX20109,18.149,-97.16
+MX20110,San Antonio Sinicahua,San Antonio Sinicahua,san-antonio-sinicahua-mx20110,MX20110,17.151,-97.575
+MX20111,San Antonio Tepetlapa,San Antonio Tepetlapa,san-antonio-tepetlapa-mx20111,MX20111,16.534,-98.049
+MX20112,San Baltazar Chichicápam,San Baltazar Chichicapam,san-baltazar-chichicapam-mx20112,MX20112,16.758,-96.494
+MX20113,San Baltazar Loxicha,San Baltazar Loxicha,san-baltazar-loxicha-mx20113,MX20113,16.044,-96.798
+MX20114,San Baltazar Yatzachi el Bajo,San Baltazar Yatzachi el Bajo,san-baltazar-yatzachi-el-bajo-mx20114,MX20114,17.225,-96.213
+MX20115,San Bartolo Coyotepec,San Bartolo Coyotepec,san-bartolo-coyotepec-mx20115,MX20115,16.949,-96.693
+MX20121,San Bartolo Soyaltepec,San Bartolo Soyaltepec,san-bartolo-soyaltepec-mx20121,MX20121,17.577,-97.312
+MX20122,San Bartolo Yautepec,San Bartolo Yautepec,san-bartolo-yautepec-mx20122,MX20122,16.426,-95.922
+MX20116,San Bartolomé Ayautla,San Bartolome Ayautla,san-bartolome-ayautla-mx20116,MX20116,18.058,-96.662
+MX20117,San Bartolomé Loxicha,San Bartolome Loxicha,san-bartolome-loxicha-mx20117,MX20117,15.957,-96.764
+MX20118,San Bartolomé Quialana,San Bartolome Quialana,san-bartolome-quialana-mx20118,MX20118,16.894,-96.499
+MX20119,San Bartolomé Yucuañe,San Bartolome Yucuane,san-bartolome-yucuane-mx20119,MX20119,17.211,-97.456
+MX20120,San Bartolomé Zoogocho,San Bartolome Zoogocho,san-bartolome-zoogocho-mx20120,MX20120,17.246,-96.246
+MX20123,San Bernardo Mixtepec,San Bernardo Mixtepec,san-bernardo-mixtepec-mx20123,MX20123,16.842,-96.919
+MX20124,San Blas Atempa,San Blas Atempa,san-blas-atempa-mx20124,MX20124,16.361,-95.141
+MX20125,San Carlos Yautepec,San Carlos Yautepec,san-carlos-yautepec-mx20125,MX20125,16.422,-96.091
+MX20126,San Cristóbal Amatlán,San Cristobal Amatlan,san-cristobal-amatlan-mx20126,MX20126,16.303,-96.379
+MX20127,San Cristóbal Amoltepec,San Cristobal Amoltepec,san-cristobal-amoltepec-mx20127,MX20127,17.286,-97.576
+MX20128,San Cristóbal Lachirioag,San Cristobal Lachirioag,san-cristobal-lachirioag-mx20128,MX20128,17.35,-96.177
+MX20129,San Cristóbal Suchixtlahuaca,San Cristobal Suchixtlahuaca,san-cristobal-suchixtlahuaca-mx20129,MX20129,17.725,-97.384
+MX20130,San Dionisio del Mar,San Dionisio del Mar,san-dionisio-del-mar-mx20130,MX20130,16.358,-94.746
+MX20131,San Dionisio Ocotepec,San Dionisio Ocotepec,san-dionisio-ocotepec-mx20131,MX20131,16.785,-96.306
+MX20132,San Dionisio Ocotlán,San Dionisio Ocotlan,san-dionisio-ocotlan-mx20132,MX20132,16.75,-96.663
+MX20133,San Esteban Atatlahuca,San Esteban Atatlahuca,san-esteban-atatlahuca-mx20133,MX20133,17.075,-97.69
+MX20134,San Felipe Jalapa de Díaz,San Felipe Jalapa de Diaz,san-felipe-jalapa-de-diaz-mx20134,MX20134,18.066,-96.545
+MX20135,San Felipe Tejalápam,San Felipe Tejalapam,san-felipe-tejalapam-mx20135,MX20135,17.081,-96.9
+MX20136,San Felipe Usila,San Felipe Usila,san-felipe-usila-mx20136,MX20136,17.82,-96.509
+MX20137,San Francisco Cahuacuá,San Francisco Cahuacua,san-francisco-cahuacua-mx20137,MX20137,16.831,-97.34
+MX20138,San Francisco Cajonos,San Francisco Cajonos,san-francisco-cajonos-mx20138,MX20138,17.18,-96.268
+MX20139,San Francisco Chapulapa,San Francisco Chapulapa,san-francisco-chapulapa-mx20139,MX20139,17.913,-96.72
+MX20140,San Francisco Chindúa,San Francisco Chindua,san-francisco-chindua-mx20140,MX20140,17.415,-97.318
+MX20141,San Francisco del Mar,San Francisco del Mar,san-francisco-del-mar-mx20141,MX20141,16.329,-94.538
+MX20142,San Francisco Huehuetlán,San Francisco Huehuetlan,san-francisco-huehuetlan-mx20142,MX20142,18.204,-96.938
+MX20143,San Francisco Ixhuatán,San Francisco Ixhuatan,san-francisco-ixhuatan-mx20143,MX20143,16.336,-94.476
+MX20144,San Francisco Jaltepetongo,San Francisco Jaltepetongo,san-francisco-jaltepetongo-mx20144,MX20144,17.34,-97.278
+MX20145,San Francisco Lachigoló,San Francisco Lachigolo,san-francisco-lachigolo-mx20145,MX20145,17.028,-96.595
+MX20146,San Francisco Logueche,San Francisco Logueche,san-francisco-logueche-mx20146,MX20146,16.375,-96.384
+MX20147,San Francisco Nuxaño,San Francisco Nuxano,san-francisco-nuxano-mx20147,MX20147,17.363,-97.337
+MX20148,San Francisco Ozolotepec,San Francisco Ozolotepec,san-francisco-ozolotepec-mx20148,MX20148,16.098,-96.197
+MX20149,San Francisco Sola,San Francisco Sola,san-francisco-sola-mx20149,MX20149,16.519,-96.903
+MX20150,San Francisco Telixtlahuaca,San Francisco Telixtlahuaca,san-francisco-telixtlahuaca-mx20150,MX20150,17.367,-96.926
+MX20151,San Francisco Teopan,San Francisco Teopan,san-francisco-teopan-mx20151,MX20151,17.898,-97.57
+MX20152,San Francisco Tlapancingo,San Francisco Tlapancingo,san-francisco-tlapancingo-mx20152,MX20152,17.481,-98.257
+MX20153,San Gabriel Mixtepec,San Gabriel Mixtepec,san-gabriel-mixtepec-mx20153,MX20153,16.061,-97.068
+MX20154,San Ildefonso Amatlán,San Ildefonso Amatlan,san-ildefonso-amatlan-mx20154,MX20154,16.297,-96.457
+MX20155,San Ildefonso Sola,San Ildefonso Sola,san-ildefonso-sola-mx20155,MX20155,16.576,-96.939
+MX20156,San Ildefonso Villa Alta,San Ildefonso Villa Alta,san-ildefonso-villa-alta-mx20156,MX20156,17.373,-96.107
+MX20157,San Jacinto Amilpas,San Jacinto Amilpas,san-jacinto-amilpas-mx20157,MX20157,17.093,-96.758
+MX20158,San Jacinto Tlacotepec,San Jacinto Tlacotepec,san-jacinto-tlacotepec-mx20158,MX20158,16.506,-97.364
+MX20159,San Jerónimo Coatlán,San Jeronimo Coatlan,san-jeronimo-coatlan-mx20159,MX20159,16.195,-96.941
+MX20160,San Jerónimo Silacayoapilla,San Jeronimo Silacayoapilla,san-jeronimo-silacayoapilla-mx20160,MX20160,17.807,-97.871
+MX20161,San Jerónimo Sosola,San Jeronimo Sosola,san-jeronimo-sosola-mx20161,MX20161,17.384,-97.058
+MX20162,San Jerónimo Taviche,San Jeronimo Taviche,san-jeronimo-taviche-mx20162,MX20162,16.698,-96.574
+MX20163,San Jerónimo Tecóatl,San Jeronimo Tecoatl,san-jeronimo-tecoatl-mx20163,MX20163,18.146,-96.942
+MX20550,San Jerónimo Tlacochahuaya,San Jeronimo Tlacochahuaya,san-jeronimo-tlacochahuaya-mx20550,MX20550,17.018,-96.545
+MX20164,San Jorge Nuchita,San Jorge Nuchita,san-jorge-nuchita-mx20164,MX20164,17.686,-98.093
+MX20165,San José Ayuquila,San Jose Ayuquila,san-jose-ayuquila-mx20165,MX20165,17.951,-97.976
+MX20166,San José Chiltepec,San Jose Chiltepec,san-jose-chiltepec-mx20166,MX20166,17.914,-96.097
+MX20167,San José del Peñasco,San Jose del Penasco,san-jose-del-penasco-mx20167,MX20167,16.28,-96.492
+MX20072,San José del Progreso,San Jose del Progreso,san-jose-del-progreso-mx20072,MX20072,16.676,-96.666
+MX20168,San José Estancia Grande,San Jose Estancia Grande,san-jose-estancia-grande-mx20168,MX20168,16.377,-98.256
+MX20169,San José Independencia,San Jose Independencia,san-jose-independencia-mx20169,MX20169,18.255,-96.641
+MX20170,San José Lachiguiri,San Jose Lachiguiri,san-jose-lachiguiri-mx20170,MX20170,16.394,-96.326
+MX20171,San José Tenango,San Jose Tenango,san-jose-tenango-mx20171,MX20171,18.164,-96.671
+MX20172,San Juan Achiutla,San Juan Achiutla,san-juan-achiutla-mx20172,MX20172,17.347,-97.49
+MX20173,San Juan Atepec,San Juan Atepec,san-juan-atepec-mx20173,MX20173,17.474,-96.476
+MX20175,San Juan Bautista Atatlahuca,San Juan Bautista Atatlahuca,san-juan-bautista-atatlahuca-mx20175,MX20175,17.583,-96.765
+MX20176,San Juan Bautista Coixtlahuaca,San Juan Bautista Coixtlahuaca,san-juan-bautista-coixtlahuaca-mx20176,MX20176,17.728,-97.256
+MX20177,San Juan Bautista Cuicatlán,San Juan Bautista Cuicatlan,san-juan-bautista-cuicatlan-mx20177,MX20177,17.725,-96.922
+MX20178,San Juan Bautista Guelache,San Juan Bautista Guelache,san-juan-bautista-guelache-mx20178,MX20178,17.239,-96.751
+MX20179,San Juan Bautista Jayacatlán,San Juan Bautista Jayacatlan,san-juan-bautista-jayacatlan-mx20179,MX20179,17.432,-96.81
+MX20180,San Juan Bautista Lo de Soto,San Juan Bautista Lo de Soto,san-juan-bautista-lo-de-soto-mx20180,MX20180,16.507,-98.349
+MX20181,San Juan Bautista Suchitepec,San Juan Bautista Suchitepec,san-juan-bautista-suchitepec-mx20181,MX20181,18.006,-97.642
+MX20183,San Juan Bautista Tlachichilco,San Juan Bautista Tlachichilco,san-juan-bautista-tlachichilco-mx20183,MX20183,17.586,-98.351
+MX20182,San Juan Bautista Tlacoatzintepec,San Juan Bautista Tlacoatzintepec,san-juan-bautista-tlacoatzintepec-mx20182,MX20182,17.87,-96.591
+MX20184,San Juan Bautista Tuxtepec,San Juan Bautista Tuxtepec,san-juan-bautista-tuxtepec-mx20184,MX20184,18.021,-96.087
+MX20559,San Juan Bautista Valle Nacional,San Juan Bautista Valle Nacional,san-juan-bautista-valle-nacional-mx20559,MX20559,17.82,-96.34
+MX20185,San Juan Cacahuatepec,San Juan Cacahuatepec,san-juan-cacahuatepec-mx20185,MX20185,16.656,-98.193
+MX20191,San Juan Chicomezúchil,San Juan Chicomezuchil,san-juan-chicomezuchil-mx20191,MX20191,17.276,-96.503
+MX20192,San Juan Chilateca,San Juan Chilateca,san-juan-chilateca-mx20192,MX20192,16.828,-96.673
+MX20186,San Juan Cieneguilla,San Juan Cieneguilla,san-juan-cieneguilla-mx20186,MX20186,17.875,-98.31
+MX20187,San Juan Coatzóspam,San Juan Coatzospam,san-juan-coatzospam-mx20187,MX20187,18.066,-96.709
+MX20188,San Juan Colorado,San Juan Colorado,san-juan-colorado-mx20188,MX20188,16.502,-97.903
+MX20189,San Juan Comaltepec,San Juan Comaltepec,san-juan-comaltepec-mx20189,MX20189,17.329,-95.938
+MX20190,San Juan Cotzocón,San Juan Cotzocon,san-juan-cotzocon-mx20190,MX20190,17.313,-95.53
+MX20206,San Juan de los Cués,San Juan de los Cues,san-juan-de-los-cues-mx20206,MX20206,18.044,-97.05
+MX20193,San Juan del Estado,San Juan del Estado,san-juan-del-estado-mx20193,MX20193,17.336,-96.774
+MX20194,San Juan del Río,San Juan del Rio,san-juan-del-rio-mx20194,MX20194,16.897,-96.147
+MX20195,San Juan Diuxi,San Juan Diuxi,san-juan-diuxi-mx20195,MX20195,17.274,-97.384
+MX20196,San Juan Evangelista Analco,San Juan Evangelista Analco,san-juan-evangelista-analco-mx20196,MX20196,17.399,-96.54
+MX20197,San Juan Guelavía,San Juan Guelavia,san-juan-guelavia-mx20197,MX20197,16.96,-96.54
+MX20198,San Juan Guichicovi,San Juan Guichicovi,san-juan-guichicovi-mx20198,MX20198,17.105,-95.225
+MX20199,San Juan Ihualtepec,San Juan Ihualtepec,san-juan-ihualtepec-mx20199,MX20199,17.768,-98.29
+MX20200,San Juan Juquila Mixes,San Juan Juquila Mixes,san-juan-juquila-mixes-mx20200,MX20200,16.868,-95.879
+MX20201,San Juan Juquila Vijanos,San Juan Juquila Vijanos,san-juan-juquila-vijanos-mx20201,MX20201,17.33,-96.298
+MX20202,San Juan Lachao,San Juan Lachao,san-juan-lachao-mx20202,MX20202,16.205,-97.121
+MX20203,San Juan Lachigalla,San Juan Lachigalla,san-juan-lachigalla-mx20203,MX20203,16.565,-96.545
+MX20204,San Juan Lajarcia,San Juan Lajarcia,san-juan-lajarcia-mx20204,MX20204,16.512,-95.921
+MX20205,San Juan Lalana,San Juan Lalana,san-juan-lalana-mx20205,MX20205,17.512,-95.833
+MX20207,San Juan Mazatlán,San Juan Mazatlan,san-juan-mazatlan-mx20207,MX20207,17.147,-95.44
+MX20208,San Juan Mixtepec -Dto. 08 -,San Juan Mixtepec -Dto. 08 -,san-juan-mixtepec-dto-08-mx20208,MX20208,17.376,-97.866
+MX20209,San Juan Mixtepec -Dto. 26 -,San Juan Mixtepec -Dto. 26 -,san-juan-mixtepec-dto-26-mx20209,MX20209,16.258,-96.319
+MX20210,San Juan Ñumí,San Juan Numi,san-juan-numi-mx20210,MX20210,17.437,-97.764
+MX20211,San Juan Ozolotepec,San Juan Ozolotepec,san-juan-ozolotepec-mx20211,MX20211,16.098,-96.269
+MX20212,San Juan Petlapa,San Juan Petlapa,san-juan-petlapa-mx20212,MX20212,17.489,-96.036
+MX20213,San Juan Quiahije,San Juan Quiahije,san-juan-quiahije-mx20213,MX20213,16.355,-97.376
+MX20214,San Juan Quiotepec,San Juan Quiotepec,san-juan-quiotepec-mx20214,MX20214,17.673,-96.636
+MX20215,San Juan Sayultepec,San Juan Sayultepec,san-juan-sayultepec-mx20215,MX20215,17.449,-97.284
+MX20216,San Juan Tabaá,San Juan Tabaa,san-juan-tabaa-mx20216,MX20216,17.319,-96.218
+MX20217,San Juan Tamazola,San Juan Tamazola,san-juan-tamazola-mx20217,MX20217,17.117,-97.159
+MX20218,San Juan Teita,San Juan Teita,san-juan-teita-mx20218,MX20218,17.074,-97.429
+MX20219,San Juan Teitipac,San Juan Teitipac,san-juan-teitipac-mx20219,MX20219,16.89,-96.595
+MX20220,San Juan Tepeuxila,San Juan Tepeuxila,san-juan-tepeuxila-mx20220,MX20220,17.75,-96.734
+MX20221,San Juan Teposcolula,San Juan Teposcolula,san-juan-teposcolula-mx20221,MX20221,17.587,-97.416
+MX20222,San Juan Yaeé,San Juan Yaee,san-juan-yaee-mx20222,MX20222,17.445,-96.277
+MX20223,San Juan Yatzona,San Juan Yatzona,san-juan-yatzona-mx20223,MX20223,17.411,-96.183
+MX20224,San Juan Yucuita,San Juan Yucuita,san-juan-yucuita-mx20224,MX20224,17.522,-97.264
+MX20225,San Lorenzo,San Lorenzo,san-lorenzo-mx20225,MX20225,16.418,-97.885
+MX20226,San Lorenzo Albarradas,San Lorenzo Albarradas,san-lorenzo-albarradas-mx20226,MX20226,16.889,-96.267
+MX20227,San Lorenzo Cacaotepec,San Lorenzo Cacaotepec,san-lorenzo-cacaotepec-mx20227,MX20227,17.126,-96.808
+MX20228,San Lorenzo Cuaunecuiltitla,San Lorenzo Cuaunecuiltitla,san-lorenzo-cuaunecuiltitla-mx20228,MX20228,18.216,-96.915
+MX20229,San Lorenzo Texmelúcan,San Lorenzo Texmelucan,san-lorenzo-texmelucan-mx20229,MX20229,16.535,-97.179
+MX20230,San Lorenzo Victoria,San Lorenzo Victoria,san-lorenzo-victoria-mx20230,MX20230,17.625,-98.116
+MX20231,San Lucas Camotlán,San Lucas Camotlan,san-lucas-camotlan-mx20231,MX20231,16.936,-95.692
+MX20232,San Lucas Ojitlán,San Lucas Ojitlan,san-lucas-ojitlan-mx20232,MX20232,18.035,-96.371
+MX20233,San Lucas Quiaviní,San Lucas Quiavini,san-lucas-quiavini-mx20233,MX20233,16.883,-96.455
+MX20234,San Lucas Zoquiápam,San Lucas Zoquiapam,san-lucas-zoquiapam-mx20234,MX20234,18.111,-96.918
+MX20235,San Luis Amatlán,San Luis Amatlan,san-luis-amatlan-mx20235,MX20235,16.471,-96.489
+MX20236,San Marcial Ozolotepec,San Marcial Ozolotepec,san-marcial-ozolotepec-mx20236,MX20236,16.032,-96.404
+MX20237,San Marcos Arteaga,San Marcos Arteaga,san-marcos-arteaga-mx20237,MX20237,17.746,-97.943
+MX20238,San Martín de los Cansecos,San Martin de los Cansecos,san-martin-de-los-cansecos-mx20238,MX20238,16.659,-96.726
+MX20239,San Martín Huamelúlpam,San Martin Huamelulpam,san-martin-huamelulpam-mx20239,MX20239,17.395,-97.613
+MX20240,San Martín Itunyoso,San Martin Itunyoso,san-martin-itunyoso-mx20240,MX20240,17.223,-97.853
+MX20241,San Martín Lachilá,San Martin Lachila,san-martin-lachila-mx20241,MX20241,16.612,-96.85
+MX20242,San Martín Peras,San Martin Peras,san-martin-peras-mx20242,MX20242,17.372,-98.228
+MX20243,San Martín Tilcajete,San Martin Tilcajete,san-martin-tilcajete-mx20243,MX20243,16.88,-96.691
+MX20244,San Martín Toxpalan,San Martin Toxpalan,san-martin-toxpalan-mx20244,MX20244,18.11,-97.023
+MX20245,San Martín Zacatepec,San Martin Zacatepec,san-martin-zacatepec-mx20245,MX20245,17.814,-98.066
+MX20246,San Mateo Cajonos,San Mateo Cajonos,san-mateo-cajonos-mx20246,MX20246,17.154,-96.201
+MX20248,San Mateo del Mar,San Mateo del Mar,san-mateo-del-mar-mx20248,MX20248,16.21,-95.057
+MX20250,San Mateo Etlatongo,San Mateo Etlatongo,san-mateo-etlatongo-mx20250,MX20250,17.423,-97.26
+MX20251,San Mateo Nejápam,San Mateo Nejapam,san-mateo-nejapam-mx20251,MX20251,17.646,-98.43
+MX20252,San Mateo Peñasco,San Mateo Penasco,san-mateo-penasco-mx20252,MX20252,17.14,-97.465
+MX20253,San Mateo Piñas,San Mateo Pinas,san-mateo-pinas-mx20253,MX20253,15.975,-96.346
+MX20254,San Mateo Río Hondo,San Mateo Rio Hondo,san-mateo-rio-hondo-mx20254,MX20254,16.099,-96.57
+MX20255,San Mateo Sindihui,San Mateo Sindihui,san-mateo-sindihui-mx20255,MX20255,17.027,-97.368
+MX20256,San Mateo Tlapiltepec,San Mateo Tlapiltepec,san-mateo-tlapiltepec-mx20256,MX20256,17.804,-97.429
+MX20249,San Mateo Yoloxochitlán,San Mateo Yoloxochitlan,san-mateo-yoloxochitlan-mx20249,MX20249,18.143,-96.869
+MX20566,San Mateo Yucutindó,San Mateo Yucutindo,san-mateo-yucutindo-mx20566,MX20566,16.792,-97.295
+MX20257,San Melchor Betaza,San Melchor Betaza,san-melchor-betaza-mx20257,MX20257,17.242,-96.154
+MX20258,San Miguel Achiutla,San Miguel Achiutla,san-miguel-achiutla-mx20258,MX20258,17.31,-97.474
+MX20259,San Miguel Ahuehuetitlán,San Miguel Ahuehuetitlan,san-miguel-ahuehuetitlan-mx20259,MX20259,17.678,-98.334
+MX20260,San Miguel Aloápam,San Miguel Aloapam,san-miguel-aloapam-mx20260,MX20260,17.432,-96.697
+MX20261,San Miguel Amatitlán,San Miguel Amatitlan,san-miguel-amatitlan-mx20261,MX20261,17.886,-98.031
+MX20262,San Miguel Amatlán,San Miguel Amatlan,san-miguel-amatlan-mx20262,MX20262,17.199,-96.46
+MX20264,San Miguel Chicahua,San Miguel Chicahua,san-miguel-chicahua-mx20264,MX20264,17.631,-97.204
+MX20265,San Miguel Chimalapa,San Miguel Chimalapa,san-miguel-chimalapa-mx20265,MX20265,16.624,-94.271
+MX20263,San Miguel Coatlán,San Miguel Coatlan,san-miguel-coatlan-mx20263,MX20263,16.169,-96.683
+MX20266,San Miguel del Puerto,San Miguel del Puerto,san-miguel-del-puerto-mx20266,MX20266,15.952,-96.098
+MX20267,San Miguel del Río,San Miguel del Rio,san-miguel-del-rio-mx20267,MX20267,17.33,-96.576
+MX20268,San Miguel Ejutla,San Miguel Ejutla,san-miguel-ejutla-mx20268,MX20268,16.594,-96.733
+MX20269,San Miguel el Grande,San Miguel el Grande,san-miguel-el-grande-mx20269,MX20269,17.074,-97.603
+MX20270,San Miguel Huautla,San Miguel Huautla,san-miguel-huautla-mx20270,MX20270,17.754,-97.145
+MX20271,San Miguel Mixtepec,San Miguel Mixtepec,san-miguel-mixtepec-mx20271,MX20271,16.759,-96.96
+MX20272,San Miguel Panixtlahuaca,San Miguel Panixtlahuaca,san-miguel-panixtlahuaca-mx20272,MX20272,16.226,-97.435
+MX20273,San Miguel Peras,San Miguel Peras,san-miguel-peras-mx20273,MX20273,16.928,-97.023
+MX20274,San Miguel Piedras,San Miguel Piedras,san-miguel-piedras-mx20274,MX20274,16.978,-97.209
+MX20275,San Miguel Quetzaltepec,San Miguel Quetzaltepec,san-miguel-quetzaltepec-mx20275,MX20275,16.979,-95.767
+MX20276,San Miguel Santa Flor,San Miguel Santa Flor,san-miguel-santa-flor-mx20276,MX20276,17.921,-96.802
+MX20278,San Miguel Soyaltepec,San Miguel Soyaltepec,san-miguel-soyaltepec-mx20278,MX20278,18.251,-96.483
+MX20279,San Miguel Suchixtepec,San Miguel Suchixtepec,san-miguel-suchixtepec-mx20279,MX20279,16.079,-96.457
+MX20281,San Miguel Tecomatlán,San Miguel Tecomatlan,san-miguel-tecomatlan-mx20281,MX20281,17.371,-97.302
+MX20282,San Miguel Tenango,San Miguel Tenango,san-miguel-tenango-mx20282,MX20282,16.227,-95.557
+MX20283,San Miguel Tequixtepec,San Miguel Tequixtepec,san-miguel-tequixtepec-mx20283,MX20283,17.831,-97.313
+MX20284,San Miguel Tilquiápam,San Miguel Tilquiapam,san-miguel-tilquiapam-mx20284,MX20284,16.785,-96.568
+MX20285,San Miguel Tlacamama,San Miguel Tlacamama,san-miguel-tlacamama-mx20285,MX20285,16.445,-98.113
+MX20286,San Miguel Tlacotepec,San Miguel Tlacotepec,san-miguel-tlacotepec-mx20286,MX20286,17.447,-98.012
+MX20287,San Miguel Tulancingo,San Miguel Tulancingo,san-miguel-tulancingo-mx20287,MX20287,17.752,-97.442
+MX20288,San Miguel Yotao,San Miguel Yotao,san-miguel-yotao-mx20288,MX20288,17.347,-96.357
+MX20289,San Nicolás,San Nicolas,san-nicolas-mx20289,MX20289,16.433,-96.742
+MX20290,San Nicolás Hidalgo,San Nicolas Hidalgo,san-nicolas-hidalgo-mx20290,MX20290,17.774,-98.122
+MX20291,San Pablo Coatlán,San Pablo Coatlan,san-pablo-coatlan-mx20291,MX20291,16.154,-96.776
+MX20292,San Pablo Cuatro Venados,San Pablo Cuatro Venados,san-pablo-cuatro-venados-mx20292,MX20292,16.892,-97.02
+MX20293,San Pablo Etla,San Pablo Etla,san-pablo-etla-mx20293,MX20293,17.155,-96.743
+MX20294,San Pablo Huitzo,San Pablo Huitzo,san-pablo-huitzo-mx20294,MX20294,17.315,-96.861
+MX20295,San Pablo Huixtepec,San Pablo Huixtepec,san-pablo-huixtepec-mx20295,MX20295,16.815,-96.804
+MX20296,San Pablo Macuiltianguis,San Pablo Macuiltianguis,san-pablo-macuiltianguis-mx20296,MX20296,17.517,-96.526
+MX20297,San Pablo Tijaltepec,San Pablo Tijaltepec,san-pablo-tijaltepec-mx20297,MX20297,17.004,-97.473
+MX20298,San Pablo Villa de Mitla,San Pablo Villa de Mitla,san-pablo-villa-de-mitla-mx20298,MX20298,16.968,-96.318
+MX20299,San Pablo Yaganiza,San Pablo Yaganiza,san-pablo-yaganiza-mx20299,MX20299,17.128,-96.205
+MX20300,San Pedro Amuzgos,San Pedro Amuzgos,san-pedro-amuzgos-mx20300,MX20300,16.678,-98.085
+MX20301,San Pedro Apóstol,San Pedro Apostol,san-pedro-apostol-mx20301,MX20301,16.743,-96.736
+MX20302,San Pedro Atoyac,San Pedro Atoyac,san-pedro-atoyac-mx20302,MX20302,16.522,-97.965
+MX20303,San Pedro Cajonos,San Pedro Cajonos,san-pedro-cajonos-mx20303,MX20303,17.165,-96.264
+MX20305,San Pedro Comitancillo,San Pedro Comitancillo,san-pedro-comitancillo-mx20305,MX20305,16.462,-95.162
+MX20304,San Pedro Coxcaltepec Cántaros,San Pedro Coxcaltepec Cantaros,san-pedro-coxcaltepec-cantaros-mx20304,MX20304,17.531,-97.145
+MX20306,San Pedro el Alto,San Pedro el Alto,san-pedro-el-alto-mx20306,MX20306,16.023,-96.474
+MX20307,San Pedro Huamelula,San Pedro Huamelula,san-pedro-huamelula-mx20307,MX20307,15.977,-95.772
+MX20308,San Pedro Huilotepec,San Pedro Huilotepec,san-pedro-huilotepec-mx20308,MX20308,16.244,-95.141
+MX20309,San Pedro Ixcatlán,San Pedro Ixcatlan,san-pedro-ixcatlan-mx20309,MX20309,18.166,-96.547
+MX20310,San Pedro Ixtlahuaca,San Pedro Ixtlahuaca,san-pedro-ixtlahuaca-mx20310,MX20310,17.054,-96.821
+MX20311,San Pedro Jaltepetongo,San Pedro Jaltepetongo,san-pedro-jaltepetongo-mx20311,MX20311,17.679,-97.034
+MX20312,San Pedro Jicayán,San Pedro Jicayan,san-pedro-jicayan-mx20312,MX20312,16.464,-98.039
+MX20313,San Pedro Jocotipac,San Pedro Jocotipac,san-pedro-jocotipac-mx20313,MX20313,17.749,-97.076
+MX20314,San Pedro Juchatengo,San Pedro Juchatengo,san-pedro-juchatengo-mx20314,MX20314,16.316,-97.108
+MX20315,San Pedro Mártir,San Pedro Martir,san-pedro-martir-mx20315,MX20315,16.749,-96.705
+MX20316,San Pedro Mártir Quiechapa,San Pedro Martir Quiechapa,san-pedro-martir-quiechapa-mx20316,MX20316,16.462,-96.257
+MX20317,San Pedro Mártir Yucuxaco,San Pedro Martir Yucuxaco,san-pedro-martir-yucuxaco-mx20317,MX20317,17.452,-97.649
+MX20318,San Pedro Mixtepec -Dto. 22 -,San Pedro Mixtepec -Dto. 22 -,san-pedro-mixtepec-dto-22-mx20318,MX20318,15.946,-97.071
+MX20319,San Pedro Mixtepec -Dto. 26 -,San Pedro Mixtepec -Dto. 26 -,san-pedro-mixtepec-dto-26-mx20319,MX20319,16.226,-96.224
+MX20320,San Pedro Molinos,San Pedro Molinos,san-pedro-molinos-mx20320,MX20320,17.102,-97.551
+MX20321,San Pedro Nopala,San Pedro Nopala,san-pedro-nopala-mx20321,MX20321,17.813,-97.568
+MX20322,San Pedro Ocopetatillo,San Pedro Ocopetatillo,san-pedro-ocopetatillo-mx20322,MX20322,18.185,-96.912
+MX20323,San Pedro Ocotepec,San Pedro Ocotepec,san-pedro-ocotepec-mx20323,MX20323,16.976,-95.839
+MX20324,San Pedro Pochutla,San Pedro Pochutla,san-pedro-pochutla-mx20324,MX20324,15.791,-96.43
+MX20325,San Pedro Quiatoni,San Pedro Quiatoni,san-pedro-quiatoni-mx20325,MX20325,16.763,-96.028
+MX20326,San Pedro Sochiápam,San Pedro Sochiapam,san-pedro-sochiapam-mx20326,MX20326,17.817,-96.639
+MX20327,San Pedro Tapanatepec,San Pedro Tapanatepec,san-pedro-tapanatepec-mx20327,MX20327,16.316,-94.207
+MX20328,San Pedro Taviche,San Pedro Taviche,san-pedro-taviche-mx20328,MX20328,16.65,-96.544
+MX20329,San Pedro Teozacoalco,San Pedro Teozacoalco,san-pedro-teozacoalco-mx20329,MX20329,17.003,-97.303
+MX20330,San Pedro Teutila,San Pedro Teutila,san-pedro-teutila-mx20330,MX20330,17.978,-96.642
+MX20331,San Pedro Tidaá,San Pedro Tidaa,san-pedro-tidaa-mx20331,MX20331,17.336,-97.39
+MX20332,San Pedro Topiltepec,San Pedro Topiltepec,san-pedro-topiltepec-mx20332,MX20332,17.457,-97.361
+MX20333,San Pedro Totolápam,San Pedro Totolapam,san-pedro-totolapam-mx20333,MX20333,16.657,-96.234
+MX20337,San Pedro y San Pablo Ayutla,San Pedro y San Pablo Ayutla,san-pedro-y-san-pablo-ayutla-mx20337,MX20337,17.038,-96.137
+MX20339,San Pedro y San Pablo Teposcolula,San Pedro y San Pablo Teposcolula,san-pedro-y-san-pablo-teposcolula-mx20339,MX20339,17.494,-97.471
+MX20340,San Pedro y San Pablo Tequixtepec,San Pedro y San Pablo Tequixtepec,san-pedro-y-san-pablo-tequixtepec-mx20340,MX20340,18.101,-97.727
+MX20335,San Pedro Yaneri,San Pedro Yaneri,san-pedro-yaneri-mx20335,MX20335,17.426,-96.373
+MX20336,San Pedro Yólox,San Pedro Yolox,san-pedro-yolox-mx20336,MX20336,17.634,-96.462
+MX20341,San Pedro Yucunama,San Pedro Yucunama,san-pedro-yucunama-mx20341,MX20341,17.579,-97.48
+MX20342,San Raymundo Jalpan,San Raymundo Jalpan,san-raymundo-jalpan-mx20342,MX20342,16.98,-96.755
+MX20343,San Sebastián Abasolo,San Sebastian Abasolo,san-sebastian-abasolo-mx20343,MX20343,16.986,-96.639
+MX20344,San Sebastián Coatlán,San Sebastian Coatlan,san-sebastian-coatlan-mx20344,MX20344,16.103,-96.87
+MX20345,San Sebastián Ixcapa,San Sebastian Ixcapa,san-sebastian-ixcapa-mx20345,MX20345,16.529,-98.148
+MX20346,San Sebastián Nicananduta,San Sebastian Nicananduta,san-sebastian-nicananduta-mx20346,MX20346,17.518,-97.672
+MX20347,San Sebastián Río Hondo,San Sebastian Rio Hondo,san-sebastian-rio-hondo-mx20347,MX20347,16.202,-96.42
+MX20348,San Sebastián Tecomaxtlahuaca,San Sebastian Tecomaxtlahuaca,san-sebastian-tecomaxtlahuaca-mx20348,MX20348,17.348,-98.091
+MX20349,San Sebastián Teitipac,San Sebastian Teitipac,san-sebastian-teitipac-mx20349,MX20349,16.948,-96.631
+MX20350,San Sebastián Tutla,San Sebastian Tutla,san-sebastian-tutla-mx20350,MX20350,17.045,-96.678
+MX20351,San Simón Almolongas,San Simon Almolongas,san-simon-almolongas-mx20351,MX20351,16.412,-96.719
+MX20352,San Simón Zahuatlán,San Simon Zahuatlan,san-simon-zahuatlan-mx20352,MX20352,17.837,-97.994
+MX20534,San Vicente Coatlán,San Vicente Coatlan,san-vicente-coatlan-mx20534,MX20534,16.376,-96.832
+MX20535,San Vicente Lachixío,San Vicente Lachixio,san-vicente-lachixio-mx20535,MX20535,16.646,-97.041
+MX20536,San Vicente Nuñú,San Vicente Nunu,san-vicente-nunu-mx20536,MX20536,17.419,-97.435
+MX20353,Santa Ana,Santa Ana,santa-ana-mx20353,MX20353,16.329,-96.724
+MX20354,Santa Ana Ateixtlahuaca,Santa Ana Ateixtlahuaca,santa-ana-ateixtlahuaca-mx20354,MX20354,18.22,-96.889
+MX20355,Santa Ana Cuauhtémoc,Santa Ana Cuauhtemoc,santa-ana-cuauhtemoc-mx20355,MX20355,17.985,-96.801
+MX20356,Santa Ana del Valle,Santa Ana del Valle,santa-ana-del-valle-mx20356,MX20356,17.016,-96.463
+MX20357,Santa Ana Tavela,Santa Ana Tavela,santa-ana-tavela-mx20357,MX20357,16.608,-95.879
+MX20358,Santa Ana Tlapacoyan,Santa Ana Tlapacoyan,santa-ana-tlapacoyan-mx20358,MX20358,16.745,-96.867
+MX20359,Santa Ana Yareni,Santa Ana Yareni,santa-ana-yareni-mx20359,MX20359,17.397,-96.622
+MX20360,Santa Ana Zegache,Santa Ana Zegache,santa-ana-zegache-mx20360,MX20360,16.839,-96.731
+MX20361,Santa Catalina Quierí,Santa Catalina Quieri,santa-catalina-quieri-mx20361,MX20361,16.336,-96.257
+MX20362,Santa Catarina Cuixtla,Santa Catarina Cuixtla,santa-catarina-cuixtla-mx20362,MX20362,16.296,-96.648
+MX20363,Santa Catarina Ixtepeji,Santa Catarina Ixtepeji,santa-catarina-ixtepeji-mx20363,MX20363,17.222,-96.581
+MX20364,Santa Catarina Juquila,Santa Catarina Juquila,santa-catarina-juquila-mx20364,MX20364,16.18,-97.33
+MX20365,Santa Catarina Lachatao,Santa Catarina Lachatao,santa-catarina-lachatao-mx20365,MX20365,17.188,-96.497
+MX20366,Santa Catarina Loxicha,Santa Catarina Loxicha,santa-catarina-loxicha-mx20366,MX20366,16.067,-96.713
+MX20367,Santa Catarina Mechoacán,Santa Catarina Mechoacan,santa-catarina-mechoacan-mx20367,MX20367,16.344,-97.831
+MX20368,Santa Catarina Minas,Santa Catarina Minas,santa-catarina-minas-mx20368,MX20368,16.789,-96.616
+MX20369,Santa Catarina Quiané,Santa Catarina Quiane,santa-catarina-quiane-mx20369,MX20369,16.88,-96.73
+MX20074,Santa Catarina Quioquitani,Santa Catarina Quioquitani,santa-catarina-quioquitani-mx20074,MX20074,16.318,-96.289
+MX20370,Santa Catarina Tayata,Santa Catarina Tayata,santa-catarina-tayata-mx20370,MX20370,17.341,-97.551
+MX20371,Santa Catarina Ticuá,Santa Catarina Ticua,santa-catarina-ticua-mx20371,MX20371,17.056,-97.537
+MX20372,Santa Catarina Yosonotú,Santa Catarina Yosonotu,santa-catarina-yosonotu-mx20372,MX20372,17.005,-97.671
+MX20373,Santa Catarina Zapoquila,Santa Catarina Zapoquila,santa-catarina-zapoquila-mx20373,MX20373,18.025,-97.542
+MX20374,Santa Cruz Acatepec,Santa Cruz Acatepec,santa-cruz-acatepec-mx20374,MX20374,18.158,-96.882
+MX20375,Santa Cruz Amilpas,Santa Cruz Amilpas,santa-cruz-amilpas-mx20375,MX20375,17.048,-96.685
+MX20376,Santa Cruz de Bravo,Santa Cruz de Bravo,santa-cruz-de-bravo-mx20376,MX20376,17.572,-98.216
+MX20377,Santa Cruz Itundujia,Santa Cruz Itundujia,santa-cruz-itundujia-mx20377,MX20377,16.757,-97.674
+MX20378,Santa Cruz Mixtepec,Santa Cruz Mixtepec,santa-cruz-mixtepec-mx20378,MX20378,16.781,-96.856
+MX20379,Santa Cruz Nundaco,Santa Cruz Nundaco,santa-cruz-nundaco-mx20379,MX20379,17.155,-97.723
+MX20380,Santa Cruz Papalutla,Santa Cruz Papalutla,santa-cruz-papalutla-mx20380,MX20380,16.953,-96.585
+MX20381,Santa Cruz Tacache de Mina,Santa Cruz Tacache de Mina,santa-cruz-tacache-de-mina-mx20381,MX20381,17.817,-98.166
+MX20382,Santa Cruz Tacahua,Santa Cruz Tacahua,santa-cruz-tacahua-mx20382,MX20382,16.92,-97.463
+MX20383,Santa Cruz Tayata,Santa Cruz Tayata,santa-cruz-tayata-mx20383,MX20383,17.376,-97.578
+MX20384,Santa Cruz Xitla,Santa Cruz Xitla,santa-cruz-xitla-mx20384,MX20384,16.338,-96.669
+MX20385,Santa Cruz Xoxocotlán,Santa Cruz Xoxocotlan,santa-cruz-xoxocotlan-mx20385,MX20385,17.01,-96.738
+MX20386,Santa Cruz Zenzontepec,Santa Cruz Zenzontepec,santa-cruz-zenzontepec-mx20386,MX20386,16.471,-97.474
+MX20387,Santa Gertrudis,Santa Gertrudis,santa-gertrudis-mx20387,MX20387,16.776,-96.784
+MX20569,Santa Inés de Zaragoza,Santa Ines de Zaragoza,santa-ines-de-zaragoza-mx20569,MX20569,17.265,-97.145
+MX20388,Santa Inés del Monte,Santa Ines del Monte,santa-ines-del-monte-mx20388,MX20388,16.922,-96.855
+MX20389,Santa Inés Yatzeche,Santa Ines Yatzeche,santa-ines-yatzeche-mx20389,MX20389,16.808,-96.759
+MX20390,Santa Lucía del Camino,Santa Lucia del Camino,santa-lucia-del-camino-mx20390,MX20390,17.068,-96.673
+MX20391,Santa Lucía Miahuatlán,Santa Lucia Miahuatlan,santa-lucia-miahuatlan-mx20391,MX20391,16.18,-96.618
+MX20392,Santa Lucía Monteverde,Santa Lucia Monteverde,santa-lucia-monteverde-mx20392,MX20392,16.955,-97.721
+MX20393,Santa Lucía Ocotlán,Santa Lucia Ocotlan,santa-lucia-ocotlan-mx20393,MX20393,16.727,-96.668
+MX20047,Santa Magdalena Jicotlán,Santa Magdalena Jicotlan,santa-magdalena-jicotlan-mx20047,MX20047,17.804,-97.482
+MX20394,Santa María Alotepec,Santa Maria Alotepec,santa-maria-alotepec-mx20394,MX20394,17.085,-95.83
+MX20395,Santa María Apazco,Santa Maria Apazco,santa-maria-apazco-mx20395,MX20395,17.626,-97.079
+MX20399,Santa María Atzompa,Santa Maria Atzompa,santa-maria-atzompa-mx20399,MX20399,17.085,-96.793
+MX20400,Santa María Camotlán,Santa Maria Camotlan,santa-maria-camotlan-mx20400,MX20400,17.866,-97.641
+MX20404,Santa María Chachoápam,Santa Maria Chachoapam,santa-maria-chachoapam-mx20404,MX20404,17.574,-97.239
+MX20406,Santa María Chilchotla,Santa Maria Chilchotla,santa-maria-chilchotla-mx20406,MX20406,18.289,-96.739
+MX20407,Santa María Chimalapa,Santa Maria Chimalapa,santa-maria-chimalapa-mx20407,MX20407,16.942,-94.359
+MX20401,Santa María Colotepec,Santa Maria Colotepec,santa-maria-colotepec-mx20401,MX20401,15.854,-96.939
+MX20402,Santa María Cortijo,Santa Maria Cortijo,santa-maria-cortijo-mx20402,MX20402,16.435,-98.307
+MX20403,Santa María Coyotepec,Santa Maria Coyotepec,santa-maria-coyotepec-mx20403,MX20403,16.972,-96.711
+MX20408,Santa María del Rosario,Santa Maria del Rosario,santa-maria-del-rosario-mx20408,MX20408,17.343,-97.606
+MX20409,Santa María del Tule,Santa Maria del Tule,santa-maria-del-tule-mx20409,MX20409,17.03,-96.631
+MX20410,Santa María Ecatepec,Santa Maria Ecatepec,santa-maria-ecatepec-mx20410,MX20410,16.222,-95.981
+MX20411,Santa María Guelacé,Santa Maria Guelace,santa-maria-guelace-mx20411,MX20411,16.992,-96.615
+MX20412,Santa María Guienagati,Santa Maria Guienagati,santa-maria-guienagati-mx20412,MX20412,16.782,-95.287
+MX20413,Santa María Huatulco,Santa Maria Huatulco,santa-maria-huatulco-mx20413,MX20413,15.822,-96.206
+MX20414,Santa María Huazolotitlán,Santa Maria Huazolotitlan,santa-maria-huazolotitlan-mx20414,MX20414,16.192,-97.924
+MX20415,Santa María Ipalapa,Santa Maria Ipalapa,santa-maria-ipalapa-mx20415,MX20415,16.623,-97.991
+MX20416,Santa María Ixcatlán,Santa Maria Ixcatlan,santa-maria-ixcatlan-mx20416,MX20416,17.85,-97.161
+MX20417,Santa María Jacatepec,Santa Maria Jacatepec,santa-maria-jacatepec-mx20417,MX20417,17.868,-96.204
+MX20418,Santa María Jalapa del Marqués,Santa Maria Jalapa del Marques,santa-maria-jalapa-del-marques-mx20418,MX20418,16.509,-95.466
+MX20419,Santa María Jaltianguis,Santa Maria Jaltianguis,santa-maria-jaltianguis-mx20419,MX20419,17.361,-96.544
+MX20396,Santa María la Asunción,Santa Maria la Asuncion,santa-maria-la-asuncion-mx20396,MX20396,18.103,-96.819
+MX20420,Santa María Lachixío,Santa Maria Lachixio,santa-maria-lachixio-mx20420,MX20420,16.737,-97.037
+MX20421,Santa María Mixtequilla,Santa Maria Mixtequilla,santa-maria-mixtequilla-mx20421,MX20421,16.422,-95.274
+MX20422,Santa María Nativitas,Santa Maria Nativitas,santa-maria-nativitas-mx20422,MX20422,17.642,-97.333
+MX20423,Santa María Nduayaco,Santa Maria Nduayaco,santa-maria-nduayaco-mx20423,MX20423,17.403,-97.503
+MX20424,Santa María Ozolotepec,Santa Maria Ozolotepec,santa-maria-ozolotepec-mx20424,MX20424,16.098,-96.354
+MX20425,Santa María Pápalo,Santa Maria Papalo,santa-maria-papalo-mx20425,MX20425,17.798,-96.807
+MX20426,Santa María Peñoles,Santa Maria Penoles,santa-maria-penoles-mx20426,MX20426,17.056,-97.071
+MX20427,Santa María Petapa,Santa Maria Petapa,santa-maria-petapa-mx20427,MX20427,16.899,-95.125
+MX20428,Santa María Quiegolani,Santa Maria Quiegolani,santa-maria-quiegolani-mx20428,MX20428,16.305,-96.044
+MX20429,Santa María Sola,Santa Maria Sola,santa-maria-sola-mx20429,MX20429,16.567,-97.024
+MX20430,Santa María Tataltepec,Santa Maria Tataltepec,santa-maria-tataltepec-mx20430,MX20430,17.137,-97.399
+MX20431,Santa María Tecomavaca,Santa Maria Tecomavaca,santa-maria-tecomavaca-mx20431,MX20431,17.952,-97.08
+MX20432,Santa María Temaxcalapa,Santa Maria Temaxcalapa,santa-maria-temaxcalapa-mx20432,MX20432,17.377,-96.164
+MX20433,Santa María Temaxcaltepec,Santa Maria Temaxcaltepec,santa-maria-temaxcaltepec-mx20433,MX20433,16.168,-97.197
+MX20434,Santa María Teopoxco,Santa Maria Teopoxco,santa-maria-teopoxco-mx20434,MX20434,18.176,-96.973
+MX20435,Santa María Tepantlali,Santa Maria Tepantlali,santa-maria-tepantlali-mx20435,MX20435,16.943,-95.989
+MX20436,Santa María Texcatitlán,Santa Maria Texcatitlan,santa-maria-texcatitlan-mx20436,MX20436,17.719,-97.048
+MX20437,Santa María Tlahuitoltepec,Santa Maria Tlahuitoltepec,santa-maria-tlahuitoltepec-mx20437,MX20437,17.126,-96.029
+MX20438,Santa María Tlalixtac,Santa Maria Tlalixtac,santa-maria-tlalixtac-mx20438,MX20438,17.917,-96.741
+MX20439,Santa María Tonameca,Santa Maria Tonameca,santa-maria-tonameca-mx20439,MX20439,15.782,-96.683
+MX20440,Santa María Totolapilla,Santa Maria Totolapilla,santa-maria-totolapilla-mx20440,MX20440,16.625,-95.619
+MX20441,Santa María Xadani,Santa Maria Xadani,santa-maria-xadani-mx20441,MX20441,16.369,-95.019
+MX20442,Santa María Yalina,Santa Maria Yalina,santa-maria-yalina-mx20442,MX20442,17.264,-96.287
+MX20443,Santa María Yavesía,Santa Maria Yavesia,santa-maria-yavesia-mx20443,MX20443,17.203,-96.41
+MX20444,Santa María Yolotepec,Santa Maria Yolotepec,santa-maria-yolotepec-mx20444,MX20444,16.884,-97.464
+MX20445,Santa María Yosoyúa,Santa Maria Yosoyua,santa-maria-yosoyua-mx20445,MX20445,17.108,-97.499
+MX20446,Santa María Yucuhiti,Santa Maria Yucuhiti,santa-maria-yucuhiti-mx20446,MX20446,17.027,-97.801
+MX20447,Santa María Zacatepec,Santa Maria Zacatepec,santa-maria-zacatepec-mx20447,MX20447,16.768,-97.982
+MX20448,Santa María Zaniza,Santa Maria Zaniza,santa-maria-zaniza-mx20448,MX20448,16.633,-97.347
+MX20449,Santa María Zoquitlán,Santa Maria Zoquitlan,santa-maria-zoquitlan-mx20449,MX20449,16.562,-96.356
+MX20450,Santiago Amoltepec,Santiago Amoltepec,santiago-amoltepec-mx20450,MX20450,16.649,-97.522
+MX20451,Santiago Apoala,Santiago Apoala,santiago-apoala-mx20451,MX20451,17.639,-97.141
+MX20452,Santiago Apóstol,Santiago Apostol,santiago-apostol-mx20452,MX20452,16.795,-96.727
+MX20453,Santiago Astata,Santiago Astata,santiago-astata-mx20453,MX20453,15.976,-95.61
+MX20454,Santiago Atitlán,Santiago Atitlan,santiago-atitlan-mx20454,MX20454,17.09,-95.927
+MX20455,Santiago Ayuquililla,Santiago Ayuquililla,santiago-ayuquililla-mx20455,MX20455,17.92,-97.961
+MX20456,Santiago Cacaloxtepec,Santiago Cacaloxtepec,santiago-cacaloxtepec-mx20456,MX20456,17.73,-97.735
+MX20457,Santiago Camotlán,Santiago Camotlan,santiago-camotlan-mx20457,MX20457,17.545,-96.159
+MX20459,Santiago Chazumba,Santiago Chazumba,santiago-chazumba-mx20459,MX20459,18.178,-97.699
+MX20460,Santiago Choápam,Santiago Choapam,santiago-choapam-mx20460,MX20460,17.361,-95.886
+MX20458,Santiago Comaltepec,Santiago Comaltepec,santiago-comaltepec-mx20458,MX20458,17.636,-96.352
+MX20461,Santiago del Río,Santiago del Rio,santiago-del-rio-mx20461,MX20461,17.433,-98.101
+MX20462,Santiago Huajolotitlán,Santiago Huajolotitlan,santiago-huajolotitlan-mx20462,MX20462,17.814,-97.68
+MX20463,Santiago Huauclilla,Santiago Huauclilla,santiago-huauclilla-mx20463,MX20463,17.491,-97.044
+MX20464,Santiago Ihuitlán Plumas,Santiago Ihuitlan Plumas,santiago-ihuitlan-plumas-mx20464,MX20464,17.881,-97.432
+MX20465,Santiago Ixcuintepec,Santiago Ixcuintepec,santiago-ixcuintepec-mx20465,MX20465,16.928,-95.579
+MX20466,Santiago Ixtayutla,Santiago Ixtayutla,santiago-ixtayutla-mx20466,MX20466,16.53,-97.692
+MX20467,Santiago Jamiltepec,Santiago Jamiltepec,santiago-jamiltepec-mx20467,MX20467,16.225,-97.781
+MX20468,Santiago Jocotepec,Santiago Jocotepec,santiago-jocotepec-mx20468,MX20468,17.649,-95.988
+MX20469,Santiago Juxtlahuaca,Santiago Juxtlahuaca,santiago-juxtlahuaca-mx20469,MX20469,17.209,-98.038
+MX20470,Santiago Lachiguiri,Santiago Lachiguiri,santiago-lachiguiri-mx20470,MX20470,16.795,-95.517
+MX20471,Santiago Lalopa,Santiago Lalopa,santiago-lalopa-mx20471,MX20471,17.416,-96.249
+MX20472,Santiago Laollaga,Santiago Laollaga,santiago-laollaga-mx20472,MX20472,16.634,-95.263
+MX20473,Santiago Laxopa,Santiago Laxopa,santiago-laxopa-mx20473,MX20473,17.198,-96.345
+MX20474,Santiago Llano Grande,Santiago Llano Grande,santiago-llano-grande-mx20474,MX20474,16.488,-98.261
+MX20475,Santiago Matatlán,Santiago Matatlan,santiago-matatlan-mx20475,MX20475,16.804,-96.455
+MX20476,Santiago Miltepec,Santiago Miltepec,santiago-miltepec-mx20476,MX20476,17.988,-97.728
+MX20477,Santiago Minas,Santiago Minas,santiago-minas-mx20477,MX20477,16.434,-97.274
+MX20478,Santiago Nacaltepec,Santiago Nacaltepec,santiago-nacaltepec-mx20478,MX20478,17.515,-96.895
+MX20479,Santiago Nejapilla,Santiago Nejapilla,santiago-nejapilla-mx20479,MX20479,17.43,-97.384
+MX20066,Santiago Niltepec,Santiago Niltepec,santiago-niltepec-mx20066,MX20066,16.52,-94.584
+MX20480,Santiago Nundiche,Santiago Nundiche,santiago-nundiche-mx20480,MX20480,17.337,-97.704
+MX20481,Santiago Nuyoó,Santiago Nuyoo,santiago-nuyoo-mx20481,MX20481,17.01,-97.749
+MX20482,Santiago Pinotepa Nacional,Santiago Pinotepa Nacional,santiago-pinotepa-nacional-mx20482,MX20482,16.296,-98.16
+MX20483,Santiago Suchilquitongo,Santiago Suchilquitongo,santiago-suchilquitongo-mx20483,MX20483,17.232,-96.906
+MX20484,Santiago Tamazola,Santiago Tamazola,santiago-tamazola-mx20484,MX20484,17.745,-98.245
+MX20485,Santiago Tapextla,Santiago Tapextla,santiago-tapextla-mx20485,MX20485,16.33,-98.477
+MX20487,Santiago Tenango,Santiago Tenango,santiago-tenango-mx20487,MX20487,17.298,-96.998
+MX20488,Santiago Tepetlapa,Santiago Tepetlapa,santiago-tepetlapa-mx20488,MX20488,17.8,-97.395
+MX20489,Santiago Tetepec,Santiago Tetepec,santiago-tetepec-mx20489,MX20489,16.359,-97.654
+MX20490,Santiago Texcalcingo,Santiago Texcalcingo,santiago-texcalcingo-mx20490,MX20490,18.216,-96.975
+MX20491,Santiago Textitlán,Santiago Textitlan,santiago-textitlan-mx20491,MX20491,16.718,-97.315
+MX20492,Santiago Tilantongo,Santiago Tilantongo,santiago-tilantongo-mx20492,MX20492,17.196,-97.371
+MX20493,Santiago Tillo,Santiago Tillo,santiago-tillo-mx20493,MX20493,17.468,-97.317
+MX20494,Santiago Tlazoyaltepec,Santiago Tlazoyaltepec,santiago-tlazoyaltepec-mx20494,MX20494,17.029,-96.976
+MX20495,Santiago Xanica,Santiago Xanica,santiago-xanica-mx20495,MX20495,16.017,-96.253
+MX20496,Santiago Xiacuí,Santiago Xiacui,santiago-xiacui-mx20496,MX20496,17.272,-96.393
+MX20497,Santiago Yaitepec,Santiago Yaitepec,santiago-yaitepec-mx20497,MX20497,16.212,-97.238
+MX20498,Santiago Yaveo,Santiago Yaveo,santiago-yaveo-mx20498,MX20498,17.488,-95.48
+MX20499,Santiago Yolomécatl,Santiago Yolomecatl,santiago-yolomecatl-mx20499,MX20499,17.466,-97.571
+MX20500,Santiago Yosondúa,Santiago Yosondua,santiago-yosondua-mx20500,MX20500,16.847,-97.496
+MX20501,Santiago Yucuyachi,Santiago Yucuyachi,santiago-yucuyachi-mx20501,MX20501,17.61,-98.245
+MX20502,Santiago Zacatepec,Santiago Zacatepec,santiago-zacatepec-mx20502,MX20502,17.203,-95.902
+MX20503,Santiago Zoochila,Santiago Zoochila,santiago-zoochila-mx20503,MX20503,17.213,-96.25
+MX20506,Santo Domingo Albarradas,Santo Domingo Albarradas,santo-domingo-albarradas-mx20506,MX20506,17.064,-96.206
+MX20507,Santo Domingo Armenta,Santo Domingo Armenta,santo-domingo-armenta-mx20507,MX20507,16.341,-98.359
+MX20508,Santo Domingo Chihuitán,Santo Domingo Chihuitan,santo-domingo-chihuitan-mx20508,MX20508,16.639,-95.176
+MX20509,Santo Domingo de Morelos,Santo Domingo de Morelos,santo-domingo-de-morelos-mx20509,MX20509,15.842,-96.644
+MX20505,Santo Domingo Ingenio,Santo Domingo Ingenio,santo-domingo-ingenio-mx20505,MX20505,16.571,-94.742
+MX20510,Santo Domingo Ixcatlán,Santo Domingo Ixcatlan,santo-domingo-ixcatlan-mx20510,MX20510,16.909,-97.524
+MX20511,Santo Domingo Nuxaá,Santo Domingo Nuxaa,santo-domingo-nuxaa-mx20511,MX20511,17.161,-97.039
+MX20512,Santo Domingo Ozolotepec,Santo Domingo Ozolotepec,santo-domingo-ozolotepec-mx20512,MX20512,16.176,-96.322
+MX20513,Santo Domingo Petapa,Santo Domingo Petapa,santo-domingo-petapa-mx20513,MX20513,16.851,-95.212
+MX20514,Santo Domingo Roayaga,Santo Domingo Roayaga,santo-domingo-roayaga-mx20514,MX20514,17.333,-96.064
+MX20515,Santo Domingo Tehuantepec,Santo Domingo Tehuantepec,santo-domingo-tehuantepec-mx20515,MX20515,16.189,-95.396
+MX20516,Santo Domingo Teojomulco,Santo Domingo Teojomulco,santo-domingo-teojomulco-mx20516,MX20516,16.59,-97.281
+MX20517,Santo Domingo Tepuxtepec,Santo Domingo Tepuxtepec,santo-domingo-tepuxtepec-mx20517,MX20517,16.934,-96.097
+MX20518,Santo Domingo Tlatayápam,Santo Domingo Tlatayapam,santo-domingo-tlatayapam-mx20518,MX20518,17.402,-97.343
+MX20519,Santo Domingo Tomaltepec,Santo Domingo Tomaltepec,santo-domingo-tomaltepec-mx20519,MX20519,17.07,-96.597
+MX20520,Santo Domingo Tonalá,Santo Domingo Tonala,santo-domingo-tonala-mx20520,MX20520,17.68,-97.976
+MX20521,Santo Domingo Tonaltepec,Santo Domingo Tonaltepec,santo-domingo-tonaltepec-mx20521,MX20521,17.615,-97.351
+MX20522,Santo Domingo Xagacía,Santo Domingo Xagacia,santo-domingo-xagacia-mx20522,MX20522,17.127,-96.297
+MX20523,Santo Domingo Yanhuitlán,Santo Domingo Yanhuitlan,santo-domingo-yanhuitlan-mx20523,MX20523,17.526,-97.336
+MX20524,Santo Domingo Yodohino,Santo Domingo Yodohino,santo-domingo-yodohino-mx20524,MX20524,17.639,-97.7
+MX20525,Santo Domingo Zanatepec,Santo Domingo Zanatepec,santo-domingo-zanatepec-mx20525,MX20525,16.441,-94.343
+MX20530,Santo Tomás Jalieza,Santo Tomas Jalieza,santo-tomas-jalieza-mx20530,MX20530,16.875,-96.637
+MX20531,Santo Tomás Mazaltepec,Santo Tomas Mazaltepec,santo-tomas-mazaltepec-mx20531,MX20531,17.147,-96.916
+MX20532,Santo Tomás Ocotepec,Santo Tomas Ocotepec,santo-tomas-ocotepec-mx20532,MX20532,17.12,-97.773
+MX20533,Santo Tomás Tamazulapan,Santo Tomas Tamazulapan,santo-tomas-tamazulapan-mx20533,MX20533,16.24,-96.59
+MX20526,Santos Reyes Nopala,Santos Reyes Nopala,santos-reyes-nopala-mx20526,MX20526,16.082,-97.179
+MX20527,Santos Reyes Pápalo,Santos Reyes Papalo,santos-reyes-papalo-mx20527,MX20527,17.792,-96.879
+MX20528,Santos Reyes Tepejillo,Santos Reyes Tepejillo,santos-reyes-tepejillo-mx20528,MX20528,17.407,-97.956
+MX20529,Santos Reyes Yucuná,Santos Reyes Yucuna,santos-reyes-yucuna-mx20529,MX20529,17.773,-98.01
+MX20537,Silacayoápam,Silacayoapam,silacayoapam-mx20537,MX20537,17.588,-98.072
+MX20538,Sitio de Xitlapehua,Sitio de Xitlapehua,sitio-de-xitlapehua-mx20538,MX20538,16.368,-96.547
+MX20539,Soledad Etla,Soledad Etla,soledad-etla-mx20539,MX20539,17.158,-96.828
+MX20031,Tamazulápam del Espíritu Santo,Tamazulapam del Espiritu Santo,tamazulapam-del-espiritu-santo-mx20031,MX20031,17.033,-96.015
+MX20541,Tanetze de Zaragoza,Tanetze de Zaragoza,tanetze-de-zaragoza-mx20541,MX20541,17.384,-96.296
+MX20542,Taniche,Taniche,taniche-mx20542,MX20542,16.568,-96.765
+MX20543,Tataltepec de Valdés,Tataltepec de Valdes,tataltepec-de-valdes-mx20543,MX20543,16.313,-97.52
+MX20544,Teococuilco de Marcos Pérez,Teococuilco de Marcos Perez,teococuilco-de-marcos-perez-mx20544,MX20544,17.319,-96.672
+MX20545,Teotitlán de Flores Magón,Teotitlan de Flores Magon,teotitlan-de-flores-magon-mx20545,MX20545,18.119,-97.087
+MX20546,Teotitlán del Valle,Teotitlan del Valle,teotitlan-del-valle-mx20546,MX20546,17.049,-96.503
+MX20547,Teotongo,Teotongo,teotongo-mx20547,MX20547,17.746,-97.542
+MX20548,Tepelmeme Villa de Morelos,Tepelmeme Villa de Morelos,tepelmeme-villa-de-morelos-mx20548,MX20548,18.007,-97.289
+MX20551,Tlacolula de Matamoros,Tlacolula de Matamoros,tlacolula-de-matamoros-mx20551,MX20551,16.931,-96.461
+MX20552,Tlacotepec Plumas,Tlacotepec Plumas,tlacotepec-plumas-mx20552,MX20552,17.872,-97.47
+MX20553,Tlalixtac de Cabrera,Tlalixtac de Cabrera,tlalixtac-de-cabrera-mx20553,MX20553,17.077,-96.636
+MX20554,Totontepec Villa de Morelos,Totontepec Villa de Morelos,totontepec-villa-de-morelos-mx20554,MX20554,17.236,-96.036
+MX20555,Trinidad Zaachila,Trinidad Zaachila,trinidad-zaachila-mx20555,MX20555,16.924,-96.79
+MX20557,Unión Hidalgo,Union Hidalgo,union-hidalgo-mx20557,MX20557,16.488,-94.812
+MX20558,Valerio Trujano,Valerio Trujano,valerio-trujano-mx20558,MX20558,17.772,-96.988
+MX20405,Villa de Chilapa de Díaz,Villa de Chilapa de Diaz,villa-de-chilapa-de-diaz-mx20405,MX20405,17.595,-97.65
+MX20338,Villa de Etla,Villa de Etla,villa-de-etla-mx20338,MX20338,17.197,-96.796
+MX20540,Villa de Tamazulápam del Progreso,Villa de Tamazulapam del Progreso,villa-de-tamazulapam-del-progreso-mx20540,MX20540,17.695,-97.578
+MX20334,Villa de Tututepec de Melchor Ocampo,Villa de Tututepec de Melchor Ocampo,villa-de-tututepec-de-melchor-ocampo-mx20334,MX20334,16.099,-97.564
+MX20565,Villa de Zaachila,Villa de Zaachila,villa-de-zaachila-mx20565,MX20565,16.953,-96.784
+MX20560,Villa Díaz Ordaz,Villa Diaz Ordaz,villa-diaz-ordaz-mx20560,MX20560,17.054,-96.381
+MX20038,Villa Hidalgo,Villa Hidalgo,villa-hidalgo-mx20038,MX20038,17.184,-96.155
+MX20277,Villa Sola de Vega,Villa Sola de Vega,villa-sola-de-vega-mx20277,MX20277,16.572,-97.104
+MX20280,Villa Talea de Castro,Villa Talea de Castro,villa-talea-de-castro-mx20280,MX20280,17.371,-96.229
+MX20486,Villa Tejúpam de la Unión,Villa Tejupam de la Union,villa-tejupam-de-la-union-mx20486,MX20486,17.665,-97.456
+MX20561,Yaxe,Yaxe,yaxe-mx20561,MX20561,16.707,-96.444
+MX20563,Yogana,Yogana,yogana-mx20563,MX20563,16.439,-96.815
+MX20564,Yutanduchi de Guerrero,Yutanduchi de Guerrero,yutanduchi-de-guerrero-mx20564,MX20564,17.076,-97.292
+MX20567,Zapotitlán Lagunas,Zapotitlan Lagunas,zapotitlan-lagunas-mx20567,MX20567,17.784,-98.392
+MX20568,Zapotitlán Palmas,Zapotitlan Palmas,zapotitlan-palmas-mx20568,MX20568,17.882,-97.836
+MX20570,Zimatlán de Álvarez,Zimatlan de Alvarez,zimatlan-de-alvarez-mx20570,MX20570,16.873,-96.801

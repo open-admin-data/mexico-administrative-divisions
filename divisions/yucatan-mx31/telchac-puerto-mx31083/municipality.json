@@ -1,0 +1,45 @@
+{
+  "id": "MX31083",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Telchac Puerto",
+    "en": "Telchac Puerto",
+    "slug": "telchac-puerto-mx31083"
+  },
+  "code": {
+    "id": "MX31083",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX31",
+    "level": 1,
+    "name": {
+      "local": "Yucatán",
+      "en": "Yucatan",
+      "slug": "yucatan-mx31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX31",
+      "level": 1,
+      "name": {
+        "local": "Yucatán",
+        "en": "Yucatan",
+        "slug": "yucatan-mx31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.308",
+    "lon": "-89.274"
+  },
+  "metadata": {},
+  "source": {}
+}

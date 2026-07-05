@@ -1,0 +1,45 @@
+{
+  "id": "MX20341",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Yucunama",
+    "en": "San Pedro Yucunama",
+    "slug": "san-pedro-yucunama-mx20341"
+  },
+  "code": {
+    "id": "MX20341",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.579",
+    "lon": "-97.48"
+  },
+  "metadata": {},
+  "source": {}
+}

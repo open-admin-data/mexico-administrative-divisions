@@ -1,0 +1,45 @@
+{
+  "id": "MX20322",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Pedro Ocopetatillo",
+    "en": "San Pedro Ocopetatillo",
+    "slug": "san-pedro-ocopetatillo-mx20322"
+  },
+  "code": {
+    "id": "MX20322",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.185",
+    "lon": "-96.912"
+  },
+  "metadata": {},
+  "source": {}
+}

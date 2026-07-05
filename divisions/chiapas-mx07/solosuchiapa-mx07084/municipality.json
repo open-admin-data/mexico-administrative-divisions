@@ -1,0 +1,45 @@
+{
+  "id": "MX07084",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Solosuchiapa",
+    "en": "Solosuchiapa",
+    "slug": "solosuchiapa-mx07084"
+  },
+  "code": {
+    "id": "MX07084",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.395",
+    "lon": "-93.003"
+  },
+  "metadata": {},
+  "source": {}
+}

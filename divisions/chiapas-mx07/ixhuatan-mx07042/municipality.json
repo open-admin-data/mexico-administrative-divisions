@@ -1,0 +1,45 @@
+{
+  "id": "MX07042",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ixhuatán",
+    "en": "Ixhuatan",
+    "slug": "ixhuatan-mx07042"
+  },
+  "code": {
+    "id": "MX07042",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.305",
+    "lon": "-93.02"
+  },
+  "metadata": {},
+  "source": {}
+}

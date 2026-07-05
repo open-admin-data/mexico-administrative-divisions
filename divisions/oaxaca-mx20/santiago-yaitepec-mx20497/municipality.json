@@ -1,0 +1,45 @@
+{
+  "id": "MX20497",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santiago Yaitepec",
+    "en": "Santiago Yaitepec",
+    "slug": "santiago-yaitepec-mx20497"
+  },
+  "code": {
+    "id": "MX20497",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX20",
+    "level": 1,
+    "name": {
+      "local": "Oaxaca",
+      "en": "Oaxaca",
+      "slug": "oaxaca-mx20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX20",
+      "level": 1,
+      "name": {
+        "local": "Oaxaca",
+        "en": "Oaxaca",
+        "slug": "oaxaca-mx20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.212",
+    "lon": "-97.238"
+  },
+  "metadata": {},
+  "source": {}
+}

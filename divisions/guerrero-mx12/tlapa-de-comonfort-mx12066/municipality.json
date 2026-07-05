@@ -1,0 +1,45 @@
+{
+  "id": "MX12066",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlapa de Comonfort",
+    "en": "Tlapa de Comonfort",
+    "slug": "tlapa-de-comonfort-mx12066"
+  },
+  "code": {
+    "id": "MX12066",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.527",
+    "lon": "-98.586"
+  },
+  "metadata": {},
+  "source": {}
+}

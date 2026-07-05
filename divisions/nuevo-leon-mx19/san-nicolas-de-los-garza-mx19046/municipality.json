@@ -1,0 +1,45 @@
+{
+  "id": "MX19046",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Nicolás de los Garza",
+    "en": "San Nicolas de los Garza",
+    "slug": "san-nicolas-de-los-garza-mx19046"
+  },
+  "code": {
+    "id": "MX19046",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX19",
+    "level": 1,
+    "name": {
+      "local": "Nuevo León",
+      "en": "Nuevo Leon",
+      "slug": "nuevo-leon-mx19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX19",
+      "level": 1,
+      "name": {
+        "local": "Nuevo León",
+        "en": "Nuevo Leon",
+        "slug": "nuevo-leon-mx19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.736",
+    "lon": "-100.266"
+  },
+  "metadata": {},
+  "source": {}
+}

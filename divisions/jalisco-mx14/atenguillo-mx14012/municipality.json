@@ -1,0 +1,45 @@
+{
+  "id": "MX14012",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Atenguillo",
+    "en": "Atenguillo",
+    "slug": "atenguillo-mx14012"
+  },
+  "code": {
+    "id": "MX14012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.339",
+    "lon": "-104.53"
+  },
+  "metadata": {},
+  "source": {}
+}

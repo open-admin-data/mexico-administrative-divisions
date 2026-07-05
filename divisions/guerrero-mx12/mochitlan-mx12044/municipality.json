@@ -1,0 +1,45 @@
+{
+  "id": "MX12044",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mochitlán",
+    "en": "Mochitlan",
+    "slug": "mochitlan-mx12044"
+  },
+  "code": {
+    "id": "MX12044",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX12",
+    "level": 1,
+    "name": {
+      "local": "Guerrero",
+      "en": "Guerrero",
+      "slug": "guerrero-mx12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX12",
+      "level": 1,
+      "name": {
+        "local": "Guerrero",
+        "en": "Guerrero",
+        "slug": "guerrero-mx12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.343",
+    "lon": "-99.39"
+  },
+  "metadata": {},
+  "source": {}
+}

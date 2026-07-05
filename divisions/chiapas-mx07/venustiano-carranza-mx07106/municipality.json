@@ -1,0 +1,45 @@
+{
+  "id": "MX07106",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Venustiano Carranza",
+    "en": "Venustiano Carranza",
+    "slug": "venustiano-carranza-mx07106"
+  },
+  "code": {
+    "id": "MX07106",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX07",
+    "level": 1,
+    "name": {
+      "local": "Chiapas",
+      "en": "Chiapas",
+      "slug": "chiapas-mx07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX07",
+      "level": 1,
+      "name": {
+        "local": "Chiapas",
+        "en": "Chiapas",
+        "slug": "chiapas-mx07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.309",
+    "lon": "-92.638"
+  },
+  "metadata": {},
+  "source": {}
+}

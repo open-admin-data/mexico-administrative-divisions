@@ -1,0 +1,45 @@
+{
+  "id": "MX10028",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Juan del Río",
+    "en": "San Juan del Rio",
+    "slug": "san-juan-del-rio-mx10028"
+  },
+  "code": {
+    "id": "MX10028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX10",
+    "level": 1,
+    "name": {
+      "local": "Durango",
+      "en": "Durango",
+      "slug": "durango-mx10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX10",
+      "level": 1,
+      "name": {
+        "local": "Durango",
+        "en": "Durango",
+        "slug": "durango-mx10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.795",
+    "lon": "-104.444"
+  },
+  "metadata": {},
+  "source": {}
+}

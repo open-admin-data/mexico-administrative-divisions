@@ -1,0 +1,45 @@
+{
+  "id": "MX14108",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tuxpan",
+    "en": "Tuxpan",
+    "slug": "tuxpan-mx14108"
+  },
+  "code": {
+    "id": "MX14108",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX14",
+    "level": 1,
+    "name": {
+      "local": "Jalisco",
+      "en": "Jalisco",
+      "slug": "jalisco-mx14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX14",
+      "level": 1,
+      "name": {
+        "local": "Jalisco",
+        "en": "Jalisco",
+        "slug": "jalisco-mx14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.437",
+    "lon": "-103.411"
+  },
+  "metadata": {},
+  "source": {}
+}

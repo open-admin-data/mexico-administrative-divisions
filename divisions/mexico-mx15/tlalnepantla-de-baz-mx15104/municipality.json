@@ -1,0 +1,45 @@
+{
+  "id": "MX15104",
+  "level": 2,
+  "level_name": {
+    "local": "Municipio",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tlalnepantla de Baz",
+    "en": "Tlalnepantla de Baz",
+    "slug": "tlalnepantla-de-baz-mx15104"
+  },
+  "code": {
+    "id": "MX15104",
+    "iso": null
+  },
+  "parent": {
+    "id": "MX15",
+    "level": 1,
+    "name": {
+      "local": "México",
+      "en": "Mexico",
+      "slug": "mexico-mx15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MX15",
+      "level": 1,
+      "name": {
+        "local": "México",
+        "en": "Mexico",
+        "slug": "mexico-mx15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.546",
+    "lon": "-99.19"
+  },
+  "metadata": {},
+  "source": {}
+}
