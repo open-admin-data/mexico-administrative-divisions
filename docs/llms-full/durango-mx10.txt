@@ -3,7 +3,7 @@
 > 39 municipalitys
 > Code: MX10
 > Coordinates: 24.594, -104.587
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

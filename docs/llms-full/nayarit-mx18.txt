@@ -3,7 +3,7 @@
 > 20 municipalitys
 > Code: MX18
 > Coordinates: 21.844, -104.828
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

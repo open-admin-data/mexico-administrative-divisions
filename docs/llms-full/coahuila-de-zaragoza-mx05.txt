@@ -3,7 +3,7 @@
 > 38 municipalitys
 > Code: MX05
 > Coordinates: 27.207, -102.31
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

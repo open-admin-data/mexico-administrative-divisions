@@ -3,7 +3,7 @@
 > 113 municipalitys
 > Code: MX16
 > Coordinates: 19.156, -101.668
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

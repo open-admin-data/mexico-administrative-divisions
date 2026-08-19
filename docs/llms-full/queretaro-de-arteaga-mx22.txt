@@ -3,7 +3,7 @@
 > 18 municipalitys
 > Code: MX22
 > Coordinates: 20.843, -100.002
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

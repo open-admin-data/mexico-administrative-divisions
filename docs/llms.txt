@@ -9,7 +9,7 @@
 - Total states: 32
 - Total municipalitys: 2,457
 - Coordinates: included (all levels)
-- Last updated: 2026-07-05
+- Last updated: 2026-08-19
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

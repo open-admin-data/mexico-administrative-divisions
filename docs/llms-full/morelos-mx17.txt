@@ -3,7 +3,7 @@
 > 33 municipalitys
 > Code: MX17
 > Coordinates: 18.732, -99.102
-> Last updated: 2026-07-05. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 
