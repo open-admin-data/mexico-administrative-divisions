@@ -3,7 +3,7 @@
 > 217 municipalitys
 > Code: MX21
 > Coordinates: 19.35, -97.42
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 

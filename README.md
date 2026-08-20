@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/mx](https://openadmindata.org/mx/) |
 | API | [openadmindata.org/api/mx](https://openadmindata.org/api/mx/) |
+| Flag | [PNG](https://onlygames.me/flags-png/mx/) · [SVG](https://onlygames.me/flags-svg/mx/) · [PDF](https://onlygames.me/flags-pdf/mx/) |
 | National Anthem | [🎵 Listen & Download Mexico National Anthem MP3](https://onlygames.me/national-anthems/mx/) |
 
 ## Browse by State
